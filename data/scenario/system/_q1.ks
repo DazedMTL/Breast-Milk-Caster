@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/hiro254-10.jpg"  ]
+[preload  storage="./data/bgimage/hiro254-0.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/hiro258-5.png"  ]
+[preload  storage="./data/bgimage/hiro254-3.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/hiro258-1.png"  ]
+[preload  storage="./data/bgimage/hiro254-6.jpg"  ]
+[preload  storage="./data/bgimage/hiro101-6.jpg"  ]
+[return]
