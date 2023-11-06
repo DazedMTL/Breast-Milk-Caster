@@ -1,9 +1,10 @@
 [_tb_system_call storage=system/_scene3.ks]
 
 [tb_start_text mode=1 ]
-#亜紀子
-「あ、そう言えば明日香がニュースを読んでる時間ね」[p]
-「明日香といえば、さっきなんか様子がおかしかったけど大丈夫かしら？」[p]
+#Akiko
+Oh, speaking of which, Asuka is reading the news now.[p][cm]
+As for Asuka, she seemed a little strange earlier.[p][cm]
+I wonder if she's okay?[p][cm]
 #
 [_tb_end_text]
 
@@ -14,21 +15,22 @@
 [bg  time="1000"  method="crossfade"  storage="hiro254-2.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#明日香
-「―――パンダのヒンヒンが無事双子の赤ちゃんを出産しました」[p]
-「アクションワールドでパンダの赤ちゃんが誕生するのは２０１８年以来で１５匹目となります」[p]
-「赤ちゃんの性別はまだわかっていません」[p]
-「同園の若山園長は「無事出産が終ってほっとしています。成長を温かく見守って欲しいです」と語っています」[p]
-「無事に成長して公開されるのが楽しみですね。続いては株価です―――」[p]
+#Asuka
+―――The panda's Hin-Hin safely gave birth to twin babies.[p][cm]
+In Action World, the birth of a panda baby is the 15th since 2018.[p][cm]
+The gender of the baby is still unknown.[p][cm]
+The director of the same park is relieved that the birth went well.[p][cm]
+They are asking for warm support in watching over the baby's growth.[p][cm]
+It's exciting to see them grow up safely and be released.[p][cm]
+Next up is the stock price...[p][cm]
 
 [_tb_end_text]
 
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-5.png"  width="755"  height="1812"  left="633"  top="185"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こ、これは・・・！？」[p]
-「明日香・・・なんて服装で・・・」[p]
-（下着が見えてる・・・しかもノーブラ・・・？）[p]
+#Akiko
+Th-This is...!? Asuka... what kind of outfit is this...?[p][cm]
+(I can see her underwear... and she's not wearing a bra...?)[p][cm]
 
 
 [_tb_end_text]
@@ -40,33 +42,33 @@
 [chara_mod  name="美里"  time="100"  cross="false"  storage="chara/1/hiro253-2.png"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「局長！あれは一体どういうことですか！？」[p]
-#局長
-「な、なんだ、どうかしたのかね？」[p]
-#亜紀子
-「あの明日香の服装です！なんで明日香があんな格好をさせられてるんですか！？」[p]
-#局長
-「ああ・・・あれのことかね」[p]
-「いや、私も知らんよ。さっき観るまで知らなかったんだから」[p]
-#亜紀子
-「局長が強要したんじゃ・・・」[p]
-#局長
-「ち、違う！私はなにもしとらんよ！」[p]
-「いや、確かに日頃から短いスカートを穿くように勧めてはいたが、あそこまでしろとは言っていない」[p]
-「そもそも君らは私が言っても全然聞かなかったじゃないか」[p]
-#亜紀子
-「・・・・・・」[p]
-（それもそうよね・・・）[p]
-（明日香が局長に言われたくらいであんな格好をするはずがないし）[p]
-（まして自分から進んであんな服を着るなんてありえないわ）[p]
-（じゃあ何故・・・？）[p]
-#局長
-「まぁいいじゃないか。多少やりすぎの感はあるが、他局だってあれに近いことはやってるわけだし」[p]
-「彼女もようやくやる気を見せたということだろう。君も見習ったらどうかね」[p]
-「すでにSNSでは反響が出ているようだぞ。これは数字が期待できそうだ・・・」[p]
-#亜紀子
-「・・・」[p]
+#Akiko
+Director! What on earth is going on there!?[p][cm]
+#Director
+W-What's wrong? Is something the matter?[p][cm]
+#Akiko
+That outfit of Asuka's! Why is Asuka being made to wear such clothes!?[p][cm]
+#Director
+Ah... Are you talking about that?[p][cm]
+No, I don't know either. I didn't know until I saw it earlier.[p][cm]
+#Akiko
+Did the bureau chief force her to wear it...?[p][cm]
+#Director
+N-No! I didn't do anything! No, I did suggest that she wear shorter skirts, but[r]I never told her to go that far.[p][cm]
+In the first place, you guys never listened to me even when I said something,[r]did you?[p][cm]
+#Akiko
+・・・・・・ (That's true, isn't it...)[p][cm]
+(There's no way Asuka would dress like that just because the bureau chief told[r]her to)[p][cm]
+(Besides, there's no way she would willingly wear such clothes)[p][cm]
+(Then why...?)[p][cm]
+#Director
+Well, it's not that bad. It may be a bit excessive, but other stations are doing[r]something similar.[p][cm]
+It seems she's finally showing some motivation.[p][cm]
+Why don't you learn from her as well?[p][cm]
+It seems there's already a buzz on social media.[p][cm]
+This could lead to promising numbers...[p][cm]
+#Akiko
+・・・[p][cm]
 
 
 
@@ -78,10 +80,9 @@
 [bg  time="1000"  method="crossfade"  storage="hiro254-2.jpg"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#明日香
-「この週末は旅行日和となりそうですが昼夜の寒暖の差が大きくなりそうですので服装にはお気をつけください」[p]
-「以上ニュースをお伝えしました」[p]
-・・・・・・[p]
+#Asuka
+It looks like this weekend will be perfect for a trip, but please be careful[r]with your clothing as there will be a large temperature difference between day[r]and night.[p][cm]
+That's all for the news. ・・・・・・[p][cm]
 
 [_tb_end_text]
 
@@ -93,26 +94,26 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [chara_show  name="明日香"  time="1000"  wait="true"  left="572"  top="66"  width="387"  height="928"  reflect="false"  storage="chara/2/hiro257-2.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「明日香！」[p]
-#明日香
-「あ・・・先輩・・・！」[p]
-#亜紀子
-「明日香、どうしたのその格好？」[p]
-#明日香
-「これは・・・その・・・」[p]
-#亜紀子
-「誰かに圧力をかけられたの？そうなんでしょ？」[p]
-#明日香
-「そ、それは・・・」[p]
-#亜紀子
-「局長？それとももっと上の誰かに何か言われたの？」[p]
-#明日香
-「・・・・・・」[p]
-#亜紀子
-「ねえ、私に話して。力になるから」[p]
-#勝野
-「明日香は自分の意思でその服を着てきたんだよ」[p]
+#Akiko
+Asuka![p][cm]
+#Asuka
+Ah... Senpai...![p][cm]
+#Akiko
+Asuka, what's with that outfit?[p][cm]
+#Asuka
+This is... well...[p][cm]
+#Akiko
+Did someone pressure you? Is that what happened?[p][cm]
+#Asuka
+W-Well...[p][cm]
+#Akiko
+Chief? Or did someone higher up say something to you?[p][cm]
+#Asuka
+・・・・・・[p][cm]
+#Akiko
+Hey, talk to me. I'll support you.[p][cm]
+#Katsuno
+Asuka chose to wear that outfit on her own.[p][cm]
 
 
 
@@ -123,42 +124,44 @@
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-1.png"  width="412"  height="988"  left="855"  top="19"  reflect="false"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「勝野・・・！？」[p]
-#勝野
-「仲が良いからって考え方も同じとは限らないんだよ」[p]
-「売れるにはこういうことも必要だって、気づいて一念発起したのさ。なぁ明日香？」[p]
-#明日香
-「は、はい・・・そうなんです。こういう衣装も・・・有りかなって・・・」[p]
-#亜紀子
-「・・・！？」[p]
-「で、でもあなたは・・・！」[p]
-#勝野
-「おいおい、自分の考えを押し付けるのはよくないぜ。誰もがお前みたいな女闘士じゃないんだ」[p]
-「自分が硬派気取るのは勝手にすればいいが、明日香を巻き込むのはやめてやれよ」[p]
-#亜紀子
-「く・・・！」[p]
-「明日香、そうなの？あなたが自分の意思で・・・？」[p]
-#明日香
-「・・・はい」[p]
-#亜紀子
-「・・・！」[p]
-#勝野
-「ほらな。それじゃこれから打ち合わせがあるから明日香はもらっていくぜ」[p]
-#亜紀子
-「打ち合わせ・・・？なんの打ち合わせよ？」[p]
-#明日香
-「俺の番組に決まってるだろ。週間ピンクSHOWのお色気天気予報のコーナーに明日香が出ることが決まったんだ」[p]
-#亜紀子
-「お、お色気天気予報！？」[p]
-「それってセクシー女優とかがいやらしい格好で天気キャスターをするやつじゃ・・・」[p]
-「明日香、あなた・・・」[p]
-#明日香
-「・・・・・・」[p]
-#勝野
-「そういうことなんで、じゃあな千山。行くぞ明日香」[p]
-#亜紀子
-「ちょ、ちょっと・・・！」[p]
+#Akiko
+Katsuno...!?[p][cm]
+#Katsuno
+Just because you're close doesn't mean you have the same way of thinking.[p][cm]
+To become popular, you need to do things like this.[p][cm]
+Did you realize that and make up your mind, Asuka?[p][cm]
+#Asuka
+Y-Yes... That's right. I was thinking if this kind of outfit...[p][cm]
+would be acceptable...[p][cm]
+#Akiko
+...!? B-But you...![p][cm]
+#Katsuno
+Hey hey, it's not good to impose your own thoughts on others.[p][cm]
+Not everyone is a female warrior like you.[p][cm]
+It's fine if you want to act tough, but don't drag Asuka into it.[p][cm]
+#Akiko
+Ugh...! Asuka, is that true? Did you do it of your own accord...?[p][cm]
+#Asuka
+... Yes.[p][cm]
+#Akiko
+...![p][cm]
+#Katsuno
+See? Well then, we have a meeting from now on, so Asuka, you can take this.[p][cm]
+#Akiko
+Meeting...? What kind of meeting is it?[p][cm]
+#Asuka
+It's obvious that it's my show.[p][cm]
+Asuka has been chosen to appear on the sexy weather forecast segment of the[r]Weekly Pink Show.[p][cm]
+#Akiko
+S-Sexy weather forecast!? That's the one where sexy actresses dress[r]provocatively and do the weather forecast, right...?[p][cm]
+Asuka, you...[p][cm]
+#Asuka
+・・・・・・[p][cm]
+#Katsuno
+That's how it is, then see you later, Chiyama.[p][cm]
+Let's go, Asuka.[p][cm]
+#Akiko
+W-Wait a minute...![p][cm]
 
 
 
@@ -168,9 +171,8 @@
 [chara_hide  name="勝野"  time="600"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="明日香"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（明日香・・・）[p]
-（一体どうして・・・？）[p]
+#Akiko
+(Asuka...) (Why on earth...?)[p][cm]
 #
 [_tb_end_text]
 
@@ -180,23 +182,23 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
 #
-亜紀子と明日香にはある共通点があった[p]
-それは二人とも女としての初体験をレイプによって奪われているということだ[p]
-明日香の相手は学生時代の担任教師だった[p]
-明日香の初めてを無残に奪ったその中年教師は、その後も卒業まで明日香を犯し続けた[p]
-亜紀子も詳しくは聞いていないが、逆らえない明日香を毎日のように変態的なプレイで嬲り尽くしたらしい[p]
-そのころの悪夢に今でも悩まされていると言っていた[p]
-明日香はそのトラウマで男嫌いになり、いまだに男と付き合ったことがない[p]
-明日香がその話をしてくれた後、亜紀子も自分の過去を打ち明けた[p]
-あれ以来、亜紀子と明日香の間には確かな友情が生まれた。少なくとも亜紀子はそう感じていた[p]
-#亜紀子
-（その明日香が・・・やっぱりおかしいわ。絶対におかしい）[p]
-（あんなに嫌がってた勝野との仕事を急に引き受けるなんて変だし）[p]
-（・・・・・・）[p]
-（・・・もしかして勝野が明日香になにかしたんじゃ・・・？）[p]
-（・・・ちょっと調べてみる必要があるわね）[p]
+Akiko and Asuka had something in common.[p][cm]
+It means that both of them had their first sexual experience taken away by rape.[p][cm]
+Asuka's partner was her former homeroom teacher from her school days.[p][cm]
+The middle-aged teacher who brutally took away Asuka's first time continued to[r]violate her until graduation.[p][cm]
+Akiko doesn't know the details, but it seems that Asuka was relentlessly[r]tormented with perverted play every day, unable to resist.[p][cm]
+She said that she is still haunted by the nightmares from that time.[p][cm]
+Asuka became afraid of men because of that trauma and still hasn't been in a[r]relationship with a man.[p][cm]
+After Asuka shared her story, Akiko also opened up about her own past.[p][cm]
+Since then, a strong friendship has developed between Akiko and Asuka.[p][cm]
+At least, that's how Akiko felt.[p][cm]
+#Akiko
+(Asuka... something is definitely off.[p][cm]
+Definitely off.) (It's strange for her to suddenly take on a job with Katsuno,[r]whom she disliked so much.)[p][cm]
+(......) (Could it be that Katsuno did something to Asuka...?)[p][cm]
+(... I think I need to investigate a little.)[p][cm]
 #
-・・・・・・[p]
+・・・・・・[p][cm]
 
 
 

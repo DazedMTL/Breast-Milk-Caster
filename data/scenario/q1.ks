@@ -9,41 +9,40 @@
 [tb_eval  exp="f.qp=0"  name="qp"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
 [tb_eval  exp="f.qpt=0"  name="qpt"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こんばんは、ニュースプライムＺ。アナウンサーの千山亜紀子です」[p]
-（さぁ、気を取り直してしっかりニュースを読みましょう）[p]
-「最初のニュースです。今日午後千葉県の―――」[p]
-（あれ、これなんて読むんだったかしら・・・？）[p]
+#Akiko
+Good evening, News Prime Z. I'm the announcer, Chiyama Akiko.[p][cm]
+(Now, let's refocus and read the news properly)[p][cm]
+This is the first news. This afternoon in Chiba Prefecture-- (Hmm, what was I[r]supposed to read again...?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  text="匝瑳市（こうさし）"  x="499"  y="301"  width=""  height=""  _clickable_img=""  target="*a0101a"  ]
-[glink  color="black"  storage="q1.ks"  size="20"  text="匝瑳市（あそうし）"  x="497"  y="368"  width=""  height=""  _clickable_img=""  target="*a0101b"  ]
-[glink  color="black"  storage="q1.ks"  size="20"  text="匝瑳市（そうさし）"  x="499"  y="438"  width=""  height=""  _clickable_img=""  target="*a0101c"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Kohsa City"  x="499"  y="301"  width=""  height=""  _clickable_img=""  target="*a0101a"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Asoushi City"  x="497"  y="368"  width=""  height=""  _clickable_img=""  target="*a0101b"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Sosa City"  x="499"  y="438"  width=""  height=""  _clickable_img=""  target="*a0101c"  ]
 [s  ]
 *a0101a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「千葉県こうさ市で・・・」[p]
-（なんか違う気がするわ）[p]
+#Akiko
+In Kousa City, Chiba Prefecture...[p][cm]
+(Something feels off.)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0102"  ]
 *a0101b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「千葉県あそう市で・・・」[p]
-（そうだったかしら・・・？）[p]
+#Akiko
+In Asou City, Chiba Prefecture...[p][cm]
+(I wonder if that's right...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0102"  ]
 *a0101c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「千葉県そうさ市で・・・」[p]
-（うん、これが正解ね）[p]
+#Akiko
+In Sosa City, Chiba Prefecture...[p][cm]
+(Yes, this is the correct answer.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -51,60 +50,58 @@
 *q0102
 
 [tb_start_text mode=1 ]
-#亜紀子
-「住宅街でペットの・・・」[p]
-（これなんて読むんだっけ・・・？）[p]
+#Akiko
+In the residential area, there was a pet...[p][cm]
+(What was I supposed to read again...?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  text="鬼天竺鼠（ビーバー）"  x="499"  y="279"  width=""  height=""  _clickable_img=""  target="*a0102a"  ]
-[glink  color="black"  storage="q1.ks"  size="20"  text="鬼天竺鼠（ビントロング）"  x="484"  y="361"  width=""  height=""  _clickable_img=""  target="*a0102b"  ]
-[glink  color="black"  storage="q1.ks"  size="20"  text="鬼天竺鼠（カピバラ）"  x="502"  y="446"  width=""  height=""  _clickable_img=""  target="*a0102c"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Oni Tenjikunezumi (Beaver)"  x="499"  y="279"  width=""  height=""  _clickable_img=""  target="*a0102a"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Oni Tenjikunezumi (Bintorong)"  x="484"  y="361"  width=""  height=""  _clickable_img=""  target="*a0102b"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Capybara"  x="502"  y="446"  width=""  height=""  _clickable_img=""  target="*a0102c"  ]
 [s  ]
 *a0102a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「ペットのビーバーが逃げ出し・・・」[p]
-（そうだったっけ・・・？）[p]
+#Akiko
+The pet beaver escaped... (Did I remember correctly...?)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0103"  ]
 *a0102b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「ペットのビントロングが逃げ出し・・・」[p]
-（なんか違う・・・ような）[p]
+#Akiko
+The pet beaver, Bintorong, ran away...[p][cm]
+(Something feels off... I wonder...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0103"  ]
 *a0102c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「ペットのカピバラが・・・」[p]
-（そうそう、カピバラよ）[p]
+#Akiko
+The pet capybara... (Oh, right, the capybara.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 *q0103
 
 [tb_start_text mode=1 ]
-#亜紀子
-「・・・捜索に当たっていましたが、１５時ごろに近くの河川の・・・」[p]
-（えーっと、なんて読むんだったかしら・・・？）[p]
+#Akiko
+... We were searching, but around 3 p.[p][cm]
+m. , near the nearby river... (Hmm, what was I supposed to read...?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  text="粗朶（そだ）"  x="522"  y="281"  width=""  height=""  _clickable_img=""  target="*a0103a"  ]
-[glink  color="black"  storage="q1.ks"  size="20"  text="粗朶（そのう）"  x="516"  y="361"  width=""  height=""  _clickable_img=""  target="*a0103b"  ]
-[glink  color="black"  storage="q1.ks"  size="20"  text="粗朶（そじ）"  x="523"  y="441"  width=""  height=""  _clickable_img=""  target="*a0103c"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Roughly"  x="522"  y="281"  width=""  height=""  _clickable_img=""  target="*a0103a"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Roughly"  x="516"  y="361"  width=""  height=""  _clickable_img=""  target="*a0103b"  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Roughly"  x="523"  y="441"  width=""  height=""  _clickable_img=""  target="*a0103c"  ]
 [s  ]
 *a0103a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「そだの上で寝ているところを発見し・・・」[p]
-（そだだ。そーだそーだ）[p]
+#Akiko
+I found it sleeping on the grass...[p][cm]
+(That's right. That's right.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -112,38 +109,38 @@
 *a0103b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「そのうの上で眠っているところを発見し・・・」[p]
-（そうだったかしら？）[p]
+#Akiko
+I found it sleeping on the grass...[p][cm]
+(I wonder if that's right?)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0104"  ]
 *a0103c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「そじの上で眠っているところを発見し・・・」[p]
-（違ったような・・・）[p]
+#Akiko
+I found it sleeping on the grass...[p][cm]
+(Something feels different...)[p][cm]
 [_tb_end_text]
 
 *q0104
 
 [tb_start_text mode=1 ]
-#亜紀子
-「続いてのニュースです。岐阜県の・・・」[p]
-（えーっと、これは確か・・・）[p]
+#Akiko
+And now for the next news. In Gifu Prefecture...[p][cm]
+(Um, let me see... this is definitely...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0104a"  text="各務原市（かかみがはらし）"  x="450"  y="263"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0104b"  text="各務原市（かがみはらし）"  x="454"  y="343"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0104c"  text="各務原市（かがみのはらし）"  x="445"  y="430"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0104a"  text="Kakamigahara City"  x="450"  y="263"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0104b"  text="Kagamihara City"  x="454"  y="343"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0104c"  text="Kagamihara City"  x="445"  y="430"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0104a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「岐阜県のかかみがはらしで・・・」[p]
-（うん、合ってるはずよ）[p]
+#Akiko
+In Kagamigahara City, Gifu Prefecture...[p][cm]
+(Hmm, it should be correct.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -151,47 +148,47 @@
 *a0104b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「岐阜県のかがみはらしで・・・」[p]
-（うーん・・・間違えたかも）[p]
+#Akiko
+In Kagamihara City, Gifu Prefecture...[p][cm]
+(Hmm... I might have made a mistake)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0105"  ]
 *a0104c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「岐阜県のかがみのはらしで・・・」[p]
-（あれ？なんか違う？）[p]
+#Akiko
+In Kagaminohara City, Gifu Prefecture...[p][cm]
+(Huh? Something feels off?)[p][cm]
 [_tb_end_text]
 
 *q0105
 
 [tb_start_text mode=1 ]
-#亜紀子
-「今回の選挙は市政の行く末の・・・」[p]
-（これの読み方は・・・）[p]
+#Akiko
+This election will determine the future of our city's governance...[p][cm]
+(How do you pronounce this...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0105a"  text="分水嶺（ふんすいりょう）"  x="476"  y="361"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0105b"  text="分水嶺（ぶんすいれい）"  x="476"  y="278"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  text="分水嶺（わきみどころ）"  target="*a0105c"  x="479"  y="446"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0105a"  text="Watershed"  x="476"  y="361"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0105b"  text="Divide (bunsuirei)"  x="476"  y="278"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  text="Divide (wakimidokoro)"  target="*a0105c"  x="479"  y="446"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0105a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「市政の行く末のふんすいりょうになると見られており・・・」[p]
-（間違えちゃったかも・・・）[p]
+#Akiko
+It is expected to have a significant impact on the future of our city's[r]governance...[p][cm]
+(I might have made a mistake...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0106"  ]
 *a0105b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「市政の行く末のぶんすいれいになると見られており・・・」[p]
-（そう、ぶんすいれい。分かれ目ってことね）[p]
+#Akiko
+It is expected to have a significant impact on the future of our city's[r]governance...[p][cm]
+(Yes, it's a watershed. It means a turning point.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -199,107 +196,108 @@
 *a0105c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「市政の行く末のわきみどころになると観られており・・・」[p]
-（しまった！違うわこれは）[p]
+#Akiko
+It is anticipated to become a focal point in determining the future of our[r]city's governance...[p][cm]
+(Oh no! This is wrong.)[p][cm]
 [_tb_end_text]
 
 *q0106
 
 [tb_start_text mode=1 ]
-#亜紀子
-「それだけに今回の選挙は与党にとっても・・・」[p]
-（えーっと、これはたしか・・・）[p]
+#Akiko
+For that reason, this election is also important for the ruling party...[p][cm]
+(Um, if I remember correctly...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0106a"  text="鼎（つつみ）の軽重を問う"  x="475"  y="313"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0106b"  text="鼎（あかね）の軽重を問う"  x="473"  y="389"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0106c"  text="鼎（かなえ）の軽重を問う"  x="477"  y="466"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0106a"  text="Ask about the importance of the tripod"  x="475"  y="313"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0106b"  text="Asking about the importance of the decision"  x="473"  y="389"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0106c"  text="Ask about the importance of the cauldron (Kanae)"  x="477"  y="466"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0106a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「与党にとってもつつみの軽重を問うことになります」[p]
-（そんなの聞いたこと無いわ・・・）[p]
+#Akiko
+This will also determine the weight of responsibility for the ruling party.[p][cm]
+(I've never heard of such a thing...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0107"  ]
 *a0106b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「与党にとってもあかねの軽重を問うことになります」[p]
-（あれ・・・？なんか違和感が・・・）[p]
+#Akiko
+This will also determine the importance for the ruling party.[p][cm]
+(Huh...? Something feels off...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0107"  ]
 *a0106c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「与党にとってもかなえの軽重を問うことになります」[p]
-（そうそう、「かなえ」ね）[p]
+#Akiko
+This will also determine the significance for the ruling party.[p][cm]
+(Oh, that's right, Kanane)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 *q0107
 
 [tb_start_text mode=1 ]
-#亜紀子
-「続いてのニュースです。大分県の・・・」[p]
-（今日は難読地名が多いわね。これはたしか・・・）[p]
+#Akiko
+And now for the next news. In Oita Prefecture...[p][cm]
+(There are many difficult-to-read place names today.[p][cm]
+This is... if I remember correctly...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0107a"  text="国東市（こうとうし）"  x="511"  y="299"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0107b"  text="国東市（あがたし）"  x="511"  y="377"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0107c"  text="国東市（くにさきし）"  x="510"  y="454"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0107a"  text="Koutou City"  x="511"  y="299"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0107b"  text="Agatashi City"  x="511"  y="377"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0107c"  text="Kunisaki City (Kunisaki-shi)"  x="510"  y="454"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0107a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「大分県こうとうしの・・・」[p]
-（これは違ったわね・・・）[p]
+#Akiko
+In Koto City, Oita Prefecture...[p][cm]
+(This is different...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0108"  ]
 *a0107b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「大分県あがたしの・・・」[p]
-（こんな読み方じゃなかったような・・・）[p]
+#Akiko
+In Agata City, Oita Prefecture...[p][cm]
+(I don't remember it being pronounced like this...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0108"  ]
 *a0107c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「大分県くにさきしの・・・」[p]
-（そうそう、国東半島の「くにさき」ね）[p]
+#Akiko
+In Kunisaki City, Oita Prefecture...[p][cm]
+(Oh, that's right, Kunisaki Peninsula's Kunisaki City)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 *q0108
 
 [tb_start_text mode=1 ]
-#亜紀子
-「公園で市民の目を楽しませているのは満開の・・・」[p]
-（えーっと知ってるんだけど・・・）[p]
+#Akiko
+The fully bloomed... in the park is delighting the eyes of the citizens.[p][cm]
+(Um, I know this...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0108a"  text="木瓜（ぼけ）"  x="520"  y="296"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0108b"  text="木瓜（くちなし）"  x="515"  y="370"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0108c"  text="木瓜（あけび）"  x="515"  y="448"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0108a"  text="???"  x="520"  y="296"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0108b"  text="Persimmon"  x="515"  y="370"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0108c"  text="Persimmon (Akebi)"  x="515"  y="448"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0108a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「ぼけの花です・・・」[p]
-（たしかそうだったはず）[p]
+#Akiko
+It's the forget-me-not flower...[p][cm]
+(I'm pretty sure that's how it was)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -307,47 +305,44 @@
 *a0108b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「くちなしの花です・・・」[p]
-（くちなしはこんな漢字じゃないような・・・）[p]
+#Akiko
+It's the gardenia flower... (The kanji for gardenia doesn't seem to be like[r]this...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0109"  ]
 *a0108c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「あけびの花です・・・」[p]
-（うーん、自信が無いわ・・・）[p]
+#Akiko
+It's the azalea flower... (Hmm, I'm not confident...)[p][cm]
 [_tb_end_text]
 
 *q0109
 
 [tb_start_text mode=1 ]
-#亜紀子
-「公園の管理者は地面に・・・」[p]
-（これは・・・うーん）[p]
+#Akiko
+The park's caretaker is on the ground...[p][cm]
+(This is... um)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0109a"  text="毛氈（ござ）"  x="529"  y="287"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0109b"  text="毛氈（もうせん）"  x="517"  y="373"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0109c"  text="毛氈（むしろ）"  x="527"  y="458"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0109a"  text="Rug"  x="529"  y="287"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0109b"  text="Carpet"  x="517"  y="373"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0109c"  text="Rug"  x="527"  y="458"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0109a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「地面にござを敷いて・・・」[p]
-（ござだったっけ・・・？）[p]
+#Akiko
+Laying a mat on the ground... (Was it goza...?)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0110"  ]
 *a0109b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「地面にもうせんを敷いて・・・」[p]
-（「もうせん」が正解ね）[p]
+#Akiko
+Laying a futon on the ground...[p][cm]
+(So the previous line was correct)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -355,47 +350,48 @@
 *a0109c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「地面にむしろを敷いて・・・」[p]
-（違うような気がするわ・・・）[p]
+#Akiko
+Laying a tatami mat on the ground...[p][cm]
+(It feels different...)[p][cm]
 [_tb_end_text]
 
 *q0110
 
 [tb_start_text mode=1 ]
-#亜紀子
-「しかし雨天が続いていることもあり、人出は・・・」[p]
-（なんでフリガナを打ってくれないのかしら・・・！えーっとこれは・・・）[p]
+#Akiko
+However, due to the continuous rainy weather, there aren't many people...[p][cm]
+(I wonder why they didn't provide furigana...![p][cm]
+Um, let's see, this is...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0110a"  text="疎ら（もっぱら）"  x="509"  y="298"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0110b"  text="疎ら（うっすら）"  x="510"  y="384"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0110c"  text="疎ら（まばら）"  x="517"  y="473"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0110a"  text="Sparse (mainly)"  x="509"  y="298"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0110b"  text="Sparse (faintly)"  x="510"  y="384"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0110c"  text="Sparse"  x="517"  y="473"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0110a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「人出はもっぱらで・・・」[p]
-（これじゃ意味が合わないわ・・・）[p]
+#Akiko
+There aren't many people around...[p][cm]
+(This doesn't make sense...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q01end"  ]
 *a0110b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「人出はうっすらで・・・」[p]
-（変な日本語ね・・・）[p]
+#Akiko
+There are only a few people...[p][cm]
+(Strange Japanese...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q01end"  ]
 *a0110c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「人出はまばらで・・・」[p]
-（そうね。しっくりくるわ）[p]
+#Akiko
+The crowd is sparse... (Yes, that's right.[p][cm]
+It feels right.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -403,10 +399,9 @@
 
 [tb_eval  exp="f.qpt+=f.qp"  name="qpt"  cmd="+="  op="h"  val="qp"  val_2="undefined"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「以上ニュースをお伝えしました」[p]
-・・・・・・[p]
-・・・[p]
+#Akiko
+That's all for the news. ・・・・・・[p][cm]
+・・・[p][cm]
 
 [_tb_end_text]
 
@@ -416,10 +411,10 @@
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-2.png"  width="713"  height="1783"  left="58"  top="9"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（ふう・・・なんとか終ったけど・・・）[p]
-（今日はやたら難読漢字が多かったわね！）[p]
-（ミスは無かったかしら・・・？）[p]
+#Akiko
+(Phew... I managed to finish somehow...)[p][cm]
+(There were so many difficult kanji to read today!)[p][cm]
+(I wonder if there were any mistakes...?)[p][cm]
 [_tb_end_text]
 
 [playbgm  volume="50"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
@@ -428,41 +423,40 @@
 *q01bad
 
 [tb_start_text mode=1 ]
-#局長
-「千山くん！」[p]
+#Director
+Senyama-kun![p][cm]
 [_tb_end_text]
 
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-1.png"  width="697"  height="1673"  left="593"  top="-92"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あ、局長・・・」[p]
-#局長
-「あ、局長、じゃない！なんだねさっきの収録は！」[p]
-「漢字の読み間違いがあったじゃないか！」[p]
-#亜紀子
-「えっ・・・？」[p]
-#局長
-「視聴者から指摘の電話やメールが来ていたぞ！」[p]
-「ちゃんとニュースを読むことも出来んのかね君は！」[p]
-#亜紀子
-「す、すいません・・・」[p]
-#局長
-「まったく・・・理想を語る前に実力をつけたまえ！」[p]
-「分岐には影響しないとはいえたるんどるぞ！もっと勉強しろ！」[p]
+#Akiko
+Oh, Director...[p][cm]
+#Director
+There was a mistake in reading the kanji, wasn't there![p][cm]
+#Akiko
+Huh...?[p][cm]
+#Director
+We've been receiving calls and emails from viewers pointing out mistakes![p][cm]
+Can't you even read the news properly, huh?[p][cm]
+#Akiko
+I-I'm sorry...[p][cm]
+#Director
+Geez... Before talking about ideals, improve your skills![p][cm]
+Even though it won't affect the branching, it's still important![p][cm]
+Study more![p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="局長"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（はぁ・・・大目玉を食らってしまったわ）[p]
-（わたしが間違えたんだから仕方ないけど・・・ちょっと言いすぎじゃない？）[p]
-（愛人の誘いをはねつけたもんだから、ここぞとばかりに恨みを晴らしてきたんだわ）[p]
-（分岐にはえいきょうしないようだから良かったけど・・・）[p]
-（・・・・・・分岐？）[p]
-（まぁいいわ、とにかく疲れたから戻りましょう）[p]
-・・・・・・[p]
-・・・[p]
+#Akiko
+(Sigh... I got a big scolding...)[p][cm]
+(It's my fault for making a mistake, but...[p][cm]
+isn't that a bit too harsh?) (Because I rejected the advances of my lover, they[r]took this opportunity to seek revenge.)[p][cm]
+(Thank goodness it won't affect the branching, but...)[p][cm]
+(.... Branching?) (Well, whatever.[p][cm]
+Let's just go back since I'm tired.)[p][cm]
+・・・・・・ ・・・[p][cm]
 #
 [_tb_end_text]
 
@@ -471,27 +465,25 @@
 
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-2.png"  width="559"  height="1342"  left="699"  top="-30"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#谷田
-「千山さん、おつかれさまです！」[p]
-#亜紀子
-「おつかれさま、谷田君」[p]
-#谷田
-「今日も完璧でした！難しい漢字も一つも間違えないなんて、さすがです千山さん！」[p]
-#亜紀子
-「ありがとう、ウフフッ」[p]
-（どうやら一問も間違えなかったみたいね）[p]
-#谷田
-「ちなみにこの結果は分岐には特に関係ないらしいです。それじゃおつかれさまでした！」[p]
+#Tanida
+Good work, Senzan![p][cm]
+#Akiko
+Good work, Tanida-kun.[p][cm]
+#Tanida
+You were perfect today too! Not making a single mistake even with difficult[r]kanji, as expected of you, Senzan-san![p][cm]
+#Akiko
+Thank you, hehe. (It seems like you didn't make a single mistake, huh?)[p][cm]
+#Tanida
+By the way, it seems like this result doesn't have any particular effect on the[r]branching.[p][cm]
+Well then, good work![p][cm]
 [_tb_end_text]
 
 [chara_hide  name="谷田"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（特に分岐には影響しないのね）[p]
-（・・・分岐ってなに？）[p]
-（・・・とにかく無事に終ってよかったわ）[p]
-・・・・・・[p]
-・・・[p]
+#Akiko
+(It seems like it doesn't have any particular effect on the branching, huh?)[p][cm]
+(What is a branching?) (Thank goodness it ended without any issues.)[p][cm]
+・・・・・・ ・・・[p][cm]
 #
 [_tb_end_text]
 
@@ -500,41 +492,41 @@
 
 [chara_show  name="明日香"  time="1000"  wait="true"  storage="chara/2/hiro257-1.png"  width="743"  height="1784"  left="571"  top="-9"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#明日香
-「先輩・・・」[p]
-#亜紀子
-「あ、明日香。どうしたのそんな深刻な顔して？」[p]
-#明日香
-「すごく言い難いんですが・・・」[p]
-#亜紀子
-「え・・・なに？」[p]
-#明日香
-「・・・全問不正解です」[p]
+#Asuka
+Senpai...[p][cm]
+#Akiko
+Oh, Asuka. What's wrong? Why the serious expression?[p][cm]
+#Asuka
+It's really difficult to say, but...[p][cm]
+#Akiko
+Huh... What is it?[p][cm]
+#Asuka
+... I got all the questions wrong.[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-5.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「えっ・・・全問不正解・・・！？」[p]
-「う、うそでしょ・・・？」[p]
-#明日香
-「本当です」[p]
-「こんな先輩は見たくありませんでした・・・」[p]
-#亜紀子
-「そ、そんな・・・」[p]
-#明日香
-「・・・残念ながら先輩にはこの世から消えてもらいます」[p]
-「さようなら先輩・・・」[p]
-#亜紀子
-「そんな・・・ちょっと・・・待っ―――」[p]
+#Akiko
+Huh... All the questions were wrong...!?[p][cm]
+N-No way... right...?[p][cm]
+#Asuka
+It's true. I didn't want to see a senior like this...[p][cm]
+#Akiko
+S-Such...[p][cm]
+#Asuka
+... Unfortunately, I will make you disappear from this world, senpai.[p][cm]
+Goodbye, Senpai...[p][cm]
+#Akiko
+No way...[p][cm]
+Wait--[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#明日香
-「ゲームオーバーです。今度は間違わないでくださいね」[p]
+#Asuka
+It's game over. Please don't make any mistakes next time, okay?[p][cm]
 #
-G A M E   O V E R [p]
+G A M E   O V E R[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -551,69 +543,66 @@ G A M E   O V E R [p]
 [tb_eval  exp="f.qp=0"  name="qp"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="music13.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こんばんは、ニュースプライムＺ。アナウンサーの千山亜紀子です」[p]
+#Akiko
+Good evening, News Prime Z. I'm the announcer, Akiko Senzan.[p][cm]
 
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（さぁ、今日もしっかりニュースを読みましょう）[p]
-「最初のニュースです。今日午後兵庫県の―――」[p]
-（あれ、これなんて読むんだったかしら・・・？）[p]
+#Akiko
+(Now, let's read the news thoroughly today.)[p][cm]
+This is the first news. This afternoon in Hyogo Prefecture-- (Hmm, what was this[r]supposed to be read as...?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0201a"  text="宍粟市（あおうし）"  x="514"  y="332"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0201b"  text="宍粟市（あわし）"  x="518"  y="412"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0201c"  text="宍粟市（しそうし）"  x="516"  y="492"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0201a"  text="Shiso City (Aoshu)"  x="514"  y="332"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0201b"  text="Shiso City (Awaji)"  x="518"  y="412"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0201c"  text="Shiso City (Shisoushi)"  x="516"  y="492"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0201a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「あおう市の市長である・・・」[p]
-（間違えた気がするわ・・・）[p]
+#Akiko
+The mayor of Aou City... (I feel like I made a mistake...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0202"  ]
 *a0201b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「あわ市の市長である・・・」[p]
-（兵庫にそんな市あったかしら・・・）[p]
+#Akiko
+The mayor of Aou City is... (I wonder if there really is such a city in[r]Hyogo...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0202"  ]
 *a0201c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「しそう市の市長である・・・」[p]
-（そうそう、これが正解ね）[p]
+#Akiko
+The mayor of Shisou City is...[p][cm]
+(Oh, that's right. This is the correct answer.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 *q0202
 
 [tb_start_text mode=1 ]
-#亜紀子
-「魚住市長は『これが新制度の・・・」[p]
-（なんて読むんだっけ・・・）[p]
+#Akiko
+Mayor Uozumi is the one who proposed this new system...[p][cm]
+(What was this supposed to be read as...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0202a"  text="嚆矢（こうし）"  x="535"  y="340"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0202b"  text="嚆矢（いっし）"  x="535"  y="420"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0202c"  text="嚆矢（はなや）"  x="532"  y="500"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0202a"  text="[N_1]"  x="535"  y="340"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0202b"  text="[N_1]"  x="535"  y="420"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0202c"  text="???"  x="532"  y="500"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0202a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「『これが新制度のこうしとなれば』と・・・」[p]
-（そう、こうしね。最初の矢ってことね）[p]
+#Akiko
+If this becomes the new system...[p][cm]
+(Yes, that's right. It means the first arrow.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -621,125 +610,125 @@ G A M E   O V E R [p]
 *a0202b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「『これが新制度のいっしとなれば』」と・・・」[p]
-（なんか違ったような・・・）[p]
+#Akiko
+If this becomes the new system...[p][cm]
+(Something feels off...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0203"  ]
 *a0202c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「『これが新制度のはなやとなれば』と・・・」[p]
-（ミスったわ・・・わたしのバカ！）[p]
+#Akiko
+If this becomes the new system...[p][cm]
+(I messed up... I'm such an idiot!)[p][cm]
 [_tb_end_text]
 
 *q0203
 
 [tb_start_text mode=1 ]
-#亜紀子
-「夫の隆文氏は『長年連れ添ってきた・・・」[p]
-（えーと・・・この漢字は・・・）[p]
+#Akiko
+My husband, Mr. Takafumi, has been with me for many years...[p][cm]
+(Um... what does this kanji mean...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0203a"  text="糟糠の妻（こぬかのつま）"  x="460"  y="336"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0203b"  text="糟糠の妻（はじかみのつま）"  x="446"  y="424"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0203c"  text="糟糠の妻（そうこうのつま）"  x="456"  y="510"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0203a"  text="The Wife of Kounka"  x="460"  y="336"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0203b"  text="The Wife of Kojiro"  x="446"  y="424"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0203c"  text="The Wife of Soko"  x="456"  y="510"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0203a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「長年連れ添ってきたこぬかの妻であり・・・」[p]
-（うーん・・・）[p]
+#Akiko
+I am the wife who has been with him for many years...[p][cm]
+(Hmm...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0204"  ]
 *a0203b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「長年連れ添ってきたはじかみの妻であり・・・」[p]
-（それは別の言葉じゃ・・・？）[p]
+#Akiko
+I am the wife who has been with him for many years...[p][cm]
+(Is that a different word...?)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0204"  ]
 *a0203c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「長年連れ添ってきたそうこうの妻であり・・・」[p]
-（そうだわ、一緒に苦労を重ねてきたって意味ね）[p]
+#Akiko
+I am the wife who has been with him for many years...[p][cm]
+(That's right, it means that we have gone through hardships together)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 *q0204
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鳥取県の・・・」[p]
-（えーっと、これは確か・・・）[p]
+#Akiko
+In Tottori Prefecture... (Um, let me see...[p][cm]
+I think this is...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0204a"  text="大山（おおやま）"  x="494"  y="339"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0204b"  text="大山（おおのやま）"  x="491"  y="424"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0204c"  text="大山（だいせん）"  x="496"  y="509"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0204a"  text="Oyama"  x="494"  y="339"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0204b"  text="Oonoyama"  x="491"  y="424"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0204c"  text="Daizen"  x="496"  y="509"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0204a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鳥取県のおおやまで・・・」[p]
-（これじゃないわね・・・）[p]
+#Akiko
+At Mount Ooya in Tottori Prefecture...[p][cm]
+(This isn't it...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0205"  ]
 *a0204b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鳥取県のおおのやまで・・・」[p]
-（それっぽくはあるけども・・・）[p]
+#Akiko
+To Mount Ooya in Tottori Prefecture...[p][cm]
+(It seems like it, but...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0205"  ]
 *a0204c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鳥取県のだいせんで・・・」[p]
-（そうそう、だいせんだわ。伯耆富士とも言うのよね）[p]
+#Akiko
+At the beach in Tottori Prefecture...[p][cm]
+Oh, that's right. It's called Hakuto Fuji as well.[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 *q0205
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鎌倉時代のものと見られる・・・」[p]
-（これは・・・知ってるはずなんだけど）[p]
+#Akiko
+It appears to be from the Kamakura period...[p][cm]
+(I should know this, but...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0205a"  text="払子（はっし）"  x="505"  y="355"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0205b"  text="払子（ほっす）"  x="505"  y="431"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0205c"  text="払子（ふっこ）"  x="504"  y="511"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0205a"  text="Hikari"  x="505"  y="355"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0205b"  text="Akiko (Hossu)"  x="505"  y="431"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0205c"  text="Akiko"  x="504"  y="511"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0205a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鎌倉時代のものと見られるはっしが見つかり・・・」[p]
-（間違えた・・・！）[p]
+#Akiko
+We found a pottery shard that appears to be from the Kamakura period...[p][cm]
+(I made a mistake...!)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0206"  ]
 *a0205b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鎌倉時代のものと見られるほっすが見つかり・・・」[p]
-（ほっす。仏教の法具ね）[p]
+#Akiko
+We found a pottery shard that appears to be from the Kamakura period...[p][cm]
+(Hey there. It's a Buddhist ritual tool, you know.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -747,38 +736,38 @@ G A M E   O V E R [p]
 *a0205c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鎌倉時代のものと見られるふっこが見つかり・・・」[p]
-（そんなの聞いたこと無いわ・・・）[p]
+#Akiko
+We found a Buddhist ritual tool that appears to be from the Kamakura period...[p][cm]
+(I've never heard of that before...)[p][cm]
 [_tb_end_text]
 
 *q0206
 
 [tb_start_text mode=1 ]
-#亜紀子
-「瀬戸住職は『当山・・・」[p]
-（なんて読むんだっけ？）[p]
+#Akiko
+The Seto priest said, Our temple...[p][cm]
+(What was it called again?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0206a"  text="開闢以来（かいべきいらい）"  x="473"  y="280"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0206b"  text="開闢以来（かいびゃくいらい）"  x="467"  y="379"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0206c"  text="開闢以来（かいだいいらい）"  x="475"  y="478"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0206a"  text="Since the beginning of time"  x="473"  y="280"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0206b"  text="Since the beginning of time"  x="467"  y="379"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0206c"  text="Since the beginning of time"  x="475"  y="478"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0206a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「当山かいべきいらいのことで・・・」[p]
-（かいべき・・・なにそれ）[p]
+#Akiko
+Regarding the matter of our temple...[p][cm]
+(What is that...? What is it?)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0207"  ]
 *a0206b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「当山かいびゃくいらいのことで・・・」[p]
-（そうそう、はじまってからずっとのことね）[p]
+#Akiko
+Regarding the matter of our temple...[p][cm]
+(Oh, right. It's been happening since the beginning.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -786,68 +775,67 @@ G A M E   O V E R [p]
 *a0206c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「当山かいだいいらいのことで・・・」[p]
-（違うわ違うわ・・・）[p]
+#Akiko
+Regarding the matter of our temple...[p][cm]
+(No, that's not it... )[p][cm]
 [_tb_end_text]
 
 *q0207
 
 [tb_start_text mode=1 ]
-#亜紀子
-「明日６日、岐阜県の・・・」[p]
-（これは読めるはず・・・）[p]
+#Akiko
+On the 6th of Asuka, in Gifu Prefecture...[p][cm]
+(I should be able to read this...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0207a"  text="郡上八幡市（こおりはちまんし）"  x="452"  y="289"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0207b"  text="郡上八幡市（かみやわたし）"  x="460"  y="382"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0207c"  text="郡上八幡市（ぐじょうはちまんし）"  x="443"  y="475"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0207a"  text="Kori Hachiman City"  x="452"  y="289"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0207b"  text="Kamitaya City"  x="460"  y="382"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0207c"  text="Gijo Hachiman City"  x="443"  y="475"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0207a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「岐阜県のこおりはちまんしで・・・」[p]
-（なんかちゃう気がするわー）[p]
+#Akiko
+The ice in Gifu Prefecture is 80,000 years old...[p][cm]
+(I feel like something's off...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0208"  ]
 *a0207b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「岐阜県のかみやわたしで・・・」[p]
-（これは違うような・・・）[p]
+#Akiko
+In Gifu Prefecture, at Kamiyawa...[p][cm]
+(This seems different...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0208"  ]
 *a0207c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「岐阜県の郡上八幡市で・・・」[p]
-（これね。城下町よ）[p]
+#Akiko
+In Gujo Hachiman City, Gifu Prefecture...[p][cm]
+(This is it. The castle town.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 *q0208
 
 [tb_start_text mode=1 ]
-#亜紀子
-「高さ６メートルの・・・」[p]
-（これは・・・前にも見たことがあるんだけど・・・）[p]
+#Akiko
+A height of 6 meters... (I've seen this before...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0208a"  text="山鉾（やまぼこ）"  x="499"  y="313"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0208b"  text="山鉾（だし）"  x="517"  y="400"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0208c"  text="山鉾（はるこま）"  x="501"  y="487"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0208a"  text="Yamaboko"  x="499"  y="313"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0208b"  text="Dashi"  x="517"  y="400"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0208c"  text="Harukoma"  x="501"  y="487"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0208a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「高さ６メートルのやまぼこが練り歩き・・・」[p]
-（大丈夫、合ってるわ）[p]
+#Akiko
+A 6-meter tall yamaboko parades...[p][cm]
+(It's okay, it's correct.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -855,47 +843,47 @@ G A M E   O V E R [p]
 *a0208b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「高さ６メートルのだしが練り歩き・・・」[p]
-（だしは「山車」だったわ・・・）[p]
+#Akiko
+A 6-meter tall dashi parades...[p][cm]
+(The dashi was a festival float...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0209"  ]
 *a0208c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「高さ６メートルのはるこまが練り歩き・・・」[p]
-（さすがにこれじゃないわ・・・）[p]
+#Akiko
+A 6-meter tall harukoma parades...[p][cm]
+(This is definitely not it...)[p][cm]
 [_tb_end_text]
 
 *q0209
 
 [tb_start_text mode=1 ]
-#亜紀子
-「古代からの儀式である・・・」[p]
-（これは難しいわ。確か・・・）[p]
+#Akiko
+It is a ritual from ancient times...[p][cm]
+(This is difficult. I'm pretty sure...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0209a"  text="大嘗会（おおなえかい）"  x="481"  y="289"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0209b"  text="大嘗会（だいじょうえ）"  x="494"  y="377"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0209c"  text="大嘗会（たいしょうのげ）"  x="484"  y="468"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0209a"  text="The Great Harvest Festival"  x="481"  y="289"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0209b"  text="The Daijo-e ceremony"  x="494"  y="377"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0209c"  text="The Great Thanksgiving Ceremony"  x="484"  y="468"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0209a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「古代から続く儀式であるおおなえかいで・・・」[p]
-（これはダメだわ・・・）[p]
+#Akiko
+It is the Oonae Festival, a ritual that has been continued since ancient[r]times...[p][cm]
+(This is not good...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0210"  ]
 *a0209b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「古代から続く儀式であるだいじょうえで・・・」[p]
-（そう、だいじょうえね。我ながらよく読めたわ）[p]
+#Akiko
+It is a grand ceremony that has been continued since ancient times...[p][cm]
+(Yes, I did a good job of reading it myself.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -903,38 +891,38 @@ G A M E   O V E R [p]
 *a0209c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「古代から続く儀式であるたいしょうのげで・・・」[p]
-（間違って覚えてたかも・・・）[p]
+#Akiko
+It is a solemn ritual that has been continued since ancient times...[p][cm]
+(I might have remembered it wrong...)[p][cm]
 [_tb_end_text]
 
 *q0210
 
 [tb_start_text mode=1 ]
-#亜紀子
-「人形のテーマとなっているのは古の行者・・・」[p]
-（昔、本で読んだような・・・）[p]
+#Akiko
+The theme of the doll is an ancient ascetic...[p][cm]
+(It's like something I read in a book a long time ago...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0210a"  text="役小角（くにのとばり）"  x="485"  y="337"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0210b"  text="役小角（えんのおづぬ）"  x="478"  y="425"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0210c"  text="役小角（かものこおに）"  x="488"  y="511"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0210a"  text="Yakushimaru (Kuninotobari)"  x="485"  y="337"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0210b"  text="En no Ozunu"  x="478"  y="425"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0210c"  text="Yakushimaru (Kamonoko Oni)"  x="488"  y="511"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0210a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「古代の行者くにのとばりで・・・」[p]
-（当てずっぽうで読もうとしても無理ね・・・）[p]
+#Akiko
+In the land of ancient ascetics...[p][cm]
+(It's impossible to read it randomly...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q02end"  ]
 *a0210b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「古代の行者えんのおづぬで・・・」[p]
-（確かそうよ。修験道の開祖とも言われてるわね）[p]
+#Akiko
+In the ancient hermitage of Enno Odzunu...[p][cm]
+(I'm pretty sure. They say he's also considered the founder of Shugendo.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -942,20 +930,19 @@ G A M E   O V E R [p]
 *a0210c
 
 [tb_start_text mode=1 ]
-#亜紀子
-「古代の行者かものこおにで・・・」[p]
-（なにを言ってるのかしら私・・・）[p]
+#Akiko
+In the ancient times, he might have been a hermit...[p][cm]
+(What am I saying...)[p][cm]
 [_tb_end_text]
 
 *q02end
 
 [tb_eval  exp="f.qpt+=f.qp"  name="qpt"  cmd="+="  op="h"  val="qp"  val_2="undefined"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「・・・以上ニュースをお伝えしました」[p]
+#Akiko
+... That's all for the news.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -964,10 +951,10 @@ G A M E   O V E R [p]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-2.png"  width="757"  height="1893"  left="55"  top="-2"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ふう・・・なんとか読み終えたけど・・・」[p]
-「誤読がなかったか心配だわ・・・」[p]
-「大丈夫・・・よね？」[p]
+#Akiko
+Phew... I managed to finish reading it somehow...[p][cm]
+I'm worried if there were any misreadings...[p][cm]
+It's going to be okay... right?[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q02good"  cond="f.qp==10"  ]
@@ -977,27 +964,25 @@ G A M E   O V E R [p]
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-1.png"  width="787"  height="1889"  left="551"  top="-124"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#局長
-「千山君！」[p]
-#亜紀子
-「あ、局長、どうかしましたか？」[p]
-#局長
-「どうかしましたかじゃない！なんだねさっきのニュースは！」[p]
-「読み間違いがあったぞ！」[p]
+#Director
+Senyama-kun![p][cm]
+#Akiko
+Oh, Director, is something the matter?[p][cm]
+#Director
+There was a misreading![p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-5.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「えっ！？」[p]
-#局長
-「あれしきの漢字が読めなくてアナウンサーが務まるか！」[p]
-「新人じゃないんだからなんだからしっかりしたまえ！」[p]
-#亜紀子
-「す、すいません・・・」[p]
-#局長
-「まったく・・・色気づいてる暇があったら勉強したまえ！」[p]
+#Akiko
+Huh!?[p][cm]
+#Director
+You're not a rookie, so pull yourself together![p][cm]
+#Akiko
+I-I'm sorry...[p][cm]
+#Director
+Honestly... Instead of being concerned about your sex appeal, focus on studying![p][cm]
 
 
 [_tb_end_text]
@@ -1005,14 +990,14 @@ G A M E   O V E R [p]
 [chara_hide  name="局長"  time="1000"  wait="false"  pos_mode="true"  ]
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-1.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・あんな言い方しなくても・・・」[p]
-「・・・でも自分のミスだから仕方ないわ」[p]
-「分岐に影響が無いとはいえ落ち込むわ・・・」[p]
-「はぁ・・・」[p]
+#Akiko
+Y-You... didn't have to say it like that...[p][cm]
+... But it's my own mistake, so there's no helping it.[p][cm]
+Even though it doesn't affect the branching, I still feel down...[p][cm]
+*Sigh...[p][cm]
+*[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -1022,24 +1007,22 @@ G A M E   O V E R [p]
 [chara_show  name="明日香"  time="1000"  wait="true"  storage="chara/2/hiro252-3.png"  width="1344"  height="1844"  left="331"  top="-21"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#明日香
-「先輩おつかれさまです」[p]
-#亜紀子
-「あ、明日香。お疲れさま」[p]
-#明日香
-「さっきのニュースすごかったです。あの難読漢字の連続を一つも間違わずに読むなんて」[p]
-「さすがです先輩」[p]
-#亜紀子
-「ありがとう」[p]
-（よかった、間違わずに読めたみたいだわ）[p]
-#明日香
-「分岐には影響ないですけど、満点はすごいです」[p]
-#亜紀子
-「分岐には影響は無いのね」[p]
-（分岐って何かしら？）[p]
+#Asuka
+Good work, senpai.[p][cm]
+#Akiko
+Ah, Asuka. Good work.[p][cm]
+#Asuka
+The news earlier was amazing. To be able to read that consecutive string of[r]difficult kanji without making a single mistake...[p][cm]
+You truly are amazing, senpai.[p][cm]
+#Akiko
+Thank you. (Thank goodness, it seems like you were able to read it without any[r]mistakes)[p][cm]
+#Asuka
+It doesn't affect the branching, but getting a perfect score is amazing.[p][cm]
+#Akiko
+It doesn't affect the branching, huh.[p][cm]
+(What is a branching?)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
@@ -1049,33 +1032,32 @@ G A M E   O V E R [p]
 
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-1.png"  width="758"  height="1819"  left="558"  top="-115"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#局長
-「千山くん」[p]
-#亜紀子
-「あ、局長」[p]
-#局長
-「全問不正解だ」[p]
+#Director
+Senyama-kun[p][cm]
+#Akiko
+Oh, Director.[p][cm]
+#Director
+All answers are incorrect.[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-5.png"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="SO_SAD.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「えっ・・・全問不正解・・・！？」[p]
-「そ、そんな・・・！」[p]
-#局長
-「キミはクビだ。荷物をまとめて去りたまえ」[p]
-#亜紀子
-「か、解雇・・・！？そんな・・・！」[p]
+#Akiko
+Eh... All answers are incorrect...!?[p][cm]
+I-Is that so...!?[p][cm]
+#Director
+You're fired. Pack up your things and leave.[p][cm]
+#Akiko
+F-Fired...!? No way...![p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-ＴＶ局をクビになった亜紀子は、その後OLになりキミヒコと結婚して幸せに暮らした[p]
+After being fired from the TV station, Akiko became an office worker and happily[r]married Kimihiko, living a blissful life.[p][cm]
 [_tb_end_text]
 
 [tb_ptext_show  x="459"  y="359"  size="51"  color="0x000000"  time="1000"  text="ゲームオーバー"  anim="false"  face="undefined"  edge="undefined"  shadow="undefined"  ]
@@ -1093,298 +1075,297 @@ G A M E   O V E R [p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="0"  loop="false"  storage="music13.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こんばんは、ニュースプライムＺ、キャスターの千山亜紀子です」[p]
+#Akiko
+Good evening, this is Senyama Akiko, the caster for News Prime Z.[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（乳の張りも気になるけど・・・ニュースはしっかりと読みましょう）[p]
-（・・・なんだか読み間違いをすると母乳があふれちゃうような気がするわ。考えすぎかもしれないけど）[p]
-「最初のニュースです。今日午後１時ごろ鹿児島県・・・」[p]
-（あれ、これは何て読むんだったかしら・・・？）[p]
+#Akiko
+(Although I'm concerned about the size of my breasts...[p][cm]
+let's read the news properly.)[p][cm]
+(Sometimes I feel like if I make a reading mistake, my breast milk will[r]overflow.[p][cm]
+Maybe I'm overthinking it.) This is the first news.[p][cm]
+Around 1 p. m. today in Kagoshima Prefecture...[p][cm]
+(Huh, what was the reading for this again...?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0301a"  text="垂水市（たるみずし）"  x="489"  y="319"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0301b"  text="垂水市（たるみし）"  x="502"  y="410"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0301a"  text="Tarumizu City"  x="489"  y="319"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0301b"  text="Tarumi City (Tarumishi)"  x="502"  y="410"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0301a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鹿児島県たるみずしで・・・」[p]
-（そう、正解のはずだわ）[p]
+#Akiko
+In Kagoshima Prefecture, there was a...[p][cm]
+(Yes, this should be the correct answer.)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0302"  ]
 *a0301b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鹿児島県のたるみしで・・・」[p]
-（あっ、違うわ・・・！）[p]
+#Akiko
+In the city of Tarumishi, Kagoshima Prefecture...[p][cm]
+(Ah, that's not right...!)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *q0302
 
 [tb_start_text mode=1 ]
-#亜紀子
-「工場では原料である・・・」[p]
-（えーっと、これは・・・）[p]
+#Akiko
+At the factory, the raw materials are...[p][cm]
+(Um, let's see...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0302a"  text="粳米（もみごめ）"  x="500"  y="351"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0302b"  text="粳米（うるちまい）"  x="496"  y="443"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0302a"  text="Polished rice"  x="500"  y="351"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0302b"  text="Unpolished rice"  x="496"  y="443"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0302a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「原料であるもみごめを・・・」[p]
-（違うような・・・）[p]
+#Akiko
+The raw material, shredded seaweed...[p][cm]
+(It feels different...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *a0302b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「原料であるうるちまいを・・・」[p]
-（そうそう、うるちまいね）[p]
+#Akiko
+The raw material, which is unpolished rice...[p][cm]
+(Oh, right, it's unpolished rice.)[p][cm]
 [_tb_end_text]
 
 *q0303
 
 [tb_start_text mode=1 ]
-#亜紀子
-「工場長は『繁忙期も終り・・・」[p]
-（間違えやすい漢字だわ。たしか・・・）[p]
+#Akiko
+The factory manager said, The busy season is finally over...[p][cm]
+(These kanji are easy to confuse.[p][cm]
+I'm pretty sure...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0303a"  text="一段落（いちだんらく）"  x="478"  y="342"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0303b"  text="一段落（ひとだんらく）"  x="476"  y="439"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0303a"  text="A break"  x="478"  y="342"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0303b"  text="Take a break"  x="476"  y="439"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0303a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「繁忙期も終りいちだんらくして・・・」[p]
-（そうね、こっちが正解よ。覚えておきましょう）[p]
+#Akiko
+Thank goodness, the busy season is finally over...[p][cm]
+(Yes, that's right. Let's remember this.)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0304"  ]
 *a0303b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「繁忙期も終りひとだんらくして・・・」[p]
-（こう読んじゃいがちなのよね・・・あぁ）[p]
+#Akiko
+Thank goodness, the busy season is finally over...[p][cm]
+(It tends to be read like this...[p][cm]
+Ah)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *q0304
 
 [tb_start_text mode=1 ]
-#亜紀子
-「山口県の・・・」[p]
-（えーっと、これは２択ね・・・）[p]
+#Akiko
+Yamaguchi Prefecture... (Let's see, this is a multiple choice...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0304a"  text="美祢市（みやし）"  x="505"  y="352"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0304b"  text="美祢市（みねし）"  x="505"  y="449"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0304a"  text="Miyashi City"  x="505"  y="352"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0304b"  text="[N_1]"  x="505"  y="449"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0304a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「山口県のみやしで・・・」[p]
-（逆を引いちゃったかも・・・）[p]
+#Akiko
+In Miyashi, Yamaguchi Prefecture...[p][cm]
+(Maybe I got it backwards...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *a0304b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「山口県のみねしで・・・」[p]
-（うん、正解だわ）[p]
+#Akiko
+In Mine City, Yamaguchi Prefecture...[p][cm]
+(Yes, that's the correct answer.)[p][cm]
 [_tb_end_text]
 
 *q0305
 
 [tb_start_text mode=1 ]
-#亜紀子
-「鍾乳洞に棲む新種の・・・」[p]
-（これは難しいわ・・・うーん）[p]
+#Akiko
+A new species that inhabits the cave...[p][cm]
+(This is difficult... Hmm)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0305a"  text="蛞蝓（みみず）"  x="509"  y="358"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0305b"  text="蛞蝓（なめくじ）"  x="511"  y="443"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0305a"  text="Slug (Mimizu)"  x="509"  y="358"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0305b"  text="Slug"  x="511"  y="443"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0305a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「新種のみみずが発見され・・・」[p]
-（あちゃー・・・間違っちゃった）[p]
+#Akiko
+A new species of worm has been discovered...[p][cm]
+(Oops... I made a mistake)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *a0305b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「新種のなめくじが発見され・・・」[p]
-（なめくじで合ってるはず・・・！）[p]
+#Akiko
+A new species of slug has been discovered...[p][cm]
+(It should be a slug...!)[p][cm]
 [_tb_end_text]
 
 *q0306
 
 [tb_start_text mode=1 ]
-#亜紀子
-「成体は腹部に・・・」[p]
-（これは・・・そんなに難しくないはず）[p]
+#Akiko
+The adult has... (This shouldn't be that difficult)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0306a"  text="緑青色（りょくせいしょく）"  x="470"  y="358"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0306b"  text="緑青色（ろくしょういろ）"  x="474"  y="458"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0306a"  text="Greenish-blue color"  x="470"  y="358"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0306b"  text="Greenish-blue color"  x="474"  y="458"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0306a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「成体は腹部にりょくせいしょくのラインがあり・・・」[p]
-（こっちじゃないわ・・・ダメね）[p]
+#Akiko
+The adult has a line of green color on its abdomen...[p][cm]
+(This isn't it... It's no good)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *a0306b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「成体は腹部にろくしょういろのラインがあり・・・」[p]
-（そうね、銅が錆びた色のことね）[p]
+#Akiko
+The adult has a line of green color on its abdomen...[p][cm]
+(Yes, it's the color of rusted copper.)[p][cm]
 [_tb_end_text]
 
 *q0307
 
 [tb_start_text mode=1 ]
-#亜紀子
-「今日長野県の・・・」[p]
-（なんでこんな難読地名ばっかり・・・）[p]
+#Akiko
+Today in Nagano Prefecture... (Why are there so many difficult-to-read place[r]names...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0307a"  text="東御市（とうごし）"  x="499"  y="327"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0307b"  text="東御市（とうみし）"  x="499"  y="421"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0307a"  text="Togoshi City"  x="499"  y="327"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0307b"  text="Tōmi City"  x="499"  y="421"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0307a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「長野県のとうごしで・・・」[p]
-（こっちじゃないわ・・・）[p]
+#Akiko
+In the movement of Nagano Prefecture...[p][cm]
+(This isn't it...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *a0307b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「長野県のとうみしで・・・」[p]
-（そうそう。合併で出来た比較的新しい市ね）[p]
+#Akiko
+In the city of Tomishi, Nagano Prefecture...[p][cm]
+(Oh, right. It's a relatively new city formed by a merger.)[p][cm]
 [_tb_end_text]
 
 *q0308
 
 [tb_start_text mode=1 ]
-#亜紀子
-「多額の投資を・・・」[p]
-（うわーなにこれ）[p]
+#Akiko
+A large investment... (Wow, what is this?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0308a"  text="慫慂した（しょうようした）"  x="449"  y="368"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0308b"  text="慫慂した（じゅやくした）"  x="454"  y="472"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0308a"  text="Are you scared?"  x="449"  y="368"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0308b"  text="I\'m scared"  x="454"  y="472"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0308a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「多額の投資を慫慂したとされ・・・」[p]
-（しょうようね。しきりに誘って勧めることよ）[p]
+#Akiko
+It is said that a large investment was encouraged...[p][cm]
+(I see. It's important to keep inviting and encouraging.)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q0309"  ]
 *a0308b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「多額の投資をじゅやくしたとされ・・・」[p]
-（違うわ。もっと勉強しなきゃ・・・）[p]
+#Akiko
+It is said that a large investment was made...[p][cm]
+(No, that's not it. I need to study more...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *q0309
 
 [tb_start_text mode=1 ]
-#亜紀子
-「日頃からワンマンで・・・」[p]
-（これは簡単だけど・・・）[p]
+#Akiko
+Always being a control freak...[p][cm]
+(This is easy, but...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0309a"  text="上意下達（じょういげたつ）"  x="439"  y="330"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0309b"  text="上意下達（じょういかたつ）"  x="437"  y="427"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0309a"  text="Command from Above, Obedience Below"  x="439"  y="330"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0309b"  text="Command from Above, Obedience Below"  x="437"  y="427"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0309a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「ワンマンでじょういげたつが徹底されて・・・」[p]
-（しまった、ケアレスミスだわ・・・）[p]
+#Akiko
+Being a control freak to the extreme...[p][cm]
+(Oops, that was a careless mistake...)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *a0309b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「ワンマンでじょういかたつが徹底されて・・・」[p]
-（そう、上の指示を下の者にちゃんと伝えることね）[p]
+#Akiko
+Being a control freak to the extreme...[p][cm]
+(Yes, it's important to properly convey instructions from higher-ups to[r]subordinates)[p][cm]
 [_tb_end_text]
 
 *q0310
 
 [tb_start_text mode=1 ]
-#亜紀子
-「社長は『・・・」[p]
-（これは大丈夫・・・よね？）[p]
+#Akiko
+The president said, ... (This is going to be okay...[p][cm]
+right?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0310a"  text="浅薄（あさはか）"  x="504"  y="329"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q1.ks"  size="20"  target="*a0310b"  text="浅薄（せんぱく）"  x="505"  y="427"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0310a"  text="Superficial"  x="504"  y="329"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q1.ks"  size="20"  target="*a0310b"  text="Superficial"  x="505"  y="427"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0310a
 
 [tb_start_text mode=1 ]
-#亜紀子
-「社長は『あさはかだった・・・」[p]
-（ちがうわ・・・勘違いしてた！）[p]
+#Akiko
+The president was careless... (No, that's wrong...[p][cm]
+I misunderstood!)[p][cm]
 [_tb_end_text]
 
 [jump  storage="q1.ks"  target="*q03bad"  ]
 *a0310b
 
 [tb_start_text mode=1 ]
-#亜紀子
-「社長は『せんぱくだった・・・」[p]
-（そう、意味は同じだけどね）[p]
+#Akiko
+The president was careless... (Yes, the meaning is the same though)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
-#亜紀子
-「以上、夕方のニュースをお伝えしました。それではまた明日」[p]
+・・・・・・ ・・・[p][cm]
+#Akiko
+That concludes the evening news.[p][cm]
+See you again tomorrow.[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -1394,34 +1375,34 @@ G A M E   O V E R [p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（ふぅ・・・なんとか読み終えたわ）[p]
-（母乳の方もなんとか耐えてくれたみたいだし・・・よかったわ）[p]
+#Akiko
+(Phew... I managed to finish reading it somehow)[p][cm]
+(It seems like even the breast milk managed to endure somehow...[p][cm]
+thank goodness)[p][cm]
 [_tb_end_text]
 
 [chara_show  name="明日香"  time="1000"  wait="true"  storage="chara/2/hiro257-1.png"  width="753"  height="1807"  left="625"  top="-12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#明日香
-「先輩、大丈夫でしたか？」[p]
-#亜紀子
-「ええ、なんとかね」[p]
-#明日香
-「よかった・・・」[p]
-「きっと一回も読み間違えなかったのが良かったのかもしれませんね」[p]
-#亜紀子
-「そうね、漢字を読み間違えてたらきっと溢れちゃっていたわね。根拠はないけど」[p]
-#明日香
-「今回は分岐にも影響があるようですし」[p]
-#亜紀子
-「えっ、今回は分岐に影響あるのね」[p]
-「・・・とにかく母乳が出ないうちに戻りましょう」[p]
+#Asuka
+Senpai, are you okay?[p][cm]
+#Akiko
+Yes, somehow.[p][cm]
+#Asuka
+Thank goodness... Maybe it's a good thing that I didn't make any reading[r]mistakes.[p][cm]
+#Akiko
+Yes, if I had made any reading mistakes, it would have surely overflowed.[p][cm]
+There's no basis for it, but...[p][cm]
+#Asuka
+It seems that this time there will be an impact on the branching paths.[p][cm]
+#Akiko
+Huh, this time it will have an impact on the branching paths?[p][cm]
+... Anyway, let's go back before the breast milk starts flowing.[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -1430,100 +1411,96 @@ G A M E   O V E R [p]
 
 [stopbgm  time="1000"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（しまった！読み間違えちゃったわ・・・！）[p]
-（あ・・・おっぱいが・・・！）[p]
+#Akiko
+(Oh no! I made a reading mistake...)[p][cm]
+(Ah... my breasts...!)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-6.jpg"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（あぁ・・・出てる・・・っ！）[p]
-（でも・・・ニュースを読み続けないと・・・）[p]
-「こ、ここ数年のキャンプブームで気軽にキャンプを楽しむ人が増えていますが、一方でキャンプ中の遭難や事故も増加しており―――」[p]
-（あっ・・・服に・・・染み出してる・・・！）[p]
-「警視庁では十分な準備をした上でキャンプを楽しんで欲しいと注意を呼びかけるとともに安全対策を―――」[p]
-#カメラマン
-（あれ・・・？なんだあのシミ・・・？）[p]
-（えっ・・・まさか・・・母乳が出てる！？）[p]
-#ディレクター
-（おいっ！これはすごいぞ！）[p]
-（カメラマン、撮り逃すなよ！）[p]
-#カメラマン
-（わかってます！）[p]
+#Akiko
+(Ah... It's coming out...!) (But...[p][cm]
+if I don't continue reading the news...)[p][cm]
+In recent years, with the camping boom, the number of people enjoying camping[r]casually has increased.[p][cm]
+However, on the other hand, the number of accidents and emergencies during[r]camping has also been on the rise-- (Ah...[p][cm]
+It's... seeping through my clothes...!)  The Metropolitan Police Department[r]urges everyone to enjoy camping after making sufficient preparations and calls[r]for attention to safety measures--[p][cm]
+#Photographer
+(Huh...? What's that stain...?)[p][cm]
+(Huh... Could it be... My breast milk is coming out!?)[p][cm]
+#Director
+(Hey! This is amazing!) (Photographer, don't miss this shot!)[p][cm]
+#Photographer
+(I got it!)[p][cm]
 #
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro101-6.jpg"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「・・・今日もエロいなぁ千山アナ」[p]
-「最近は各局のアナも負けじと超ミニスカートでパンツを見せるようになってきたけど、やっぱり千山が一番エロいぜ」[p]
-「やっぱり知性と品があるし、オッパイもでかいし・・・ん？」[p]
-「お・・・おぉ！？」[p]
-「なんか、胸の部分にシミが出来てるぞ！？」[p]
-「なんだあれ・・・？汗ならあそこだけ濡れるのはおかしいし・・・」[p]
-「もしかして母乳・・・？母乳が出てるんじゃ・・・！？」[p]
-「すげえ・・・！これじゃホントに乳山じゃねえか！」[p]
-・・・・・・[p]
-・・・[p]
-#キミヒコ
-「こ、これは一体・・・！？」[p]
-「ぼ、母乳が・・・！？」[p]
-「亜紀子・・・俺だけの・・・」[p]
-「もしかして・・・これはなにかの啓示・・・？・・・いやしかし・・・ブツブツ」[p]
-・・・・・・[p]
-・・・[p]
-#子供
-「ねえ、あの人オッパイ出てるよ」[p]
-#パパ
-「・・・！？」[p]
-#ママ
-「まぁ、なにあれ・・・？」[p]
-「子供も産んでないのに母乳が出るなんて・・・」[p]
-「あんないやらしい格好してるだけじゃ飽き足らずに、母乳まで出すなんて、変態じゃないの！」[p]
-「あなた、チャンネル変えてください！」[p]
-#パパ
-「・・・え？」[p]
-#ママ
-「まぁ！あなた変態女がお乳を垂らすのを見て興奮してるんでしょう！」[p]
-「なんていやらしい・・・！」[p]
-#パパ
-「い、いや違うよ。ボクはただニュースをだね・・・」[p]
-#ママ
-「ウソおっしゃい！他のチャンネルでもニュースはやってるのにいつもこの時間はしれっとＺ局に変えて・・・」[p]
-「そんなにあのデカ乳女が好きですか！」[p]
-#パパ
-「いや、そんなことは・・・」[p]
-#ママ
-「そうなんでしょう！？どうせわたしは胸が小さいですよ！すいませんでしたね！」[p]
-「そんなにでかいのが好きならああいうホルスタイン女と結婚したらよかったんじゃないですか！」[p]
-#パパ
-「ちょ、ちょっと落ち着いて・・・」[p]
-#子供
-「知ってる！ママってひんにゅーなんでしょ？」[p]
-#パパ
-「こ、こらっ・・・！」[p]
-#ママ
-「キィーーーーー！」[p]
-・・・・・・[p]
-・・・[p]
+#Nobuo
+... Chiyama Ana, you're so sexy today too.[p][cm]
+Lately, the female announcers from each station have been showing off their[r]panties in super mini skirts, but Chiyama is still the sexiest.[p][cm]
+She definitely has intelligence and elegance, and her boobs are big too...[p][cm]
+Huh? Oh... Ohh!? Somehow, there's a stain on the chest part!?[p][cm]
+What's that...? It's strange for only that part to be wet...[p][cm]
+Could it be breast milk...? Is breast milk coming out...!?[p][cm]
+Wow...! This is amazing...! It's like a mountain of breasts![p][cm]
+・・・・・・ ・・・[p][cm]
+#Kimihiko
+W-What on earth is this...!? B-Breast milk...!?[p][cm]
+Akiko... Only mine... Could it be...[p][cm]
+is this some kind of revelation...?[p][cm]
+... No, but... mumble mumble ・・・・・・[p][cm]
+・・・[p][cm]
+#Child
+Hey, that person's boobs are showing.[p][cm]
+#Papa
+...!?[p][cm]
+#Mama
+Well, what's that...? Even though I haven't given birth to a child, to have[r]breast milk come out...[p][cm]
+Not only are you dressed so provocatively, but you're even producing breast[r]milk.[p][cm]
+Aren't you a pervert! Please change the channel![p][cm]
+#Papa
+... Huh?[p][cm]
+#Mama
+Well! You must be getting excited watching that perverted woman dripping breast[r]milk![p][cm]
+How obscene...![p][cm]
+#Papa
+N-No, it's not like that. I was just watching the news...[p][cm]
+#Mama
+Don't lie! Even though there are news channels on other channels, you always[r]quietly change it to Z station at this time...[p][cm]
+Do you really like that busty woman that much?![p][cm]
+#Papa
+No, it's not like that...[p][cm]
+#Mama
+Is that so?! I bet you prefer women with big breasts![p][cm]
+I'm sorry for not having a large chest![p][cm]
+If you like women with such big breasts, then maybe you should have married a[r]Holstein cow like her![p][cm]
+#Papa
+H-Hey, calm down...[p][cm]
+#Child
+I know! Mama, you're a pervert, right?[p][cm]
+#Papa
+H-Hey...![p][cm]
+#Mama
+Eeeek! ・・・・・・ ・・・[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-6.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「夏の全国高校野球選手権大会の沖縄予選が始まりました。全国４０００校以上の頂点を決める熱い戦いがいよいよ―――」[p]
-（あぁ・・・とうとう恐れてたことが起こっちゃったわ・・・）[p]
-「各地で熱戦が繰り広げられることになります。甲子園での本大会は８月４日に開会式を行う予定で―――」[p]
-（でも、もう十分にかける恥はかいたし・・・なるようになれだわ・・・）[p]
-「それではお天気のコーナーです。佐藤さんよろしくお願いします」[p]
+#Akiko
+The Okinawa qualifiers for the National High School Baseball Championship have[r]begun.[p][cm]
+The intense battle to determine the top of over 4,000 schools nationwide is[r]finally starting-- (Ah...[p][cm]
+It finally happened, the thing I was afraid of...)[p][cm]
+The fierce battles will unfold in various locations.[p][cm]
+The main tournament at Koshien is scheduled to have its opening ceremony on[r]August 4th-- (But, I've already been embarrassed enough...[p][cm]
+I'll just have to go with the flow...)[p][cm]
+And now, it's time for the weather segment.[p][cm]
+Sato-san, please take it away.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

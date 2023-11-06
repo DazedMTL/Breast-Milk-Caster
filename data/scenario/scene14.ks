@@ -9,246 +9,284 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro107-4.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「う・・・っ」[p]
-（やっぱり浣腸は怖い・・・ごめんなさい・・・明日香・・・っ）[p]
-#明日香
-「わたしにくださいっ！浣腸大好きなんですぅっ♥」[p]
-（先輩・・・先輩の気持ちは十分伝わりました。ここはわたしに譲ってください・・・っ）[p]
-#勝野
-「くくく、亜紀子はもうお腹いっぱいか？」[p]
-#亜紀子
-「あ・・・そ、その・・・」[p]
-#勝野
-「よぉし、それじゃちゃんとおねだりできた明日香にもう一本浣腸のおかわりだ」[p]
-#明日香
-「あ、ありがとうございますっ！」[p]
-#勝野
-「じゃあ入れるぞ、力を抜けよ」[p]
+#Akiko
+Ugh... (Enemas are scary after all...[p][cm]
+I'm sorry... Asuka...)[p][cm]
+#Asuka
+Please give it to me! I absolutely love enemas♥ (Senpai...[p][cm]
+I understand your feelings completely.[p][cm]
+Please let me handle this...)[p][cm]
+#Katsuno
+Hehehe, is Akiko already full?[p][cm]
+#Akiko
+Ah... Th-that...[p][cm]
+#Katsuno
+Alright, then let's give Asuka, who asked for it properly, another enema.[p][cm]
+#Asuka
+Th-thank you very much![p][cm]
+#Katsuno
+Alright, I'm going to insert it, so relax.[p][cm]
 #
-ズプッ[p]
+*Squelch*[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-3.jpg"  ]
 [tb_start_text mode=1 ]
-#明日香
-「ンンッ・・・ヒッ」[p]
+#Asuka
+Nnn...[p][cm]
+Hic[p][cm]
 #
-ブチュブチュブチュ～～ッ[p]
-#明日香
-「ンヒィーーーッ・・・クハァッ・・・ンフッ」[p]
-#亜紀子
-「あ、明日香・・・っ」[p]
-#勝野
-「おぉー入る入る」[p]
+*Squelch squelch squelch~*[p][cm]
+#Asuka
+Nghiiii... Kuhhh... Unfu.[p][cm]
+#Akiko
+Ah, Asuka...[p][cm]
+#Katsuno
+Ohhh, it's going in, it's going in.[p][cm]
 #
-ブチュチュチュ～～～ッ[p]
-#明日香
-「ンクッ・・・ハァッ・・・ンヒッ！」[p]
-#亜紀子
-「明日香・・・あぁ・・・」[p]
-#勝野
-「・・・よし、全部入ったぜ」[p]
-「これで明日香には２本、亜紀子には１本分の浣腸が入ったわけだ」[p]
+*Squelch squelch squelch~*[p][cm]
+#Asuka
+Nkku... Haa... Nhi![p][cm]
+#Akiko
+Asuka... Ah...[p][cm]
+#Katsuno
+... Alright, it's all in. With this, Asuka has two enemas and Akiko has one[r]enema.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-1.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「さてと、今日のゲームもそろそろ終盤だ」[p]
-「ここで最終アピールタイムだ。ウンコを我慢しながら俺の奴隷でいたいという熱意をアピールしろ」[p]
-#明日香
-「あ、明日香は・・・勝野様のおチンポ無しでは・・・生きていけませんっ！ど、奴隷でいさせてくださいっ・・・ハゥッ・・・お、お願いします・・・っ！」[p]
-#亜紀子
-「亜紀子は・・・勝野様のおチンポで管理していただかないと生きてゆけない・・・ド変態な家畜ですっ♥」[p]
-「お、愚かでドスケベな亜紀子を・・・これからも勝野様のおチンポでご指導してくださいませぇっ♥」[p]
-#勝野
-「うーむ、どっちも悪くないな」[p]
-「ここまでの競争ではどちらも甲乙つけがたいから、最終ゲームで勝敗を決めるとしよう」[p]
-「これに勝ったほうを奴隷として飼い続けてやる。負けたほうはお払い箱だ」[p]
-#亜紀子
-「さ、最終ゲーム・・・」[p]
-#明日香
-「このゲームで決まる・・・」[p]
-#勝野
-「最終ゲームは『ドキドキ♥排便我慢対決』～～～、パチパチパチ！」[p]
-#亜紀子
-「は、排便我慢・・・えっ、そ、それって・・・」[p]
-#勝野
-「ルールは簡単。ウンコを先に漏らしたほうが負けだ」[p]
-#明日香
-「そ、そんな・・・っ！」[p]
-#勝野
-「お前らがお互いを助けるために必死に頑張って演技してたのはなかなか面白い見物だったぜ」[p]
-「最後は単純明快な忍耐力勝負だ。かわいい後輩、愛する先輩を助けたければせいぜい気合を入れて肛門を締めるんだな、クヒヒヒ」[p]
-#明日香
-「そ、そんな・・・ぐ・・・わ、わたしだけ２本も浣腸をされてるのに・・・っ」[p]
-#勝野
-「おいおい、それはお前が自分でおねだりしたんだろうが」[p]
-「苦しかったら亜紀子を見捨ててさっさとウンコを漏らしちまいな、クックックック」[p]
+#Katsuno
+Well then, today's game is almost reaching its final stage.[p][cm]
+Here comes the final appeal time.[p][cm]
+Show your enthusiasm for wanting to be my slave while holding in your poop.[p][cm]
+#Asuka
+Ah, without Katsuno-sama's dick...[p][cm]
+I can't live! P-Please let me be your slave...[p][cm]
+Hah... P-Please...![p][cm]
+#Akiko
+Akiko... can't live without Katsuno-sama's dick...[p][cm]
+She's a perverted livestock that needs to be managed...[p][cm]
+♥ Oh, please continue to guide the foolish and lewd Akiko with your dick,[r]Katsuno- sama ♥[p][cm]
+#Katsuno
+Well, both of them are not bad.[p][cm]
+Since it's difficult to determine a clear winner in the competition up until[r]now, let's decide the victory or defeat in the final game.[p][cm]
+I will keep the one who wins as my slave.[p][cm]
+The one who loses will be cast aside.[p][cm]
+#Akiko
+Now, the final game...[p][cm]
+#Asuka
+It will be decided in this game...[p][cm]
+#Katsuno
+The final game is Heart-pounding♥Bowel Movement Endurance Showdown~~~ *clap clap[r]clap*![p][cm]
+#Akiko
+H-Holding in my bowel movement...[p][cm]
+E-Err, d-does that mean...[p][cm]
+#Katsuno
+The rules are simple. The one who poops first loses.[p][cm]
+#Asuka
+N-No way...![p][cm]
+#Katsuno
+It was quite entertaining to see you both desperately acting to help each other.[p][cm]
+In the end, it's a simple test of endurance.[p][cm]
+If you want to help your cute junior and beloved senior, you better tighten your[r]anus with all your might, kuhiihii.[p][cm]
+#Asuka
+N-No way... I-I'm the only one who had two enemas...[p][cm]
+#Katsuno
+Hey hey, you were the one who begged for it yourself, right?[p][cm]
+If it gets too tough, don't hesitate to abandon Akiko and just let your poop[r]leak out, kukukuku.[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro107-4.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「・・・ッ・・・ハァッ・・・ハァッ」[p]
-#明日香
-「ハァッ・・・グ・・・フゥッ・・・ハウッ」[p]
-#勝野
-「・・・１５分経過か。なかなか頑張るじゃねえか明日香。２倍の浣腸液が入ってるのに」[p]
-「大切な先輩を助け出すために必死で肛門を締めてるんだな、クヒヒヒ」[p]
-「でも、そろそろヤバいんじゃないか？肛門がヒクヒクしてるぞ」[p]
-#明日香
-「ハッ・・・ハッ・・・ハッ・・・せ、先輩・・・お願いだから・・・ウンチしてください・・・っ」[p]
-#亜紀子
-「ハァッ・・・あ、明日香こそ・・・我慢しないで」[p]
-#明日香
-「わ、わたしは・・・アヒッ・・・もう・・・いいんです・・・本当に・・・ンフゥッ」[p]
-#亜紀子
-「ダメよ・・・あなたはわたしに巻き込まれただけなんだから・・・自由になって」[p]
-#明日香
-「せ、先輩は・・・こんな・・・とこにっ・・・いちゃいけません・・・っ」[p]
-「わ、わたしは・・・もう普通には・・・アグッ・・・戻れない体に・・・なっちゃったから・・・っ」[p]
-#亜紀子
-「明日香・・・？」[p]
-#明日香
-「ほ、本当なんです・・・っ」[p]
-「勝野様に・・・いっぱい犯されて・・・本当におチンポ無しでは生きていけない体に・・・されちゃったんです・・・っ」[p]
-「も・・・もう戻れないんですっ・・・おねだりも・・・本当に・・・演技じゃないんです・・・っ」[p]
-#亜紀子
-「あ、明日香・・・あなた・・・」[p]
-#明日香
-「だから・・・なにも気にしないで・・・じ、自由になってください・・・っ」[p]
-#勝野
-「ククク、明日香はこう言ってるぜ？お前だけ自由になったらどうだ亜紀子」[p]
-#亜紀子
-「そ、そんなのウソよ・・・わたしを助けようと嘘をついてるんでしょ・・・明日香、騙されないわよ」[p]
-#明日香
-「ち、違います・・・っ・・・本当です先輩・・・っ」[p]
-#亜紀子
-「仮に本当だとしても・・・あなたはまだ戻れるわ・・・」[p]
-「あなたが真面目に努力していたのを知ってるわ・・・こんなところで人生を台無しにしてはいけない・・・ハァッ・・・正しい人生に戻るのよ・・・っ」[p]
-#明日香
-「せ、先輩・・・っ」[p]
+#Akiko
+... Haa... Haa...[p][cm]
+#Asuka
+Haa... Gu... Fuu... How...[p][cm]
+#Katsuno
+... 15 minutes have passed. You're really hanging in there, Asuka.[p][cm]
+Even though you have twice the amount of enema fluid inside you.[p][cm]
+You're desperately clenching your anus to save your beloved senior, huh?[p][cm]
+Kuhuhu. But, isn't it getting dangerous?[p][cm]
+Your anus is twitching.[p][cm]
+#Asuka
+Haa... Haa... Haa... S-Senpai...[p][cm]
+Please... I'm begging you... Poop...[p][cm]
+#Akiko
+Haa... Ah, Asuka, you too... Don't hold it in.[p][cm]
+#Asuka
+I-I... Ah... I've had enough...[p][cm]
+Really... Nfuuh...[p][cm]
+#Akiko
+No... You were just caught up in my mess...[p][cm]
+Be free.[p][cm]
+#Asuka
+S-Senpai... you shouldn't... be in a place like this...[p][cm]
+I... I can't go back to being normal...[p][cm]
+My body... it's become like this...[p][cm]
+#Akiko
+Asuka...?[p][cm]
+#Asuka
+I-Is it true...? I... I was violated so much by Katsuno-sama...[p][cm]
+My body... has become one that can't live without a dick...[p][cm]
+I... I can't go back anymore...[p][cm]
+Even my begging... It's not an act...[p][cm]
+It's true...[p][cm]
+#Akiko
+Asuka... you...[p][cm]
+#Asuka
+So... please don't worry about anything...[p][cm]
+j-just be free...[p][cm]
+#Katsuno
+Hehehe, Asuka is saying this, you know?[p][cm]
+How about you, Akiko? What if you were the only one to be free?[p][cm]
+#Akiko
+Th-That's a lie... You're lying to me to try and help me...[p][cm]
+Asuka, I won't be deceived.[p][cm]
+#Asuka
+N-No... It's not true... It's real, Senpai...[p][cm]
+#Akiko
+Even if it's true... you can still go back...[p][cm]
+I know that you were working hard...[p][cm]
+You shouldn't ruin your life in a place like this...[p][cm]
+Haa... You need to return to the right path in life...[p][cm]
+#Asuka
+S-Senpai...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-5.jpg"  ]
 [tb_start_text mode=1 ]
-#明日香
-「ハァッ・・・ウゥアッ・・・せ、先輩ぃ・・・っ」[p]
-#亜紀子
-「あ・・・ンクッ・・・あ、明日香・・・もう我慢しないで・・・っ」[p]
-#明日香
-「い、イヤですっ・・・絶対・・・せ、先輩を・・・グッ・・・助ける・・・ンハァッ」[p]
-#亜紀子
-「む、無理よ・・・あなたは・・・ンッ・・・２倍・・・浣腸されてるんだから・・・ハァッ」[p]
-「わたしはまだまだ・・・余裕があるわ・・・っ・・・あきらめなさい」[p]
-#明日香
-「ハッ・・・グ・・・ヒィィィィ・・・ッ・・・アァッ」[p]
-「アァッ・・・ダメ・・・ッ・・・ググゥゥ・・・ッ」[p]
-#亜紀子
-「お、お願い・・・ハァッ・・・もう・・・我慢しないで・・・明日香・・・っ」[p]
-#明日香
-「アッ・・・先輩ッ・・・アァァァァッ・・・ダメェッ！」[p]
-「イヤアァァァァァッ！」[p]
+#Asuka
+Haa... Uuah... S-Senpai...[p][cm]
+#Akiko
+Ah... Nkuu... A-Asuka... Don't hold back anymore...[p][cm]
+#Asuka
+N-No... I don't want to... Absolutely...[p][cm]
+I-I will... help... Senpai...   Nhaaah[p][cm]
+#Akiko
+I-It's impossible... You... Ngh...[p][cm]
+You're... being double... anally penetrated...[p][cm]
+Haaah I still have... plenty of...[p][cm]
+room... Don't give up.[p][cm]
+#Asuka
+Haa... Gu... Hiiii... Ahh... Ahh...[p][cm]
+No... Ughhh...   Ahh[p][cm]
+#Akiko
+P-Please... Haa... Don't... hold back anymore...[p][cm]
+Asuka...[p][cm]
+#Asuka
+Ah... Senpai... Aaaah... Nooo![p][cm]
+Nooo![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-6.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ブビビビビッ！[p]
-#明日香
-「イヤァァァッ！」[p]
-#勝野
-「おっ、出た！」[p]
-#亜紀子
-「ハァッ・・・や、やった・・・っ」[p]
-「アフゥッ・・・・アァッ」[p]
+*Bubibibibi![p][cm]
+*[p][cm]
+#Asuka
+Noooo![p][cm]
+#Katsuno
+Oh, there it is![p][cm]
+#Akiko
+Haa... I-I did it...! Ah... Ahh...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-7.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ブビュビュビュピュッ！[p]
-#勝野
-「おわっ、こっちもか！」[p]
-#亜紀子
-「ンハァッ・・・アヒッ！」[p]
+*Bubibibibi![p][cm]
+*[p][cm]
+#Katsuno
+Oh no, here too![p][cm]
+#Akiko
+Nhaa... Ahh![p][cm]
 #
-ブビビビビッ！[p]
-#勝野
-「余裕そうに見せておいてお前のほうも限界だったんだな」[p]
-「浣腸２倍のハンデがありながら結構好勝負だったジャねえか、ウヒャヒャヒャヒャ！」[p]
-#明日香
-「あぁ・・・そんな・・・」[p]
-#亜紀子
-「わ、わたしの・・・勝ちですよね・・・？」[p]
+*Bubibibibi![p][cm]
+*[p][cm]
+#Katsuno
+You seemed so calm, but it looks like you were at your limit too.[p][cm]
+Even with the handicap of double enema, it was quite a good match, wasn't it?[p][cm]
+Uhyahyahyahya![p][cm]
+#Asuka
+Ah... No way...[p][cm]
+#Akiko
+D-Did I... win...?[p][cm]
 #
-ブピュッ・・・ブビッ[p]
-#勝野
-「ギャハハハハ！ウンコしながらしゃべるなよｗそうだよ、お前の勝ちだよ」[p]
-#亜紀子
-「こ、これで明日香は自由に・・・」[p]
-#勝野
-「ああ、約束どおり明日香は奴隷を解雇だ」[p]
-「これからはお前だけを集中して調教してやるぜ、クククク」[p]
-#明日香
-「あぁ・・・そんな・・・先輩・・・」[p]
-#亜紀子
-「よ、よかった・・・ンハァッ」[p]
+*Bubiyu...[p][cm]
+Bubi*[p][cm]
+#Katsuno
+Gyahaha! Don't talk while taking a dump, haha.[p][cm]
+That's right, you won.[p][cm]
+#Akiko
+W-With this, Asuka is finally free...[p][cm]
+#Katsuno
+Ah, as promised, Asuka is now free from slavery.[p][cm]
+From now on, I will focus solely on training you, hehehe.[p][cm]
+#Asuka
+Ah... No way... Senpai...[p][cm]
+#Akiko
+T-Thank goodness...[p][cm]
+Nhaaah[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-8.jpg"  ]
 [tb_cg  id="107"  ]
 [tb_start_text mode=1 ]
 #
-・・・ムリムリッ[p]
-#亜紀子
-「ンフッ・・・ハァッ」[p]
-#勝野
-「ん？・・・おいおいおいｗ」[p]
+... Impossible, impossible.[p][cm]
+#Akiko
+Nfuh...[p][cm]
+Haa[p][cm]
+#Katsuno
+Hm?... Oi oi oi, haha.[p][cm]
 #
-ムリムリムリッ[p]
-#亜紀子
-「ンハァッ・・・ンッ」[p]
-#勝野
-「ギャハハハハ！ぶっとい一本糞が出てきやがった！」[p]
-「そうか、だから浣腸が倍でも良い勝負だったんだな！中にこんなでっかい糞が溜まってたらそりゃきついわｗギャハハハハ！」[p]
-#亜紀子
-「ンッ・・・アァッ」[p]
+Impossible, impossible, impossible.[p][cm]
+#Akiko
+Nhaaah... Nngh.[p][cm]
+#Katsuno
+Gyahaha! A thick piece of shit just came out![p][cm]
+I see, that's why the enema was twice as intense![p][cm]
+If there's such a huge piece of shit inside, it's gonna be tough, haha![p][cm]
+#Akiko
+Nn...[p][cm]
+Ahh[p][cm]
 #
-ムリムリムリッ[p]
-#勝野
-「ウヒャヒャ、まだ出てくるのかよ！こりゃビクトリーランならぬビクトリーウンコだなｗｗ」[p]
-「俺の奴隷でいれるのがそんなに嬉しいか！？」[p]
-#亜紀子
-「は、はいっ・・・嬉しいです・・・っ」[p]
+Impossible, impossible, impossible.[p][cm]
+#Katsuno
+Wahahaha, it's still coming out![p][cm]
+This is not a victory run, but a victory poop, lol.[p][cm]
+Are you really that happy to be my slave!?[p][cm]
+#Akiko
+Y-Yes... I'm happy...[p][cm]
 #
-ムリムリムリッ[p]
-#勝野
-「どうだ明日香、先輩がこんなぶっといウンコを我慢してお前を助けてくれたんだぞｗ」[p]
-#明日香
-「せ、先輩・・・」[p]
-#亜紀子
-「明日香・・・あなたは正しい道を生きて・・・ンッ」[p]
+Impossible, impossible, impossible.[p][cm]
+#Katsuno
+How about that, Asuka? Your senpai endured such a massive poop to help you, lol.[p][cm]
+#Asuka
+S-Senpai...[p][cm]
+#Akiko
+Asuka... may you live a righteous path...[p][cm]
+Nngh.[p][cm]
 #
-ムリムリムリッ[p]
-#勝野
-「ギャハハハハ！ウンコしながら・・・ぶっとい一本グソしながら後輩に・・・ウヒヒヒヒッ！」[p]
-#亜紀子
-「わたしのことは・・・心配しないで・・・」[p]
+Impossible, impossible, impossible.[p][cm]
+#Katsuno
+Gyahaha! While taking a dump...[p][cm]
+and letting out a thick stream of piss, I'm doing it for my kouhai...[p][cm]
+Uhihihihi![p][cm]
+#Akiko
+Don't worry about me...[p][cm]
 #
-ムリムリムリ・・・ボトッ[p]
-#勝野
-「ギャハハハハハ！腹いてえ・・・！」[p]
-#明日香
-「先輩・・・あぁ・・・」[p]
+Impossible, impossible, impossible...[p][cm]
+Plop.[p][cm]
+#Katsuno
+Gyahaha! My stomach hurts...![p][cm]
+#Asuka
+Senpai... Ah...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 
 [_tb_end_text]
@@ -265,613 +303,654 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-数週間後―――[p]
+Several weeks later...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-0.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「ウメちゃんのディープな話～～～！！」[p]
-「・・・っさ、始まりました。今週のゲストはこの方々です～」[p]
-#若手芸人
-「よろしくおねがいします！」[p]
-#ユウチューバー
-「よろしくおねがいします～！」[p]
-#梅田
-「キミは初めましてやけどどういう人なの？」[p]
-#ユウチューバー
-「yuutuberで～～す！本物の梅田さんだ～～！イエーーーイ！」[p]
-#梅田
-「あ、はい」[p]
-#亜紀子
-「ユウチューバーさんは今若者に大人気のyuutuberで、主にコスプレ動画などを上げていらっしゃって登録者数は現在１２０万人もいるんですよ」[p]
-#梅田
-「ああそうなん。１２０万って多いん？」[p]
-#若手芸人
-「むちゃくちゃ多いですよ。僕もやってるんですけどチャンネルの登録者数９万人ですからね」[p]
-#ユウチューバー
-「勝った～～！イエ～～～イ！」[p]
-#梅田
-「へーー。まぁこんな番組に出て減らないといいですけどねファンが」[p]
-#ユウチューバー
-「キャハハハハ！ウケル！」[p]
+#Umeda
+Ume-chan's deep story~~~!! ...[p][cm]
+And so, it begins.[p][cm]
+Our guests for this week are these individuals~[p][cm]
+#Young comedian
+Nice to meet you![p][cm]
+#Youtuber
+Nice to meet you![p][cm]
+#Umeda
+Nice to meet you, but what kind of person are you?[p][cm]
+#Youtuber
+I'm a YouTuber~! The real Umeda-san~![p][cm]
+Yay![p][cm]
+#Umeda
+Ah, yes.[p][cm]
+#Akiko
+The YouTuber-san is very popular among young people these days, and mainly[r]uploads cosplay videos.[p][cm]
+They currently have a subscriber count of 1.[p][cm]
+2 million people.[p][cm]
+#Umeda
+Oh, is that a lot? 1. 2 million subscribers?[p][cm]
+#Young comedian
+That's ridiculously high. I also do it, but my channel has only 90,000[r]subscribers.[p][cm]
+#Youtuber
+I won~~! Yay~~~![p][cm]
+#Umeda
+Oh, I see. Well, I hope appearing on this kind of show won't make my fans[r]decrease.[p][cm]
+#Youtuber
+Kyahaha! That's hilarious![p][cm]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-a.jpg"  width="725"  height="408"  x="552"  y="388"  _clickable_img=""  name="img_36"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「始まった始まった「ディープな話」」[p]
-「前から面白かったけどアシスタントが千山亜紀子になってからどんどん過激になってきてるんだよな」[p]
-「今週もなんかエロいハプニング起きないかな」[p]
+#Nobuo
+It has begun, it has begun, a deep conversation.[p][cm]
+It has always been interesting, but ever since Assistant Chiyama Akiko joined,[r]it has become more and more extreme.[p][cm]
+I wonder if some erotic happening will occur this week too.[p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro120-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「さぁそれでは今日のテーマなんですが、今回深く掘り下げていくディープなテーマは「鼻フック」です」[p]
-#梅田
-「鼻フック！出ましたね、またＳＭ系」[p]
-#亜紀子
-「梅田さんはお好きですか鼻フック」[p]
-#梅田
-「俺の場合はやられる側やからね。罰ゲームで何回やらされたか」[p]
-「めちゃめちゃ痛いんやからあれ」[p]
-#若手芸人
-「痛いですよね～。芸人はだいたい一回はやりますからね」[p]
-#梅田
-「鼻取れそうになるからね」[p]
-#ユウチューバー
-「おもしろーーい！」[p]
-#亜紀子
-「女性にやらせたことは無いですか？」[p]
-#梅田
-「いやぁ・・・無いなぁ。その発想が無いもんな」[p]
-#若手芸人
-「まぁ普通はやらないですよね」[p]
-#亜紀子
-「ＳＭの中でもややマニアックな部類に入るといえるかもしれません「鼻フック」ですが、今日はその鼻フックを愛するマニアの方々に来ていただいております」[p]
-「さっそく登場していただきましょう。どうぞー！」[p]
+#Akiko
+Well then, today's topic is a deep and profound one.[p][cm]
+We will be delving into the theme of Nose Hooks.[p][cm]
+#Umeda
+Nose hooks! Here we go again, another SM-themed topic.[p][cm]
+#Akiko
+Umeda-san, do you like nose hooks?[p][cm]
+#Umeda
+In my case, I'm the one being subjected to it.[p][cm]
+I wonder how many times I've been made to do it as a punishment game.[p][cm]
+That really hurts, you know.[p][cm]
+#Young comedian
+It really hurts, doesn't it? Most comedians have done it at least once, you[r]know.[p][cm]
+#Umeda
+Because it feels like my nose is about to come off.[p][cm]
+#YouTuber
+Hilarious![p][cm]
+#Akiko
+Have you ever made a woman do it?[p][cm]
+#Umeda
+Well... no, I haven't. I just don't have that kind of imagination.[p][cm]
+#Young comedian
+Well, normally people don't do that, right?[p][cm]
+#Akiko
+Nose hooks can be considered somewhat of a niche within SM, but today we have[r]invited enthusiasts who love nose hooks.[p][cm]
+Let's have them make their appearance right away.[p][cm]
+Please, go ahead![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-0.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「マニアＡさんＢさんＣさんです！」[p]
-#マニアたち
-「よろしくお願いします」[p]
-#若手芸人
-「結構普通の方々ですね」[p]
-#梅田
-「だいたいそうやねん。ＳＭとかのマニアってみんな普通っぽいのよ」[p]
-#ユウチューバー
-「普通のおじさんって感じー」[p]
-#亜紀子
-「鼻フックの良さというのはどういうところにあるんでしょうか？」[p]
-#マニアＡ
-「色々ありますけどやっぱり「屈辱」っていうところがポイントじゃないですかね」[p]
-「豚鼻にさせられるのって痛みもありますけどなにより屈辱的じゃないですか」[p]
-「不細工な顔にさせられている、そしてその不細工な顔を見られて笑われている。そこに女性が屈辱を感じるから興奮するんですね」[p]
-#梅田
-「たしかに屈辱的やわな。俺らは笑いを取るためにやってるけど」[p]
-#マニアＢ
-「それとやっぱり美人の顔を崩すっていうのがゾクゾクするんですよね」[p]
-「綺麗なものを汚すのって興奮するじゃないですか」[p]
-#若手芸人
-「あーわからなくはないです」[p]
-#マニアＢ
-「美人でいつもは澄ましてる人が豚鼻にされて不細工な顔を晒してるっていう背徳感ですね」[p]
-#梅田
-「やっぱり鼻フックは美人でないとアカンの？」[p]
-#マニアＢ
-「そうですね、やっぱり美人が良いですよね」[p]
-#マニアＣ
-「ですね。上品な顔が一番鼻フックして興奮します」[p]
-#梅田
-「千山とかどう？鼻フックしたい顔？」[p]
-#マニアＣ
-「無茶苦茶良いです！美人だし知的で上品だしぜひやりたいですね！」[p]
-#マニアＡ
-「うんうん、最高だよねぇ」[p]
-#亜紀子
-「あ、ありがとうございます」[p]
-#ユウチューバー
-「アタシは？アタシは？」[p]
-#マニアＣ
-「まぁ、はい」[p]
-#マニアＢ
-「まぁまぁですかね」[p]
-#ユウチューバー
-「なんか人気ないんですけど！ウケル！」[p]
-#梅田
-「やっぱまだ若いからね。上品な大人の女性が良いのよ、な？」[p]
-#マニアＡ
-「さすが梅田さん、わかってらっしゃいます」[p]
-#若手芸人
-「Ｓの代表みたいな人ですからね梅田さんは」[p]
-#梅田
-「誰がＳの代表やねん」[p]
+#Akiko
+It's Mania A-san, B-san, and C-san![p][cm]
+#Maniacs
+Nice to meet you.[p][cm]
+#Young comedian
+They seem like pretty ordinary people, huh?[p][cm]
+#Umeda
+That's generally how it is. People who are into SM and such seem pretty[r]ordinary.[p][cm]
+#Youtuber
+They give off a regular middle-aged man vibe.[p][cm]
+#Akiko
+What is the appeal of nose hooks?[p][cm]
+#Mania A
+There are various reasons, but I think the point is the feeling of humiliation.[p][cm]
+Being made to have a pig nose is not only painful, but above all, it's[r]humiliating, isn't it?[p][cm]
+Being made to have an ugly face, and being laughed at for that ugly face.[p][cm]
+It's because women feel humiliated in that situation that it becomes exciting.[p][cm]
+#Umeda
+Indeed, it's quite humiliating.[p][cm]
+We do it to get laughs, but[p][cm]
+#Mania B
+And of course, it's thrilling to see a beautiful face being distorted.[p][cm]
+Don't you get excited when you dirty something beautiful?[p][cm]
+#Young comedian
+Ah, I kind of understand.[p][cm]
+#Mania B
+It's the feeling of immorality when a beautiful person who always looks composed[r]is made to have a pig nose and expose an ugly face.[p][cm]
+#Umeda
+Do you have to be a beautiful person for nose hooks after all?[p][cm]
+#Mania B
+Yes, that's right. Beautiful people are definitely preferable.[p][cm]
+#Mania C
+That's right. The most exciting thing is to nose hook someone with a refined[r]face.[p][cm]
+#Umeda
+What about Chiyama? A face you want to nose hook?[p][cm]
+#Mania C
+It's absolutely wonderful! She's beautiful, intelligent, and elegant, so I[r]definitely want to do it![p][cm]
+#Mania A
+Yeah, yeah, it's the best, isn't it?[p][cm]
+#Akiko
+Thank you very much.[p][cm]
+#Youtuber
+What about me? What about me?[p][cm]
+#Mania C
+Well, sure.[p][cm]
+#Mania B
+Well, I guess so.[p][cm]
+#YouTuber
+I feel like I'm not popular at all![p][cm]
+It's hilarious![p][cm]
+#Umeda
+Well, because she's still young.[p][cm]
+A refined adult woman is the best, right?[p][cm]
+#Mania A
+As expected of Umeda-san, you understand.[p][cm]
+#Young comedian
+Umeda-san, because you're like the representative of S, right?[p][cm]
+#Umeda
+Who said I'm the representative of S?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「鼻フックをするときに注意点とかはありますか？」[p]
-#マニアＡ
-「力の加減ですかねやっぱり。鼻ってけっこう強いのでかなり強く引っ張っても切れはしないんですが、中には鼻血が出やすい人とかも居ますから」[p]
-#マニアＢ
-「興奮するとつい力が入っちゃったりするんですよね。それで女の子に嫌がられたりして」[p]
-#梅田
-「え、キミらはＳＭのお店とかに行ってやるわけ？そういうお店とかで鼻フックなんかさせてくれるん？」[p]
-#マニアＢ
-「させてはくれますよ。オプションでお金は取られますけど」[p]
-「でも強くすると嫌がられるので本当に軽くしかできないですね。形だけ鼻フックをしてるっていう状態で」[p]
-#マニアＡ
-「本当は上唇がめくれ上がるくらい引っ張りたいんですけどなかなかさせてくれる娘はいませんよ」[p]
-#マニアＣ
-「だから僕はもうＤＶＤ観て満足してます」[p]
-「プライドの高い美人に鼻フックで屈辱を味わわせるなんて現実ではできないですからね」[p]
-#若手芸人
-「鼻フック物のAVなんてあるんですか？」[p]
-#マニアＣ
-「ありますよ、それなりには。結構いるんですよ同士は」[p]
-#ユウチューバー
-「一回観てみた～い」[p]
+#Akiko
+Are there any points to be careful about when using a nose hook?[p][cm]
+#Mania A
+I think it's about the amount of force.[p][cm]
+The nose is quite strong, so even if you pull it hard, it won't break.[p][cm]
+However, there are some people who are prone to nosebleeds.[p][cm]
+#Mania B
+When I get excited, I tend to exert too much force.[p][cm]
+Because of that, girls end up disliking me.[p][cm]
+#Umeda
+Huh, so you guys go to SM shops and stuff?[p][cm]
+Do those kinds of shops let you do things like nose hooks?[p][cm]
+#Mania B
+They do let you do it. But they charge extra for it as an option.[p][cm]
+But since they dislike it when I do it forcefully, I can only do it very[r]lightly.[p][cm]
+It's like I'm just pretending to have a nose hook.[p][cm]
+#Mania A
+I actually want to pull it so much that the upper lip curls up, but there aren't[r]many girls who let me do that.[p][cm]
+#Mania C
+That's why I'm already satisfied just watching DVDs.[p][cm]
+It's impossible to make a proud beauty experience humiliation with a nose hook[r]in real life.[p][cm]
+#Young entertainer
+Are there AVs with nose hook themes?[p][cm]
+#Mania C
+Yes, there are. There are quite a few enthusiasts out there.[p][cm]
+#Youtuber
+I want to watch it once~[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-0.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「さて、いよいよ実践に移るところなんですが・・・」[p]
-「実は今回残念ながら鼻フックのモデルになってくれる女優さんが用意できなかったんですよね」[p]
-#マニアたち
-「え～～～」[p]
-#梅田
-「おいおいおい、一番大事なとこやろがい」[p]
-「視聴者もここを楽しみに観てくれてるのに」[p]
-#亜紀子
-「はい・・・視聴者の皆さまにもマニアのお三方にも申し訳ないんですが、今回は資料映像だけということに・・・」[p]
+#Akiko
+Well, now we're finally moving on to the practical part...[p][cm]
+Actually, unfortunately, we couldn't find an actress who would be willing to be[r]a model for the nose hook this time.[p][cm]
+#Maniacs
+Ehhhhh[p][cm]
+#Umeda
+Hey hey hey, that's the most important part, you know.[p][cm]
+Even the viewers are looking forward to this part.[p][cm]
+#Akiko
+Yes... I apologize to all the viewers and the three maniacs, but this time it[r]will only be documentary footage...[p][cm]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-a.jpg"  width="720"  height="405"  x="556"  y="389"  _clickable_img=""  name="img_47"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「え、セクシー女優出てこないのかよ」[p]
-「ここだけのために見てるようなものなのに。ふざけんなよ・・・ん？」[p]
-#ナレーション
-「このあと千山アナがまさかの事態に・・・！？」[p]
-#ノブオ
-「おっ！？まさか千山アナが鼻フックされる展開か！？」[p]
-「それは見たいな！」[p]
+#Nobuo
+Huh, so there won't be any sexy actresses appearing?[p][cm]
+Even though I'm watching this just for this part.[p][cm]
+Don't mess with me... Huh?[p][cm]
+#Narration
+After this, Chiyama Ana encounters an unexpected situation...!?[p][cm]
+#Nobuo
+Oh!? Could it be that Chiyama Ana will be subjected to a nose hook!?[p][cm]
+I want to see that![p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-放送時には視聴者を引き止めるために編集で亜紀子がモデル役になることを予想させるナレーションが入っているが、収録の段階では出演者たちはそのことを知らない[p]
-しかし亜紀子と梅田とプロデューサーである勝野はこの後の展開を知っている[p]
-#梅田
-「ほなお前がやれや」[p]
-#亜紀子
-「えっ、わたしですか！？」[p]
-#梅田
-「せっかく来てくれてるんやし、かわいそうやんか」[p]
-「さっきお前の鼻フックめっちゃ見たいって言ってくれてたしさ」[p]
-#亜紀子
-「いや、でも・・・わたしはちょっと・・・」[p]
-#若手芸人
-「いや、アナウンサーさんに鼻フックはちょっときついでしょ～」[p]
-#ユウチューバー
-「キャハハハ、見た～～い！」[p]
-#梅田
-「見たいよな？お前らも見たいやろ？」[p]
-#マニアＡ
-「え、まぁ・・・そりゃ見たいですけど・・・」[p]
-#マニアＣ
-「めっちゃ見たいっす」[p]
-#梅田
-「ほら、こない言うてるやんけ」[p]
-#亜紀子
-「え、でも・・・わたしはちょっと・・・すいません」[p]
+During the broadcast, there is a narration that suggests Akiko will play the[r]role of a model in order to captivate the viewers.[p][cm]
+However, at the recording stage, the cast members are unaware of this.[p][cm]
+However, Akiko, Umeda, and the producer, Katsuno, know about the upcoming[r]development.[p][cm]
+#Umeda
+Well then, you do it.[p][cm]
+#Akiko
+Huh, me!?[p][cm]
+#Umeda
+Since they came all this way, it would be a pity, you know.[p][cm]
+Earlier, you said you really wanted to see the nose hook, right?[p][cm]
+#Akiko
+Well, but... I'm a little...[p][cm]
+#Young comedian
+No way, a nose hook for an announcer is a bit too much, don't you think~[p][cm]
+#Youtuber
+Kyahaha, I want to see it~[p][cm]
+#Umeda
+You want to see it, right? You guys want to see it too, don't you?[p][cm]
+#Mania A
+Well, um... I mean, I do want to see it, but...[p][cm]
+#Mania C
+I really want to see it.[p][cm]
+#Umeda
+Hey, didn't I tell you to come over here?[p][cm]
+#Akiko
+Um, but... I'm a little... I'm sorry.[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-3.jpg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「やれって」[p]
+#Umeda
+Do it.[p][cm]
 #
-ムギュッ！[p]
-#亜紀子
-「アッ・・・！」[p]
-#若手芸人
-「ちょ、ちょっと梅田さん・・・！？」[p]
-#ユウチューバー
-「えーーーー！おっぱい揉んでるーー！」[p]
-#マニアたち
-「うわっ・・・」[p]
-#梅田
-「お前これからは身体を張ってがんばるって言うたんと違うんかいな、え？」[p]
+*Squeeze![p][cm]
+*[p][cm]
+#Akiko
+Ah...![p][cm]
+#Young comedian
+W-Wait, Umeda-san...!?[p][cm]
+#Youtuber
+Whaaat?! He's groping her breasts?![p][cm]
+#Maniacs
+Ugh...[p][cm]
+#Umeda
+Didn't I tell you that from now on you have to give it your all and work hard,[r]huh?[p][cm]
 #
-モミモミモミッ[p]
-#亜紀子
-「アンッ・・・は、はいっ・・・言いましたっ」[p]
-#梅田
-「ほんなら鼻フックくらいよろこんでやらんかい」[p]
+*Squeeze, squeeze, squeeze![p][cm]
+*[p][cm]
+#Akiko
+Ahn... Y-Yes... I-I said it...[p][cm]
+#Umeda
+Well then, why don't you happily accept a nose hook as well?[p][cm]
 #
-ムギュムギュッ[p]
-#亜紀子
-「アンッ・・・は、はいっ・・・わ、わかりました・・・っ」[p]
-「や、やらせていただきます・・・っ」[p]
-#梅田
-「最初から進んでやらんかい、ドアホ」[p]
-#亜紀子
-「はいっ・・・申し訳ありませんでした・・・っ」[p]
+*Munch, munch*[p][cm]
+#Akiko
+Ahn... Y-Yes... I-I understand...[p][cm]
+I-I'll do it...[p][cm]
+#Umeda
+Why don't you do it willingly from the beginning, you idiot?[p][cm]
+#Akiko
+Yes... I-I'm sorry...[p][cm]
 #
-もちろん亜紀子が鼻フックのモデルになることは最初から決まっている[p]
-最初からすんなりOKしたら盛り上がらないので、少し抵抗するように指示されているのだ[p]
+Of course, it was decided from the beginning that Akiko would be the model for[r]the nose hook.[p][cm]
+They instructed me to resist a little so that it wouldn't be too easy from the[r]start.[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-0.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「と・・・いうわけでですね・・・今回はわたくし千山亜紀子が鼻フックのモデルをやらせていただきます」[p]
-「えーと・・・あ、それではちょっと裏で準備をしてきますので・・・少々お待ちください」[p]
-#梅田
-「はよせえよ」[p]
-#亜紀子
-「はいっ」[p]
+#Akiko
+S-So... um... this time, I, Akiko Senzan, will be the model for the nose hook.[p][cm]
+Um... Ah, in that case, I'll go prepare behind the scenes for a moment...[p][cm]
+Please wait a little while.[p][cm]
+#Umeda
+Cut it out already.[p][cm]
+#Akiko
+Yes.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-3.jpg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「すいませんね、段取りが悪くて」[p]
-#マニアＡ
-「いえ、全然大丈夫です・・・アハハハ」[p]
-（梅田さんって本当に怖いんだなぁ・・・）[p]
-#マニアＢ
-（なんかすごいものを見ちゃったきがする・・・）[p]
-#マニアＣ
-（でも、千山アナの鼻フックが見れるのはうれしいなぁ・・・）[p]
-#若手芸人
-（え、これって台本になかったよな・・・？梅田さんのアドリブ・・・？こ、こわっ！）[p]
-#ユウチューバー
-「千山さんの鼻フック楽しみ～～～！」[p]
-#梅田
-「今日は皆さんが普段使ってる鼻フックを持ってきてもらってるんですよね？」[p]
-#マニアＡ
-「あ、はい」[p]
+#Umeda
+I'm sorry, the arrangements were poorly made.[p][cm]
+#Mania A
+No, it's totally fine... Ahahaha (Umeda-san is really scary...)[p][cm]
+#Mania B
+(I feel like I saw something incredible...)[p][cm]
+#Mania C
+(But, I'm happy that I get to see Senzan's nose hook...)[p][cm]
+#Young comedian
+(Eh, this wasn't in the script...[p][cm]
+Umeda-san's ad-lib...? S-Scary!)[p][cm]
+#YouTuber
+Looking forward to Senzan-san's nose hook~~~![p][cm]
+#Umeda
+Today, everyone brought the nose hooks that you usually use, right?[p][cm]
+#Mania A
+Ah, yes.[p][cm]
 #
-ADが車付きのテーブルに載せた鼻フックを運んでくる[p]
-#梅田
-「ほぉー、これですか。色々ありますねー」[p]
-#ユウチューバー
-「すごーい」[p]
-#梅田
-「これとか・・・え、どうなってんのこれ」[p]
-#マニアＣ
-「あ、それは３方向鼻フックですね。上だけじゃなくて横にも拡げる用の」[p]
-#梅田
-「え、あ、こういうこと？こうやって横にも引っ張るんや」[p]
-「これ着けても大丈夫？ちょっとお前着けてみいや」[p]
-#若手芸人
-「僕ですか、えー、これですか・・・うわー・・・どうやって着けるんですかこれ」[p]
-#マニアＣ
-「やりましょうか」[p]
-「これをこうして・・・こういう感じで」[p]
-#若手芸人
-「あ・・・痛っ！アイタタタタタタ！」[p]
-「ちょ、鼻取れる！」[p]
-#梅田
-「カッカッカッカ！おーおー、ええやんか」[p]
-#ユウチューバー
-「キャハハハハ！おもしろーーい！」[p]
-#若手芸人
-「イタイイタイイタイ！」[p]
-#梅田
-「ぶっさいくやなぁ～～ｗどうや、屈辱感じてる？」[p]
-#若手芸人
-「いや不細工とかもうどうでもいいです。ただただ痛いっす！横がなんかちぎれそう！」[p]
-「もう外していいっすか」[p]
-#梅田
-「あー、ごくろうさん」[p]
-#若手芸人
-「・・・あー痛かったぁー。血出てないっすか？」[p]
-#梅田
-「出てへん出てへん。大げさやな」[p]
-「・・・なるほどね、色々あるんですね」[p]
-「今回はこの中からどれかを千山に着けてもらうわけやね」[p]
-#若手芸人
-「・・・？え、千山アナは今鼻フックを着けてるんじゃないんですか？」[p]
-#梅田
-「違う違う。準備や準備」[p]
-#若手芸人
-「鼻フックの準備って？なんかあるんですか？」[p]
-#梅田
-「それは出てきてからのお楽しみや」[p]
-「・・・遅いな。おーいまだかー！？」[p]
-#亜紀子
-「あ・・・お、終りました～！」[p]
-「あの・・・若手芸人さんちょっと来てもらっていいですか？」[p]
-#若手芸人
-「え、僕ですか？」[p]
-#梅田
-「おい、行ったれ。手伝ったれ」[p]
-#若手芸人
-「え、あ、はい・・・なんだろ？」[p]
+AD brings the nose hook placed on a table with wheels.[p][cm]
+#Umeda
+Oh, is this it? There are various types, huh.[p][cm]
+#Youtuber
+Wow![p][cm]
+#Umeda
+This one... eh, what's going on with this?[p][cm]
+#Mania C
+Ah, that's a three-way nose hook, right?[p][cm]
+It's not just for the top, but also expands sideways.[p][cm]
+#Umeda
+Eh, ah, like this? You pull it sideways like this?[p][cm]
+Is it okay if I put this on? Let me try it on for a bit.[p][cm]
+#Young comedian
+Is this for me? Um, is it this...[p][cm]
+whoa... how do I put this on?[p][cm]
+#Mania C
+Shall we do it? Like this... and then like this.[p][cm]
+#Young comedian
+Ah... it hurts! Ouch, ouch, ouch, ouch![p][cm]
+Wait, it's coming off![p][cm]
+#Umeda
+Kakakakaka! Oh, oh, isn't this great?[p][cm]
+#Youtuber
+Kyahaha! It's hilarious![p][cm]
+#Young comedian
+Ouch, ouch, ouch![p][cm]
+#Umeda
+You're so ugly~ (laughs) How does it feel, feeling humiliated?[p][cm]
+#Young comedian
+Can I take it off now?[p][cm]
+#Umeda
+Ah, thank you for your hard work.[p][cm]
+#Young comedian
+... Ouch, that hurt. Is there any blood?[p][cm]
+#Umeda
+It's not coming out, it's not coming out.[p][cm]
+You're being overdramatic. ...[p][cm]
+I see, there are various things, huh.[p][cm]
+This time, we'll have Chiyama wear one of these.[p][cm]
+#Young comedian
+...? Eh, isn't Chiyama Ana wearing a nose hook right now?[p][cm]
+#Umeda
+No, no. It's preparation, preparation.[p][cm]
+#Young comedian
+Nose hook preparation? Is there something for that?[p][cm]
+#Umeda
+That's something to look forward to when it comes out.[p][cm]
+... It's slow. Heeey, is it here yet!?[p][cm]
+#Akiko
+Ah... Oh, I'm done~! Um... Young comedian, can you come here for a moment?[p][cm]
+#Young comedian
+Me?[p][cm]
+#Umeda
+Hey, go. Help out.[p][cm]
+#Young comedian
+Umm, uh, yes... What is it?[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro999.jpg"  ]
 [tb_start_text mode=1 ]
-#若手芸人
-「・・・えっ！？うわっ！？」[p]
-「えーっ、すごっ・・・ええっ・・・！？」[p]
-#亜紀子
-「あ・・・すいません・・・これを持ってもらっていいですか？」[p]
-#若手芸人
-「え・・・これを・・・え・・・」[p]
-#亜紀子
-「それで、あの・・・引っ張って行って下さい・・・」[p]
-#若手芸人
-「え、引っ張る・・・って、あ、そういうこと・・・？」[p]
+#Young comedian
+... Huh!? Oh no!? Huh!? Amazing...[p][cm]
+Wha...!?[p][cm]
+#Akiko
+Um... Excuse me... Can you hold this for me?[p][cm]
+#Young comedian
+Eh... This... uh...[p][cm]
+#Akiko
+Um... So, um... Please pull it for me...[p][cm]
+#Young comedian
+Eh, pull... you mean, ah, like that...?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-3.jpg"  ]
 [tb_start_text mode=1 ]
-#ユウチューバー
-「え、なになに？なんかすごい驚いてる～」[p]
-#梅田
-「おい、はよ出てこいや！」[p]
-#若手芸人
-「は、はい！それじゃ・・・」[p]
+#Youtuber
+Huh, what's going on?[p][cm]
+You seem really surprised~[p][cm]
+#Umeda
+Hey, come out already![p][cm]
+#Young comedian
+Y-Yes! Well then...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-6.jpg"  ]
 [tb_start_text mode=1 ]
-#マニアたち
-「うぉぉぉぉぉ！？」[p]
-#ユウチューバー
-「キャーーーーッ！？」[p]
-#梅田
-「おー、いいねぇ」[p]
+#Maniacs
+Whoaaaa!?[p][cm]
+#Youtuber
+Kyaaaaa!?[p][cm]
+#Umeda
+Oh, that's nice.[p][cm]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-b.jpg"  width="603"  height="339"  x="692"  y="-5"  _clickable_img=""  name="img_63"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「おぉっ！？」[p]
-「これって豚の格好か！？ほとんど裸じゃん！」[p]
-「乳首とかこれシール貼ってるだけ・・・？うあぁ・・・エロッ！」[p]
-「しかもあの知的な千山アナが首輪を着けられて四つん這いで・・・」[p]
-「なんかすごい興奮する！」[p]
+#Nobuo
+Oh! Is this a pig costume!? You're practically naked![p][cm]
+Are you just sticking nipple stickers on yourself...?[p][cm]
+Ugh... so erotic! Moreover, that intelligent Chiyama Ana is wearing a collar and[r]crawling on all fours...[p][cm]
+It's really exciting![p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ど、どうもお待たせしました・・・」[p]
-#梅田
-「どうですかＣさん、千山のこの格好は？」[p]
-#マニアＣ
-「あ、いや・・・さ、最高ですっ！」[p]
-#梅田
-「実はこれはＣさんのリクエストで「知的で上品な女を豚の格好をさせて首輪を着けて鼻フックさせたい」ということだったので、それを千山にやってもらいました」[p]
-#マニアＣ
-「か、完璧です・・・！」[p]
-#若手芸人
-「あ、そういうことだったんですね・・・」[p]
-#ユウチューバー
-「豚コスプレかわい～～！」[p]
-#梅田
-「どう千山、豚のコスプレさせられて」[p]
-#亜紀子
-「は、はい・・・く、屈辱です・・・」[p]
-#梅田
-「女子アナやのにこんなヨゴレ芸人みたいな仕事させられてなぁ」[p]
-「ほとんど裸で首輪まで着けられて。悔しい？」[p]
-#亜紀子
-「はい・・・悔しいです・・・」[p]
-#梅田
-「でも自分でこれからは身体張ってやっていきますって言ったんやから、頑張らんとなぁ」[p]
-#亜紀子
-「は、はい・・・頑張ります・・・っ」[p]
-#梅田
-「いやぁいいよいいよ。・・・これ尻尾はどうなってんの？」[p]
-#亜紀子
-「あ・・・はい、これは・・・お尻の穴に・・・」[p]
-#梅田
-「あ、これケツの穴に挿さってるんや。なるほど！」[p]
-#マニアたち
-「え・・・ええっ！？」[p]
-#ユウチューバー
-「えーーっ！アナルバイブ！？」[p]
-#梅田
-「こら！はっきり言うな！」[p]
-「これはこういうモノなんでしょ？」[p]
-#亜紀子
-「は、はい、れっきとしたコスプレ衣装で・・・お尻の穴に挿入して着けるタイプの尻尾なんですよ」[p]
-#梅田
-「なるほどね。というわけで、それじゃＣさん、鼻フックを着けてあげてください」[p]
-#マニアＣ
-「え、あ、いいんですか・・・？」[p]
-#梅田
-「そりゃそうですよ。それがメインですから。思いっきり着けちゃってください」[p]
-#マニアＣ
-「は、はいっ・・・それじゃ失礼して・・・」[p]
+#Akiko
+S-Sorry to keep you waiting...[p][cm]
+#Umeda
+How about it, Mr. C?  What do you think of Chiyama's outfit?[p][cm]
+#Mania C
+Ah, no... I-I mean, it's the best![p][cm]
+#Umeda
+Actually, this was a request from Mr. C to dress an intelligent and elegant[r]woman in a pig costume, put a collar on her, and make her wear a nose hook.[p][cm]
+So I had Chiyama do it.[p][cm]
+#Mania C
+P-Perfect...![p][cm]
+#Young comedian
+Ah, so that's what it meant...[p][cm]
+#Youtuber
+Pig cosplay is so cute~![p][cm]
+#Umeda
+How about it, Chiyama?[p][cm]
+Being made to cosplay as a pig[p][cm]
+#Akiko
+Y-Yes... It's, it's humiliating...[p][cm]
+#Umeda
+Even though I'm a female announcer, I'm being forced to do such a dirty job like[r]a vulgar comedian...[p][cm]
+Almost naked, with a collar on.[p][cm]
+Are you frustrated?[p][cm]
+#Akiko
+Yes... I'm frustrated...[p][cm]
+#Umeda
+But since I said I would put myself out there and do my best from now on, I have[r]to give it my all.[p][cm]
+#Akiko
+Y-Yes... I'll do my best...[p][cm]
+#Umeda
+Oh, it's fine, it's fine... But what about this tail?[p][cm]
+#Akiko
+Ah... Yes, this... in the hole of my butt...[p][cm]
+#Umeda
+Ah, this is inserted into the hole of my butt.[p][cm]
+I see![p][cm]
+#Maniacs
+Eh... Eh?![p][cm]
+#Youtuber
+Eh?! Anal vibrator?![p][cm]
+#Umeda
+Hey! Don't speak so bluntly! Is this the kind of thing it is?[p][cm]
+#Akiko
+Y-Yes, it's a proper cosplay costume...[p][cm]
+It's a type of tail that you insert and wear in the hole of your butt.[p][cm]
+#Umeda
+I see. In that case, C-san, please put on the nose hook.[p][cm]
+#Mania C
+E-Excuse me, is it okay...?[p][cm]
+#Umeda
+Of course. That's the main point.[p][cm]
+Please wear it with all your might.[p][cm]
+#Mania C
+Y-Yes... Then, excuse me...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-7.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「アッ・・・ウッ」[p]
-#マニアＣ
-「こ、こんな感じですかね・・・」[p]
-#梅田
-「もっといけるやろ。もっと思いっきりガーーーッと引っ張ったれ」[p]
-#マニアＣ
-「え・・・い、いいんですか？」[p]
-#梅田
-「ええからええから。それがやりたいんでしょ？やりたいようにやっちゃってください」[p]
-#マニアＣ
-「そ、それじゃ・・・」[p]
-#亜紀子
-「ヒッ・・・い、痛っ・・・痛い痛い！」[p]
-#マニアＣ
-「あっ、す、すいません」[p]
-#梅田
-「ええからええから。こいつの言うことは無視してええから思いっきりいけ」[p]
-#マニアＣ
-「え・・・で、でも・・・」[p]
-#梅田
-「ほら貸してみ。・・・もっとこう！思いっきり！」[p]
-#亜紀子
-「アヒーーーーッ！痛ーーーーいっ！痛いっ！やめてくださいーーーーっ！」[p]
-#梅田
-「やかましい！」[p]
+#Akiko
+Ah...[p][cm]
+Uh[p][cm]
+#Mania C
+I-Is this the right way...?[p][cm]
+#Umeda
+You can do better. Pull it with all your might![p][cm]
+#Mania C
+E... Is, is it okay?[p][cm]
+#Umeda
+It's fine, it's fine. That's what you want to do, right?[p][cm]
+Please do it the way you want.[p][cm]
+#Mania C
+W-Well then...[p][cm]
+#Akiko
+Ah... I-It hurts... it hurts, it hurts![p][cm]
+#Mania C
+Ah, s-sorry.[p][cm]
+#Umeda
+It's fine, it's fine. Just ignore what this person says and do it your way.[p][cm]
+#Mania C
+E... B-But...[p][cm]
+#Umeda
+Here, let me borrow it... More like this![p][cm]
+Give it all you've got![p][cm]
+#Akiko
+Ahhhhh! It hurts so much! It hurts![p][cm]
+Please stop![p][cm]
+#Umeda
+Shut up![p][cm]
 #
-バシィッ！[p]
-梅田が亜紀子の尻を引っ叩く音がスタジオに響き渡る[p]
-#亜紀子
-「ンヒッ！」[p]
-#若手芸人
-「ちょ・・・梅田さんまずいですって！」[p]
-#梅田
-「お前は黙っとけ！」[p]
-#若手芸人
-「は、はいっ」[p]
-#梅田
-「ほら、だいぶ不細工な面になったやろ。このくらい引っ張らんと」[p]
+*Smack! * The sound of Umeda slapping Akiko's butt echoes through the studio.[p][cm]
+#Akiko
+Nhi![p][cm]
+#Young comedian
+H-Hey... Umeda-san, this is bad![p][cm]
+#Umeda
+Shut up![p][cm]
+#Young comedian
+Y-Yes...[p][cm]
+#Umeda
+Look, your face has become quite ugly.[p][cm]
+I have to pull it like this.[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro149-5.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ハグゥ・・・ンヒッ・・・鼻が・・・痛い・・・っ」[p]
-「は、外してください・・・っ」[p]
-#梅田
-「豚が人間の言葉しゃべるな！」[p]
+#Akiko
+Hagu... Nhi... My nose... hurts...[p][cm]
+P-Please, take it off...[p][cm]
+#Umeda
+Don't speak human words, you pig![p][cm]
 #
-バシッ！[p]
-#亜紀子
-「アゥッ！」[p]
-#梅田
-「しゃべるときは語尾に「ブヒ」って着けろ！」[p]
+*Smack![p][cm]
+*[p][cm]
+#Akiko
+Ahh![p][cm]
+#Umeda
+When you speak, make sure to add buhi at the end![p][cm]
 #
-バシッ！[p]
-#亜紀子
-「な・・・なんでわたしが・・・そこまでしないといけないんですかっ！」[p]
-#梅田
-「口答えする気か？もっと強くしてほしいんか？おいっ」[p]
+*Smack![p][cm]
+*[p][cm]
+#Akiko
+W-Why do I have to go that far...[p][cm]
+#Umeda
+You wanna talk back? You want me to be even rougher?[p][cm]
+Hey![p][cm]
 #
-グイッ[p]
-#亜紀子
-「アギィィーーーーッ！アイタタタタ！！ご、ごめんなさいっ！ごめんなさいブヒっ！」[p]
-#マニアたち
-「うわぁ・・・」[p]
-#梅田
-「自分の立場がわかったか？」[p]
-#亜紀子
-「は、はいブヒッ！も、もう逆らいませんブヒッ！」[p]
-#梅田
-「痛そうな顔すんな。俺が酷いことしてるみたいに思われるやろ」[p]
-#亜紀子
-「す、すいませんブヒッ！」[p]
-#梅田
-「笑顔笑顔！」[p]
-#亜紀子
-「は、はいブヒッ！」[p]
+*Gwi-*[p][cm]
+#Akiko
+Owww! It hurts! I-I'm sorry! I'm sorry, buhi![p][cm]
+#Maniacs
+Uwaa...[p][cm]
+#Umeda
+Do you understand your position now?[p][cm]
+#Akiko
+Y-Yes, buhi! I-I won't defy you anymore, buhi![p][cm]
+#Umeda
+Don't make such a painful face.[p][cm]
+People might think I'm doing something terrible.[p][cm]
+#Akiko
+S-Sorry, buhi![p][cm]
+#Umeda
+Smile, smile![p][cm]
+#Akiko
+Y-Yes, buhi![p][cm]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-b.jpg"  width="558"  height="314"  x="729"  y="483"  _clickable_img=""  name="img_71"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「おぉーーすげぇ・・・！」[p]
-「あの千山アナの鼻フック顔・・・すげえエロいな！」[p]
-「いつも知的な千山アナの顔が豚みたいにされて・・・」[p]
-「鼻フックなんて興味なかったけど・・・なんか目覚めそうだわ」[p]
+#Nobuo
+Ohhh, amazing...! That Chiyama Ana's nose hook face...[p][cm]
+it's so damn erotic! Chiyama Ana, who is always intellectual, has her face[r]treated like a pig...[p][cm]
+I never had any interest in nose hooks, but...[p][cm]
+I feel like I'm awakening to something.[p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro118-8.jpg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「よーし、それじゃちゃんと進行の方もやれよ」[p]
-#亜紀子
-「は、はひ・・・ど、どうでふかマニアの皆様・・・ブヒッ・・・わたしの顔は不細工になってますか・・・ブヒッ」[p]
-#マニアＡ
-「え・・・あ、はい、だいぶ・・・なってます」[p]
-#マニアＢ
-「良い感じの不細工だと思います」[p]
-#マニアＣ
-「いや・・・元がすごく上品な美人なので・・・さ、最高です」[p]
-#亜紀子
-「あ・・・ありがとうございまふブヒッ」[p]
-#梅田
-「ユウチューバーちゃん、どうこの不細工な顔見て」[p]
-#ユウチューバー
-「おもしろ～～～い！すごい美人なのにすっごい不細工～～～！」[p]
-#若手芸人
-（すごいなこの娘・・・この状況でようそんな無邪気に笑えるなぁ）[p]
-#亜紀子
-「み、皆様は・・・こうやって女性に鼻フックをした後・・・どうしたいですかブヒッ・・・？」[p]
-#マニアＡ
-「え・・・それは・・・まぁ・・・」[p]
-#マニアＢ
-「それはやっぱり・・・」[p]
-#梅田
-「まぁそりゃもう興奮してるわけやから。もうヤりたいわな」[p]
-#マニアＣ
-「そ、そうですね」[p]
-#梅田
-「でもさすがにそれは今日は出来ないですから」[p]
-「その後にあるでしょ、やりたいこと。ことが終って・・・」[p]
-#マニアＡ
-「え、あ・・・」[p]
-#梅田
-「この顔にぶっかけたくないですか？」[p]
-#マニアＣ
-「あ、はい！かけたいです！」[p]
-#マニアＢ
-「それは最高に興奮しますね」[p]
-#ユウチューバー
-「ガンシャですよねガンシャ」[p]
-#梅田
-「はっきり言うなて」[p]
-「今日はそのぶっかけをやっていただきましょう！」[p]
-#マニアたち
-「えーーーーっ！？」[p]
+#Umeda
+Alright, then make sure to handle the progress properly.[p][cm]
+#Akiko
+H-Ha... H-How do you all think...[p][cm]
+the nose hook looks on me, fellow enthusiasts...[p][cm]
+Buhi... Does my face look ugly...[p][cm]
+Buhi?[p][cm]
+#Mania A
+Eh... Ah, yes, it's quite... developed.[p][cm]
+#Mania B
+I think it's a good kind of ugly.[p][cm]
+#Mania C
+No... Since she's originally a very elegant beauty...[p][cm]
+It's... magnificent.[p][cm]
+#Akiko
+Th... Thank you very much, buhi.[p][cm]
+#Umeda
+Youtuber-chan, how do you see this ugly face?[p][cm]
+#Youtuber
+Hahaha, this is hilarious! She's such a beautiful woman, yet she looks so[r]incredibly ugly![p][cm]
+#Young comedian
+(Wow, this girl is amazing... To be able to laugh so innocently in a situation[r]like this.)[p][cm]
+#Akiko
+U-Um... After doing something like putting a nose hook on a woman...[p][cm]
+what would you like to do, everyone...?[p][cm]
+Buhi...?[p][cm]
+#Mania A
+Eh... Well...[p][cm]
+#Mania B
+That's...[p][cm]
+#Umeda
+Well, I mean, I'm already excited.[p][cm]
+I want to do it already.[p][cm]
+#Mania C
+Y-Yes, that's right.[p][cm]
+#Umeda
+But, as expected, we can't do that today.[p][cm]
+There will be something after that, right?[p][cm]
+After finishing what we want to do...[p][cm]
+#Mania A
+Eh, ah...[p][cm]
+#Umeda
+Don't you want to cum on this face?[p][cm]
+#Mania C
+Yes, I want to do it![p][cm]
+#Mania B
+That's incredibly exciting, isn't it?[p][cm]
+#Youtuber
+It's Gansha, right? Gansha.[p][cm]
+#Umeda
+Don't say it so clearly. Let's do that bukkake today![p][cm]
+#Maniacs
+Eh?![p][cm]
 
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-b.jpg"  width="544"  height="306"  x="727"  y="487"  _clickable_img=""  name="img_76"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「えっぶっかける！？」[p]
-「どういうことだ・・・？まさか本当にぶっかけるんじゃ・・・」[p]
+#Nobuo
+Bukkake?! What do you mean...?[p][cm]
+You're not actually going to do a bukkake, are you...?[p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#梅田
-「といっても本当にぶっかけるのはさすがにテレビ的に無理なんで、今日はそのマネだけしてみましょうということで」[p]
-「こちらに白くてドロっとした液体の入った水鉄砲がありますんで、それで千山の鼻フック顔に思いっきりぶっかけていただこうというわけです」[p]
-#マニアＡ
-「あ、なるほど」[p]
-#若手芸人
-「そういうことね。よかった～、本当にかけるのかと思いましたよ」[p]
-「この番組だったらやりかねないからなぁ～」[p]
-#梅田
-「アホ、そこまではなんぼなんでもやらんわ」[p]
-「それじゃ皆さん前の方に出ていただいて・・・」[p]
+#Umeda
+Well, it's impossible to actually do a bukkake on TV, so let's just try to[r]imitate it today.[p][cm]
+Here, we have a water gun filled with a white and sticky liquid.[p][cm]
+We're going to use it to spray it all over Senzan's face while he's hooked on[r]the nose.[p][cm]
+#Mania A
+Ah, I see.[p][cm]
+#Young comedian
+I see. Thank goodness~ I thought we were actually going to do it.  Because it's[r]this show, they might actually do it~[p][cm]
+#Umeda
+Idiot, we wouldn't go that far no matter what.[p][cm]
+Well then, everyone please come forward...[p][cm]
 
 [_tb_end_text]
 
@@ -879,93 +958,101 @@ ADが車付きのテーブルに載せた鼻フックを運んでくる[p]
 [bg  time="1000"  method="crossfade"  storage="hiro118-7.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#ディレクター
-「一旦カメラ止めまーす」[p]
-「それじゃマニアの皆さんはこちらに来ていただいて、カメラはこっちね」[p]
-#梅田
-「おい、ディレクターちょっとええか」[p]
-#ディレクター
-「はい、なんですか梅田さん」[p]
-#梅田
-「これさ、ほんまにぶっかけることにせえへん？」[p]
-#ディレクター
-「えっ、どういうことですか・・・？」[p]
-#梅田
-「だから千山の顔のアップにしてさ、画面の外からほんまのザーメンぶっかけるねん」[p]
-「ほんでオンエアでは偽物の液体をかけたってことにすれば、これおもろいやん。いけるやろ」[p]
-#ディレクター
-「ええっ！？そ、それはちょっと・・・」[p]
-#勝野
-「いや、それいいですね！さすが梅田さんナイスアイデアです、それでいきましょう！」[p]
-#ディレクター
-「えっ、ほ、本当にやるんですか？」[p]
-#勝野
-「その方がリアリティがあるだろ。画面にさえ映らなきゃ何とでもなるんだから」[p]
-#ディレクター
-「え、でも千山さんは・・・」[p]
-#勝野
-「お前は大丈夫だよな？」[p]
-#亜紀子
-「は、はい・・・大丈夫です」[p]
-#若手芸人
-「え、マジでやるんですか・・・？」[p]
-#ユウチューバー
-「えー、すごーーーい！テレビやばっ！」[p]
-#マニアたち
-「え・・・俺たちが本当に・・・？」[p]
-#梅田
-「皆さんもせっかくやねんから千山の顔にザーメンぶっかけてみたいでしょ？」[p]
-#マニアＡ
-「え・・・まぁ・・・それは・・・」[p]
-#マニアＣ
-「かけたいですけど・・・」[p]
-#勝野
-「やっぱり下ネタ番組とはいえリアリティは必要ですからね。遠慮なくやっちゃってください」[p]
-「ほら、お前からもお願いしろ」[p]
-#亜紀子
-「は、はい。皆様・・・どうか遠慮なく私の顔に、ざ、ザーメンをぶっかけてください」[p]
-#マニアＢ
-「は、はぁ・・・ゴクリ」[p]
-#マニアＡ
-「そ、そういうなら・・・ハァハァ」[p]
-#マニアＣ
-「なんか・・・興奮してきた・・・っ」[p]
-#若手芸人
-（ほ、ほんとにやるのかよ・・・なんて番組だ・・・）[p]
-（千山アナって人気あるはずなのに・・・こういう扱いなの？）[p]
-#ディレクター
-「そ、それじゃ・・・それでいきますけど・・・。知りませんよ？」[p]
-#勝野
-「責任は俺が取るから。心配するな」[p]
-#ディレクター
-「わ、わかりました・・・それじゃマニアの方はこちらの方に立っていただいて・・・」[p]
+#Director
+Cut the camera for a moment. Alright, everyone from the Mania group, please come[r]over here, and the camera should be over here.[p][cm]
+#Umeda
+Hey, Director, can I talk to you for a moment?[p][cm]
+#Director
+Yes, what is it, Umeda-san?[p][cm]
+#Umeda
+Hey, can we really go through with this bukkake thing?[p][cm]
+#Director
+Huh, what do you mean...?[p][cm]
+#Umeda
+So, let's zoom in on Chiyama's face and then spray real semen from outside the[r]screen.[p][cm]
+And then, if we pretend that we sprayed fake liquid on air, this will be funny.[p][cm]
+It'll work, right?[p][cm]
+#Director
+Eh!? Th-That's a bit...[p][cm]
+#Katsuno
+No, that's a great idea! As expected of Umeda-san, nice idea![p][cm]
+Let's go with that![p][cm]
+#Director
+Eh, a-are we really going to do that?[p][cm]
+#Katsuno
+That would make it more realistic, right?[p][cm]
+As long as it doesn't show up on the screen, we can do anything.[p][cm]
+#Director
+But, what about Chiyama-san...[p][cm]
+#Katsuno
+Are you okay with this?[p][cm]
+#Akiko
+Y-Yes... I'm fine.[p][cm]
+#Young comedian
+W-Wait, are you really going to do that...?[p][cm]
+#Youtuber
+Wow, that's amazing! This TV show is insane![p][cm]
+#Maniacs
+Eh... Are we really going to...?[p][cm]
+#Umeda
+Since we're all here, wouldn't you all like to try ejaculating on Chiyama's[r]face?[p][cm]
+#Mania A
+Eh... Well... That's...[p][cm]
+#Mania C
+I want to do it, but...[p][cm]
+#Katsuno
+Even though it's a dirty program, realism is still necessary.[p][cm]
+Please don't hold back and go for it.[p][cm]
+Come on, ask for it yourself.[p][cm]
+#Akiko
+Y-Yes. Everyone... please don't hesitate and ejaculate on my face.[p][cm]
+#Mania B
+H-Haa...[p][cm]
+gulp[p][cm]
+#Mania A
+I-If that's the case...[p][cm]
+*panting*[p][cm]
+#Mania C
+Somehow... I'm getting excited...[p][cm]
+#Young comedian
+(A-Are they really going to do it...[p][cm]
+What kind of show is this...) (Even though Chiyama Ana is supposed to be[r]popular...[p][cm]
+is this how she's treated?)[p][cm]
+#Director
+W-Well then... let's go with that...[p][cm]
+I don't know, okay?[p][cm]
+#Katsuno
+I'll take responsibility. Don't worry.[p][cm]
+#Director
+U-Understood... In that case, Mania, please stand over here...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro149-5.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「さぁそれではマニアの皆さんに白いドロッとした液体をかけていただくわけですが」[p]
-「千山、今の気分は？」[p]
-#亜紀子
-「はひ・・・は、恥ずかしいでふ・・・」[p]
-#梅田
-「ブヒは！」[p]
-#亜紀子
-「あ、すいませんっ！ブヒッ！恥ずかしいブヒッ！」[p]
+#Umeda
+Now then, it's time for all the Mania to have the white, sticky liquid poured on[r]them.[p][cm]
+Chiyama, how are you feeling right now?[p][cm]
+#Akiko
+H-Ha... I-I'm embarrassed...[p][cm]
+#Umeda
+Oink![p][cm]
+#Akiko
+Ah, I'm sorry! Oink! It's embarrassing, oink![p][cm]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-c.jpg"  width="546"  height="307"  x="730"  y="496"  _clickable_img=""  name="img_88"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「なんだ、偽物の液体を水鉄砲でかけるだけか・・・まぁそりゃそうだよな本物のザーメンかけるわけないか」[p]
-「でも偽物の液体とはいえ、なんか興奮するなぁ」[p]
-「シコシコシコシコ・・・」[p]
+#Nobuo
+What, just spraying fake liquid with a water gun...[p][cm]
+Well, I guess that's right. There's no way they would use real semen.[p][cm]
+But even though it's fake liquid, it's still kind of exciting.[p][cm]
+*Stroking, stroking, stroking...[p][cm]
+*[p][cm]
 
 
 [_tb_end_text]
@@ -973,167 +1060,177 @@ ADが車付きのテーブルに載せた鼻フックを運んでくる[p]
 [tb_image_hide  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro149-1.jpg"  ]
 [tb_start_text mode=1 ]
-#マニアＡ
-「はぁ～すごい・・・シコシコシコ」[p]
-#マニアＢ
-「千山アナの鼻フック顔・・・興奮する・・・シコシコシコッ」[p]
-#マニアＣ
-「ほとんど裸じゃん・・・千山アナってここまでするんだ・・・シコシコシコ」[p]
+#Mania A
+Haa~ Amazing... Stroke, stroke, stroke.[p][cm]
+#Mania B
+Chiyama Ana's nose hook face...[p][cm]
+It's exciting... Stroke, stroke, stroke.[p][cm]
+#Mania C
+She's almost naked... Chiyama Ana goes this far...[p][cm]
+Jerk, jerk, jerk.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-9.jpg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「さぁいつでも自分のタイミングでぶっかけてくださいよ」[p]
-「鼻フックの顔にぶっかけるときは、どこを狙うんですか？やっぱり鼻ですか？」[p]
-#マニアＣ
-「そうですね、やっぱり大きく広がった鼻の穴ですかね」[p]
-#マニアＡ
-「僕もそこまで鼻にはこだわらないですかね。不細工な顔にぶっかけてやるということ自体が興奮するんで」[p]
-#梅田
-「ほら、千山もなんかしゃべって盛り上げんと。ホンマのザーメンかけられると思ってなんかしゃべれ」[p]
-#亜紀子
-「は、はひっ・・・や、やめてください・・・っブヒッ」[p]
-#梅田
-「ちゃうやろ！もっと笑顔で「たっぷりかけてください」みたいなこと言わんかい！」[p]
-#亜紀子
-「は、はい、すいませんブヒッ！」[p]
+#Umeda
+Now, please cum on me whenever you want.[p][cm]
+When you're going to cum on her nose hook face, where do you aim?[p][cm]
+Is it still the nose?[p][cm]
+#Mania C
+Yes, I think it's still the enlarged nostrils.[p][cm]
+#Mania A
+I don't really care that much about the nose.[p][cm]
+The fact that I can cum on an ugly face itself is exciting.[p][cm]
+#Umeda
+Hey, Chiyama, say something to liven things up.[p][cm]
+Act like you're expecting to be covered in real semen and say something.[p][cm]
+#Akiko
+H-Hey... p-please stop...   *sniffle*[p][cm]
+#Umeda
+No way! Can't you say something like Please cover me with a big smile?[p][cm]
+#Akiko
+Y-Yes, I'm sorry *sniffle*[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro149-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「み、皆様・・・亜紀子の不細工な顔に・・・いっぱいザーメンかけてください・・・っ♥」[p]
-#ユウチューバー
-「キャハハハハ！メス豚だぁ～～～！」[p]
-#マニアＡ
-「ハァッ・・・ハァッ・・・え、エロっ」[p]
-#マニアＢ
-「やばい・・・すげえ興奮する・・・シコシコシコ」[p]
-#梅田
-「さあいつでもいいですよー、好きなタイミングでかけてくださいねー」[p]
-「ほら、千山ももっとお願いしないと」[p]
-#亜紀子
-「ハヒッ・・・このメス豚に・・・皆様の濃いザーメンをお恵みくださいませ・・・ブヒッ」[p]
-#マニアＡ
-「ふぉぉ・・・！シコシコシコシコッ」[p]
-#マニアＣ
-「うぉ・・・たまらん・・・っ、シコシコシコシコ」[p]
-#ユウチューバー
-「キャハハハハ！千山さんもっともっと！」[p]
-#亜紀子
-「は、はひっ・・・あ、亜紀子はザーメン大好きな変態メス豚ですっ・・・いっぱいかけてくださいブヒッ♥」[p]
-#マニアＢ
-「ハァハァハァ・・・シコシコシコッ」[p]
-#梅田
-「お前も、ほらケツ叩いたれ」[p]
-#若手芸人
-「は、はいっ」[p]
-（こうなりゃやけくそだ！）[p]
-「おい、もっとブヒブヒ鳴け！」[p]
+#Akiko
+E-Everyone... please cover my ugly face with lots of semen...   ♥[p][cm]
+#Youtuber
+Kyahaha! You're such a female pig~![p][cm]
+#Mania A
+Haa... haa... E-Ero...[p][cm]
+#Mania B
+Oh no... I'm getting so excited...[p][cm]
+Jerk, jerk, jerk.[p][cm]
+#Umeda
+Alright, you can call me anytime you want, okay?[p][cm]
+Come on, Chiyama, you have to ask for more.[p][cm]
+#Akiko
+Hahi... Please bless this female pig with your thick semen...[p][cm]
+Buhi.[p][cm]
+#Mania A
+Fwooo...! Jerk, jerk, jerk...[p][cm]
+#Mania C
+Oh... I can't resist... jerk, jerk, jerk...[p][cm]
+#Youtuber
+Kyahaha! Chiyama-san, more, more![p][cm]
+#Akiko
+H-Hahi... A-Akiko is a perverted female pig who loves semen...   Please cover me[r]with lots of it, buhi ♥[p][cm]
+#Mania B
+Haa haa haa... Jerk, jerk, jerk...[p][cm]
+#Umeda
+You too, come on, spank that ass.[p][cm]
+#Young comedian
+Y-Yes. (I've reached my limit!)[p][cm]
+Hey, squeal more, buhi buhi![p][cm]
 #
-バシッ！[p]
-#亜紀子
-「ハヒッ！・・・ブヒッ！フゴッ・・・ブヒィーッ♥」[p]
-#マニアＢ
-「う・・・で、出る・・・っ」[p]
+*Smack![p][cm]
+*[p][cm]
+#Akiko
+Hahi!... Buhi! Fugo...   Buhiii ♥[p][cm]
+#Mania B
+U... I'm... I'm cumming...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro149-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッ！[p]
-#梅田
-「おお！今、右の鼻の穴に見事命中しました！」[p]
-#マニアＢ
-「う・・・っ」[p]
+*Splat![p][cm]
+*[p][cm]
+#Umeda
+Oh! Now, I've hit the right nostril perfectly![p][cm]
+#Mania B
+Ugh...[p][cm]
 #
-ピュピュッ・・・！[p]
-#亜紀子
-「あ・・・フゴッ・・・」[p]
-#梅田
-「いいですねー。いい感じでかかってますよー」[p]
-「ほら、かけてもらったらお礼言わんかい！」[p]
-#亜紀子
-「は、はひっ！ざ、ザーメンをかけてくださってありがとうございますっ・・・ブヒッ♥」[p]
-#梅田
-「さあさあ他の方もどんどんかけちゃってくださいねー！」[p]
-#ユウチューバー
-「キャハハハ！ほら千山さんもっとお願いして～！」[p]
+Pyu pyu...![p][cm]
+#Akiko
+Ah... Fugo...[p][cm]
+#Umeda
+That's great. It's coming along nicely.[p][cm]
+Hey, if someone does something nice for you, don't you think you should say[r]thank you?[p][cm]
+#Akiko
+H-Hahi! Th-Thank you for cumming on me...   Buhi ♥[p][cm]
+#Umeda
+Come on, come on, please cum on the other side too![p][cm]
+#Youtuber
+Kyahaha! Come on, Senzan-san, please ask for more~![p][cm]
 #
-バシッ！バシィッ！[p]
-#亜紀子
-「アヒッ！は、はひっ、もっとザーメンかけてくださひぃっ！ブヒッ！ブヒィッ！」[p]
-#梅田
-「お、ええぞユウチューバー！カッカッカッ！」[p]
-#マニアＣ
-「うぉぉ・・・やばっ・・・出るっ！」[p]
-#マニアＡ
-「ぼ、僕も・・・出るっ」[p]
+*Bashh! Bashii!  *[p][cm]
+#Akiko
+Ahh! P-Please, m-more cum on me![p][cm]
+Buhi! Buhyii![p][cm]
+#Umeda
+Oh, that's great, YouTuber! Kakakaka![p][cm]
+#Mania C
+Whoa... I-I'm gonna... cum![p][cm]
+#Mania A
+I-I'm also... going to cum![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro149-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッ！[p]
-ドピュピュッ！[p]
-#亜紀子
-「ぅ・・・ヒッ」[p]
-#梅田
-「おぉ、いったぁ！鼻の穴と、口にもいったよぉーｗ」[p]
-#マニアＡ
-「うっ・・・ハァッ」[p]
-#マニアＣ
-「うぉぉ・・・っ！」[p]
+*Splash! * *Dopyupyuu!  *[p][cm]
+#Akiko
+Uhh...[p][cm]
+Hic[p][cm]
+#Umeda
+Oh, I did it! It went into my nostrils and mouth, lol.[p][cm]
+#Mania A
+Ugh...[p][cm]
+Haah[p][cm]
+#Mania C
+Whoa...![p][cm]
 #
-ピュピュピュッ！[p]
-ビュルビュルッ！[p]
-#梅田
-「あぁ！ザーメンが口の中にいっぱい！」[p]
-「出たねぇ～～これは結構な量が出ましたよぉ～～！カッカッカッ！」[p]
-#ユウチューバー
-「ザーメンまみれだぁ～～！くさそーー！」[p]
+Pyu pyu pyu! *Byurubyuru!  *[p][cm]
+#Umeda
+Ah! My mouth is full of semen![p][cm]
+It came out~ This is quite a substantial amount~![p][cm]
+Kukukuku![p][cm]
+#Youtuber
+Covered in semen~! It's so gross~![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro149-6.jpg"  ]
 [tb_cg  id="149"  ]
 [tb_image_show  time="1000"  storage="default/hiro101-c.jpg"  width="505"  height="284"  x="799"  y="511"  _clickable_img=""  name="img_103"  ]
 [tb_start_text mode=1 ]
-#梅田
-「ピーーーーが口の中にいっぱい！」[p]
-#ユウチューバー
-「ピーーーーまみれだぁ～！くさそーー！」[p]
-#ノブオ
-「おぉ・・・すげえ！」[p]
-「なんかめっちゃリアルだなぁ。本当にぶっかけられてるみたいだ！」[p]
-「偽物のザーメンとは解ってるけど・・・なんかマジで興奮するわ」[p]
-「そのへんのAVより全然エロいよ」[p]
-シコシコシコシコ[p]
+#Umeda
+Peeeee went into my mouth![p][cm]
+#Youtuber
+Covered in pee~! It's so stinky~![p][cm]
+#Nobuo
+Wow... it's so realistic. It really feels like I'm being covered in bukkake![p][cm]
+I know it's fake semen, but...[p][cm]
+it really gets me excited. It's way more erotic than your average AV.  *Shiko[r]shiko shiko shiko*[p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro118-10.jpg"  ]
 [tb_cg  id="118"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンぁ・・・うっ」[p]
-#梅田
-「おい、吐き出すなよ！じっくりと味わって飲みこめ」[p]
-「大丈夫や、ちゃんと飲んでも身体に害のない液体やから」[p]
-#ユウチューバー
-「キャハハハ！たしかに！」[p]
-#亜紀子
-「は、はひっ・・・ン・・・ゴクッ♥」[p]
-#マニアＡ
-「の・・・飲んだ・・・」[p]
-#マニアＣ
-「あの千山アナが・・・俺の・・・を・・・」[p]
-#若手芸人
-（うわ・・・すごいなこの人・・・）[p]
-#梅田
-「ほら、お礼は」[p]
-#亜紀子
-「は・・・はひ、ざ、ザーメンをたくさんかけていただいて・・・ありがとうございまふ・・・ブヒッ」[p]
+#Akiko
+Nn... ugh.[p][cm]
+#Umeda
+Hey, don't spit it out! Savor it and swallow it all.[p][cm]
+It's okay, it's a liquid that won't harm your body even if you drink it.[p][cm]
+#Youtuber
+Kyahaha! That's right![p][cm]
+#Akiko
+H-Haah... Nn...   *gulp*♥[p][cm]
+#Mania A
+I... drank it...[p][cm]
+#Mania C
+That Chiyama Ana... my...[p][cm]
+#Young comedian
+(Wow... this person is amazing...)[p][cm]
+#Umeda
+Come on, show your gratitude[p][cm]
+#Akiko
+Th-Thank you... for covering me with so much...[p][cm]
+s-semen...[p][cm]
+*oink*[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -1143,37 +1240,40 @@ ADが車付きのテーブルに載せた鼻フックを運んでくる[p]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-数日後―――[p]
+A few days later--[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro201.jpg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-1.png"  width="569"  height="1423"  left="100"  top="15"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「はぁ・・・」[p]
+#Akiko
+*sigh*[p][cm]
 #
-明日香との勝負に勝って以来、亜紀子は性奴隷として忙しい日々を送っていた[p]
-連日勝野に呼び出されては長時間の性奉仕[p]
-勝野はもはやただ犯すことには飽き、ただ戯れとしてわたしに屈辱を与えることを楽しんでいるようだ[p]
-梅田に呼び出されて性処理に使われることもあった[p]
-梅田は勝野よりも凶暴性が高く、夜通し亜紀子をいたぶり啼き声を楽しむのだった[p]
-そして番組での露出もどんどん過激になっていた[p]
-先日の「鼻フック回」も放送では編集で危ない部分はカットされていたが、現場では明らかに一線を越えてしまっていた[p]
-全裸に近い格好でアナルにバイブを突っ込み、カメラの前で顔にザーメンをかけられるというのはほとんどAVの撮影と変わらない[p]
-#亜紀子
-（スタッフにもなんでもやる女だと思われてるでしょうね・・・）[p]
+Since winning the match against Asuka, Akiko has been leading busy days as a sex[r]slave.[p][cm]
+Every day, Akiko is called out by Kanano and engages in long hours of sexual[r]service.[p][cm]
+Kanano seems to have grown tired of just violating me and now enjoys humiliating[r]me as a form of amusement.[p][cm]
+There were times when I was called by Umeda and used for sexual service.[p][cm]
+Umeda, who is more violent than Kano, torments Akiko all night long and enjoys[r]her cries of pain.[p][cm]
+And her exposure on the show became more and more extreme.[p][cm]
+In the recent nose hook episode, although the dangerous parts were edited out in[r]the broadcast, it was clear that they had clearly crossed a line on set.[p][cm]
+Being almost naked, having a vibrator inserted into my anus, and having semen[r]sprayed on my face in front of the camera is almost no different from shooting[r]an AV.[p][cm]
+#Akiko
+(I'm sure the staff thinks I'm a woman who will do anything...)[p][cm]
 #
-あの場にいた人間には、亜紀子が梅田に逆らえない奴隷であるように映ったはずだ[p]
-#亜紀子
-（勝野や梅田に抱かれるのはまだ耐えられるけど・・・カメラの前で辱められるのはもうイヤよ・・・）[p]
-（このままじゃ番組で本当にセックスさせられたり・・・ウンチさせられたりするかもしれないわ）[p]
-（そうなったら動画を公開されるのとたいして変わらないじゃないの・・・）[p]
-（わたしはこのまま勝野のいいなりに・・・奴隷のまま生きていくの？）[p]
+To those who were present, Akiko must have appeared as a slave who couldn't defy[r]Umeda.[p][cm]
+#Akiko
+(I can still endure being embraced by Kano and Umeda, but...[p][cm]
+I can't stand being humiliated in front of the camera anymore...)[p][cm]
+(If things continue like this, I might really be forced to have sex or even be[r]made to do...[p][cm]
+disgusting things on the show.)[p][cm]
+(If that happens, it won't be much different from having the video released...)[p][cm]
+(Am I going to continue being at Kano's mercy...[p][cm]
+living as a slave?)[p][cm]
 
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
-[glink  color="black"  storage="end6.ks"  size="20"  text="そんなのは嫌だ"  x="476"  y="415"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="end5.ks"  size="20"  text="受け入れるしかない"  x="463"  y="512"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="end6.ks"  size="20"  text="I don\'t want that"  x="476"  y="415"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="end5.ks"  size="20"  text="Accept it"  x="463"  y="512"  width=""  height=""  _clickable_img=""  ]
 [s  ]

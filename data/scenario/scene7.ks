@@ -11,146 +11,152 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-数日後―――[p]
-・・・[p]
-#ノブオ
-「・・・今週のピンクSHOWもエロいなぁ」[p]
-「最近どんどん過激になってきてるよなこの番組。最近はテレビ界全体でコンプライアンスがゆるくなってきてる気がする」[p]
-「いち視聴者としてはありがたいことだけどな」[p]
-#テレビ
-「さぁ島本さん、あと３０秒を切りましたよ！頑張ってください！」[p]
-「うぉぉぉぉぉ！」[p]
-「いやぁ～～～ん♥」[p]
-#ノブオ
-「この視聴者がエッチなゲームに挑戦するコーナー良いよなー」[p]
-「俺も応募してみようかなぁ・・・」[p]
-#テレビ
-「あーーー残念！全部脱がすことが出来ませんでしたーー！失格です！」[p]
-「くそーーーー！あと１枚だったのに！」[p]
-「お疲れ様でした。脱がせた服は記念品として持って帰ってくださいね」[p]
-「さぁそれでは次のコーナーに参りましょう。お色気天気予報～～～！」[p]
-「今週は現役女子アナ第二弾！なんとあの現役バリバリのニュースキャスターが登場です！」[p]
-「いやぁ～～まさかこの人が出てくれるとは思いませんでした！それではどうぞ！」[p]
-#ノブオ
-「現役バリバリのニュースキャスター？誰だ・・・？」[p]
+A few days later-- ・・・[p][cm]
+#Nobuo
+As a viewer, it's something to be grateful for though.[p][cm]
+#TV
+Ohhhhh~♥[p][cm]
+#Nobuo
+This corner where viewers challenge erotic games is so good, isn't it?[p][cm]
+Should I try applying too...?[p][cm]
+#TV
+Ahhh, what a shame! I couldn't strip them completely![p][cm]
+Disqualified! Damn it! I was just one card away![p][cm]
+Thank you for your hard work. Please take the clothes you stripped off as a[r]souvenir.[p][cm]
+Now then, let's move on to the next corner.[p][cm]
+The Sexy Weather Forecast~! This week, it's the second installment of active[r]female announcers![p][cm]
+And guess what, that active and energetic news caster is making an appearance![p][cm]
+Wow~ I never expected this person to make an appearance![p][cm]
+Well then, here you go![p][cm]
+#Nobuo
+An active and energetic news caster?[p][cm]
+Who could it be...?[p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro114-1.jpg"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こ、こんばんは・・・アナウンサーの千山亜紀子です・・・。よろしくお願いします」[p]
-「きょ、今日はジメジメした毎日が続いてお疲れの皆様を応援するために、チアガールになってお天気を読ませていただきます・・・」[p]
-「まずは北海道です。北海道南部はおおむね晴れですがこの時期としては異例の温かさになるでしょう。札幌では昼ごろに３０度を超える予報が出ています」[p]
-「北部は例年通りの気温となりそうです。ほ、北海道ガ・ン・バ・レ！」[p]
+#Akiko
+G-Good evening... I'm news caster Akiko Senyama...[p][cm]
+Nice to meet you. T-To support everyone who is tired from the continued gloomy[r]days, I will become a cheerleader and present the weather forecast...[p][cm]
+First, let's start with Hokkaido.[p][cm]
+The southern part of Hokkaido will generally be sunny, but it will be unusually[r]warm for this time of year.[p][cm]
+In Sapporo, the forecast predicts temperatures exceeding 30 degrees around noon.[p][cm]
+In the northern part, temperatures are expected to be normal for this time of[r]year.[p][cm]
+G-Ganba-re, Hokkaido![p][cm]
 #
-亜紀子がガンバレの掛け声とともに脚を大きく振り上げると、純白のパンティが丸見えになった[p]
-アンスコを穿くことを許されなかったので、私服の生パンティがバッチリとカメラに収められた[p]
-生放送ではないが、数日後には全国の男たち――エロ目的で番組を見ているスケベな男たちの目にこの痴態が晒されることになると思うと、運動のためだけではない火照りが亜紀子の身体を襲う[p]
+As Akiko swung her legs up high with a cheer of 'Ganbare![p][cm]
+', her pure white panties were completely exposed.[p][cm]
+Since I wasn't allowed to wear underwear, my casual panties were perfectly[r]captured by the camera.[p][cm]
+Although it wasn't a live broadcast, in a few days, this obscene scene will be[r]exposed to the eyes of men all over the country - perverted men who watch the[r]show for erotic purposes.[p][cm]
+Just thinking about it makes Akiko's body flush with heat, not just from the[r]exercise.[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro101-4.jpg"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「うおおっ！？千山亜紀子だ・・・！」[p]
-「パンツ丸見えじゃん！！」[p]
-「なんでキャスターの千山がこんなエロ番組に・・・？」[p]
-「たしかに最近急にミニスカ穿いたりして、路線変更か？って言われてたけど・・・」[p]
-「まさかこんな深夜バラエティに出るとはなぁ・・・しかもチアコスって」[p]
-「女子アナのアイドル化に反対してたんじゃなかったのかよ」[p]
-「しかし・・・エロいなぁ・・・ハァハァ」[p]
-・・・[p]
-#熱狂的亜紀子ファン（以下キミヒコ）
-「亜紀子！？」[p]
-#キミヒコ
-「なんという・・・白のパンツ・・・噂は本当だったのか・・・いやしかし・・・」[p]
-「おっぱいが・・・俺に出来ることは・・・ブツブツブツ」[p]
-・・・[p]
+#Nobuo
+Whoa! It's Akiko Senyama...! Your panties are completely visible!![p][cm]
+Why is the news caster Senyama appearing in such an erotic program...?[p][cm]
+Certainly, lately I've been wearing miniskirts and stuff, so people have been[r]saying I've changed my style or something...[p][cm]
+I never thought I would appear on such a late-night variety show...[p][cm]
+and in a cheerleader costume, no less.[p][cm]
+Weren't you against the idolization of female announcers?[p][cm]
+However... it's so erotic... *panting* ・・・[p][cm]
+#Enthusiastic Akiko fan (hereinafter Kimihiko)
+Akiko!?[p][cm]
+#Kimihiko
+What... white panties... The rumors were true...[p][cm]
+But still... Breasts... What can I do...[p][cm]
+Mumble mumble mumble ・・・[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro114-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「東海地方は一日中降ったり止んだりの落ち着かない天気となりそうです」[p]
-「山間部では一時的に雷を伴った強い雨が降る恐れがあります。ご注意ください」[p]
-「東海地方ガ・ン・バ・レ！」[p]
+#Akiko
+It seems like the weather in the Tokai region will be unsettled with[r]intermittent rain throughout the day.[p][cm]
+In mountainous areas, there is a possibility of strong rain accompanied by[r]thunder.[p][cm]
+Please be careful. Tokai region, let's go![p][cm]
 #
-一つの地方の予報を終えるごとにチアリーディングのダンスを踊る[p]
-新体操で鍛えたしなやかな身体の柔らかさで、パンツをはっきりと見えるように足を高々と上げる[p]
-手を抜いたらお仕置きだと勝野に警告されているから全力で踊るしかない[p]
-#亜紀子
-「中国地方ガ・ン・バ・レ！」[p]
+After finishing the forecast for each region, I perform a cheerleading dance.[p][cm]
+With the flexibility of my supple body trained in rhythmic gymnastics, I raise[r]my legs high to clearly show my panties.[p][cm]
+I've been warned by Katsuno that if I slack off, there will be punishment, so I[r]have no choice but to dance with all my might.[p][cm]
+#Akiko
+Let's go, Chugoku region![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro101-4.jpg"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「頑張るなぁ千山アナ・・・！」[p]
-「ダンスも上手いしおっぱいがブルンブルン揺れてるよ」[p]
-「それにあのパンツ・・・アンスコに見えないけど、まさか生パンじゃないよな・・・？」[p]
-「とにかくエロいぜ・・・ハァハァ」[p]
-・・・[p]
-#キミヒコ
-「ハァ・・・ハァ・・・」[p]
-「俺の・・・俺だけの亜紀子・・・ハァハァ」[p]
-・・・[p]
+#Nobuo
+Hang in there, Chiyama-san...![p][cm]
+She's good at dancing, and her breasts are bouncing around.[p][cm]
+And those panties... They don't look like a thong, but I hope they're not plain[r]underwear...?[p][cm]
+Anyway, it's so erotic... *panting* ・・・[p][cm]
+#Kimihiko
+*panting* Akiko... only mine...[p][cm]
+haa haa ・・・[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro114-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「九州沖縄地方ガ・ン・バ・レ！」[p]
-「そ、それでは最後に関東地方の予報にまいりましょう・・・！」[p]
+#Akiko
+Kyushu-Okinawa region, ganba-re![p][cm]
+Well then, let's move on to the forecast for the Kanto region...![p][cm]
 #
-バッ！[p]
+*bam![p][cm]
+*[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro114-2.jpg"  ]
 [tb_cg  id="114"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「か、関東北部は昼ごろから雲が増え始め・・・午後は雨になるところが多いでしょう」[p]
-「群馬県は曇りのち雨です。群馬県ガ・ン・バ・レ・・・っ！」[p]
+#Akiko
+In the northern part of Kanto, clouds will start to increase around noon...[p][cm]
+and there will be many places where it will rain in the afternoon.[p][cm]
+Gunma Prefecture will be cloudy with rain later.[p][cm]
+Gunma Prefecture, ganba-re...![p][cm]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-c.jpg"  width="574"  height="323"  x="703"  y="-2"  _clickable_img=""  name="img_24"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「うおおおおお！！」[p]
-「上着を脱ぎ捨てた！？おっぱいが丸出しだ！」[p]
-「お天気マークのニップレスが貼ってある！すげえ！なんてエロいんだよ！」[p]
-「おおおお！踊ったらめちゃめちゃ揺れてる！！おっぱいが暴れまくってるよ！」[p]
-「これはすげええ！シコシコシコシコ」[p]
+#Nobuo
+Uooooo!! Did you just throw off your jacket!?[p][cm]
+Your breasts are completely exposed![p][cm]
+There's a nipple-less weather mark sticker![p][cm]
+That's amazing! How erotic! Ooooh![p][cm]
+They're dancing and shaking like crazy!![p][cm]
+Their breasts are bouncing all over the place![p][cm]
+This is amazing! Jerk, jerk, jerk, jerk.[p][cm]
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「千葉県ガ・ン・バ・レっ！」[p]
+#Akiko
+Chiba Prefecture, ganba-re![p][cm]
 #
-激しくダンスをするたびに大きすぎる乳房がビタンビタンと肉のぶつかる音を立てて暴れる[p]
-#亜紀子
-（ああ・・・見られてる・・・）[p]
+Every time they dance vigorously, their overly large breasts make a loud sound[r]as they collide with each other and go wild.[p][cm]
+#Akiko
+(Ah... I'm being watched...)[p][cm]
 #
-ちょっと前までキャスターとして順調な道を歩んでいた亜紀子の無様な姿を、スタッフたちが興奮した顔で見ている[p]
-そしてカメラの向こうには何万人もの男の目があるのだ[p]
-それを意識すると亜紀子の体中を痺れるような感覚が駆け巡る[p]
-#亜紀子
-「埼玉県は一日中・・・雨が降り続くでしょう。埼玉県ガ・ン・バ・レ・・・っ！」[p]
+The staff members are watching Akiko, who until recently was walking a[r]successful path as a caster, in her embarrassing state with excited expressions[r]on their faces.[p][cm]
+And beyond the camera, there are tens of thousands of men's eyes.[p][cm]
+When she becomes aware of that, a tingling sensation runs through Akiko's entire[r]body.[p][cm]
+#Akiko
+It will rain all day in Saitama Prefecture.[p][cm]
+Saitama Prefecture, ganba-re...![p][cm]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-c.jpg"  width="565"  height="318"  x="715"  y="-4"  _clickable_img=""  name="img_28"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「ハァハァ・・・シコシコシコ・・・ん！？」[p]
-「な、なんかパンティに・・・シミができてないか！？」[p]
-「絶対濡れてるよ・・・！うぉぉぉぉシコシコシコシコ！」[p]
+#Nobuo
+Haa haa... Jerk jerk jerk... Huh!?[p][cm]
+W-Wait, is there a stain on my panties!?[p][cm]
+I'm definitely wet...! Ohhh, jerk jerk jerk jerk![p][cm]
 #
 
 
@@ -158,14 +164,14 @@
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ハァ・・・東京は・・・日中はずっと雨が続きそうですが・・・夕方から夜にかけて雨も弱まり晴れるところも・・・あるでしょう・・・ンッ♥」[p]
-「と、東京都・・・ガ・ン・バ・レェ・・・っ♥」[p]
-（はぁ・・・お、終った・・・）[p]
-「それでは皆さん・・・また来週・・・！」[p]
+#Akiko
+Haa... It seems like it will rain all day in Tokyo...[p][cm]
+but the rain will weaken and there might be some clear skies from the evening to[r]the night...[p][cm]
+Nn♥ And, Tokyo... Ganba-re... ♥ (Haa...[p][cm]
+I-I'm done...) Well then, everyone...[p][cm]
+see you next week...![p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -175,11 +181,11 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-キャスター千山亜紀子のお下劣番組出演のニュースが与えた衝撃は、明日香の時の比ではなかった[p]
-ワイドショーでも取り上げられ、それまでどちらかというと地味だった亜紀子は一躍話題の人となった[p]
-すでに流行りかけていた女子アナのセクシー路線化は、これを機にさらに加速し始め、各局の女子アナは競って肌を露出し始めた[p]
-折りしも近年厳しくなる一方だった放送業界のコンプライアンスが見直され、規制が緩やかになったことでテレビはお色気全盛期に入っていた[p]
-そしてその流れに敢然と抵抗していた亜紀子は、いつの間にか自分がその先頭を走っている事実に気付き愕然とするのだった[p]
+The shock caused by the news of Caster Chiyama Akiko's appearance on a vulgar[r]program was even greater than when it was Asuka's turn.[p][cm]
+Akiko, who had been relatively plain until then, suddenly became the talk of the[r]town when she was featured on a wide show.[p][cm]
+The trend of female announcers becoming more sexy had already started, but it[r]began to accelerate even further with this opportunity, and female announcers[r]from various stations started competing to expose their skin.[p][cm]
+At a time when compliance in the broadcasting industry had been increasingly[r]strict in recent years, regulations were reevaluated and became more lenient,[r]leading television to enter a period of heightened sensuality.[p][cm]
+And Akiko, who had been boldly resisting that trend, suddenly realized with[r]shock that she had unknowingly become the leader of it.[p][cm]
 
 [_tb_end_text]
 
@@ -187,14 +193,16 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-1.png"  width="571"  height="1428"  left="122"  top="-2"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（はぁ・・・なんでこんなことに・・・）[p]
-（こんな注目の浴び方したいわけじゃないのに・・・）[p]
-（ネットでは売れるために必死な女みたいに叩かれてるし、週刊誌はあることないこと書き立てるし・・・）[p]
-（実家のお母さんが心配して電話してきたのには参ったわ。心配ないってなんとか説得したけど・・・）[p]
-（このままじゃダメだわ・・・なんとかして勝野の支配から脱出しないと）[p]
-#局長
-「千山くん」[p]
+#Akiko
+(Sigh... Why did it have to come to this...)[p][cm]
+(I didn't want to attract attention like this...)[p][cm]
+(On the internet, I'm being criticized like some desperate woman trying to sell[r]herself, and the weekly magazines are making up all sorts of things...)[p][cm]
+(My mother from my hometown called me worried.[p][cm]
+It was tough trying to convince her that there's nothing to worry about...)[p][cm]
+(I can't go on like this... I have to find a way to escape from Kanou's control[r]somehow)[p][cm]
+#Director
+Mr.[p][cm]
+Chiyama[p][cm]
 
 
 [_tb_end_text]
@@ -202,208 +210,226 @@
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-3.png"  width="587"  height="1408"  left="628"  top="-77"  reflect="false"  ]
 [chara_mod  name="美里"  time="0"  cross="false"  storage="chara/1/hiro258-2.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あ、局長・・・」[p]
-（まただわ・・・）[p]
-#局長
-「いやぁ好評だよ君の路線変更」[p]
-「出る番組出る番組数字が良くて、スポンサー様からもお褒めの言葉をいただいたよ。ハハハ」[p]
-#亜紀子
-「そ、そうですか・・・」[p]
-#局長
-「それでスポンサーの方から今度一緒に会食でもとお誘いがあるがどうかね？」[p]
-#亜紀子
-「いえ、私はそういう場はちょっと・・・」[p]
-#局長
-「そうかね、うん、いやまぁ嫌なら無理強いはしないよ。私のほうから断っておこう」[p]
-#亜紀子
-「どうも・・・」[p]
-#局長
-「・・・ところで、あのことは考えてくれたかね？」[p]
-#亜紀子
-「あのことなら・・・お断りしたはずですが」[p]
-#局長
-「なに、そう深く考えることはないんだよ。君を束縛するつもりはないんだからね」[p]
-#亜紀子
-「あの・・・そういうことではなくて・・・」[p]
+#Akiko
+Oh, Director... (Here we go again...)[p][cm]
+#Director
+Your change in direction is really well received.[p][cm]
+I appeared on several shows and the ratings were good.[p][cm]
+I even received compliments from the sponsors.[p][cm]
+Hahaha.[p][cm]
+#Akiko
+I-Is that so...[p][cm]
+#Director
+By the way, the sponsors have invited us to have a meal together.[p][cm]
+What do you think?[p][cm]
+#Akiko
+No, I'm not really comfortable with that kind of situation...[p][cm]
+#Director
+I see, well, if you don't like it, I won't force you.[p][cm]
+I'll decline on my behalf.[p][cm]
+#Akiko
+Thank you...[p][cm]
+#Director
+... By the way, have you thought about that matter?[p][cm]
+#Akiko
+If you're referring to that...[p][cm]
+I believe I declined it already.[p][cm]
+#Director
+What, there's no need to think too deeply about it.[p][cm]
+I have no intention of restraining you, you know.[p][cm]
+#Akiko
+Um... It's not about that...[p][cm]
 #
-局長の誘いをなんとか誤魔化して逃れていたのだが、局長はあきらめるどころかこともあろうに愛人になることを提案してきた[p]
-それに関してはもちろん曖昧に答えずはっきりと断っているのだが、一向に手を引く気配がない[p]
-これだけ断られても食い下がるのもすごいが、なによりはっきりと愛人にならないかと言ってくる面の皮の厚さに驚かされる[p]
-#局長
-「まぁまぁ聞きたまえ。君が一大決心をしてそういう格好をしているのも要は出世したいからだろう？」[p]
-「メインキャスターに並々ならぬ意欲を持ってるのは知っているんだよ」[p]
-#亜紀子
-「そ、それは・・・」[p]
-（勝野のことを知られるわけにはいかないから、売れたいからやっていると思われても否定できないのよね・・・）[p]
-#局長
-「わたしなら必ず力になれるんだよ？」[p]
-「・・・ここだけの話だが、井原君、彼女も私が後押ししてメインキャスターにしたんだよ」[p]
-「彼女の場合、彼女の方から提案してきたんだけどね、フフフフ」[p]
-#亜紀子
-「井原先輩が・・・」[p]
+I managed to somehow deceive the bureau chief's invitation and escape, but[r]instead of giving up, the bureau chief actually proposed becoming his mistress.[p][cm]
+Of course, I clearly refused without any ambiguity regarding that matter, but[r]there is no sign of him backing down at all.[p][cm]
+It's impressive how he persists even after being clearly rejected like this, but[r]what surprises me the most is his audacity to ask if I would become his[r]mistress.[p][cm]
+#Director
+I know that you have an extraordinary ambition to become the main caster.[p][cm]
+#Akiko
+W-Well, that's... (I can't let them know about Katsuno, so even if they think[r]I'm doing it because I want to become famous, I can't deny it...)[p][cm]
+#Director
+I can definitely be of help to you, you know?[p][cm]
+... This is just between us, but Inohara-kun, I also pushed for her to become[r]the main caster.[p][cm]
+In her case, she actually came up with the proposal herself, hehehe.[p][cm]
+#Akiko
+Inohara-senpai...[p][cm]
 #
-井原久美子はＺ局の看板ニュース番組「ニュースアナライズ」のメインキャスターだ[p]
-年齢は４０を少しすぎたくらいで、知的美人でいまだにすごく人気がある[p]
-もちろん実力も申し分なく、亜紀子も素人時代からテレビで見てきた大先輩として尊敬していた[p]
-#亜紀子
-（井原先輩が局長と肉体関係があったなんて・・・）[p]
-#局長
-「大人の関係というやつだよ。双方にとって利益のあることなのだから」[p]
-「この世界じゃよくある話だよ。誰にもばれる心配はないし、なっ」[p]
-#亜紀子
-「いえ・・・わたしは・・・」[p]
-#局長
-「もしかして恋人に気兼ねしとるのかね？全然気にすることはないよ」[p]
-「あくまで仕事の範疇だからね。身体だけだよ」[p]
-#亜紀子
-「いえ、すいませんけど・・・」[p]
-#局長
-「月に１～２回でいいんだよ。ちょこっと楽しむだけだ」[p]
-「君もキライじゃないんだろう？ウフフフフ」[p]
+Kumiko Inohara is the main caster of Z Station's flagship news program, News[r]Analyze.[p][cm]
+She is a little over 40 years old, a beautiful and intelligent woman who is[r]still very popular.[p][cm]
+Of course, she is also highly skilled and I have always respected her as a[r]senior who I have seen on TV since my amateur days.[p][cm]
+#Akiko
+(Inohara-senpai had a physical relationship with the director...)[p][cm]
+#Director
+It's an adult relationship. It's beneficial for both parties involved.[p][cm]
+This is a common story in this world.[p][cm]
+There's no need to worry about anyone finding out, and...[p][cm]
+#Akiko
+No... I...[p][cm]
+#Director
+It's strictly within the scope of work.[p][cm]
+It's just physical.[p][cm]
+#Akiko
+No, I'm sorry, but...[p][cm]
+#Director
+Once or twice a month is enough.[p][cm]
+Just a little bit of fun. You don't hate it either, do you?[p][cm]
+Ufufufu.[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-3.png"  ]
 [chara_mod  name="局長"  time="600"  cross="false"  storage="chara/3/hiro262-2.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「いい加減にしてください！」[p]
-#局長
-「な・・・！？」[p]
-#亜紀子
-「わたしは身体を使って出世する気なんか全くありません！」[p]
-#局長
-「ちょっ・・・声が・・・抑えて！」[p]
-#亜紀子
-「・・・こういう格好をしてるからって勘違いしないでください」[p]
-「わたしは誰とでも簡単に寝るような軽い女じゃありません」[p]
-#局長
-「そ、そんなことは・・・」[p]
-#亜紀子
-「これまで立場を利用して女を抱いてきたんでしょうけど、自分がどんなに醜い人間かってことを自覚してはいかがですか」[p]
-「局長に抱かれるなんて私は死んでもお断りです」[p]
-#局長
-「なっ・・・君ぃ・・・！」[p]
-#亜紀子
-「このことは誰にも言いませんが、もしまた誘ってきたら全部ばらしますからね」[p]
-「それでは失礼します」[p]
+#Akiko
+Please stop it already![p][cm]
+#Director
+Wha...!?[p][cm]
+#Akiko
+I have absolutely no intention of using my body to get ahead in my career![p][cm]
+#Director
+Hey... keep your voice down![p][cm]
+#Akiko
+Please don't misunderstand just because of the way I'm dressed.[p][cm]
+I'm not the kind of woman who easily sleeps with anyone.[p][cm]
+#Director
+Th-Th-That's not...[p][cm]
+#Akiko
+You've been using your position to sleep with women all this time, haven't you?[p][cm]
+How about you become aware of just how ugly of a person you are?[p][cm]
+I absolutely refuse to be embraced by the director, even if it costs me my life.[p][cm]
+#Director
+You... you...![p][cm]
+#Akiko
+I won't tell anyone about this, but if you try to seduce me again, I'll expose[r]everything.[p][cm]
+Well then, excuse me.[p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="true"  ]
 [chara_mod  name="局長"  time="00"  cross="false"  storage="chara/3/hiro262-1.png"  ]
 [tb_start_text mode=1 ]
-#局長
-「ちょ・・・待ちたまえ・・・！」[p]
-「・・・・・・」[p]
-「クソッ！なんて生意気な・・・！」[p]
-「あの様子なら簡単に抱けると思ったが・・・くそっ！あきらめるしかないのか・・・」[p]
-「・・・しかしあの身体は惜しい・・・むむむ」[p]
-・・・・・・[p]
+#Director
+W-Wait a moment...! ・・・・・・ Damn it![p][cm]
+How insolent...! I thought I could easily embrace her with that attitude...[p][cm]
+damn it! Is giving up my only option...?[p][cm]
+... However, that body is such a waste...[p][cm]
+mmm ・・・・・・[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro202.jpg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-1.png"  width="490"  height="1225"  left="477"  top="22"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（はぁ・・・ちょっと強く言いすぎたかしら）[p]
-（カッとなるとつい強く言い過ぎちゃうのがわたしの悪いくせだわ）[p]
-（でもあれくらい言わないと局長には通じないんだから仕方ないわよね）[p]
-（・・・さて、そろそろ夕方のニュースの準備をしないと）[p]
-（またこの服でカメラの前に出るのは憂鬱だけど、やることはしっかりやらないと）[p]
-（原稿はもう下読みしたし・・・あっ・・・）[p]
-（・・・乳房が・・・結構張ってる・・・。この感じだと、本番中に危ないかも・・・）[p]
-（もし本番中に漏れてきたら・・・ノーブラだからすぐにバレちゃう・・・！）[p]
-（明日香に搾ってもらわないと・・・明日香はどこかしら？）[p]
+#Akiko
+(Haa... Maybe I was a bit too harsh.)[p][cm]
+(When I get angry, I tend to say things too harshly.[p][cm]
+It's a bad habit of mine.) (But if I don't say something like that, it won't get[r]through to the director.[p][cm]
+I can't help it, right?) (... Well, it's about time I start preparing for the[r]evening news.)[p][cm]
+(I'm not looking forward to appearing in front of the camera again in this[r]outfit, but I have to do what needs to be done properly.)[p][cm]
+(I've already proofread the manuscript...[p][cm]
+Ah...) (Her breasts... are quite swollen...[p][cm]
+With this feeling, it might be risky during the main event...)[p][cm]
+(If it leaks during the main event...[p][cm]
+Since I'm not wearing a bra, it will be immediately noticeable...!)[p][cm]
+(I need to have Asuka milk me...[p][cm]
+I wonder where Asuka is?)[p][cm]
 [_tb_end_text]
 
 [chara_move  name="美里"  anim="true"  time="300"  effect="linear"  wait="true"  left="132"  top="22"  width="490"  height="1225"  ]
 [tb_start_text mode=1 ]
-#勝野
-「おい」[p]
+#Katsuno
+Hey[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-1.png"  width="512"  height="1229"  left="682"  top="-20"  reflect="false"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あ、勝野・・・」[p]
-#勝野
-「勝野様だろう。今は周りに誰も居ないぞ」[p]
-#亜紀子
-「・・・」[p]
-#勝野
-「反抗的な目をするじゃねえか。昨夜も俺のチンポでヒィヒィよがってたくせに」[p]
-#亜紀子
-「・・・っ」[p]
-#勝野
-「思い出したらムラムラしてきたぜ。ちょっとそこの部屋で昼の分のザーメンを飲ませてやろう」[p]
-#亜紀子
-「い、今は無理よ。ニュースの本番まであんまり時間がないし・・・」[p]
-#勝野
-「１８時からだろう？まだ十分時間はあるだろ」[p]
-#亜紀子
-「ちょっと今は、準備しないといけないから・・・」[p]
-#勝野
-「準備？なんの準備だよ。新人じゃあるまいしニュース読むのに準備なんか要らないだろ」[p]
-#亜紀子
-「それは・・・ンッ」[p]
-#勝野
-「ん・・・？」[p]
-「そうか、そういうことか！母乳が出そうなんだろう！」[p]
-#亜紀子
-「くっ・・・そ、そうよ・・・」[p]
-#勝野
-「そういや、そうだったなぁ。本番前に明日香に搾ってもらってたんだっけ」[p]
-「本番中に漏れる可能性があるってことか？そりゃ面白いことになるだろうなぁ、クククク」[p]
-#亜紀子
-「わ、笑い事じゃないわ・・・！」[p]
-#勝野
-「母乳キャスターとしてデビューさせるのも面白そうだが・・・色々と面倒なことにはなるだろうなぁ」[p]
-「・・・仕方ねぇ。俺が搾ってやるよ」[p]
-#亜紀子
-「えっ・・・！け、結構よ！」[p]
-#勝野
-「くくく、遠慮するなよ。奴隷の管理は飼い主としてのマナーだからな」[p]
-「まぁお前には拒否権なんかないがな。おら、来いっ」[p]
-#亜紀子
-「・・・っ！」[p]
+#Akiko
+Ah, Katsuno...[p][cm]
+#Katsuno
+It's Katsuno-sama. There's no one else around now.[p][cm]
+#Akiko
+・・・[p][cm]
+#Katsuno
+You're giving me a defiant look, huh?[p][cm]
+Even though you were moaning and writhing with my dick last night.[p][cm]
+#Akiko
+...[p][cm]
+#Katsuno
+I remembered and got horny. Let me make you drink my cum for lunch in that room[r]over there.[p][cm]
+#Akiko
+I-I can't do it right now. We don't have much time until the live broadcast...[p][cm]
+#Katsuno
+It's starting at 6 p. m. , right?[p][cm]
+We still have plenty of time.[p][cm]
+#Akiko
+Sorry, but I have to prepare right now...[p][cm]
+#Katsuno
+Preparation? What kind of preparation?[p][cm]
+You're not a rookie, so you don't need any preparation to read the news.[p][cm]
+#Akiko
+That's... Ngh...[p][cm]
+#Katsuno
+Hm...? I see, so that's what it is![p][cm]
+You must be about to start producing breast milk![p][cm]
+#Akiko
+*Gulp*... Y-Yes, that's right...[p][cm]
+#Katsuno
+Oh, come to think of it, that's right.[p][cm]
+I remember having Asuka help me express milk before the live broadcast.[p][cm]
+So you're saying there's a possibility of it leaking during the live broadcast?[p][cm]
+Well, that would be quite interesting, hehehe.[p][cm]
+#Akiko
+Th-This is no laughing matter...![p][cm]
+#Katsuno
+It would be interesting to debut as a breast milk caster...[p][cm]
+but it would also be quite troublesome in many ways.[p][cm]
+... I guess there's no other choice.[p][cm]
+I'll help you express it.[p][cm]
+#Akiko
+Huh...?! N-No, it's fine![p][cm]
+#Katsuno
+Kukuku, don't hold back. Managing a slave is part of being a proper owner, you[r]know.[p][cm]
+Well, you don't have the right to refuse anyway.[p][cm]
+Come here.[p][cm]
+#Akiko
+...![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro203.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「ここなら誰も来ないだろう」[p]
-「よし、お乳を搾ってやるから服を脱げ」[p]
-#亜紀子
-「くっ・・・」[p]
+#Katsuno
+No one will come here, right? Alright, I'll milk you, so take off your clothes.[p][cm]
+#Akiko
+*grunts*[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="false"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro261-1bk.png"  width="507"  height="1268"  left="120"  top="8"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「なんで全裸にならないといけないのよ・・・！」[p]
-#勝野
-「搾乳といえば乳牛だからな。ホルスタインが服を着てたらおかしいだろう」[p]
-#亜紀子
-「私は乳牛なんかじゃ・・・っ！」[p]
-#勝野
-「普通の人間は妊娠もしてないのに乳が出たりしないし、そもそも１０４ｃｍもある時点でほぼ乳牛みたいなもんだろう。クククク」[p]
+#Akiko
+Why do I have to get completely naked...?![p][cm]
+#Katsuno
+Speaking of milking, it's like a dairy cow.[p][cm]
+It would be strange if a Holstein was wearing clothes.[p][cm]
+#Akiko
+I'm not some kind of dairy cow...![p][cm]
+#Katsuno
+Normal humans don't lactate without being pregnant, and besides, with a height[r]of 104cm, you're practically like a dairy cow.[p][cm]
+Kukukuku.[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro261-2bk.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・っ！」[p]
-#勝野
-「家畜が一人前に人間様を睨みつけてるんじゃねえよ。ほれ、そこに四つん這いになれ乳牛」[p]
-#亜紀子
-「わ、わかりました・・・っ」[p]
+#Akiko
+*grunts*[p][cm]
+#Katsuno
+Don't stare at humans like a proper livestock.[p][cm]
+Now, get down on all fours like a dairy cow over there.[p][cm]
+#Akiko
+F-Fine...[p][cm]
 [_tb_end_text]
 
 *rep7
@@ -415,129 +441,143 @@
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・こんな格好・・・っ」[p]
-#勝野
-「家畜のお前にはぴったりだぜ。ククク」[p]
-「それにしてもでかい乳だな。重みでタプンタプンしてるぜ」[p]
-「これはもう立派な乳牛だ。胸を張って乳牛を名乗っていいぜ。クププププ」[p]
-#亜紀子
-「だ、誰が・・・っ」[p]
-「あんまり時間がないんだから、搾るなら早く搾って・・・！」[p]
-#勝野
-「搾ってくださいだろ？全く、すぐに自分の立場を忘れるな」[p]
-「動物ってのはやっぱり身体で覚えさせないとダメみたいだな」[p]
+#Akiko
+Th-This kind of outfit...[p][cm]
+#Katsuno
+It suits you perfectly, you livestock.[p][cm]
+Kukuku. By the way, you have such big breasts.[p][cm]
+They're bouncing and jiggling with weight.[p][cm]
+This is already a splendid dairy cow.[p][cm]
+You can proudly call yourself a dairy cow.[p][cm]
+Kukukukuku.[p][cm]
+#Akiko
+W-Who... We don't have much time, so if you're going to milk me, do it[r]quickly...![p][cm]
+#Katsuno
+Milk me already, will you? Honestly, don't forget your place so quickly.[p][cm]
+It seems that animals really need to learn through their bodies.[p][cm]
 #
-パンッ！[p]
-#亜紀子
-「アンッ！お、お尻を叩かないで・・・っ！」[p]
-#勝野
-「『私は自分で乳を搾れない乳牛です。どうか乳を搾ってください』って言え」[p]
+*Thud![p][cm]
+*[p][cm]
+#Akiko
+Ahh! D-Don't spank my... butt...![p][cm]
+#Katsuno
+I am a dairy cow who cannot milk myself.[p][cm]
+Please milk me.[p][cm]
 #
-パンッ！[p]
-#亜紀子
-「アンッ！く・・・」[p]
+*Thud![p][cm]
+*[p][cm]
+#Akiko
+Ahh! Ku...[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro132-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「わ・・・私は自分で乳を搾れない・・・乳牛です・・・。どうか乳を搾ってください・・・っ！」[p]
-#勝野
-「『お願いしますご主人様』」[p]
+#Akiko
+I... I can't milk myself... I'm a dairy cow...[p][cm]
+Please, please milk me...![p][cm]
+#Katsuno
+Please, master.[p][cm]
 #
-パンッ！[p]
-#亜紀子
-「ヤンッ！・・・お、お願いします・・・ご主人様・・・っ」[p]
-#勝野
-「よーし、それじゃ搾ってやるとするか」[p]
-「どーれ・・・俺は昔乳搾り体験したことがあるんだ。たっぷりと搾ってやるぜ」[p]
+*Thud![p][cm]
+*[p][cm]
+#Akiko
+Yaaan!... P-Please... Master...[p][cm]
+#Katsuno
+Alright, then I'll go ahead and milk you.[p][cm]
+Let's see... I actually have experience with milking in the past.[p][cm]
+I'll make sure to milk you thoroughly.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro132-3.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「よっ・・・っと、こんな感じか？」[p]
+#Katsuno
+Alright... like this, right?[p][cm]
 #
-ギュッ[p]
-#亜紀子
-「アンッ・・・！」[p]
-「も、もっと・・・優しく・・・んっ♥」[p]
-#勝野
-「乳搾られて感じてるんじゃねぇよ」[p]
+*Squeeze*[p][cm]
+#Akiko
+Ahh...! M-More... gently...   ngh♥[p][cm]
+#Katsuno
+You're not feeling pleasure from being milked, are you?[p][cm]
 #
-パンッ！[p]
-#亜紀子
-「ァヒンッ！」[p]
-#勝野
-「んー出ないな。もっとこうか・・・？」[p]
+*Thud![p][cm]
+*[p][cm]
+#Akiko
+Ahh![p][cm]
+#Katsuno
+Hmm, it's not coming out. Should I try something else...?[p][cm]
 #
-ギュッ・・・ギュッ[p]
-#亜紀子
-「アンンッ・・・！ンンッーー♥」[p]
-#勝野
-「おかしいな・・・」[p]
+*Squeeze*...[p][cm]
+*squeeze*[p][cm]
+#Akiko
+Ahh...![p][cm]
+Uhhhhhh♥[p][cm]
+#Katsuno
+That's strange...[p][cm]
 #
-ギューッ！[p]
-#亜紀子
-「アヒィーーッ♥」[p]
-「そ・・・そんな風に強く搾っても・・・出ないわ・・・っ」[p]
-「自分でいくら搾っても出ないんだから・・・明日香でないと無理なのっ」[p]
-#勝野
-「うるせえ、俺が出してやるって言ってるだろ！」[p]
-「たしか・・・こう根本をギュッとして指を順番に・・・」[p]
-#亜紀子
-「アンッ！い・・・痛いだけよ・・・っ」[p]
-「あなたには・・・無理よ・・・っ」[p]
-#勝野
-「そんなはずは・・・オラッ！出ろッ！」[p]
+*Squeeze![p][cm]
+*[p][cm]
+#Akiko
+Ahhhhhh♥ E-Even if you squeeze so hard like that...[p][cm]
+it won't come out... No matter how much I squeeze myself, it won't come out...[p][cm]
+It's impossible without Asuka.[p][cm]
+#Katsuno
+Shut up! I said I'll make you come![p][cm]
+I remember... like this, firmly gripping the base and moving my fingers one by[r]one...[p][cm]
+#Akiko
+Ahh! It... it just hurts... It's impossible for you...[p][cm]
+#Katsuno
+It can't be... Ora! Come out![p][cm]
 #
-ギューーッ！[p]
-#亜紀子
-「アヒィーーーッ！」[p]
+*Squeeze![p][cm]
+*[p][cm]
+#Akiko
+Ahhhhhh![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro132-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ピューーーーッ！[p]
-#勝野
-「ほれ、出た！」[p]
-#亜紀子
-「アァァーーーンッ！そ、そんな・・・アンッ♥」[p]
-#勝野
-「こうして・・・こうすれば・・・オラッ」[p]
+*Pewww![p][cm]
+*[p][cm]
+#Katsuno
+There, you appeared![p][cm]
+#Akiko
+Ahhhhh! L-Like that...   Ahn♥[p][cm]
+#Katsuno
+Like this... if I do this... Ora![p][cm]
 #
-プシャーーーーッ！[p]
-#亜紀子
-「アヒィーーーンッ♥」[p]
-#勝野
-「ほれ見たか！俺のテクにかかれば乳搾りだってこんなもんよ！」[p]
-「オラ、どんどん搾ってやるぞ！ほれっ！」[p]
+*Pshhhhh![p][cm]
+*[p][cm]
+#Akiko
+Ahhhhhhhhh♥[p][cm]
+#Katsuno
+Did you see that? With my technique, even milking breasts is nothing compared to[r]this![p][cm]
+I'll keep squeezing them! Here![p][cm]
 #
-プシャーーーーッ！[p]
-ビューーーーーッ！[p]
-#亜紀子
-「ンンーーーッ♥」[p]
-「アンッ！アンッ！アンーッ♥」[p]
-#勝野
-「乳搾られていい声で鳴いてんじゃねぇよ、このドスケベ乳牛が！」[p]
+*Pshhhhh! * *Vooooooom!  *[p][cm]
+#Akiko
+Mmmmmmm♥ Ah! Ah!   Ahhh♥[p][cm]
+#Katsuno
+Don't moan with such a nice voice as if you're being milked, you perverted cow![p][cm]
 #
-ギュッ！　ピューーーッ！[p]
-ギュッ！　ピューーーッ！[p]
-#亜紀子
-「アンッ！ダメェーーッ♥」[p]
-「そ、そんなに強く搾ったら・・・アヒィーーーッ♥」[p]
-#勝野
-「強く搾ったらどうなるってんだ？イっちゃうーってか？」[p]
-「乳搾られてイっちまえ！オラッ！オラッ！」[p]
+*Squeeze! * *Pewww! * *Squeeze![p][cm]
+* *Pewww![p][cm]
+*[p][cm]
+#Akiko
+Ahh! Nooo♥ I-If you squeeze so hard...  Ahiiii♥[p][cm]
+#Katsuno
+What do you think will happen if I squeeze harder?[p][cm]
+Will you cum? Get milked and cum![p][cm]
+Ora! Ora![p][cm]
 #
-ギュッ！　プシャーーーーッ！[p]
-ギューッ！　ビュビューーーッ！[p]
-#亜紀子
-「アンンーーッ！ダメェーーーーッ♥」[p]
+*Squeeze! * *Pshhhhh! * *Squeeze![p][cm]
+* *Pshhhhh![p][cm]
+*[p][cm]
+#Akiko
+Ahhh![p][cm]
+Noooo♥[p][cm]
 
 
 [_tb_end_text]
@@ -546,52 +586,55 @@
 [tb_cg  id="132"  ]
 [tb_start_text mode=1 ]
 #
-ジョボボボボボボボ[p]
-#亜紀子
-「イヤァァァーーーッ♥」[p]
-#勝野
-「おわっ！こいつ、また小便漏らしやがった！」[p]
+Jyobobobobobobo[p][cm]
+#Akiko
+Noooo♥[p][cm]
+#Katsuno
+Oh no! This guy wet himself again![p][cm]
 #
-ジョボボボボボボ[p]
-#亜紀子
-「イヤァァッ・・・！見ないでぇーーーっ♥」[p]
-#勝野
-「イくたびに漏らしやがって・・・！どんだけだらしない身体なんだよ！」[p]
+Jyobobobobobo[p][cm]
+#Akiko
+Noooo...![p][cm]
+Don't lookkkk♥[p][cm]
+#Katsuno
+Every time you cum, you end up wetting yourself...![p][cm]
+Just how sloppy is your body?![p][cm]
 #
-パンッ！[p]
-#亜紀子
-「アヒィーーーッ♥」[p]
-#勝野
-「乳と小便を垂れ流しやがって！恥ずかしくないのかよ！」[p]
+*Pan![p][cm]
+*[p][cm]
+#Akiko
+Ahiiii♥[p][cm]
+#Katsuno
+You're dripping milk and urine![p][cm]
+Aren't you embarrassed?![p][cm]
 #
-ギューッ！　プシャーーーッ！[p]
-ジョボボボボ・・・[p]
-#亜紀子
-「く・・・っ！ァヒィーーーン♥」[p]
-#勝野
-「まったくとんでもないドスケベ牛だぜ。ヒャハハハ」[p]
-「もう片方の乳も搾ってやるからもう小便漏らすなよ！」[p]
-#亜紀子
-「アァァ・・・アンッ♥」[p]
+*Squeeze! * *Splash! * Jyobobobobo...[p][cm]
+#Akiko
+Ku...![p][cm]
+Ahiiiiiiin♥[p][cm]
+#Katsuno
+You're truly an outrageous perverted cow.[p][cm]
+Hyahaha I'll milk the other breast too, so don't pee yourself anymore![p][cm]
+#Akiko
+Ahhh...[p][cm]
+Ahn♥[p][cm]
 #
-ギュッ！　ビューーーッ！[p]
-ギュッ！　ビューーーッ！[p]
-・・・・・・[p]
-・・・[p]
+*Squeeze! * *Splash! * *Squeeze![p][cm]
+* *Splash! * ・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro132-5.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#勝野
-「よし・・・このくらいでいいだろう」[p]
-#亜紀子
-「あぁ・・・うぅ・・・っ」[p]
-#勝野
-「これは結構な重労働だぜ。家畜の世話も楽じゃないな・・・」[p]
-#亜紀子
-「・・・っ」[p]
+#Katsuno
+Alright... This should be enough.[p][cm]
+#Akiko
+Ahh... Ugh...[p][cm]
+#Katsuno
+This is quite heavy labor. Taking care of livestock is not easy either...[p][cm]
+#Akiko
+...[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -601,47 +644,51 @@
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-3.png"  width="583"  height="1399"  left="645"  top="-53"  reflect="false"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「ったく・・・畳に小便漏らしやがって。一応拭いたけど匂いは残るだろうなぁ」[p]
-#亜紀子
-「ぅ・・・っ」[p]
-#勝野
-「乳搾っただけで小便漏らしてイくってどんだけスケベなんだよお前の身体はよ」[p]
-#亜紀子
-「し、仕方ないじゃない・・・体質なんだから・・・」[p]
-#勝野
-「とりあえず謝れ。小便漏らしてすいませんでした、って」[p]
-#亜紀子
-「く・・・っ。しょ、小便を漏らして・・・すいませんでした・・・っ」[p]
-#勝野
-「『私は変態ドスケベ乳牛です。これからもドスケベな私の面倒を見てくださいご主人様』って言え」[p]
+#Katsuno
+Geez... You peed on the tatami mat.[p][cm]
+I wiped it up, but the smell will probably linger.[p][cm]
+#Akiko
+Ugh...[p][cm]
+#Katsuno
+How perverted are you to pee yourself just from milking?[p][cm]
+#Akiko
+W-Well, it can't be helped... It's just my body's nature...[p][cm]
+#Katsuno
+First of all, apologize. Say I'm sorry for peeing myself.[p][cm]
+#Akiko
+Ugh... I-I'm sorry for peeing myself...[p][cm]
+#Katsuno
+Say, I am a perverted slutty cow.[p][cm]
+Please continue to take care of naughty me, Master.[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro260-4n.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「くっ・・・！」[p]
-「わ・・・私は変態・・・ドスケベ乳牛です・・・っ。これからも・・・ドスケベな私の面倒を見てください・・・ご主人様・・・っ」[p]
-#勝野
-「ふっ、いいだろ。俺が責任を持ってこれからも乳搾りをしてやるよ」[p]
-「乳が張ったらこれからはちゃんと俺に報告するんだぞ。勝手に明日香に搾らせたりしたらお仕置きだからな」[p]
-#亜紀子
-「は、はい・・・」[p]
-#勝野
-「よし・・・ところでこの母乳どうするかな。１００ｃｃくらいあるぞ」[p]
-「どんな味がするんだ・・・ペロッ」[p]
-#亜紀子
-「ちょっ・・・やめっ・・・」[p]
-#勝野
-「ふん・・・牛乳よりちょっと薄くて、ほんのり甘いな」[p]
-「そうだ、紙コップにコーヒーを入れて・・・そこにこの母乳をたっぷりと混ぜて・・・」[p]
-#亜紀子
-「な、何をする気・・・？」[p]
-#勝野
-「この母乳入りコーヒーをだな・・・」[p]
-・・・・・・[p]
-・・・[p]
+#Akiko
+Ugh...! I... I'm a pervert... a naughty cow...[p][cm]
+Please continue to take care of naughty me...[p][cm]
+Master...[p][cm]
+#Katsuno
+Hmph, fine. I'll take responsibility and continue milking you from now on.[p][cm]
+If your breasts become swollen, make sure to report it to me from now on.[p][cm]
+If you let Asuka milk you without permission, there will be punishment.[p][cm]
+#Akiko
+Y-Yes...[p][cm]
+#Katsuno
+Alright... By the way, what should I do with this breast milk?[p][cm]
+There's about 100cc. What does it taste like...  *licks lips*[p][cm]
+#Akiko
+S-Stop...[p][cm]
+#Katsuno
+Hmph... It's a little thinner than milk, and slightly sweet.[p][cm]
+I know, I'll pour some coffee into a paper cup...[p][cm]
+and mix in plenty of this breast milk...[p][cm]
+#Akiko
+W-What are you planning to do...?[p][cm]
+#Katsuno
+I'll make this breast milk coffee...[p][cm]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -649,25 +696,26 @@
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-5.png"  width="556"  height="1390"  left="122"  top="18"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「そ、そんなの無理よ・・・！」[p]
-#勝野
-「大丈夫だって、バレやしないよ」[p]
-#亜紀子
-「で、でも・・・」[p]
-#勝野
-「いいからやれといったらやるんだよ。お前にノーは無いと言ったろ」[p]
+#Akiko
+T-That's impossible...![p][cm]
+#Katsuno
+Don't worry, no one will find out.[p][cm]
+#Akiko
+B-But...[p][cm]
+#Katsuno
+If I tell you to do it, then you have to do it.[p][cm]
+Didn't I say there's no such thing as saying no to you?[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-1.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・っ」[p]
-#勝野
-「よし、そろそろ時間だろ。仕事して来い」[p]
-「一緒に出るのを誰かに見られたら面倒だから、俺はちょっと遅れて出るぜ」[p]
-#亜紀子
-「・・・・・・」[p]
+#Akiko
+Ugh...[p][cm]
+#Katsuno
+Alright, it's about time. Go do your work.[p][cm]
+I'll be a little late leaving because it would be troublesome if someone saw us[r]leaving together.[p][cm]
+#Akiko
+・・・・・・[p][cm]
 
 [_tb_end_text]
 
@@ -676,77 +724,78 @@
 [bg  time="1000"  method="crossfade"  storage="hiro202.jpg"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「どうしよう・・・」[p]
-「このコーヒーを誰かに飲ませろって・・・誰に渡せば・・・」[p]
-#谷田
-「あ、千山さん」[p]
+#Akiko
+What should I do... Who should I give this coffee to...[p][cm]
+someone to make them drink it...[p][cm]
+#Tanida
+Ah, Senyama-san.[p][cm]
 [_tb_end_text]
 
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-2.png"  width="450"  height="1080"  left="709"  top="2"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あ、谷田君・・・」[p]
-#谷田
-「そろそろ本番ですよ。スタジオのほうに・・・」[p]
-#亜紀子
-「あ、うん。すぐ行くわ」[p]
-#谷田
-「それじゃお願いします」[p]
+#Akiko
+Ah, Tanida-kun...[p][cm]
+#Tanida
+It's about time for the main event.[p][cm]
+Let's head to the studio...[p][cm]
+#Akiko
+Ah, yeah. I'll go right away.[p][cm]
+#Tanida
+Well then, please take care of it.[p][cm]
 
 [_tb_end_text]
 
 [chara_move  name="谷田"  anim="true"  time="300"  effect="linear"  wait="true"  left="1042"  top="4"  width="450"  height="1080"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あっ・・・谷田君・・・！」[p]
+#Akiko
+Ah... Tanida-kun...![p][cm]
 
 [_tb_end_text]
 
 [chara_move  name="谷田"  anim="true"  time="300"  effect="linear"  wait="true"  left="721"  top="-5"  width="450"  height="1080"  ]
 [chara_mod  name="美里"  time="00"  cross="false"  storage="chara/1/hiro258-2.png"  ]
 [tb_start_text mode=1 ]
-#谷田
-「はいっ、なんですか？」[p]
-#亜紀子
-「あ、あの・・・こ、このコーヒー飲んでくれない？」[p]
-#谷田
-「え、コーヒーくれるんですか？」[p]
-#亜紀子
-「え、ええ・・・さっき淹れたんだけど、もう本番だし要らなくなっちゃって・・・。よかったらどうかしら・・・」[p]
-#谷田
-「いいんですか？じゃあ、いただきます！」[p]
-#亜紀子
-「は、はい、どうぞ」[p]
-#谷田
-「ありがとうございます！いやぁ千山さんが淹れたコーヒーをもらえるなんてラッキーだなぁ」[p]
-「も、もしかして飲みかけですか！？」[p]
-#亜紀子
-「あ、ううん、まだ口はつけてないわ」[p]
-#谷田
-「あー残念・・・なんちゃって、アハハハ」[p]
-「じゃ、いただきます。ゴクゴク」[p]
-#亜紀子
-（あぁ・・・飲んでる・・・私の母乳入りコーヒーを・・・）[p]
-#谷田
-「あー美味しい。千山さんにもらったからか、なんかすごく美味しく感じますよ。アハハハ」[p]
-#亜紀子
-「そ、そう・・・よかったわ・・・」[p]
-（あぁ・・・恥ずかしい・・・）[p]
-（・・・もし「わたしの母乳が入ってるわよ」って言ったらどんな顔するのかしら・・・）[p]
-（変態だと思って幻滅するでしょうね・・・）[p]
-#谷田
-「おっと、そろそろ急がないと」[p]
-#亜紀子
-「あ、そうね。行きましょう」[p]
+#Tanida
+Yes, what is it?[p][cm]
+#Akiko
+U-Um... C-Can you drink this coffee for me?[p][cm]
+#Tanida
+Huh, are you giving me the coffee?[p][cm]
+#Akiko
+U-Um... I-I just brewed it earlier, but since it's already showtime, I don't[r]need it anymore...[p][cm]
+If you'd like, would you mind...[p][cm]
+#Tanida
+Is it okay? Well then, I'll have it![p][cm]
+#Akiko
+Y-Yes, here you go.[p][cm]
+#Tanida
+U-Um, is it perhaps a half-drunk coffee!?[p][cm]
+#Akiko
+Ah, no, I haven't taken a sip yet.[p][cm]
+#Tanida
+Ah, what a shame... Just kidding, ahahaha.[p][cm]
+Well then, here I go.[p][cm]
+*gulp gulp*[p][cm]
+#Akiko
+(Ah... he's drinking... my breast milk coffee...)[p][cm]
+#Tanida
+Ah, it's delicious. Maybe it's because I got it from Senzan-san, but it tastes[r]really good.[p][cm]
+Ahahaha.[p][cm]
+#Akiko
+T-That's... thank goodness... (Ah...[p][cm]
+how embarrassing...) (... I wonder what kind of face he would make if I told him[r]that my breast milk is in it...)[p][cm]
+(You would be disappointed if you thought I was a pervert...)[p][cm]
+#Tanida
+Oops, I should hurry.[p][cm]
+#Akiko
+Ah, yes. Let's go.[p][cm]
 #
 
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -760,213 +809,234 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「さー今週も始まりました『ウメちゃんのディープな世界』！ゲストのみなさんよろしくお願いします！」[p]
-#若手芸人
-「よろしくお願いします！」[p]
-#バラドル
-「よろしくお願いしまーす」[p]
-#梅田
-「さて、今週からアシスタントが代わりました。自己紹介どうぞ！」[p]
-#亜紀子
-「はい、今週からアシスタントを務めさせていただきます、千山亜紀子です。よろしくお願いします」[p]
-#梅田
-「キミ前はあんまりこういう番組出てなかったけども、最近は出るようになったんやねー」[p]
-#亜紀子
-「は、はい、こういったアシスタントは初めてなので、未熟なところもあるかと思いますがよろしくお願いします」[p]
-#梅田
-「いやーいいですね。見てくださいよこの乳」[p]
-#若手芸人
-「乳てｗ梅田さん！」[p]
-#梅田
-「いやーすごいでこれ・・・何ｃｍあるん？」[p]
-#亜紀子
-「あの・・・それは・・・秘密です」[p]
-#梅田
-「いやそんなんええねん。何ｃｍかって聞いてんねん」[p]
-#亜紀子
-「え・・・あの・・・１０４ｃｍです・・・」[p]
-#梅田
-「１０４！？ひゃひゃひゃ１０４！？」[p]
-#バラドル
-「すごーーーい！」[p]
-#梅田
-「１０４てすごいな！ひゃーーー・・・はさんだらたまらんやろうな」[p]
-#若手芸人
-「はさむてｗ何をはさむんですかｗ」[p]
-#梅田
-「ハッハッハッハ！」[p]
-#亜紀子
-（私がこんな番組のアシスタントなんて・・・屈辱だわ）[p]
+#Umeda
+Alright, it's time to start another week of Ume-chan's Deep World![p][cm]
+Guests, please introduce yourselves and let's have a great time![p][cm]
+#Young comedian
+Nice to meet you![p][cm]
+#Baradoru
+Nice to meet you![p][cm]
+#Umeda
+Well, starting from this week, we have a new assistant.[p][cm]
+Please introduce yourself![p][cm]
+#Akiko
+Yes, starting from this week, I will be serving as the assistant.[p][cm]
+My name is Akiko Senzan. Nice to meet you all.[p][cm]
+#Umeda
+You haven't appeared on this kind of show much before, but recently you've been[r]appearing more often, huh?[p][cm]
+#Akiko
+Y-Yes, this is my first time being an assistant, so there may be some areas[r]where I'm inexperienced.[p][cm]
+But please take care of me.[p][cm]
+#Umeda
+Oh, it's great, isn't it? Look at these breasts.[p][cm]
+#Young comedian
+Boobs, huh? Umeda-san![p][cm]
+#Umeda
+Oh, these are amazing... How many centimeters are they?[p][cm]
+#Akiko
+Um... that... is a secret.[p][cm]
+#Umeda
+No, that's not important. I'm asking how many centimeters they are.[p][cm]
+#Akiko
+Um... well... they're 104 cm...[p][cm]
+#Umeda
+104!? Hyahyahya 104!?[p][cm]
+#Baradoru
+Wow![p][cm]
+#Umeda
+104, that's amazing! Hyaaa... I bet they're irresistible.[p][cm]
+#Young comedian
+Hahahaha, what are you trying to squeeze in there?[p][cm]
+Hahaha[p][cm]
+#Umeda
+Hahaha![p][cm]
+#Akiko
+(Being an assistant on a show like this...[p][cm]
+it's humiliating.)[p][cm]
 #
-『ウメちゃんのディープな話』は勝野が担当する深夜番組で、性に関するマニアックな愛好家をスタジオに呼んでそのディープな世界について紹介してもらうという、下ネタバラエティだ[p]
-メインＭＣのウメちゃんこと梅田雅人は５０代のベテラン芸人で、最近は勢いがなくなってきたとはいえまだまだこの業界で力を持っている大物だ[p]
-以前は２年目の若手女子アナがアシスタントをしていたのだが、勝野の一声で今週から私がその座につくことになった[p]
-#梅田
-「ごめんごめん、で、今日のテーマはなんですか」[p]
-#亜紀子
-「は、はい、今日のテーマはこちらです。『巨女』！」[p]
-#梅田
-「きょじょ？なにそれ？」[p]
-#亜紀子
-「はい、巨女というのはその字の通り大きな女性のことで、自分よりずっと背の高い女性にしか興奮できない巨女マニアというのが存在するんですよ」[p]
-#梅田
-「へぇ～～なるほど、でっかい女にこう上からぶわぁーっと無理やりやられるのが好きなんや。Ｍってことか」[p]
-#若手芸人
-「いやでも、でっかい女性を征服したいみたいな、Ｓの方もあるんじゃないですか？」[p]
-#梅田
-「あーなるほどなるほど、そっちもあるんか」[p]
-#バラドル
-「あ、もしかして私それで今回呼ばれたんですかー？」[p]
-#梅田
-「そうやな、キミでかいもんな」[p]
-#バラドル
-「じゃあ今日はモテモテかもー」[p]
-#亜紀子
-「はい、それでは早速「巨女」マニアの方々をお呼びしましょう。どうぞ！」[p]
+'Ume-chan's Deep Talk' is a late-night program hosted by Katsuno, where they[r]invite passionate enthusiasts of sexuality to the studio and have them introduce[r]the deep world of that subject.[p][cm]
+It's a variety show that focuses on adult topics.[p][cm]
+The main MC, Ume-chan, also known as Masato Umeda, is a veteran comedian in his[r]50s.[p][cm]
+Although he may have lost some momentum recently, he is still a prominent figure[r]in this industry.[p][cm]
+Previously, a second-year young female announcer was the assistant, but with[r]Katsuno's decision, starting from this week, I will be taking that position.[p][cm]
+#Umeda
+Sorry, sorry. So, what's today's theme?[p][cm]
+#Akiko
+Y-Yes, today's theme is... Giant Women![p][cm]
+#Umeda
+Kyojo? What's that?[p][cm]
+#Akiko
+Yes, kyojo refers to women who are literally giant in size.[p][cm]
+There are enthusiasts called kyojo maniacs who can only get excited by women[r]much taller than themselves.[p][cm]
+#Umeda
+Ohh, I see. So they enjoy being forcefully overwhelmed by these giant women.[p][cm]
+It's an M thing, huh?[p][cm]
+#Young comedian
+Well, I think there are also people who want to conquer big women, like those[r]with an S side, right?[p][cm]
+#Umeda
+Ah, I see, I see. So there are also people who want to conquer big women, huh?[p][cm]
+#Baradoru
+Ah, could it be that I was invited this time for that reason?[p][cm]
+#Umeda
+Yeah, you're a big guy.[p][cm]
+#Baradoru
+Well, I might be popular today.[p][cm]
+#Akiko
+Yes, then let's invite the giant women enthusiasts right away.[p][cm]
+Here they are![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-0.jpg"  ]
 [tb_start_text mode=1 ]
 #
-その後、「巨女」マニアの男性たち３名が紹介され、大きい女のどこに興奮するかや理想のプレイなどを熱く語って番組は進行していった[p]
-そして実際に長身のセクシー女優が登場して、巨女マニアの男たちがあこがれのシチュエーションを疑似体験するところで番組は盛り上がりを迎えていた[p]
-#梅田
-「Ｂさんはどういうプレイが理想なん？」[p]
-#マニアＢ
-「ぼ、僕はこう仰向けに寝転んだところにお尻でこう顔のところにギューッて押しつぶして欲しいですね」[p]
-#梅田
-「カッカッカッカｗ顔の上に座って欲しいんや？」[p]
-#マニアＢ
-「は、はい！」[p]
-#梅田
-「ドＭやないか！」[p]
-#マニアＢ
-「アハハハハ」[p]
-#梅田
-「よし、お前やったれ」[p]
-#バラドル
-「えーーー私ですかーー！？」[p]
-#梅田
-「せっかくやからな。なぁ」[p]
-#マニアＢ
-「は、はい、お願いします！」[p]
-#バラドル
-「えーーホントにやるのーーー？えーーー」[p]
+After that, three male giant women enthusiasts were introduced, and the program[r]continued with passionate discussions about what excites them about big women[r]and their ideal play.[p][cm]
+And then, a tall and sexy actress actually appeared, and the men who were giant[r]women enthusiasts were able to experience their desired situations vicariously.[p][cm]
+The program was getting more and more exciting.[p][cm]
+#Umeda
+What kind of play is ideal for you, Mr. B?[p][cm]
+[p][cm]
+#Mania B
+U-Um, I would like to lie on my back and have my face crushed by a butt like[r]this, squeezing it tightly.[p][cm]
+#Umeda
+Hahaha, you want someone to sit on your face?[p][cm]
+#Mania B
+Y-Yes![p][cm]
+#Umeda
+You're such a masochist![p][cm]
+#Mania B
+Ahahahaha[p][cm]
+#Umeda
+Alright, it's your turn.[p][cm]
+#Baradoru
+E-Excuse me, me!?[p][cm]
+#Umeda
+Since we're already here. Hey.[p][cm]
+#Mania B
+Y-Yes, please![p][cm]
+#Baradoru
+A-Are you really going to do it?[p][cm]
+Uh...[p][cm]
 #
-この演出は台本にはなく、梅田のアドリブであった[p]
-バラドルは無茶振りに戸惑いを見せながらも、Ｂさんの顔の上にそーっと腰を下ろした[p]
-#マニアＢ
-「んんーーーーっ♥」[p]
-#バラエティー
-「ヤダーーーーーくすぐったいーーー！」[p]
-#梅田
-「ギャハハハハハハ！」[p]
-#マニアＢ
-「ンムーーーーー・・・プハァ！」[p]
-「さ、さ、さ、最高でした！ありがとうございます！」[p]
-#バラドル
-「いやーーーん、どういたしましてーｗ」[p]
-#若手芸人
-「うわーーいいなーー。俺もやって欲しいわーーｗ」[p]
-#梅田
-「カッカッカッカッカｗ」[p]
-#亜紀子
-（はぁ・・・低俗な番組だわ。私が居る必要ないし）[p]
-「えー・・・それでは次はＣさんの理想のプレイはどういったものですか？」[p]
-#マニアＣ
-「えーわたしはこう向き合って、おっぱいを頭の上に乗せてもらいたいです」[p]
-#梅田
-「ハハハハハ、おもろい」[p]
-「それは俺もちょっとやって欲しいわ」[p]
-#バラドル
-「でも相当身長差ないと無理じゃないー？」[p]
-#若手芸人
-「おっぱいもかなりの大きさ必要ですよね」[p]
-#梅田
-「よし、ほんなら千山、お前やったれ」[p]
-#亜紀子
-「えっ！？わ、わたしは無理です」[p]
-#梅田
-「なんでや、ええやんけ。お前も結構背あるし。なんせ乳でかいがな」[p]
-#亜紀子
-「む、無理ですよ。わたしの身長では足りませんし・・・」[p]
-#梅田
-「台つこたらええがな。なぁＣさんも千山にやってほしいやろ？」[p]
-#マニアＣ
-「はい！ぜひ・・・！」[p]
-#梅田
-「ほら、やったれや」[p]
-#若手芸人
-「いや梅田さん、無理でしょ。局アナさんですから・・・」[p]
-#亜紀子
-「は、はい・・・ちょっとわたしは・・・すいません」[p]
-#梅田
-「なんやあかんのか・・・ちっ」[p]
-#亜紀子
-「す、すいません・・・」[p]
+This scene wasn't in the script, it was Umeda's improvisation.[p][cm]
+Baradoru, while showing hesitation in response to the unreasonable request,[r]gently lowered their hips onto B-san's face.[p][cm]
+#Mania B
+Mmmmmm♥[p][cm]
+#Variety
+Noooooo, it tickles![p][cm]
+#Umeda
+Gyahahahaha![p][cm]
+#Mania B
+Mmmmm... Puhah! T-T-That was amazing![p][cm]
+Thank you so much![p][cm]
+#Baradoru
+Oh myyy, you're welcome~ haha[p][cm]
+#Young comedian
+Wow, that's so cool! I want to do it too, lol.[p][cm]
+#Umeda
+Kakakakaka lol[p][cm]
+#Akiko
+(Sigh... This is such a vulgar show.[p][cm]
+There's no need for me to be here.)[p][cm]
+Um... Well then, what kind of ideal play does C-san have?[p][cm]
+#Mania C
+Um... I would like to face this way and have my breasts placed on top of my[r]head.[p][cm]
+#Umeda
+Hahahaha, that's hilarious. I want to try that a little too.[p][cm]
+#Baradoru
+But it's impossible unless there's a considerable height difference, right?[p][cm]
+#Young comedian
+You need quite a big size for that, don't you?[p][cm]
+#Umeda
+Alright, Senzan, you do it.[p][cm]
+#Akiko
+Eh!? I-I can't do that.[p][cm]
+#Umeda
+Why not? It's fine. You're pretty tall too.[p][cm]
+Besides, you have big breasts after all.[p][cm]
+#Akiko
+N-No, it's impossible for me. My height is not enough...[p][cm]
+#Umeda
+How about using a platform? Hey, C-san, don't you want Senzan to do it too?[p][cm]
+#Mania C
+Yes! Definitely...![p][cm]
+#Umeda
+Come on, give it a try.[p][cm]
+#Young comedian
+No, Umeda-san, it's impossible.[p][cm]
+She's a TV announcer, after all...[p][cm]
+#Akiko
+Y-Yes... I-I'm sorry...[p][cm]
+#Umeda
+What's wrong with you... sigh.[p][cm]
+#Akiko
+I-I'm sorry...[p][cm]
 #
-結局長身セクシー女優さんがＣさんの頭の上に乳房を乗せてその場は終った[p]
-それで台本どおりなのだが、元々そんなに胸の大きくない女優さんだったので盛り上がりに欠ける結果となってしまった[p]
-そして番組は終盤に入り、巨女マニアたちの夢のシチュエーションを事前に撮影したＶＴＲを見るコーナーへと移っていった[p]
-#梅田
-「カッカッカッカッカ」[p]
-#亜紀子
-（梅田さんの機嫌を損ねたかと思ったけど・・・もう怒ってはないようね）[p]
-（落ち目とはいえ大物だし・・・怒らせたらなにがあるかわからないし・・・後で謝ったほうがいいのかしら）[p]
+In the end, the tall and sexy actress put her breasts on top of C-san's head and[r]the scene ended.[p][cm]
+As a result, since she was originally not an actress with such big breasts, the[r]scene lacked excitement as written in the script.[p][cm]
+And as the program entered its final stage, it transitioned to a segment where[r]they watched a pre-recorded VTR of the dream situation for the giantess maniacs.[p][cm]
+#Umeda
+Hahaha![p][cm]
+#Akiko
+(I thought I had upset Umeda-san, but it seems like he's not angry anymore.)[p][cm]
+(Even though he's fallen from grace, he's still a big shot...[p][cm]
+I don't know what might happen if I upset him...[p][cm]
+Maybe I should apologize later.)[p][cm]
 #
-梅田はＶＴＲを見ながら笑顔を見せている[p]
-見ながらのリアクションもワイプで使われるので気を抜くことは出来ないのだ[p]
-#亜紀子
-（なんとか無事収録は終われそうね・・・）[p]
-（バラエティのアシスタントも楽な仕事じゃないわね・・・・・・えっ！？）[p]
+Umeda is watching the VTR with a smile on his face.[p][cm]
+Since his reactions while watching are also used as wipes, he can't let his[r]guard down.[p][cm]
+#Akiko
+(It looks like we'll be able to finish the recording somehow...)[p][cm]
+(Being a variety show assistant is not an easy job...[p][cm]
+huh!?)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（ちょ・・・ちょっと・・・梅田さん！？）[p]
+#Akiko
+(W-Wait... Wait a minute... Umeda-san!?)[p][cm]
 #
-突如梅田の手が伸びてきて亜紀子の尻を無遠慮にまさぐり始めた[p]
-#梅田
-「カッカッカッカッカ」[p]
+Umeda's hand suddenly reaches out and starts boldly groping Akiko's butt.[p][cm]
+#Umeda
+Hahaha![p][cm]
 #
-梅田は知らん顔でＶＴＲを観ている[p]
-#亜紀子
-（ちょっと・・・や、やめてください！）[p]
-#梅田
-（ちゃんと前向いとかんかい。抜かれるぞ）[p]
-#亜紀子
-（お尻を触るのをやめてください・・・！）[p]
-#梅田
-（ええやないか尻くらい）[p]
-#亜紀子
-（いいわけないでしょ・・・！セクハラですよっ！）[p]
-#梅田
-（なにがセクハラや。これもアシスタントの仕事のうちやろ）[p]
-（身体張って笑いとることもできひんのやったら、これくらい我慢せんかい）[p]
-#亜紀子
-（そ、そんな・・・！アッ・・・スカートの中まで手を入れないでください・・・っ！）[p]
-#梅田
-（おらジタバタ動くな！カメラ回ってんのやぞ！）[p]
-#亜紀子
-（はっ・・・と、とにかく手を離して下さい！）[p]
-（いい加減にしないと・・・告発しますよ！）[p]
-#梅田
-（告発ぅ～？やれるもんならやってみい）[p]
-（お前この世界におられへんようにしたるからな。わしはまだそのくらいの力はあるんやで）[p]
-#亜紀子
-（なっ・・・！）[p]
-#梅田
-（わしのチンポしゃぶるの断ってテレビ出られへんようになった女なんぼでもおるんやからな）[p]
-#亜紀子
-（な、なんて人なの・・・！）[p]
-#梅田
-（カッカッカッカ、女子アナなんか性処理のためにおるようなもんやろ。エロいケツしやがって）[p]
-モミモミモミ[p]
-#亜紀子
-（くっ・・・！）[p]
+Umeda is watching the VTR with an indifferent expression.[p][cm]
+#Akiko
+(Please... p-please stop!)[p][cm]
+#Umeda
+(Turn around properly. You're gonna get fucked.)[p][cm]
+#Akiko
+(Please stop touching my butt...!)[p][cm]
+#Umeda
+(What's wrong with the butt?)[p][cm]
+#Akiko
+(There's no excuse for this...![p][cm]
+It's sexual harassment!)[p][cm]
+#Umeda
+(What's sexual harassment? This is also part of the assistant's job.)[p][cm]
+(If you can't even endure a little bit of physical humor, then what can you[r]handle?)[p][cm]
+#Akiko
+(P-Please... Don't... put your hand inside my skirt...!)[p][cm]
+#Umeda
+(Stop squirming! The camera is rolling, you know!)[p][cm]
+#Akiko
+(H-Ha... Please, just let go!)[p][cm]
+(If you don't stop... I'll report you!)[p][cm]
+#Umeda
+(Report me, huh? If you can do it, then go ahead and try.)[p][cm]
+(I'll make sure you won't exist in this world.[p][cm]
+I still have enough power for that.)[p][cm]
+#Akiko
+(Wha...!)[p][cm]
+#Umeda
+(There are plenty of women who refuse to suck my dick and can't appear on TV[r]anymore.)[p][cm]
+#Akiko
+(W-What kind of person is he...!)[p][cm]
+#Umeda
+(Hahaha, female announcers are just here for sexual purposes.[p][cm]
+Such a lewd ass.) Momi momi momi.[p][cm]
+#Akiko
+(Ku...!)[p][cm]
 
 [_tb_end_text]
 
@@ -974,19 +1044,20 @@
 [tb_image_show  time="1000"  storage="default/hiro101-99.jpg"  width="800"  height="502"  x="226"  y="-5"  _clickable_img=""  name="img_134"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="烈火翔ける.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「馬鹿にしないで！！」[p]
+#Akiko
+Don't make fun of me!![p][cm]
 #
-パンッ！！[p]
-#梅田
-「な・・・！？」[p]
-#亜紀子
-（し、しまった・・・！つい手が出ちゃった・・・！）[p]
+*Thud![p][cm]
+*[p][cm]
+#Umeda
+Wha...!?[p][cm]
+#Akiko
+(Oh no...! I couldn't help myself...!)[p][cm]
 #
-スタジオ中の視線が亜紀子に集まった[p]
-ほとんどの人がＶＴＲを見ていたので何が起こったか理解していなかった[p]
-#亜紀子
-（やっちゃった・・・どうしよう）[p]
+All eyes in the studio were focused on Akiko.[p][cm]
+Since most people were watching the VTR, they didn't understand what had[r]happened.[p][cm]
+#Akiko
+(I did it... What should I do?)[p][cm]
 
 [_tb_end_text]
 
@@ -995,31 +1066,36 @@
 [bg  time="000"  method="crossfade"  storage="hiro120-1.jpg"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「すまんすまん、Ｖ見てる間暇やから千山ちゃんのケツ触ったら怒られてもうたわ。ガハハハハハ！」[p]
-#若手芸人
-「ちょっとなにしてるんですか梅田さんｗｗ」[p]
-#バラドル
-「やだ～～～～梅田さんサイテ～～～！」[p]
+#Umeda
+Sorry, sorry. I was bored while watching the VTR, so I touched Chiyama-chan's[r]butt and got scolded.[p][cm]
+Gahahaha![p][cm]
+#Young comedian
+Hey Umeda-san, what are you doing?[p][cm]
+LOL[p][cm]
+#Baradoru
+Oh no~~ Umeda-san, you're so mean~~![p][cm]
 #
-一瞬凍りついたスタジオがほっとした笑いに包まれた[p]
-#梅田
-「まさかビンタされる思わんかったわ。気の強い姉ちゃんやでホンマ。カッカッカッカ」[p]
-#若手芸人
-「そら怒りますってｗ梅田さんが悪いっすわｗ」[p]
-#バラドル
-「千山ちゃん大丈夫～～～～？訴えたほうがいいんじゃない～？」[p]
-#亜紀子
-「あ、いえ・・・大丈夫です。ちょっとビックリしちゃって」[p]
-「お騒がせしてすいません」[p]
-#若手芸人
-「千山ちゃんは悪くないよー！怒って当然ですよーｗ」[p]
-#梅田
-「いやすまんすまん！Ｖ見よＶ」[p]
+The momentarily frozen studio was enveloped in a relieved laughter.[p][cm]
+#Umeda
+I never thought I'd get slapped.[p][cm]
+She's a strong-willed girl, really.[p][cm]
+Hahaha.[p][cm]
+#Young comedian
+She's really angry, huh? Umeda-san is at fault, lol.[p][cm]
+#Baradoru
+Chiyama-chan, are you okay~~? Shouldn't you sue him~?[p][cm]
+#Akiko
+Ah, no... I'm fine. I was just a little surprised.[p][cm]
+I'm sorry for causing trouble.[p][cm]
+#Young comedian
+Chiyama-chan didn't do anything wrong![p][cm]
+It's only natural for her to be angry, lol.[p][cm]
+#Umeda
+Oh, I'm sorry! Look, look![p][cm]
 #
-梅田がとっさの機転で笑いに変えたことで、収録はとまることなくそのまま続行された[p]
-梅田はその後も何事もなかったかのように笑いをとり続け、収録は無事終了した[p]
-・・・・・・[p]
+Thanks to Umeda's quick wit that turned it into laughter, the recording[r]continued without interruption.[p][cm]
+Umeda continued to make people laugh as if nothing had happened, and the[r]recording ended successfully.[p][cm]
+・・・・・・[p][cm]
 
 
 
@@ -1035,68 +1111,71 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「おい、やってくれたな」[p]
-#亜紀子
-「し、仕方ないでしょう！あのエロおやじが悪いんだから・・・」[p]
-#勝野
-「そのくらい我慢しろよ！本番中にビンタなんて・・・信じられねぇよ」[p]
-「俺が強引に前のアシスタントをクビにしてお前を起用したんだぞ。梅田さんの機嫌損ねたら俺の立場がヤバいだろうが・・・！」[p]
-#亜紀子
-「わたしをクビにすればいいでしょう。あいつにも芸能界から消すって脅されたわ。・・・もうどうにでもなれよ」[p]
-#勝野
-「てめえ、開き直りやがって・・・！」[p]
-「・・・仕方ない、今からでも梅田さんに土下座して謝りに行くぞ」[p]
-#亜紀子
-「い、嫌よ・・・そんなこと絶対に！」[p]
-#勝野
-「おい、お前自分の立場を忘れたのか？」[p]
-「俺はいつでもお前と明日香の人生を終わらせることができるんだぞ」[p]
-#亜紀子
-「く・・・っ」[p]
-#梅田のマネージャー
-「あのー、勝野さんすいません」[p]
-#勝野
-「あっ、すいません！これから楽屋にこいつを謝らせに行こうかと思ってたところで・・・」[p]
-#梅田のマネージャー
-「あ、いや、なんか「勝野だけ呼んで来い」って言ってまして」[p]
+#Katsuno
+Hey, you did it.[p][cm]
+#Akiko
+W-Well, it can't be helped! That perverted old man is at fault...[p][cm]
+#Katsuno
+Just endure it! I can't believe he slapped you during the performance...[p][cm]
+I forcefully fired the previous assistant and chose you.[p][cm]
+If Umeda-san's mood is ruined, my position will be in trouble...![p][cm]
+#Akiko
+You should just fire me. That guy threatened to erase me from the entertainment[r]industry too...[p][cm]
+I don't care anymore.[p][cm]
+#Katsuno
+You're shamelessly trying to act tough...![p][cm]
+... I have no choice. I'll go and apologize to Umeda-san on my knees, even if[r]it's now.[p][cm]
+#Akiko
+N-No way... I absolutely refuse![p][cm]
+#Katsuno
+Hey, have you forgotten your position?[p][cm]
+I can end your and Asuka's lives anytime.[p][cm]
+#Akiko
+Ugh...[p][cm]
+#Umeda's Manager
+Um, I'm sorry, Katsuno-san.[p][cm]
+#Katsuno
+Ah, I'm sorry! I was just about to go to the dressing room to make her[r]apologize...[p][cm]
+#Umeda's Manager
+Ah, no, I mean, he told me to call only Katsuno.[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="勝野"  time="0"  cross="false"  storage="chara/5/hiro256-2.png"  ]
 [tb_start_text mode=1 ]
-#勝野
-「えっ、俺だけ・・・ですか！？」[p]
-#梅田のマネージャー
-「はい、すぐ呼んで来いって」[p]
-#勝野
-「う・・・わ、わかりました。すぐ伺います」[p]
-#梅田のマネージャー
-「それじゃすぐに来てくださいね」[p]
+#Katsuno
+Huh, only me...?[p][cm]
+#Umeda's Manager
+Yes, he told me to call you right away.[p][cm]
+#Katsuno
+Ugh... U-Understood. I'll go right away.[p][cm]
+#Umeda's Manager
+Please come right away, okay?[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="勝野"  time="0"  cross="false"  storage="chara/5/hiro256-1.png"  ]
 [tb_start_text mode=1 ]
-#勝野
-「くそっ・・・！ヤバイなこれは・・・」[p]
-「仕方ない。俺は行って来るから、お前は例の部屋で待ってろ」[p]
-「今夜はたっぷりとお仕置きしてやるからな。覚悟しておけよ」[p]
-#亜紀子
-「く・・・」[p]
+#Katsuno
+Dammit...! This is bad... I have no choice.[p][cm]
+I'll go and come back, so you wait in that room.[p][cm]
+Tonight, I'm going to punish you thoroughly.[p][cm]
+Be prepared.[p][cm]
+#Akiko
+Ugh...[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="勝野"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（ふん・・・いい気味だわ。これで勝野が業界から干されればいいのに・・・）[p]
-（・・・といっても私の立場は変わらないけどね・・・）[p]
-（・・・例の部屋で待ってろ・・・か。）[p]
-（怒らせてしまったから、今夜はきっと一晩中ひどいことをされるんだわ・・・）[p]
-（どんなことをされるのかしら・・・あぁ・・・）[p]
+#Akiko
+(Hmph... serves her right. It would be great if Katsuno gets blacklisted from[r]the industry...)[p][cm]
+(Even if... it doesn't change my position...)[p][cm]
+(... Wait for me in the usual room, huh?)[p][cm]
+(Because I made him angry, I'm sure he'll do terrible things to me all night[r]long...)[p][cm]
+(I wonder what he's going to do to me...[p][cm]
+Ah...)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

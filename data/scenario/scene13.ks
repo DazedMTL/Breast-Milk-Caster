@@ -9,111 +9,135 @@
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（浣腸は怖いけど・・・やっぱり明日香を見捨てるわけにはいかない・・・っ！）[p]
-「勝野様っ、亜紀子にお浣腸をもう一本くださいっ♥」[p]
-#勝野
-「ククク、浣腸嫌いなんじゃなかったのか？無理するなよ？」[p]
-#亜紀子
-「はいっ、浣腸は嫌いです・・・でも、亜紀子は酷いことをされればされるほど興奮するド変態なんですぅっ♥」[p]
-「ドスケベマゾ豚の亜紀子のケツ穴にたっぷり浣腸をぶち込んで、もっと苦しませていじめてくださいませぇっ♥」[p]
-「そして亜紀子のケツ穴からくっさいウンチがブリブリ出るところを見て笑ってくださいましぃーっ♥」[p]
-#明日香
-「せ、先輩・・・」[p]
-#勝野
-「ウヒャヒャヒャ！よくそこまで思い切れるな！明日香も引いてるじゃねえかｗｗ」[p]
-「そこまでの台詞は１００％の演技じゃ出てこないぜ。半分本音も入ってるんだろうこのド変態め！」[p]
-#亜紀子
-「は、はい、本心ですっ。亜紀子は正真正銘ドスケベのド変態なんですっ♥」[p]
-#勝野
-「よーし、そこまで言うならお前に２本目の浣腸をくれてやろう」[p]
-「おらよっ」[p]
+#Akiko
+(Enemas are scary, but... I can't just abandon Asuka...!)[p][cm]
+Please, Mr.[p][cm]
+Katsuno, give me another enema, Akiko♥[p][cm]
+#Katsuno
+Hehehe, I thought you didn't like enemas?[p][cm]
+Don't push yourself too hard, okay?[p][cm]
+#Akiko
+Yes, I hate enemas... but the more cruel things are done to me, the more excited[r]I become.[p][cm]
+I'm such a perverted girl, aren't I?[p][cm]
+♥ Please, insert a generous amount of enema into Akiko's perverted piggy asshole[r]and torment her even more, making her suffer♥ And please laugh as you see stinky[r]poop coming out of Akiko's asshole, with a big smile on your face♥[p][cm]
+#Asuka
+S-Senpai...[p][cm]
+#Katsuno
+Wahahaha! I can't believe you're so daring![p][cm]
+Asuka, you're blushing too, aren't you?[p][cm]
+Lol Those lines wouldn't come out as 100% acting.[p][cm]
+I'm sure there's some truth mixed in, you perverted freak![p][cm]
+#Akiko
+Y-Yes, it's true.[p][cm]
+Akiko is a genuine perverted freak♥[p][cm]
+#Katsuno
+Alright, if you're going to say that much, I'll give you a second enema.[p][cm]
+Here I come![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ！[p]
-#亜紀子
-「ンヒッ・・・！」[p]
-#勝野
-「ほれっ２本目だ、よく飲めよ！」[p]
+*Splat![p][cm]
+*[p][cm]
+#Akiko
+Nhi...![p][cm]
+#Katsuno
+Here's the second one, drink it up![p][cm]
 #
-ブチュチュ～～～ッ！[p]
-#亜紀子
-「ヒグッ！・・・ンハァッ・・・フッ・・・クッ・・・！」[p]
-#明日香
-「あぁ・・・先輩・・・っ！」[p]
-#勝野
-「おら、力を抜け。入らないだろ」[p]
-#亜紀子
-「は・・・はひっ・・・フゥッ・・・フゥッ・・・」[p]
-#勝野
-「オラッ、よっ！」[p]
+*Squish squish~![p][cm]
+*[p][cm]
+#Akiko
+Higu... Nhaa... Huh... Kuh...![p][cm]
+#Asuka
+Ah... Senpai...![p][cm]
+#Katsuno
+Hey, relax. It won't go in.[p][cm]
+#Akiko
+H-ha... haah... fuu... fuu...[p][cm]
+#Katsuno
+Hey there![p][cm]
 #
-ブチュブチュブチュ～～～～ッ！[p]
-#亜紀子
-「ハグッ・・・ウヒッ・・・ハウッ！」[p]
-#勝野
-「よし、なんとか全部入ったな。まだ出すなよ」[p]
-#亜紀子
-「は・・・ヒッ・・・フゥッ・・・ンハァッ」[p]
+*Squish squish squish~![p][cm]
+*[p][cm]
+#Akiko
+Hug... Uhii... Haah...[p][cm]
+#Katsuno
+Alright, somehow it all went in.[p][cm]
+Don't take it out yet.[p][cm]
+#Akiko
+Huh... Higu... Fuu... Nhaa...[p][cm]
 #
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-1.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「さてと、今日のゲームもそろそろ終盤だ」[p]
-「ここで最終アピールタイムだ。ウンコを我慢しながら俺の奴隷でいたいという熱意をアピールしろ」[p]
-#明日香
-「あ、明日香は勝野様のおチンポ無しでは生きていけませんっ！奴隷でいさせてくださいっ！お願いしますっ！」[p]
-#亜紀子
-「亜紀子は・・・勝野様のおチンポで・・・クヒッ・・・か、管理していただかないと生きてゆけない・・・ハァッ・・・ド変態な家畜ですっ♥」[p]
-「お、愚かでドスケベな亜紀子を・・・ウグッ・・・こ、これからも勝野様のおチンポでご指導してくださいませぇっ♥」[p]
-#勝野
-「うーむ、どっちも悪くないな」[p]
-「ここまでの競争ではどちらも甲乙つけがたいから、最終ゲームで勝敗を決めるとしよう」[p]
-「これに勝ったほうを奴隷として飼い続けてやる。負けたほうはお払い箱だ」[p]
-#明日香
-「さ、最終ゲーム・・・」[p]
-#亜紀子
-（そ、そんな・・・あんなに頑張ったのに・・・最後のゲームで決まってしまうなんて・・・ゲームって一体どんな・・・）[p]
-#勝野
-「最終ゲームは『ドキドキ♥排便我慢対決』～～～、パチパチパチ！」[p]
-#亜紀子
-「は、排便我慢・・・えっ、ま、まさか・・・！」[p]
-#勝野
-「ルールは簡単。ウンコを先に漏らしたほうが負けだ」[p]
-#亜紀子
-「そ、そんな・・・っ！」[p]
-#勝野
-「お前らがお互いを助けるために必死に頑張って演技してたのはなかなか面白い見物だったぜ」[p]
-「最後は単純明快な忍耐力勝負だ。かわいい後輩、愛する先輩を助けたければせいぜい気合を入れて肛門を締めるんだな、クヒヒヒ」[p]
-#亜紀子
-「そ、そんな・・・ぐ・・・わ、わたしだけ２本も浣腸をされてるのに・・・っ」[p]
-#勝野
-「おいおい、それはお前が自分でおねだりしたんだろうが」[p]
-「苦しかったら明日香を見捨ててさっさとウンコを漏らしちまいな、クックックック」[p]
+#Katsuno
+Well then, today's game is almost reaching its final stage.[p][cm]
+Here comes the final appeal time.[p][cm]
+Show your enthusiasm for wanting to be my slave while holding in your poop.[p][cm]
+#Asuka
+Ah, Asuka cannot live without Katsuno-sama's dick![p][cm]
+Please let me be your slave! Please![p][cm]
+#Akiko
+Akiko... cannot live without Katsuno-sama's dick...[p][cm]
+Kuhi... If I'm not managed by you...[p][cm]
+I won't be able to survive... Haa...   I'm a super perverted livestock ♥ Oh,[r]please continue to guide the foolish and lewd Akiko with your dick, Katsuno-[r]sama ♥[p][cm]
+#Katsuno
+Well, both options are not bad.[p][cm]
+Since it's difficult to determine a clear winner in the competition so far,[r]let's decide the outcome in the final game.[p][cm]
+I will keep the winner as my slave.[p][cm]
+The loser will be cast aside.[p][cm]
+#Asuka
+Now, the final game...[p][cm]
+#Akiko
+(I-I can't believe it... I worked so hard...[p][cm]
+and it's all going to be decided in the final game...[p][cm]
+What kind of game is this, anyway...)[p][cm]
+#Katsuno
+The final game is Heart-pounding♥Poop Holding Showdown~~~ *clap clap clap*[p][cm]
+#Akiko
+H-Holding in my bowel movement...[p][cm]
+W-What, could it be...?![p][cm]
+#Katsuno
+The rules are simple. The one who poops first loses.[p][cm]
+#Akiko
+N-No way...![p][cm]
+#Katsuno
+It was quite entertaining to see you all desperately acting to help each other.[p][cm]
+In the end, it's a simple test of endurance.[p][cm]
+If you want to help your cute underclassman and beloved upperclassman, you[r]better tighten your anus with all your might, kuhiihii.[p][cm]
+#Akiko
+N-No way...! E-Even though I'm the only one who had two enemas...[p][cm]
+#Katsuno
+Hey hey, you're the one who begged for it yourself, right?[p][cm]
+If it gets too tough, just abandon Asuka and quickly let your poop leak out,[r]kuhuhuhu.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-4.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「グ・・・ハァッ・・・あ、明日香・・・お願いだから・・・ウンチして・・・」[p]
-#明日香
-「先輩こそ・・・無理しないでください・・・っ」[p]
-#亜紀子
-「あなたは・・・わたしに巻き込まれただけなんだから・・・ンクッ」[p]
-「私のせいで・・・ンッ・・・あなたが人生を・・・台無しにしたら・・・フゥッ・・・わ、私は・・・っ」[p]
-#明日香
-「わ、わたしはもう良いんです・・・っ・・・どうせ元々大した人生じゃ・・・」[p]
-「先輩は・・・自由になれば夢に手が届くんです・・・言ってましたよね・・・一流のキャスターになるって・・・！」[p]
-#亜紀子
-「あ、明日香・・・」[p]
-#勝野
-「いやぁ、美しいねぇ。お互いを思いあう心・・・！そしてその強い愛でウンコを我慢する姿！素晴らしいぞ、クヒヒヒ」[p]
-「どっちも応援したくなるね。頑張って肛門を締めろ！ウヒャヒャヒャ！」[p]
+#Akiko
+Gu... haa... A-Asuka... please...[p][cm]
+go poop...[p][cm]
+#Asuka
+Senpai, please... don't push yourself too hard...[p][cm]
+#Akiko
+You... you were just dragged into this because of me...[p][cm]
+Nkhh... It's my fault... Ngh...[p][cm]
+If I ruined your life... Fuu...[p][cm]
+I, I...[p][cm]
+#Asuka
+I-I'm already fine... It's not like I had a great life to begin with...[p][cm]
+Senpai... If you become free, you said that you can reach your dreams...[p][cm]
+You said that you wanted to become a top-class caster...![p][cm]
+#Akiko
+Asuka...[p][cm]
+#Katsuno
+Ahh, how beautiful. The hearts that care for each other...![p][cm]
+And the sight of enduring poop with such strong love![p][cm]
+It's magnificent, kuhuhu Both of them make me want to cheer for them.[p][cm]
+Hold on tight, clench your anus![p][cm]
+Uhyahyahya![p][cm]
 
 
 
@@ -123,136 +147,157 @@
 [bg  time="1000"  method="crossfade"  storage="hiro107-5.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「・・・ッグ・・・クヒッ・・・ハァッ・・・ハァッ」[p]
-#明日香
-「ハァッ・・・グ・・・フゥッ・・・ハウッ」[p]
-#勝野
-「・・・１５分経過か。亜紀子なかなか頑張るじゃねえか。２倍の浣腸液が入ってるのに」[p]
-「でも、そろそろヤバいんじゃないか？肛門がヒクヒクしてるぞ」[p]
-#亜紀子
-「ハッ・・・ハッ・・・ハッ・・・あ、明日香・・・お願いだから・・・ウンチして・・・っ」[p]
-#明日香
-「ハァッ・・・せ、先輩こそ・・・」[p]
-#亜紀子
-「わ、わたしは・・・グヒッ・・・もう・・・いいの・・・本当に・・・ンフゥッ・・・いいの・・・」[p]
-#明日香
-「せ、先輩・・・ダメです・・・っ」[p]
-#亜紀子
-「わ、わたしは本当に・・・もう・・・調教されて・・・感じる・・・ングッ・・・マゾの変態になっちゃったから・・・っ」[p]
-「もう・・・このまま・・・アゥッ・・・ど、奴隷のままで・・・良いのよ・・・っ」[p]
-#明日香
-「わ、わたしも・・・本当に・・・おチンポが大好きになっちゃったので」[p]
-「ど、奴隷のままで居たいんです・・・っ」[p]
-#亜紀子
-「う、嘘ついてもダメよ・・・明日香・・・ングッ・・・あなたは・・・幸せになるべき・・・よっ」[p]
-#明日香
-「先輩こそ・・・私なんか見捨てて・・・自由に・・・っ」[p]
-#勝野
-「そうそう、明日香のことは見捨ててもう楽になっちまえよ」[p]
-「後輩思いのフリして本当は自由になりたいって思ってるんだろう？」[p]
-#亜紀子
-「だ・・・誰が・・・フグッ・・・見捨てるもの・・・ですか・・・っ」[p]
-#明日香
-「もう良いんです・・・先輩・・・っ！」[p]
-#亜紀子
-「あ、明日香・・・ぜ、絶対に・・・あなたを・・・グギ・・・じ、自由に・・・っ」[p]
-#勝野
-「プヒヒ、カッコイイこと言ってるけどもう限界だろ」[p]
-「お前は結局負け犬なんだからなヒャハハ」[p]
-#亜紀子
-「ヒグッ・・・！ンハァッ・・・あ、明日香・・・あなたは・・・絶対に・・・っ」[p]
-#明日香
-「先輩、その気持ちだけで十分です・・・っ」[p]
-#亜紀子
-「グヒィーーーッ・・・アッ・・・アッ・・・っ！！」[p]
-#勝野
-「お、限界か？」[p]
-#亜紀子
-「アアッ・・・フギッ・・・グ・・・ガッ・・・ダ、ダメェーーーーーッ！！」[p]
+#Akiko
+... Guh... Kuh... Haa... Haa...[p][cm]
+#Asuka
+Haa... Gu... Fuu... How...[p][cm]
+#Katsuno
+... 15 minutes have passed. Akiko, you're really hanging in there.[p][cm]
+Even though twice the amount of enema fluid has been inserted.[p][cm]
+But, isn't it getting dangerous?[p][cm]
+Your anus is twitching.[p][cm]
+#Akiko
+Haa... Haa... Haa... Asuka, please...[p][cm]
+poop...[p][cm]
+#Asuka
+Haa... S-Senpai, you're the one...[p][cm]
+#Akiko
+I-I... Guhi... It's... enough...[p][cm]
+Really... Nfuh... Is it... okay...[p][cm]
+#Asuka
+S-Senpai... It's... no good...[p][cm]
+#Akiko
+I-I... I really... can't take it anymore...[p][cm]
+being trained... I'm feeling...[p][cm]
+ngh... I've become a perverted masochist...[p][cm]
+Mou... kono mama... au... do, dorei no mama de...[p][cm]
+ii no yo...[p][cm]
+#Asuka
+I-I... I've really... come to love...[p][cm]
+dicks, so... I-I... I want to stay...[p][cm]
+as a slave...[p][cm]
+#Akiko
+D-Don't lie... Asuka... Ngh...[p][cm]
+You should... be happy...[p][cm]
+#Asuka
+Senpai... You should... abandon someone like me...[p][cm]
+and be free...[p][cm]
+#Katsuno
+Yeah, yeah, just abandon Asuka and set yourself free.[p][cm]
+You pretend to care about your underclassmen, but deep down, you actually want[r]to be free, don't you?[p][cm]
+#Akiko
+Wh-Who... Guh... would... abandon me...?[p][cm]
+#Asuka
+It's... enough already... Senpai...![p][cm]
+#Akiko
+A-Asuka... I-I will... never...[p][cm]
+abandon you... Guh... I want...[p][cm]
+you to be... free...[p][cm]
+#Katsuno
+Pfft, you may be saying cool things, but you're at your limit already, aren't[r]you?[p][cm]
+You're just a loser in the end, hyahaha.[p][cm]
+#Akiko
+Higuu...! Nhaa... Asuka... You...[p][cm]
+absolutely...[p][cm]
+#Asuka
+Senpai, just having those feelings is enough...[p][cm]
+#Akiko
+Guhiiii... Ah... Ah...![p][cm]
+#Katsuno
+Oh, is this your limit?[p][cm]
+#Akiko
+Ahh... Fuh... Gu... Ga... Da, nooo!![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-9.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ブビュビュビュビュビューーーーッ！！[p]
-#亜紀子
-「アァーーーーッ！！イヤァーーーーーッ！！」[p]
+Bubyubyubyubyubyuh!![p][cm]
+#Akiko
+Ahhhhh!! Noooooo!![p][cm]
 #
-ブピュピュピュピュピューーーーッ！[p]
-#亜紀子
-「アァァァアアアアッ・・・！」[p]
-#勝野
-「グハハハハハッ！残念！亜紀子、お前の負けだ！！」[p]
-「クセエーーーーッ！ギャハハハハハ！」[p]
-#亜紀子
-「アゥゥ・・・クッ・・・ヒッ」[p]
+Bubyubyubyubyubyuh![p][cm]
+#Akiko
+Aaaahhh...![p][cm]
+#Katsuno
+Guhahahaha! Too bad! Akiko, you've lost!![p][cm]
+Kseeeeeeeh! Gyahahahaha![p][cm]
+#Akiko
+Ahh... Guh...   Hiccup[p][cm]
 #
-ブビッ・・・ブビビビッ・・・[p]
-#明日香
-「や、やった・・・っ・・・ハゥッ！」[p]
+Bubyu... Bubibibibii...[p][cm]
+#Asuka
+I-I did it... Hah... Haah![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-10.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ブチャチャチャチャーーーッ！[p]
-#明日香
-「ヒィッ・・・アァァァーーーッ！」[p]
-#勝野
-「おっ、明日香もか。結構ギリギリで我慢してたんだな」[p]
-#亜紀子
-「あ、明日香・・・」[p]
+*Splat splat splat![p][cm]
+*[p][cm]
+#Asuka
+Hii... Aaaahhhhhh![p][cm]
+#Katsuno
+Oh, Asuka is here too. You were holding on by a thread, huh?[p][cm]
+#Akiko
+Asuka...[p][cm]
 #
-ブピュピュピュピューーーッ！！[p]
-#明日香
-「ハゥッ・・・アァッ・・・」[p]
-#勝野
-「もうちょっと頑張れば明日香を自由にしてやれたのにな。自分の肛門のゆるさを恨むんだな、ヒャハハハ」[p]
-#亜紀子
-「く・・・ウゥ・・・っ」[p]
-#勝野
-「どうした、敗者の弁は無いのか？ん？」[p]
-#亜紀子
-「ンヒッ・・・アァ・・・っ！」[p]
+*Squish squish squish squishhhhh!![p][cm]
+*[p][cm]
+#Asuka
+Huh... Ahh...[p][cm]
+#Katsuno
+If only I had tried a little harder, I could have set Asuka free.[p][cm]
+I blame the looseness of my own anus, hyahaha.[p][cm]
+#Akiko
+Ku... Ugh...[p][cm]
+#Katsuno
+What's the matter? No excuses from the loser?[p][cm]
+Hm?[p][cm]
+#Akiko
+Nhi... Ahh...![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro107-11.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ムリムリムリムリッ[p]
-#亜紀子
-「あ・・・明日香・・・ご、ごめんなさい・・・っ」[p]
-#勝野
-「ギャハハハハハ！こ、こいつ、極太ウンコひねり出しながら謝ってやがるｗｗｗ」[p]
-#明日香
-「せ、先輩・・・い、いいんですっ」[p]
-#亜紀子
-「わ、わたしのせいで・・・わたしが・・・弱いせいで・・・ンヒッ」[p]
+Impossible, impossible, impossible![p][cm]
+#Akiko
+Ah... Asuka... I'm... I'm sorry...[p][cm]
+#Katsuno
+Gyahahaha![p][cm]
+Th-this guy is apologizing while squeezing out a thick turd, lolol[p][cm]
+#Asuka
+S-Senpai... I-It's... It's okay.[p][cm]
+#Akiko
+I-It's my fault... because I...[p][cm]
+because I'm weak... Nhi...[p][cm]
 #
-ムリムリムリッ・・・！[p]
-#勝野
-「ヒーッヒッヒーーッ！ぶ、ぶっとい一本ぐそぶら下げながら・・・泣いてやがるっｗｗｗ」[p]
-#亜紀子
-「あぁ・・・グヒッ・・・グスッ」[p]
+Impossible, impossible, impossible...![p][cm]
+#Katsuno
+Hahaha! Crying while having a thick turd hanging down...   lolol[p][cm]
+#Akiko
+Ah... Guhi... Sniff...[p][cm]
 #
-ムリムリムリ・・・ボトッ[p]
-#明日香
-「先輩・・・もう・・・いいんです・・・」[p]
-#勝野
-「ププッ、あれだけ「明日香は絶対助ける！」とか言っておきながら肛門の一つも締めておくことができないなんて、お前ってやつは本当に口だけの負け犬女だよ」[p]
-「本当は奴隷を辞めたくてわざと負けたんじゃねえのか？」[p]
-#亜紀子
-「ウグッ・・・グヒッ・・・」[p]
-#勝野
-「まぁとにかくこれでお前は俺の奴隷を解雇だ。お前にチンポをくれてやることはもうない」[p]
-「明日香は俺が今後もたっぷりとかわいがってやるから安心しろ、クククク」[p]
-#亜紀子
-「あ、明日香・・・ごめんなさい・・・っ」[p]
+Impossible, impossible, impossible...[p][cm]
+*plop*[p][cm]
+#Asuka
+Senpai... It's... It's okay...[p][cm]
+#Katsuno
+Hahaha, even though Asuka said she would definitely help, she can't even tighten[r]a single sphincter.[p][cm]
+You're truly a woman who is all talk and no action.[p][cm]
+Did you intentionally lose because you actually wanted to quit being a slave?[p][cm]
+#Akiko
+Ugh... Guh...[p][cm]
+#Katsuno
+Well, anyway, with this, I'm firing you as my slave.[p][cm]
+There's no need for me to give you my dick anymore.[p][cm]
+Asuka, rest assured that I will continue to take good care of you in the future,[r]hehehe.[p][cm]
+#Akiko
+Ah, Asuka... I'm sorry...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -264,68 +309,69 @@
 [playbgm  volume="100"  time="00"  loop="false"  storage="music13.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こんばんは、ニュースプライムＺ、キャスターの千山亜紀子です」[p]
+#Akiko
+Good evening, this is Akiko Senzan, the caster for News Prime Z.[p][cm]
 
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「最初のニュースです。小笠原諸島の硫黄島近海の海底火山の活動によってできた新しい島で、今日昼ごろからさらに噴火活動が活発化ています」[p]
-「今年３月に新しくできたこの島は直径１ｋｍ程度で、波の侵食によってすぐに消えてしまうと思われていましたが、今回の噴火でさらに拡大し直径５ｋｍほどに成長したことが確認されました」[p]
-「専門家の話では今後も拡大は続くと予想され―――」[p]
+#Akiko
+This is the first news. A new island formed by the volcanic activity of an[r]underwater volcano near Iwo Jima in the Ogasawara Islands has been experiencing[r]increased volcanic eruptions since around noon today.[p][cm]
+This island, which was newly formed in March of this year, was initially[r]believed to disappear quickly due to erosion by waves, with a diameter of about[r]1 km.[p][cm]
+However, it has been confirmed that it has further expanded to a diameter of[r]about 5 km due to the volcanic eruption this time.[p][cm]
+According to experts, it is expected that the expansion will continue in the[r]future...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro101-8.jpg"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「おっと、もう６時か。ニュースプライムＺを観ないと」[p]
-「今日は乳山ちゃんどんなパンツ穿いてるかな・・・って、えっ！？」[p]
-「ズ、ズボン穿いてる！？」[p]
-「おい、お色気路線はどうなったんだよ！？」[p]
-「やりすぎて抗議でも来たのか・・・？それにしてもズボンって・・・」[p]
-「乳山のパンツだけが楽しみで観てるのに・・・がっかりだよ」[p]
-「・・・アニメでも観よっと」[p]
-・・・・・・[p]
-・・・[p]
-#キミヒコ
-「あ、亜紀子・・・！？」[p]
-「これは一体・・・どういうことだ・・・？」[p]
-「この変化は一体なにを示唆しているのか・・・どういうメッセージなのか・・・」[p]
-「わからない・・・俺はもうキミがわからないよ・・・亜紀子・・・」[p]
-・・・・・・[p]
-・・・[p]
-#子供
-「あれ、ママ、今日はアナウンサーの人パンツ見えてないよ」[p]
-#ママ
-「あら、本当だわ。珍しいわね」[p]
-「あんなイヤらしい格好じゃなくてホっとするわ。やっぱりこの人はこっちの方がいいわ」[p]
-「やっぱり苦情の電話とかが殺到したんじゃないのかしら、ねえあなた」[p]
-#パパ
-「・・・え、ああ・・・そうかもしれないね」[p]
-#ママ
-「なによ、あなたガッカリしてるんじゃ無いでしょうね？」[p]
-「どうせ、いつものイヤらしい格好が見たかったんでしょう！」[p]
-#パパ
-「い、いや違うよ。こ、こっちの方がいいよ・・・うん」[p]
-・・・・・・[p]
-・・・[p]
+#Nobuo
+Oh, it's already 6 o'clock. I have to watch News Prime Z.[p][cm]
+I wonder what kind of panties Nyuyama-chan is wearing today...[p][cm]
+Huh!? Wait, are you wearing pants!?[p][cm]
+Hey, what happened to the sexy route!?[p][cm]
+Did you come here to protest because we went too far...?[p][cm]
+And on top of that, pants... I was looking forward to seeing Nyuyama's[r]panties...[p][cm]
+I'm disappointed. ... I'll watch some anime.[p][cm]
+・・・・・・ ・・・[p][cm]
+#Kimihiko
+Ah, Akiko...!? What on earth...[p][cm]
+What does this mean...? What does this change imply...?[p][cm]
+What kind of message is it...?[p][cm]
+I don't understand... I don't understand you anymore, Akiko...[p][cm]
+・・・・・・ ・・・[p][cm]
+#Child
+Hey, Mom, I didn't see the panties of the announcer today.[p][cm]
+#Mama
+Oh, really? That's unusual. I'm relieved that they're not dressed so[r]provocatively.[p][cm]
+This person is better this way.[p][cm]
+I wonder if they received a flood of complaints after all.[p][cm]
+Don't you think so, dear?[p][cm]
+#Papa
+... Eh, ah... That might be possible.[p][cm]
+#Mama
+What's wrong? You're not disappointed, are you?[p][cm]
+You just wanted to see their usual provocative outfit, didn't you![p][cm]
+#Papa
+N-No, that's not it. Th-This way is better...[p][cm]
+Yeah. ・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「NNA新日空が来期からキャビンアテンダントの制服をミニスカートに統一しハイヒールの着用も義務化することを発表しました」[p]
-「２０１９年に女性差別の観点からヒールの着用義務を廃止していた同社ですが、「女性らしさをアピールするため」とわずか２年で元に戻すことになりました」[p]
-「新しい制服は膝上２０ｃｍとかなり大胆なデザインとなりますが、女性社員からは「かわいい」「早く着たい」という声が多く、反対意見は上がっていないということです」[p]
-「セクシャルな制服を採用した背景には格安航空会社の登場により顧客確保の競争が激しくなったことがあると考えられており、キャビンアテンダントの美脚で男性乗客を呼び込もうという狙いがあるようです」[p]
-「新制服は来年４月から一斉導入されるということです」[p]
-「それではお天気です―――」[p]
+#Akiko
+NNA Shin-Nikkū has announced that starting next season, they will unify the[r]cabin attendants' uniforms to miniskirts and make wearing high heels mandatory.[p][cm]
+In 2019, the company had abolished the obligation to wear high heels from the[r]perspective of gender discrimination.[p][cm]
+However, they have decided to revert back to it after just two years in order to[r]emphasize femininity.[p][cm]
+The new uniforms will have a bold design with a length of 20 cm above the knees.[p][cm]
+However, there have been many voices from female employees expressing their[r]desire to wear them quickly because they find them cute, and there haven't been[r]any opposing opinions raised.[p][cm]
+It is believed that the adoption of sexy uniforms is due to the fierce[r]competition for customer retention caused by the emergence of low-cost airlines.[p][cm]
+There seems to be an intention to attract male passengers with the beautiful[r]legs of the cabin attendants.[p][cm]
+The new uniforms are said to be introduced simultaneously from April next year.[p][cm]
+And now, the weather report―――[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -335,9 +381,10 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
 #
-お色気路線を突き進んでいた千山亜紀子が突如パンツスタイルに戻ったことは、世間で大きな話題となり色々な憶測が飛び交った[p]
-中でも、あまりの過激さに視聴者から苦情が来て自粛したという説が最も有力で、やがてそれが真実であったかのように結論として落ち着き、亜紀子に関する話題も時とともに口の端に上らなくなっていった[p]
-そして数ヶ月が過ぎた・・・[p]
+Akiko Chiyama, who had been pursuing a sexy image, suddenly returned to wearing[r]pants, which became a big topic of conversation in society and sparked various[r]speculations.[p][cm]
+Among them, the theory that received the most complaints from viewers due to its[r]extreme nature and led to self-restraint is the most plausible.[p][cm]
+Eventually, it settled as if it were true, and the topic regarding Akiko[r]gradually faded away.[p][cm]
+And several months passed...[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -345,75 +392,85 @@
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-1.png"  width="530"  height="1272"  left="109"  top="19"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「原稿の準備は・・・これでよしと」[p]
-「インタビュー用の資料は・・・と」[p]
-「・・・・・・」[p]
-#明日香
-「先輩」[p]
+#Akiko
+The preparation of the manuscript...[p][cm]
+this should be fine. As for the materials for the interview...[p][cm]
+・・・・・・[p][cm]
+#Asuka
+Senpai[p][cm]
 [_tb_end_text]
 
 [chara_show  name="明日香"  time="1000"  wait="true"  storage="chara/2/hiro257-3.png"  width="509"  height="1221"  left="563"  top="3"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「明日香・・・」[p]
-#明日香
-「先輩、最近だいぶ忙しそうですけど、身体大丈夫ですか？」[p]
-#亜紀子
-「ええ・・・大丈夫よ」[p]
-#明日香
-「先輩は頑張りすぎることがあるから。無理しないでくださいね」[p]
-#亜紀子
-「明日香・・・私の心配なんかしないで・・・」[p]
-「わたしのせいで・・・あなたの方がずっと辛いはずなのに・・・」[p]
-#明日香
-「私のことは気にしないでください先輩。私は全然辛くないですから」[p]
-「わたし・・・Ｍの才能があったみたいで。勝野様に毎日かわいがってもらって・・・幸せなんです」[p]
-#亜紀子
-「明日香・・・」[p]
-#明日香
-「本当なんです。それにエッチな仕事で人気も出てきて・・・最近色んな番組にも出させてもらえるようになって・・・今すごく充実してるんです」[p]
-「だから私のことは全然気に病む必要はないんですよ」[p]
-#亜紀子
-「・・・・・・」[p]
-#明日香
-「あ、もうそろそろ行かなきゃ。またバラエティの収録があるんですよ」[p]
-「それじゃ先輩、お互い頑張りましょう」[p]
+#Akiko
+Asuka...[p][cm]
+#Asuka
+Senpai, you seem quite busy lately.[p][cm]
+Is your body okay?[p][cm]
+#Akiko
+Yes... I'm fine.[p][cm]
+#Asuka
+Senpai, you tend to push yourself too hard sometimes.[p][cm]
+Please don't overdo it, okay?[p][cm]
+#Akiko
+Asuka... Please don't worry about me...[p][cm]
+It's my fault... You must be going through so much more pain...[p][cm]
+#Asuka
+Please don't worry about me, Senpai.[p][cm]
+I'm not feeling any pain at all.[p][cm]
+I... It seems I have a talent for being an M.[p][cm]
+Mr. Katsuno takes care of me every day...[p][cm]
+I'm happy.[p][cm]
+#Akiko
+Asuka...[p][cm]
+#Asuka
+It's true. And with the erotic work, I'm starting to gain popularity...[p][cm]
+Lately, I've been able to appear on various shows...[p][cm]
+I'm feeling really fulfilled right now.[p][cm]
+So you don't need to worry about me at all.[p][cm]
+#Akiko
+・・・・・・[p][cm]
+#Asuka
+Ah, I have to go soon. I have another variety show recording.[p][cm]
+Well then, Senpai, let's both do our best.[p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="明日香"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（明日香・・・）[p]
-（本当に幸せそうにしてたわね・・・）[p]
-（・・・バカッ！そんなわけないでしょ！私に心配を掛けまいと演技してたに決まってるじゃない！）[p]
+#Akiko
+(Asuka...) (She really seemed happy...)[p][cm]
+(... Idiot! There's no way that's true![p][cm]
+She was obviously acting so as not to worry me!)[p][cm]
 #
-明日香は知らないが、何度か勝野から亜紀子の携帯に明日香が調教されている動画が送られてきている[p]
-動画の中で明日香はムチで叩かれたり肛門を責められたりと虐められ泣き叫んでいた[p]
-#亜紀子
-（あんな辛い目に遭っているのに、わたしに気を遣わせまいと・・・）[p]
-（・・・でも本当にそうかしら？）[p]
-（辛そうに見えるだけで、あれも本当は悦びの叫びだったのかも・・・）[p]
-（勝野の調教・・・）[p]
+I don't know about Asuka, but several times, videos of Asuka being trained by[r]Mr. Katsuno have been sent to Akiko's phone.[p][cm]
+In the videos, Asuka was whipped, teased in her anus, and bullied, crying out[r]in pain.[p][cm]
+#Akiko
+(Even though she's going through such a painful experience, she's trying not to[r]worry me...)[p][cm]
+(But is that really true?) (Maybe, what I saw as pain was actually a cry of[r]pleasure...)[p][cm]
+(Katsuno's training...)[p][cm]
 #
-亜紀子は奴隷を解雇になってから一度もセックスをしていない[p]
-勝野に解放の条件として他の男とのセックスを禁じられているのだ[p]
-使い慣れたバイブを引っ張り出してきて以前のように毎晩オナニーをしている[p]
-しかし数ヶ月の調教によって開発された身体はバイブでは満足できずに欲求不満を抱え込んでいた[p]
-#亜紀子
-（本物のおチンポ・・・バイブとは違う本物の・・・）[p]
-（・・・って私何を考えているの！？）[p]
-（またあの屈辱の日々に戻りたいっていうの？冗談じゃないわ！）[p]
-（あの憎い勝野に・・・足を舐めさせられ肛門を舐めさせられ、小便を飲まされ、浣腸をされ・・・）[p]
-（ペニスをしゃぶらされ・・・ザーメンを飲まされ・・・犯されて・・・みっちりと中出し調教・・・あぁ♥）[p]
-（・・・土下座して懇願すれば、また奴隷として飼ってくれるかしら・・・）[p]
-（・・・あぁ、そんなことできるわけがないわ！あの男にもう一度奴隷にして欲しいって頼むなんて！）[p]
-（そんなことしたらもう終りだわ！プライドも人生も全て捨て去ることになる・・・！）[p]
-（・・・あぁ・・・）[p]
+Akiko hasn't had sex since she was fired as a slave.[p][cm]
+She is prohibited from having sex with other men as a condition of her release[r]from Katsuno.[p][cm]
+I pulled out the familiar vibrator and started masturbating every night, just[r]like before.[p][cm]
+However, after months of training, my developed body couldn't be satisfied with[r]just a vibrator and I was left feeling frustrated.[p][cm]
+#Akiko
+(A real dick... something different from a vibrator...)[p][cm]
+(What am I even thinking...!?)[p][cm]
+(You're saying you want to go back to those humiliating days?[p][cm]
+This is no joke!) (That detestable Katsuno...[p][cm]
+making me lick his feet, lick his anus, drink urine, and receive enemas...)[p][cm]
+(Forced to suck his penis... made to drink semen...[p][cm]
+violated... thoroughly trained with creampie...[p][cm]
+aah♥) (If I bow down and beg...[p][cm]
+I wonder if he will keep me as his slave again...)[p][cm]
+(No... there's no way I can do something like that![p][cm]
+Asking that man to make me his slave again!)[p][cm]
+(If I do something like that, it will be the end![p][cm]
+I will have to throw away my pride and my entire life...!)[p][cm]
+(.... Ah....)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -424,32 +481,33 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
 #
-数週間後―――[p]
+Several weeks later--[p][cm]
 [_tb_end_text]
 
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-2.png"  width="604"  height="1510"  left="290"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「おはようございます」[p]
-#ディレクター
-「おはようございます・・・って、えっ！？」[p]
-「そ、その服装・・・」[p]
-#亜紀子
-「え、ええ。久しぶりに攻めてみようかなって・・・」[p]
-#ディレクター
-「いや、良いですよ！やっぱり、パンツよりそっちの方が似合ってますよ！」[p]
-#亜紀子
-「そ、そうかしら？ありがとう」[p]
-#カメラマン
-「あっ、千山さん今日はまたセクシーですね！」[p]
-#メイクさん
-「やっぱり似合います～～」[p]
-#亜紀子
-「あ、ありがとう」[p]
-（あぁ・・・やっちゃったわ・・・）[p]
-（どうしても我慢できなくて・・・せめて服装だけでもと思って着てみたけど・・・）[p]
-（この懐かしい感じ・・・ねっとりとからみつくような視線・・・メスを見る目・・・はぁ♥）[p]
-（ぞくぞくするような・・・身体の芯が火照ってくるようだわ・・・♥）[p]
+#Akiko
+Good morning.[p][cm]
+#Director
+Good morning... Huh!? Th-That outfit...[p][cm]
+#Akiko
+Uh, yeah. I thought I'd try being more assertive after a long time...[p][cm]
+#Director
+No, it's fine! Actually, that suits you better than pants![p][cm]
+#Akiko
+I-Is that so? Thank you.[p][cm]
+#Photographer
+Ah, Chiyama-san, you're looking sexy again today![p][cm]
+#Makeup-san
+It really suits you~~[p][cm]
+#Akiko
+Thank you. (Ah... I messed up...)[p][cm]
+(I just couldn't bear it anymore...[p][cm]
+I thought I'd at least try changing my outfit...)[p][cm]
+(This nostalgic feeling... that intense, lingering gaze...[p][cm]
+the eyes of a predator... *sigh* ♥)[p][cm]
+(It's making me shiver... My body feels like it's burning from within...[p][cm]
+♥)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -459,82 +517,87 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="music13.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こんばんは、ニュースプライムＺ、キャスターの千山亜紀子です」[p]
+#Akiko
+Good evening, this is Akiko Chiyama, the caster for News Prime Z.[p][cm]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「本年度の秋の叙勲が発表され、各分野で顕著な功績をあげた功労者など約４０００人が授与することになりました」[p]
-「旭日章には元経団連会長の山山田太郎太氏をはじめ１０１２人、瑞宝章には元Ｔ大学長の眼鏡沢髭吉氏など３９７６人が受勲されました」[p]
-「また文化勲章には脚本家の走田朱蛾子氏、作曲家の―――」[p]
+#Akiko
+The recipients of this year's autumn honors have been announced, and[r]approximately 4,000 individuals who have achieved remarkable accomplishments in[r]various fields will be awarded.[p][cm]
+A total of 1,012 individuals, including former Keidanren Chairman Taro Taro[r]Yamayama, received the Order of the Rising Sun, while 3,976 individuals,[r]including former T University President Higeichi Meganesawa, received the Order[r]of the Sacred Treasure.[p][cm]
+And for the Order of Culture, the recipients include screenwriter Akiko[r]Hashirata and composer--[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro101-9.jpg"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「さてと、昨日録画した深夜アニメでも観るかな・・・ポチっと」[p]
-「・・・ん？」[p]
-「おおおおっ！？」[p]
-「千山亜紀子がまたミニスカ穿いてるじゃん！」[p]
-「もうすっかりお色気路線は辞めたと思ってチェックしなくなってたけど・・・また復活したのか！？」[p]
-「視聴者からの苦情でパンチラを自粛したって聞いたけど・・・もう大丈夫なのか？」[p]
-「いやぁー、それにしてもやっぱり他局の女子アナとはレベルが違うなぁ」[p]
-「千山亜紀子が一番エロイわ・・・」[p]
-・・・・・・[p]
-・・・[p]
-#キミヒコ
-「・・・！？」[p]
-「あ、亜紀子・・・！？」[p]
-「これは幻なのか・・・それとも・・・」[p]
-「これは神託なのか・・・？いや・・・しかし・・・まだその時では・・・」[p]
-・・・・・・[p]
-・・・[p]
-#ママ
-「まぁ！まただわ！またこの女こんな破廉恥な格好で・・・！」[p]
-「世間に叩かれて辞めたと思ったのに・・・まだ懲りてないのかしら？」[p]
-#子供
-「パンツ！パンツ！」[p]
-#ママ
-「こらっ、いけませんあんなの見ちゃ」[p]
-「全く子供に悪影響だわ・・・テレビ局も何を考えてるのかしら。ねえ、あなた」[p]
-#パパ
-「・・・・・・」[p]
-#ママ
-「ねえ、あなたったら聞いてるの！？」[p]
-「もう、またあんなパンツに見とれて！いやらしいわ！」[p]
-#子供
-「パパエッチ！エッチ！」[p]
-#パパ
-「あ、いや・・・違うよ。ニュースの内容をだね・・・」[p]
-・・・・・・[p]
-・・・[p]
+#Nobuo
+Well then, should I watch the late-night anime I recorded yesterday...[p][cm]
+*clicks* ... Hm? Ohhh!? Akiko Chiyama is wearing a miniskirt again![p][cm]
+I thought she had completely abandoned the sexy route and stopped checking...[p][cm]
+but has it made a comeback!? I heard that she refrained from panty shots due to[r]viewer complaints...[p][cm]
+Is it okay now? Well, even so, the level of difference with female announcers[r]from other stations is still apparent.[p][cm]
+Akiko Chiyama is the sexiest one...[p][cm]
+・・・・・・ ・・・[p][cm]
+#Kimihiko
+...!? Ah, Akiko...!? Is this an illusion...[p][cm]
+or is it... Is this a divine revelation...?[p][cm]
+No... however... it's not yet the time...[p][cm]
+・・・・・・ ・・・[p][cm]
+#Mama
+Oh my! Again! This woman, always dressed so indecently...![p][cm]
+I thought she quit after being criticized by society...[p][cm]
+Hasn't she learned her lesson yet?[p][cm]
+#Child
+Pants! Pants![p][cm]
+#Mama
+Hey, you can't look at something like that![p][cm]
+Honestly, it's such a bad influence on children...[p][cm]
+I wonder what the TV stations are thinking.[p][cm]
+Hey, you...[p][cm]
+#Papa
+・・・・・・[p][cm]
+#Mama
+Geez, you're staring at those panties again![p][cm]
+How indecent![p][cm]
+#Child
+Daddy, naughty! Naughty![p][cm]
+#Papa
+Ah, no... It's not like that. I'm just checking the news content...[p][cm]
+・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-11.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「日本野球機構は２８日、エキスパンションで新たに４球団を増やす１６球団構想を正式に進めていくことを発表しました」[p]
-（あぁ・・・見られてるんだわ・・・下着も、くっきり浮いた乳首も・・・日本中の人に・・・）[p]
-「NPBの球川コミッショナーは会見で「２０３０年を目標に新たな４球団を新設する方向で動き出す。新球団の候補地については現在８つの都市、地域が立候補しておりこれから検討して絞り込んでいく」と語りました」[p]
-（今までは強制だったけど・・・今は自分でやってる・・・！自分で首輪まで嵌めて・・・変態だわ・・・）[p]
-「候補地については発表がありませんでしたが、新潟、静岡、那覇、京都などが挙がっていると見られています」[p]
-（あぁ・・・もっと見て・・・♥）[p]
+#Akiko
+On the 28th, the Nippon Baseball Organization officially announced that they[r]will proceed with the plan to expand the league by adding four new teams.[p][cm]
+(Ah... I'm being watched... My underwear, and even my clearly visible nipples...[p][cm]
+by people all over Japan...) NPB Commissioner Kyukawa announced in a press[r]conference that they will start moving towards establishing four new teams with[r]the goal of 2030.[p][cm]
+Currently, there are eight cities and regions that have applied as candidate[r]locations for the new teams, and they will be considered and narrowed down.[p][cm]
+(It used to be forced... but now I'm doing it myself...![p][cm]
+I even put on the collar by myself...[p][cm]
+I'm such a pervert...) There hasn't been an official announcement regarding the[r]candidate locations, but it is believed that cities such as Niigata, Shizuoka,[r]Naha, and Kyoto have been mentioned.[p][cm]
+(Ah... Look at me more... ♥)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-4.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「実現すればプロ野球が活性化することが期待できますが、一方では将来的に少子化や娯楽の多様化による野球離れで収益が十分に確保できるのかなど課題も多そうです」[p]
-（あぁ・・・見られてる・・・薄い布をはさんでわたしのいやらしいアソコ・・・）[p]
-「さて紅葉の季節ですが、今年は温暖化の影響で山々の色づきも例年より遅れているようです」[p]
-（誰にも命令されてないのに・・・自分で脚を開いてるのよ・・・これじゃ本当に露出狂だわ・・・）[p]
-「日光のいろは坂ではようやく半分ほどが色づき始めています。見ごろは例年より２週間ほど遅く１１月の後半にずれ込むのではないかということです」[p]
-（カメラマンさん撮って・・・わたしのスケベな姿・・・変態なわたしを・・・！）[p]
-「それではお天気に参りましょう。佐藤さんお願いします」[p]
+#Akiko
+If it becomes a reality, we can expect the revitalization of professional[r]baseball.[p][cm]
+However, there are also many challenges such as the declining birthrate and[r]diversification of entertainment, which may affect the ability to secure[r]sufficient revenue.[p][cm]
+(Ah... I'm being watched... My lewd area separated by thin fabric...)[p][cm]
+Well, it's the season of autumn leaves, but this year, due to the impact of[r]global warming, the colors of the mountains seem to be delayed compared to[r]usual.[p][cm]
+(Even though no one is commanding me...[p][cm]
+I'm willingly spreading my legs...[p][cm]
+I'm truly an exhibitionist...)[p][cm]
+In Nikko's Iroha Slope, about half of the leaves have finally started to change[r]color.[p][cm]
+It is expected that the best viewing time will be about two weeks later than[r]usual, shifting to the latter half of November.[p][cm]
+(Photographer-san, please take a picture...[p][cm]
+of my lewd figure... of my perverted self...!)[p][cm]
+Now, let's move on to the weather.[p][cm]
+Sato-san, please.[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -544,108 +607,119 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（はぁ・・・わたし何をやってるんだろう）[p]
-（せっかく明日香が自分を犠牲にして私を自由にしてくれたっていうのに・・・）[p]
-（あぁもう自分がわからないわ・・・私、奴隷に戻りたがってるの・・・？）[p]
-（・・・いや、そんなことはないわ！ただ・・・ちょっと刺激が欲しいだけ）[p]
-（ちょっとした遊び・・・勝野の奴隷になんて絶対に―――）[p]
-#勝野
-「よぉ亜紀子」[p]
+#Akiko
+(Sigh... What am I doing?) (Even though Asuka sacrificed herself to set me[r]free...)[p][cm]
+(Ah, I don't understand myself anymore...[p][cm]
+Am I wanting to return to being a slave...?)[p][cm]
+(... No, that's not it! I just...[p][cm]
+I just want a little excitement.)[p][cm]
+(Just a little game... I would never become Katsuno's slave―――)[p][cm]
+#Katsuno
+Hey, Akiko.[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-1.png"  width="559"  height="1342"  left="647"  top="-31"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「か、勝野・・・！」[p]
-#勝野
-「ククク、懐かしい格好してるじゃねえか」[p]
-「どういう風の吹き回しだ？自分でその服を着てくるなんて」[p]
-#亜紀子
-「こ、これは・・・な、なんでもないわ」[p]
-#勝野
-「なんでもないってどういうことだよｗ」[p]
-「理由もなく着てきたのか？まさか朝急いでて間違えたとか言い出すんじゃないだろうな？」[p]
-#亜紀子
-「く・・・ちょ、ちょっとした・・・き、気分転換よ」[p]
-#勝野
-「ククク、別に咎めてるわけじゃないんだぜ。着たきゃ何時でも着ればいいさ」[p]
-「露出の刺激が忘れられないんだろう？お前はマゾの変態だからな」[p]
-#亜紀子
-「ち、違う・・・わたしは・・・っ！」[p]
-#勝野
-「違うってどういうことだよ。自分で証明してるじゃねえか。今さら否定するなよｗ」[p]
-「お前は見られて興奮する変態なんだよ」[p]
-#亜紀子
-「く・・・」[p]
-#勝野
-「まぁ露出くらいなら好きにしたら良いけどな」[p]
-「それじゃ俺は行くぜ、忙しいんでな」[p]
-#亜紀子
-「えっ・・・ちょ、ちょっと待っ・・・」[p]
-#勝野
-「なんだ、なにか用か？」[p]
-#亜紀子
-「えっ・・・えーっと・・・あ、明日香はどうしてるの？」[p]
-#勝野
-「明日香？ちゃんと毎晩かわいがってやってるぜ。時々動画を送ってやってるだろ」[p]
-#亜紀子
-「あ、あんな酷いことを毎晩続けてるの？」[p]
-「もう・・・明日香も解放してあげて・・・！」[p]
-#勝野
-「解放・・・？明日香はそんなこと望んでないぜ。明日香がお前に助けを求めたか？」[p]
-#亜紀子
-「そ、それは・・・心配要らないって言ってくれるけど・・・」[p]
-「わたしに気を遣わせまいと元気なふりをしてるだけに決まってるわ！」[p]
-「奴隷にされて・・・あんなことをされて幸せなはずがないわ・・・！」[p]
-#勝野
-「本当にそう思うか？」[p]
-「自分のことを思い出してみろよ。奴隷生活はただただ苦痛だったか？快感は全く無かったか？」[p]
-#亜紀子
-「・・・っ」[p]
-#勝野
-「お前だって毎晩俺のチンポでよがり狂ってたじゃねえか」[p]
-「明日香はもう完全に俺のチンポに堕ちて、身も心も俺のモノになっちまったんだよ」[p]
+#Akiko
+Katsuno...![p][cm]
+#Katsuno
+Hehehe, you're dressed in a nostalgic outfit, aren't you?[p][cm]
+What kind of wind is blowing? To dress yourself in that outfit.[p][cm]
+#Akiko
+Th-This is... It's nothing.[p][cm]
+#Katsuno
+What do you mean it's nothing?[p][cm]
+Hehehe. Did you wear it without any reason?[p][cm]
+I hope you're not going to say that you were in a hurry and made a mistake,[r]right?[p][cm]
+#Akiko
+Ugh... It's just a... a change of pace.[p][cm]
+#Katsuno
+Hehehe, I'm not blaming you or anything.[p][cm]
+If you want to wear it, you can wear it anytime you want.[p][cm]
+You can't forget the thrill of exposure, can you?[p][cm]
+Because you're a masochistic pervert.[p][cm]
+#Akiko
+N-No... I...![p][cm]
+#Katsuno
+What do you mean it's not true?[p][cm]
+You're proving it yourself. Don't deny it now, lol.[p][cm]
+You're a pervert who gets excited from being watched.[p][cm]
+#Akiko
+Uh...[p][cm]
+#Katsuno
+Well, if it's just exhibitionism, you can do as you please.[p][cm]
+Well then, I'm going now. I'm busy, you know.[p][cm]
+#Akiko
+Wait, wait a minute...[p][cm]
+#Katsuno
+What is it? Do you need something?[p][cm]
+#Akiko
+Uh... um... Oh, how is Asuka doing?[p][cm]
+#Katsuno
+Asuka? I take good care of her every night.[p][cm]
+Sometimes I even send her videos.[p][cm]
+#Akiko
+Are you really doing such terrible things every night?[p][cm]
+Please... release Asuka too...![p][cm]
+#Katsuno
+Release...? Asuka doesn't want that kind of thing.[p][cm]
+Did Asuka ask you for help?[p][cm]
+#Akiko
+Th-That... even though she says I don't need to worry...[p][cm]
+She's definitely just pretending to be fine so as not to worry me![p][cm]
+Being turned into a slave... There's no way she could be happy being treated[r]like that...![p][cm]
+#Katsuno
+Do you really think so? Think about yourself.[p][cm]
+Was your life as a slave nothing but pain?[p][cm]
+Did you not experience any pleasure?[p][cm]
+#Akiko
+...[p][cm]
+#Katsuno
+You were also writhing in pleasure every night with my dick, weren't you?[p][cm]
+Asuka has completely fallen for my dick, body and soul.[p][cm]
+She has become mine.[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro258-4.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「そんなのウソよ！・・・！あ、あなたの独りよがりよ・・・！」[p]
-「女がチンポに堕ちるだなんて・・・妄想よ・・・！」[p]
-#勝野
-「ふっ、そう思いたければ思っていればいいさ」[p]
-「仮に明日香が苦しんでて自由になりたがってるとして、お前にはどうすることもできないんだからな」[p]
-「それともまたお前が身代わりに奴隷に戻るとでも言うのか？」[p]
+#Akiko
+That's a lie!...! It's just your self-centered delusion...![p][cm]
+A woman falling for a dick... It's just a delusion...![p][cm]
+#Katsuno
+Hmph, if you want to think that way, then go ahead and think that way.[p][cm]
+Even if Asuka is suffering and wants to be free, there's nothing you can do[r]about it.[p][cm]
+Or are you suggesting that you become a substitute and return to being a slave?[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro258-1.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「えっ、わ、わたしが奴隷に戻れば明日香は解放してくれるの・・・！？」[p]
-#勝野
-「ダメだ」[p]
-#亜紀子
-「な、なんで・・・」[p]
-#勝野
-「だが、明日香は奴隷のままでお前が奴隷に戻りたいって言うなら考えてやってもいいけどな」[p]
-#亜紀子
-「は・・・はぁっ！？」[p]
-「な、なんでわたしがタダで奴隷に戻らないといけないのよ・・・！」[p]
-「なんのメリットも無いじゃない・・・っ。そ、そんなこと言うわけないでしょ！」[p]
-#勝野
-「そうかな？本当はおまえ自身、どうしたいか自分で解ってるんじゃないのか？」[p]
-「このまま自分に嘘をつき続ける人生を送る気か？正直になれよ」[p]
-#亜紀子
-「自分自身がどうしたいと思っているか・・・正直に・・・」[p]
-（わたしは・・・どうしたいと思ってるの・・・？）[p]
+#Akiko
+Eh, if I go back to being a slave, will Asuka set her free...!?[p][cm]
+#Katsuno
+No.[p][cm]
+#Akiko
+W-Why...[p][cm]
+#Katsuno
+However, if Asuka remains a slave and you say you want to return to being a[r]slave, I might consider it.[p][cm]
+#Akiko
+H... Hah!? W-Why do I have to go back to being a slave for free...!?[p][cm]
+There's no benefit to that at all...[p][cm]
+I-I wouldn't say something like that![p][cm]
+#Katsuno
+Is that so? Don't you know yourself what you really want deep down?[p][cm]
+Are you planning to continue living a life of lies?[p][cm]
+Be honest with yourself.[p][cm]
+#Akiko
+What I really want deep down...[p][cm]
+I should be honest with myself...[p][cm]
+(What do I really want...?)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [tb_hide_message_window  ]
-[glink  color="black"  storage="end3.ks"  size="20"  text="奴隷に戻りたい"  x="537"  y="364"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="end4.ks"  size="20"  text="戻りたくない"  x="549"  y="456"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="end3.ks"  size="20"  text="I want to go back to being a slave"  x="537"  y="364"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="end4.ks"  size="20"  text="I don\'t want to go back"  x="549"  y="456"  width=""  height=""  _clickable_img=""  ]
 [s  ]

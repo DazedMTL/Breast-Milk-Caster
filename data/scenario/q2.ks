@@ -8,17 +8,17 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あ、どうも宮崎さんお疲れ様です」[p]
-「この度は本作品をお買い上げいただき、そして最後までプレイしていただき、まことにありがとうございました」[p]
-「まさか宮崎さんにこのゲームをプレイしていただけるとは思ってもいませんでした」[p]
-「え・・・？宮崎って誰のことだって・・・？」[p]
-「またまたー」[p]
-「ここに来られたという事は、漢字クイズを全問正解されたということですよね？」[p]
-「そんなことができるのは宮○美子さん以外に居る訳ないじゃないですか」[p]
-「そんな漢字検定一級の宮崎さんにはオマケの漢字クイズのプレゼントです」[p]
-「頑張って全問正解してくださいね」[p]
-「それではどうぞ！」[p]
+#Akiko
+Ah, thank you for your hard work, Miyazaki-san.[p][cm]
+Thank you very much for purchasing this game and playing it until the end.[p][cm]
+I never thought that Miyazaki-san would play this game.[p][cm]
+Huh...? Who is this Miyazaki you're talking about...?[p][cm]
+Here we go again.[p][cm]
+So, coming here means you've answered all the kanji quiz questions correctly,[r]right?[p][cm]
+There's no one else besides Miyazaki-san who can do such a thing, right?[p][cm]
+For Miyazaki-san, who has passed the Level 1 Kanji Proficiency Test, here's a[r]bonus kanji quiz as a gift.[p][cm]
+Please do your best to answer all the questions correctly.[p][cm]
+Well then, here you go![p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -26,18 +26,18 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
 #
-問題１　「就中」の読みは？[p]
+Question 1: What is the reading of 就中?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  text="とどのつまり"  x="535"  y="305"  width=""  height=""  _clickable_img=""  target="*a1b"  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a1b"  text="めっきり"  x="556"  y="382"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a1a"  text="なかんずく"  x="545"  y="460"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="In the end"  x="535"  y="305"  width=""  height=""  _clickable_img=""  target="*a1b"  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a1b"  text="Noticeably"  x="556"  y="382"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a1a"  text="Especially"  x="545"  y="460"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a1a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -46,25 +46,25 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q02
 
 [tb_start_text mode=1 ]
 #
-問題２　「漸次」の意味は？[p]
+Question 2: What does 漸次 mean?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="しばらく"  x="545"  y="330"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="いきなり"  x="545"  y="408"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a2a"  text="だんだん"  x="542"  y="484"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="Wait a moment"  x="545"  y="330"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a2b"  text="Suddenly"  x="545"  y="408"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a2a"  text="Gradually"  x="542"  y="484"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a2a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -73,25 +73,25 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q03
 
 [tb_start_text mode=1 ]
 #
-問題３　「かんばせ」を漢字にすると？[p]
+Question 3: How do you write かんばせ in kanji?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="花"  x="573"  y="358"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a3a"  text="顔"  x="574"  y="431"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="鼻"  x="573"  y="503"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="Flower"  x="573"  y="358"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a3a"  text="Face"  x="574"  y="431"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a3b"  text="Nose"  x="573"  y="503"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a3a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -100,25 +100,25 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q04
 
 [tb_start_text mode=1 ]
 #
-問題４　「目を大きく開き、怒ったり決意したりすること」を意味する言葉は？[p]
+Question 4: What is the word that means opening one's eyes wide, expressing[r]anger or determination?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="頤を決する"  x="536"  y="288"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="眇を決する"  x="540"  y="362"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a4a"  text="眦を決する"  x="535"  y="436"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="Firm determination"  x="536"  y="288"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a4b"  text="Gaze of Determination"  x="540"  y="362"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a4a"  text="Narrowing one\'s eyes"  x="535"  y="436"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a4a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -127,25 +127,27 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q05
 
 [tb_start_text mode=1 ]
 #
-問題５　「吾亦紅」の読み方は？[p]
+Question 5: How do you read 吾亦紅?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a5a"  text="われもこう"  x="537"  y="331"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="さるすべり"  x="536"  y="412"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="いたどり"  x="543"  y="491"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a5a"  text="Waremoko"  x="537"  y="331"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="Sarusuberi"  x="536"  y="412"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a5b"  text="いたどり
+or
+[N_1]"  x="543"  y="491"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a5a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -154,25 +156,25 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q06
 
 [tb_start_text mode=1 ]
 #
-問題６　火葬することを意味する「だびにふす」の正しい漢字は？[p]
+Question 6: What is the correct kanji for fusu, which means cremation?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a6b"  text="荼火に賦す"  x="530"  y="337"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a6a"  text="荼毘に付す"  x="532"  y="407"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  text="拿火に伏す"  x="531"  y="479"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a6b"  text="To dedicate to the funeral pyre"  x="530"  y="337"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a6a"  text="Perform cremation"  x="532"  y="407"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="Lie down in front of the fire"  x="531"  y="479"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a6a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -181,25 +183,25 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q07
 
 [tb_start_text mode=1 ]
 #
-問題７　「毛氈を被る」の意味は？[p]
+Question 7: What does it mean to wear a wig?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="貧しい"  x="560"  y="359"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="卑下する"  x="553"  y="434"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a7a"  text="失敗する"  x="556"  y="509"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="Poor"  x="560"  y="359"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a7b"  text="To belittle oneself"  x="553"  y="434"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a7a"  text="Failure"  x="556"  y="509"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a7a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -208,25 +210,25 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q08
 
 [tb_start_text mode=1 ]
 #
-問題８　岩手県の市「八幡平市」の読み方は？[p]
+Question 8: How do you pronounce the city of Hachimantai in Iwate Prefecture?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  text="やまひらし"  target="*a8b"  x="533"  y="305"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a8b"  text="やわたびらし"  x="523"  y="386"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a8a"  text="はちまんたいし"  x="517"  y="464"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="Yamahirashi"  target="*a8b"  x="533"  y="305"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a8b"  text="Yawatabirashi"  x="523"  y="386"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a8a"  text="Hachimantai City"  x="517"  y="464"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a8a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -235,25 +237,25 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q09
 
 [tb_start_text mode=1 ]
 #
-問題９　岡山県の市「浅口市」の正しい読み方は？[p]
+Question 9: What is the correct pronunciation of Asakuchi City in Okayama[r]Prefecture?[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a9a"  text="あさくちし"  x="536"  y="315"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="あさぐちし"  x="536"  y="397"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="あざぐちし"  x="537"  y="475"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a9a"  text="Asakuchi City"  x="536"  y="315"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="Asaguchi City"  x="536"  y="397"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a9b"  text="Asaguchi City"  x="537"  y="475"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a9a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -262,26 +264,26 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *q10
 
 [tb_start_text mode=1 ]
 #
-問題１０　「ひきがえる」を漢字で書くと？[p]
+Question 10: How do you write ひきがえる in kanji?[p][cm]
 [_tb_end_text]
 
 [glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="螻蛄"  x="564"  y="277"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  text="蟾蜍"  x="563"  y="355"  width=""  height=""  _clickable_img=""  target="*a0a"  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="蟋蟀"  x="564"  y="433"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="どれでもない"  x="1071"  y="25"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  text="Toad"  x="563"  y="355"  width=""  height=""  _clickable_img=""  target="*a0a"  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="Cricket"  x="564"  y="433"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="q2.ks"  size="20"  target="*a0b"  text="None of them"  x="1071"  y="25"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a0a
 
 [tb_start_text mode=1 ]
 #
-○[p]
+○[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -290,7 +292,7 @@
 
 [tb_start_text mode=1 ]
 #
-×[p]
+×[p][cm]
 [_tb_end_text]
 
 *qend
@@ -298,17 +300,18 @@
 [stopbgm  time="1000"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「お疲れ様です。全問終了です」[p]
+#Akiko
+Good job. You've finished all the questions.[p][cm]
 [_tb_end_text]
 
 [jump  storage="q2.ks"  target="*sp"  cond="f.qp==10"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「残念ながら全問正解はなりませんでしたね」[p]
-「さすがの宮崎さんも難しかったですか？」[p]
-「このゲームのエンディングは７つありますので、よかったら全部見ていってくださいね」[p]
-「それではまたお会いしましょう。さようなら」[p]
+#Akiko
+Unfortunately, you didn't get all the questions right.[p][cm]
+Was it difficult even for Mr. Miyazaki, as expected?[p][cm]
+[p][cm]
+Since this game has seven different endings, please feel free to watch all of[r]them if you'd like.[p][cm]
+Well then, let's meet again. Goodbye.[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -317,18 +320,20 @@
 *sp
 
 [tb_start_text mode=1 ]
-#亜紀子
-「おお！素晴らしい！全問正解です！」[p]
-「さすが宮崎さん、すごいですね～。よっ漢字女王！」[p]
-「それでは全問正解のご褒美に次回作の画像をちょこっとだけお見せします」[p]
-「どうぞ～」[p]
+#Akiko
+Oh! Wonderful! You got all the questions right![p][cm]
+As expected of Mr. Miyazaki, you're amazing![p][cm]
+You're the queen of kanji![p][cm]
+As a reward for getting all the questions right, I'll show you a little preview[r]of the next game.[p][cm]
+Here you go~[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="game159.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「次回作は女教師モノになる予定です。お楽しみに」[p]
-「それではまたお会いしましょう。さようなら」[p]
+#Akiko
+The next game is planned to be a female teacher-themed one.[p][cm]
+Look forward to it.[p][cm]
+Well then, let's meet again. Goodbye.[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

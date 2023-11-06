@@ -6,22 +6,29 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-ムリムリムリムリッ！[p]
-#亜紀子
-「で、出ましたぁぁーーっ！亜紀子の極太ウンチが・・・っ！ひねり出されましたぁぁーーっ！」[p]
+Impossible![p][cm]
+#Akiko
+And, it came out! Akiko's thick poop...[p][cm]
+was squeezed out![p][cm]
 #
-ムリムリムリブリブリブリ・・・っ！[p]
-#亜紀子
-「あぁ・・・まだ出ちゃう・・・っ！亜紀子のぉ排便っ見てぇ～～～っ♥」[p]
+Impossible! Impossible! Impossible...![p][cm]
+#Akiko
+Ah... It's still coming out...![p][cm]
+I want you to see Akiko's...[p][cm]
+bowel movement~♥[p][cm]
 #
-ボトッ！[p]
-#亜紀子
-「ハァッ・・・ハァッ・・・あ、亜紀子の排便いかがでしたでしょうか？」[p]
-「み、皆様にウンチするところを見られて・・・あ、亜紀子はすごく興奮してしまいました・・・っ♥」[p]
-「キャスターのくせに・・・太くて臭いウンチをしてしまったことを・・・お詫び申し上げます。大変申し訳ありませんでした・・・っ」[p]
-「わたくし千山亜紀子は・・・これからもカメラの前でふ、太いウンチをひり出していくことを約束いたします。視聴者の皆様には温かく見守っていただければ幸いです」[p]
-「それでは・・・あ、亜紀子のウンチブリブリ排便ニュースをお伝えしました・・・っ。明日も・・・見てねっ♥」[p]
-「・・・・・・」[p]
+*Plop![p][cm]
+*[p][cm]
+#Akiko
+*Haa... Haa... Ah, how was Akiko's bowel movement?[p][cm]
+T-to be seen pooping by everyone...[p][cm]
+Ah, Akiko got really excited...[p][cm]
+♥ As a caster... I apologize for producing thick and smelly poop.[p][cm]
+I am deeply sorry... I, Chiyama Akiko, promise to continue producing thick poop[r]in front of the camera.[p][cm]
+I hope that all of the viewers will warmly watch over me.[p][cm]
+And with that... Ah, I have brought you the news of Akiko's poopy poopy bowel[r]movement...[p][cm]
+Please tune in again tomorrow...[p][cm]
+and watch it, okay? ♥ ・・・・・・[p][cm]
 
 
 
@@ -30,7 +37,7 @@
 [bg  time="1000"  method="crossfade"  storage="hiro999.jpg"  ]
 [tb_start_text mode=1 ]
 #
-・・・・・・[p]
+・・・・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -39,53 +46,55 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="SO_SAD.ogg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-6.png"  width="542"  height="1301"  left="3"  top="268"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#原告側弁護士
-「以上が証拠番号甲１２号の内容になります」[p]
-「動画の中で原告は無理やり排便をさせられてそれを撮影されています」[p]
-「この動画の直前に原告は被告に全裸で拘束され、１リットルの浣腸液を注射型の浣腸器で肛門から注入されています」[p]
-「その上、肛門にゴム製のプラグで栓をされて排便ができない状態にされ、およそ１時間放置されるという暴行を受けています」[p]
-「なお、そのときに使用されたものと同じと見られるゴム製プラグが被告の部屋で発見されています。証拠番号甲２２号がそれです」[p]
-#裁判長
-「被告はこの証拠の内容について異議はありますか？」[p]
+#Plaintiff's lawyer
+The above is the content of Exhibit Number Kō 12.[p][cm]
+In the video, the plaintiff is forcibly made to defecate and it is being filmed.[p][cm]
+Just before this video, the plaintiff was restrained by the defendant while[r]completely naked, and one liter of enema fluid was injected into their anus[r]using an injection-type enema device.[p][cm]
+Furthermore, the plaintiff was subjected to violence where a rubber plug was[r]inserted into their anus, preventing them from defecating, and they were left in[r]that state for approximately one hour.[p][cm]
+In addition, a rubber plug believed to be the same one used at that time was[r]found in the defendant's room.[p][cm]
+It is Exhibit Number Kō 22 as evidence.[p][cm]
+#Chief Judge
+Does the defendant have any objections to the content of this evidence?[p][cm]
 
 [_tb_end_text]
 
 [chara_show  name="勝野"  time="1000"  wait="true"  left="720"  top="209"  width="546"  height="1310"  reflect="false"  storage="chara/5/hiro256-1.png"  ]
 [tb_start_text mode=1 ]
-#被告側弁護士
-「証拠の動画に映っているのは原告が排便をしている場面であり、その前後に関してはなんら証拠とはなりません」[p]
-「原告は動画の中で笑顔で扇情的な言葉をしゃべりながら排便しており、強制されている様子はありません」[p]
-「この動画は先ほどの被告の説明どおり、原告には露出願望・非虐待願望の性質があり、双方同意の下の行為であるということの裏づけになります」[p]
-#裁判長
-「原告側」[p]
-#原告側弁護士
-「この動画の前半部分、排便前にもかかわらず床に大量の液体が見られます」[p]
-「これは原告が浣腸をされたことの証拠であり、暴行があったことの証拠です」[p]
-#裁判長
-「被告側」[p]
-#被告側弁護士
-「被告は原告に対して浣腸をした事は否定していません」[p]
-「しかしそれは原告が希望したことであり、双方の同意の下の行為でした」[p]
-「原告に質問しますが、動画において両手が後ろに回されていますが、この時両手は拘束されていましたか？」[p]
-#裁判長
-「原告」[p]
-#亜紀子
-「・・・いえ、されていませんでした」[p]
-#被告側弁護士
-「わかりました」[p]
-「一般的に年頃の未婚の女性がいくら脅されたからといって、手で隠すこともせずにしかも笑顔でカメラに向かって排便ができるでしょうか？」[p]
-「しかも下品で挑発的な内容のセリフを大きな声ではっきりと発しています。これらはこの動画が脅迫や暴行によるものではなく同意の上での性的遊戯であることを示しています」[p]
-#原告側弁護士
-「異議あり」[p]
-「当時原告は激しい暴行を受けており、恐怖から被告に対して逆らえない状況にありました」[p]
-「笑顔で大きい声でセリフを言わないとまた浣腸をするぞと脅されて、原告はやむを得ずそれに従ったのです」[p]
-「カメラの前で排便しながらも笑顔ではっきりとしゃべることができるのは、原告がアナウンサーという職業柄カメラに向かって明確にしゃべることが得意だからであり、一般的な女性と比較するべきではありません」[p]
-#裁判長
-「異議を認めます」[p]
-「続いて証拠番号甲１３号の動画をお願いします」[p]
+#Defense Attorney
+The footage in the evidence shows the plaintiff in the act of defecation, and[r]there is no evidence regarding what happened before or after that.[p][cm]
+The plaintiff is shown in the video smiling and speaking provocative words while[r]defecating, and there is no indication of being forced.[p][cm]
+This video, as explained by the defendant earlier, serves as evidence that the[r]plaintiff has exhibitionist and non-abusive desires, and that the act shown in[r]the video was consensual between both parties.[p][cm]
+#Chief Judge
+Plaintiff's side[p][cm]
+#Plaintiff's lawyer
+In the first half of this video, despite being before defecation, a large amount[r]of liquid can be seen on the floor.[p][cm]
+This is evidence that the plaintiff was given an enema and proof that there was[r]an act of violence.[p][cm]
+#Chief Judge
+Defense side[p][cm]
+#Defense Attorney
+The defendant does not deny administering an enema to the plaintiff.[p][cm]
+However, that was something the plaintiff desired, and it was an act performed[r]with the consent of both parties.[p][cm]
+I have a question for the plaintiff.[p][cm]
+In the video, your hands are seen behind your back.[p][cm]
+Were your hands restrained at that time?[p][cm]
+#Chief Judge
+Plaintiff[p][cm]
+#Akiko
+... No, they were not restrained.[p][cm]
+#Defense Attorney
+Understood. Generally, can an unmarried young woman of that age be threatened[r]and still be able to defecate in front of a camera without covering herself with[r]her hands and even smiling?[p][cm]
+Moreover, she is speaking with a loud voice using vulgar and provocative lines.[p][cm]
+These indicate that this video is not the result of coercion or violence, but[r]rather a consensual sexual play.[p][cm]
+#Plaintiff's lawyer
+Objection. At that time, the plaintiff was subjected to severe assault and was[r]in a situation where she could not resist the defendant due to fear.[p][cm]
+The plaintiff was threatened that if she didn't speak her lines with a smile and[r]in a loud voice, she would be subjected to an enema again.[p][cm]
+Due to this threat, the plaintiff had no choice but to comply.[p][cm]
+The reason the plaintiff is able to defecate in front of the camera while[r]smiling and speaking clearly is because of her profession as an announcer, which[r]makes her skilled at speaking clearly towards the camera.[p][cm]
+It should not be compared to the behavior of a typical woman.[p][cm]
+#Chief Judge
+Objection acknowledged. Next, please provide video evidence marked as Exhibit[r]A-13.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 
 [_tb_end_text]
@@ -95,125 +104,143 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-5.png"  width="480"  height="1152"  left="354"  top="128"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#被告側弁護士
-「あなたの名前は？」[p]
-#谷田
-「谷田知宏です」[p]
-#被告側弁護士
-「仕事は何をされていますか？」[p]
-#谷田
-「Ｚテレビのアシスタントディレクターです」[p]
-#被告側弁護士
-「原告とはどういう関係ですか？」[p]
-#谷田
-「番組の収録で何度も一緒になっていました」[p]
-#被告側弁護士
-「６月の２７日にあったことを話してもらえますか？」[p]
-#谷田
-「はい。・・・あの日テレビ局で千山さんに声を掛けられて、「頼みたいことがあるから」と空き部屋に連れて行かれました」[p]
-「そこで千山さんはいきなり服を脱いで裸になって僕を誘ってきました」[p]
-#被告側弁護士
-「具体的にはどういうことをされましたか？」[p]
-#谷田
-「オッパイを吸って欲しいと言われました。そして僕にも裸になって欲しいと言われて、裸になるとその・・・握ってきました」[p]
-#被告側弁護士
-「原告から谷田さんの男性器を握ってきたのですね？」[p]
-#谷田
-「はい」[p]
-#被告側弁護士
-「それからどうしました？」[p]
-#谷田
-「それで・・・千山さんのオッパイを吸いながら、だ、男性器をしごかれて・・・しゃ、射精しました」[p]
-#被告側弁護士
-「手で刺激されて射精したのですね？そのときの原告の様子はどうでしたか？」[p]
-#谷田
-「え・・・と、興奮していていやらしかったです」[p]
-#被告側弁護士
-「なるほど。それからどうしましたか？」[p]
-#谷田
-「その後「わたしもミルクが飲みたい」みたいなことを言って、その・・・男性器をくわえられました」[p]
-#被告側弁護士
-「原告があなたの男性器を強引に口で咥えてきたのですね？どんな体勢でしたか？」[p]
-#谷田
-「上に乗っかられて・・・いわゆるシックスナインの体勢でした。そして股間を僕の顔に押し付けてきました」[p]
-#被告側弁護士
-「なるほど、男性器を口で刺激しながら下腹部を押し付けてきたんですね。あなたはどうしましたか？」[p]
-#谷田
-「はい、舐めろという意味だと受け取って、じょ、女性器を舐めました」[p]
-#被告側弁護士
-「なるほど、上に乗られて顔に裸の股間を押し付けてきたのですからそう受け取るのは自然ですね。それからどうなりましたか？」[p]
-#谷田
-「千山さんに男性器をしゃぶられて、僕も女性器を舐めて・・・射精しました」[p]
-#被告側弁護士
-「口の中に射精したんですね？原告はあなたの精液をどうしましたか？」[p]
-#谷田
-「飲みました」[p]
-#被告側弁護士
-「なるほど。それからどうしましたか？」[p]
-#谷田
-「それから、もう仕事に行かないといけない時間だったので服を着ました。千山さんも服を着ました」[p]
-「部屋を出ようとしたら千山さんに呼び止められてキスをされました」[p]
-「たしか「精液がすごく美味しかった」とか「今度はもっとエッチなことをしようね」みたいなことを言われたと思います」[p]
-#被告側弁護士
-「わかりました。確認しますが、それまでにあなたと原告はそういう行為をするような間柄ではなかったんですね？」[p]
-#谷田
-「はい、ただの仕事上の関係で、時々短い会話をする程度の仲でした」[p]
-#被告側弁護士
-「わかりました。ありがとうございました」[p]
+#Defense Attorney
+What is your name?[p][cm]
+#Tanida
+My name is Tomohiro Tanida.[p][cm]
+#Defense Attorney
+What do you do for a living?[p][cm]
+#Tanida
+I am an assistant director at Z Television.[p][cm]
+#Defense Attorney
+What is your relationship with the plaintiff?[p][cm]
+#Tanida
+We have worked together on the program recordings many times.[p][cm]
+#Defense Attorney
+Can you tell us about what happened on June 27th?[p][cm]
+#Tanida
+Yes... On that day, I was approached by Ms. Senyama at the TV station and she[r]took me to an empty room because she had something she wanted to ask me.[p][cm]
+And then, Ms. Senyama suddenly took off her clothes and seduced me, completely[r]naked.[p][cm]
+[p][cm]
+#Defense Attorney
+Specifically, what did she do to you?[p][cm]
+#Tanida
+She asked me to suck her breasts.[p][cm]
+And she also asked me to get naked, and when I did, she...[p][cm]
+grabbed it.[p][cm]
+#Defense Attorney
+So, Ms. Senyama grabbed your genitals, Mr.[p][cm]
+Tanida?[p][cm]
+#Tanida
+Yes.[p][cm]
+#Defense Attorney
+What happened next?[p][cm]
+#Tanida
+And then... while sucking Ms. Senyama's breasts, m-my genitals were stroked...[p][cm]
+and I ejaculated.[p][cm]
+#Defense Attorney
+So you were stimulated by hand and ejaculated, correct?[p][cm]
+How did the plaintiff react at that time?[p][cm]
+#Tanida
+Um... I was excited and it felt pleasurable.[p][cm]
+#Defense Attorney
+I see. What happened next?[p][cm]
+#Tanida
+And then, I also said that I wanted to drink her milk, and she...[p][cm]
+she put my... penis in her mouth.[p][cm]
+#Defense Attorney
+So the plaintiff forcefully put your genitals in her mouth?[p][cm]
+What position were you in?[p][cm]
+#Tanida
+She got on top of me... it was what you call a sixty-nine position.[p][cm]
+And she pressed her crotch against my face.[p][cm]
+#Defense Attorney
+I see. While stimulating your genitals with her mouth, she pressed her lower[r]abdomen against you.[p][cm]
+What did you do?[p][cm]
+#Tanida
+Yes, I understood it as a request to lick, so I...[p][cm]
+I licked her genitals.[p][cm]
+#Defense Attorney
+I see. It's natural to interpret it that way when she straddled you and pressed[r]her naked crotch against your face.[p][cm]
+What happened next?[p][cm]
+#Tanida
+Ms. Senyama sucked my penis, and I also licked her genitals...[p][cm]
+and ejaculated.[p][cm]
+#Defense Attorney
+So you ejaculated in her mouth?[p][cm]
+What did the plaintiff do with your semen?[p][cm]
+#Tanida
+She swallowed it.[p][cm]
+#Defense Attorney
+I see. What did you do next?[p][cm]
+#Tanida
+After that, it was time for me to go to work, so I put on my clothes.[p][cm]
+Senyama-san also put on her clothes.[p][cm]
+As I was about to leave the room, Senyama-san stopped me and kissed me.[p][cm]
+I think she said something like, Your semen was really delicious.[p][cm]
+Let's do even naughtier things next time.[p][cm]
+#Defense Attorney
+I understand. Just to confirm, you and the plaintiff were not in a relationship[r]where such acts were taking place before that, correct?[p][cm]
+#Tanida
+Yes, we had a purely professional relationship and were only on speaking terms[r]occasionally.[p][cm]
+#Defense Attorney
+I understand. Thank you very much.[p][cm]
 
 
 [_tb_end_text]
 
 [chara_hide  name="谷田"  time="1000"  wait="false"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#被告側弁護士
-「証人の証言から、原告は日頃から顔見知り程度の間柄の男性を仕事中に誘惑して強引に性行為に及ぶような性欲の強い女性であることがうかがえます」[p]
-「このことから、脅迫などの事実は無く双方合意の下で性的交渉が行われていたという被告の主張が信用できるかと思われます」[p]
-#裁判長
-「原告、今の証言に同意できない部分はありますか？」[p]
+#Defense Attorney
+From the witness's testimony, it can be inferred that the plaintiff is a[r]sexually driven woman who tempts and forcefully engages in sexual acts with men[r]she is acquainted with to some extent during work.[p][cm]
+From this, it seems plausible to believe the defendant's claim that there was[r]consensual sexual activity taking place without any evidence of coercion or[r]threats.[p][cm]
+#Chief Judge
+Plaintiff, do you have any objections to the testimony just now?[p][cm]
 [_tb_end_text]
 
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-6.png"  width="584"  height="1401"  left="30"  top="205"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「内容に関しては・・・事実ですが、これも勝野に命令されてやったことです」[p]
-「決して自分の意思でやったわけではありません」[p]
+#Akiko
+Regarding the content... it is true, but I did it because I was ordered by[r]Katsuno.[p][cm]
+I never did it of my own free will.[p][cm]
 
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#被告側弁護士
-「命令されて谷田氏を誘惑して性行為に及んだと言いますが、手で射精させるとか覆いかぶさって男性器を口に含むとか、精液を飲むとか、最後に言葉を掛けてキスをするとか、全て命令だったのですか？」[p]
-#亜紀子
-「ええと・・・命令はたしか乳を吸わせること、２回射精させること、そして最後に言葉を掛けてキスをすることだったと思います」[p]
-#被告側弁護士
-「それでは口で男性器を刺激するとか精液を飲み込むといった行為は命令されていないということですね？」[p]
-#亜紀子
-「それは・・・はい。命令されていません」[p]
-#被告側弁護士
-「命令されていないのにシックスナインで男性器を咥えたり股間を相手の顔に押し付けたりしたんですね？「ミルクを飲ませて」というセリフは自分で思いついたものですか？」[p]
-#亜紀子
-「そ、それは・・・そうです。でも―――！」[p]
-#被告側弁護士
-「あなたが谷田氏と性行為をしたとき、部屋には二人きりだったわけですよね？」[p]
-「それならばたとえ命令だったとしても忠実に行う必要はないのでは？やったことにすればよかったのではないのですか？」[p]
-#亜紀子
-「それは・・・隠しカメラをセットしておくから後で映像をチェックするぞ、と言われたんです」[p]
-#被告側弁護士
-「ほお、隠しカメラ。しかし被告のパソコン及びスマートフォンからはそのような動画は見つかっていません」[p]
-#亜紀子
-「えっ、そんなはずは・・・！」[p]
-#被告側弁護士
-「もし隠しカメラで撮っていたならその動画は他の動画と同じ場所に保存されているはずです。その動画だけを消す理由は無いですから」[p]
-「それが無いということは原告が嘘をついている可能性が高いわけで―――」[p]
-#原告側弁護士
-「異議あり！」[p]
-「動画が無いことはその事実だけをもって原告が嘘をついているということの証拠にはなりません」[p]
-#裁判長
-「異議を認めます」[p]
+#Defense Attorney
+You claim that you were ordered to seduce Mr. Tanida and engage in sexual acts,[r]including making him ejaculate with your hand, performing oral sex, drinking[r]semen, and ending with words and a kiss.[p][cm]
+Were all of these actions commanded?[p][cm]
+#Akiko
+Um... I believe the orders were to let him suck on my breasts, make him[r]ejaculate twice, and end with words and a kiss.[p][cm]
+#Defense Attorney
+So, you're saying that you were not ordered to perform acts such as stimulating[r]the male genitalia with your mouth or swallowing semen?[p][cm]
+#Akiko
+That... yes. I was not ordered to do that.[p][cm]
+#Defense Attorney
+So, you're saying that you voluntarily performed acts such as performing oral[r]sex in a 69 position and pressing your crotch against the other person's face[r]without being ordered to do so?[p][cm]
+Did you come up with the line about drinking milk on your own?[p][cm]
+#Akiko
+W-Well... that's right. But...![p][cm]
+#Defense Attorney
+When you had sexual intercourse with Mr. Tanida, you were alone in the room,[r]correct?[p][cm]
+If that's the case, even if it was an order, isn't there no need to faithfully[r]carry it out?[p][cm]
+Wouldn't it have been better to pretend to have done it?[p][cm]
+#Akiko
+I was told, I'll set up hidden cameras, so I'll check the footage later.[p][cm]
+#Defense Attorney
+Oh, hidden cameras. However, no such videos were found on the defendant's[r]computer or smartphone.[p][cm]
+#Akiko
+Huh, there's no way that...![p][cm]
+#Defense Attorney
+If you had been recording with hidden cameras, those videos should have been[r]saved in the same location as other videos.[p][cm]
+There would be no reason to delete only those videos.[p][cm]
+If that's the case, it's highly likely that the plaintiff is lying--[p][cm]
+#Plaintiff's lawyer
+The fact that there are no videos does not serve as evidence that the plaintiff[r]is lying.[p][cm]
+#Chief Judge
+Objection acknowledged.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -221,45 +248,43 @@
 [bg  time="1000"  method="crossfade"  storage="hiro999.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#原告側弁護士
-「千山さん、証人として岡明日香さんを呼ぶことをお勧めします」[p]
-#亜紀子
-「・・・・・・」[p]
-「いえ、呼びません。明日香を巻き込むわけにはいかないわ」[p]
-「まだマスコミにも明日香が関わってることは知られてないんだから」[p]
-#原告側弁護士
-「しかし、今の流れでは無罪になる可能性がありますよ。もちろん力は尽くしますが・・・」[p]
-#亜紀子
-「わかってます・・・なんとかお願いします」[p]
+#Plaintiff's lawyer
+I recommend calling Ms. Asuka Oka as a witness, Mr.[p][cm]
+Sengama.[p][cm]
+#Akiko
+・・・・・・ No, I won't call her. I can't involve Asuka.[p][cm]
+Since Asuka's involvement with the media is still unknown.[p][cm]
+#Plaintiff's lawyer
+However, given the current situation, there is a possibility of acquittal.[p][cm]
+Of course, we will do our best, but...[p][cm]
+#Akiko
+I understand... Please do your best somehow.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro206.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#被告側弁護士
-「ホルモン研究の第一人者であるＴ医大の増本先生に証言をしていただいています」[p]
-「一般的に未産女性で母乳が分泌されるのは脳下垂体でナンヤラミンというホルモンの分泌が過剰になることが原因で―――」[p]
-・・・・・・[p]
-・・・・・・[p]
-「――つまり原告は異常性欲の疑いがあり通常の性行為では飽き足らずに露出願望や被虐待行為を好み、被告に対して変態的な行為を要求し――」[p]
+#Defense Attorney
+We have asked Dr. Masumoto, a leading expert in hormone research at T Medical[r]University, to testify.[p][cm]
+Generally, in non-pregnant women, the secretion of breast milk is caused by an[r]excessive secretion of a hormone called prolactin in the pituitary gland--[r]・・・・・・[p][cm]
+・・・・・・ In other words, the plaintiff is suspected of having abnormal sexual[r]desires, and is not satisfied with normal sexual activities, instead preferring[r]exhibitionism and masochistic acts.  They demanded perverse acts from the[r]defendant--[p][cm]
 
 [_tb_end_text]
 
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-4.png"  width="555"  height="1332"  left="24"  top="214"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「わたしは異常性欲なんかじゃありません！わたしは―――！」[p]
-#裁判長
-「静かに！勝手な発言は控えてください！」[p]
-#亜紀子
-「くっ・・・！」[p]
+#Akiko
+I don't have abnormal sexual desires![p][cm]
+I am―――![p][cm]
+#Chief Judge
+Silence! Please refrain from making arbitrary statements![p][cm]
+#Akiko
+Ugh...![p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -269,33 +294,33 @@
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-1.png"  width="556"  height="1335"  left="722"  top="137"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#裁判長
-「それでは判決を言い渡します」[p]
-#亜紀子
-「・・・・・・」[p]
-#勝野
-「・・・」[p]
-#裁判長
-「原告の訴えを棄却し、被告を無罪とします」[p]
+#Chief Judge
+Now, I will deliver the verdict.[p][cm]
+#Akiko
+・・・・・・[p][cm]
+#Katsuno
+・・・[p][cm]
+#Chief Judge
+The plaintiff's claim is dismissed, and the defendant is acquitted.[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro253-5.png"  ]
 [chara_mod  name="勝野"  time="600"  cross="true"  storage="chara/5/hiro256-3.png"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music22.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「そんな・・・！」[p]
-#勝野
-「ニヤリ」[p]
-#裁判長
-「尚、訴訟費用は原告の負担とします。判決理由については後日判決文の送達を―――」[p]
-#原告側弁護士
-「・・・残念です」[p]
-#亜紀子
-「そんな・・・こんなの・・・間違ってる・・・」[p]
+#Akiko
+No way...![p][cm]
+#Katsuno
+*smirks*[p][cm]
+#Chief Judge
+Furthermore, the plaintiff shall bear the litigation costs.[p][cm]
+As for the reasons for the verdict, they will be delivered in the written[r]judgment at a later date.[p][cm]
+#Plaintiff's lawyer
+... It's unfortunate.[p][cm]
+#Akiko
+No way... This can't be... It's a mistake...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
@@ -306,15 +331,17 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
 #
-裁判の敗訴は亜紀子のキャリアにとって致命傷となった[p]
-ニュース生本番での告白で勇気ある強い女性として賞賛されていた亜紀子の評価は一転して地に堕ちた[p]
-「逆恨みで交際相手を訴えたウソつき女」「トチ狂った露出願望の変態女子アナ」[p]
-「知的で正義感の強いニュースキャスター」だったはずの千山亜紀子は、事件以降世間から徹底的に叩かれ嘲笑され蔑まれ、まるで犯罪者のような扱いを受ける存在になった[p]
-実際に勝野は亜紀子を名誉毀損で訴え、亜紀子はその裁判でも敗訴した[p]
-その結果、亜紀子は自分を脅迫し陵辱した憎い男に、多額の慰謝料を支払わなければいけないという屈辱を味わった[p]
-当然会社はクビになり、フリーになったもののイメージの悪さから完全に仕事がなくなり、テレビ業界から追われる事になった[p]
-さらに慰謝料や違約金、裁判費用で貯蓄はなくなり借金を背負うこととなった亜紀子にもはや気力は無く、糸が切れた錘のようにひたすら堕ちていくだけだった[p]
-そして・・・[p]
+The defeat in the trial was a fatal blow to Akiko's career.[p][cm]
+Akiko, who was praised as a courageous and strong woman for her confession[r]during a live news broadcast, saw her reputation plummet.[p][cm]
+A perverted female announcer with a twisted exhibitionist desire, who falsely[r]accused her ex-partner out of spite.[p][cm]
+Akiko Chiyama, who was supposed to be an intelligent and justice-driven news[r]caster, has been thoroughly criticized, mocked, and scorned by society since the[r]incident.[p][cm]
+She has become treated as if she were a criminal.[p][cm]
+In reality, Yukino sued Akiko for defamation and Akiko lost the trial.[p][cm]
+As a result, Akiko experienced the humiliation of having to pay a large amount[r]of compensation to the despicable man who had threatened and humiliated her.[p][cm]
+Of course, she was fired from the company and became a freelancer, but due to[r]her tarnished image, she completely lost all her work and was chased out of the[r]television industry.[p][cm]
+Furthermore, Akiko, who had to pay compensation, breach of contract fees, and[r]legal expenses, lost all her savings and ended up burdened with debt.[p][cm]
+She no longer had the willpower to continue and simply continued to fall like a[r]broken weight.[p][cm]
+And...[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -323,42 +350,43 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-『お名前をお願いします』[p]
-#亜紀子
-「・・・千山亜紀子です」[p]
+Please tell me your name.[p][cm]
+#Akiko
+... I'm Akiko Chiyama.[p][cm]
 #
-『年齢は？』[p]
-#亜紀子
-「２９歳です」[p]
+How old are you?[p][cm]
+#Akiko
+I'm 29 years old.[p][cm]
 #
-『スリーサイズを教えてください』[p]
+Please tell me your three sizes.[p][cm]
 [_tb_end_text]
 
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro260-6.png"  width="582"  height="1455"  left="322"  top="30"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「・・・上から、１０５ｃｍ、６４ｃｍ、９８ｃｍです」[p]
+#Akiko
+... From the top, it's 105cm, 64cm, 98cm.[p][cm]
 #
-『お仕事は何をされていましたか？』[p]
-#亜紀子
-「・・・元Ｚテレビのアナウンサーです』[p]
+What kind of work were you doing?[p][cm]
+#Akiko
+... I used to be an announcer at Z Television.[p][cm]
 #
-『ＡＶに出ようと思った理由は？』[p]
-#亜紀子
-「・・・借金があってお金が必要だからです」[p]
+Why did you decide to enter the AV industry?[p][cm]
+#Akiko
+... Because I had debts and needed money.[p][cm]
 #
-『なんでそんなに借金ができちゃったの？』[p]
-#亜紀子
-「裁判費用とか、慰謝料とか、スポンサーの違約金とかで・・・」[p]
+How did you end up with so much debt?[p][cm]
+#Akiko
+It was due to legal fees, compensation, and breach of contract penalties from[r]sponsors...[p][cm]
 #
-『無実の人を訴えちゃったんだよね？反省してるの？』[p]
-#亜紀子
-「は、はい・・・反省してます」[p]
+Did you sue an innocent person?[p][cm]
+Are you remorseful?[p][cm]
+#Akiko
+Y-Yes... I am remorseful.[p][cm]
 #
-『色々な人に迷惑を掛けたよね？』[p]
-#亜紀子
-「はい、皆様色々ご迷惑をおかけしました。本当に申し訳ありません」[p]
-「これからはＡＶ女優として頑張っていくので、どうかよろしくお願いします」[p]
+You caused trouble for many people, didn't you?[p][cm]
+#Akiko
+Yes, I caused a lot of trouble for everyone.[p][cm]
+I am truly sorry. From now on, I will do my best as an AV actress, so please[r]take care of me.[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -367,21 +395,23 @@
 [tb_cg  id="151"  ]
 [tb_start_text mode=1 ]
 #
-『ＮＧは無しなんだよね？』[p]
-#亜紀子
-「はい、どんなことでもさせていただきます」[p]
-「中出し、ごっくん、アナル、スカトロ、ハードＳＭ、なんでもいたします」[p]
-「生まれ変わった亜紀子をどうぞよろしくお願いします」[p]
+There are no NGs, right?[p][cm]
+#Akiko
+Yes, I will do anything you ask of me.[p][cm]
+Creampie, swallowing, anal, scat play, hardcore BDSM, I will do anything.[p][cm]
+Please take care of the reborn Akiko.[p][cm]
 #
-『それじゃ早速フェラチオから始めようか。男優のゴリ田肉棒丸さんに挨拶して』[p]
-#亜紀子
-「ご、ゴリ田様、よろしくお願いします」[p]
-#ゴリ田
-「俺様の特大仕置き棒でヒィヒィ言わせてやるから覚悟しろよ」[p]
-#亜紀子
-「は、はいっ」[p]
+Well then, let's start with a blowjob right away.[p][cm]
+Say hello to the actor Gorita Nikuboumaru.[p][cm]
+#Akiko
+G-Gorita-sama, nice to meet you.[p][cm]
+#Gori-ta
+Get ready, because I'm going to make you scream with my massive punishment rod.[p][cm]
+#Akiko
+Y-Yes.[p][cm]
 #
-エンディングNo.７　　「亜紀子」　－ true end －[p]
+Ending No.[p][cm]
+7 - Akiko - True End -[p][cm]
 [_tb_end_text]
 
 [wait  time="3000"  ]

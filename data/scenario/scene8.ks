@@ -6,24 +6,26 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="40"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（・・・いつ来ても趣味の悪い部屋だわ・・・）[p]
-（セックスするためだけの部屋・・・。行ったことないけどラブホテルってこんな感じなのかしら・・・？）[p]
+#Akiko
+(.... No matter when I come, this room has such bad taste...)[p][cm]
+(A room just for sex... I've never been to a love hotel, but is this what[r]they're like...?)[p][cm]
 #
-勝野に言われて来たのは都内のとあるマンションの一室だ[p]
-といっても勝野はここで暮らしているわけではなく、女とセックスするときだけ使っている[p]
-マンション全体が勝野の親戚の持ちものらしく、勝野はいつでも自由に使えるそうだ[p]
-勝野はここを「やり部屋」と呼んでおり、過去には何人ものアイドルの卵や売れない女性芸能人を連れ込んで抱いてきたと自慢げに語っていた[p]
-亜紀子も勝野の奴隷になって以来、週に２～３回はここに連れ込まれてセックス調教を受けている[p]
-#亜紀子
-（本当に最低の男だわ・・・女を玩具かなにかとしか思っていないんだから・・・）[p]
-（なんとかあいつの支配から脱出する方法を考えないと・・・）[p]
-（でも既に世間に出回ったら破滅するような恥ずかしい動画を何本も撮られちゃったから・・・）[p]
-（よくわからないけどデータはどうやっても侵入できないところにあるらしいし）[p]
-（ハッカーを雇って・・・いや無理だわ。下手すると脅迫者がもう一人増えるだけだもの）[p]
-（このままじゃ永遠にあいつの奴隷・・・そんなの絶対に嫌よ！）[p]
-（・・・とにかく服を脱ぎましょう。もうすぐあいつが来るかもしれないわ）[p]
-（来た時に全裸で待ってないとお仕置きされちゃうわ）[p]
+I was told by Katsuno to come to a certain apartment room in Tokyo.[p][cm]
+But to be clear, Katsuno doesn't actually live here.[p][cm]
+He only uses it when he wants to have sex with women.[p][cm]
+It seems that the entire apartment building belongs to Katsuno's relatives, and[r]he can use it freely whenever he wants.[p][cm]
+Katsuno proudly referred to this place as his 'playroom' and boasted about[r]bringing in numerous aspiring idols and struggling female entertainers in the[r]past to have sex with.[p][cm]
+Since Akiko became Katsuno's slave, she has been brought here 2-3 times a week[r]for sex training.[p][cm]
+#Akiko
+(He really is the worst... He only sees women as toys or something...)[p][cm]
+(I need to think of a way to escape from his control somehow...)[p][cm]
+(But I've already been filmed in several embarrassing videos that would ruin me[r]if they were to be leaked...)[p][cm]
+(I'm not sure about the details, but it seems that the data is stored in a place[r]that cannot be accessed no matter what.)[p][cm]
+(Hiring a hacker... no, it's impossible.[p][cm]
+It might just add another blackmailer if things go wrong.)[p][cm]
+(I refuse to be his slave forever like this...[p][cm]
+I absolutely hate it!) (Anyway, let's take off our clothes.[p][cm]
+He might be coming soon.) (If we're not waiting naked when he comes, we'll be[r]punished.)[p][cm]
 
 
 [_tb_end_text]
@@ -31,35 +33,39 @@
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="true"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro261-1ak.png"  width="439"  height="1099"  left="703"  top="20"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（全く・・・なんで私があいつの決めたルールを忠実に守らないといけないのよ・・・）[p]
-（でも少しでも口実があればすぐにお仕置きお仕置きって酷いことをされちゃうから、従う振りをしておかないと・・・）[p]
-（わざと私の怒りを煽って私が逆らうのを待ってるんだから。反抗的な態度をとれば逆にあいつを楽しませることになる）[p]
-（あいつの思い通りにはさせないわ・・・・・・あっ）[p]
-（あいつが来たわ・・・！）[p]
+#Akiko
+(Seriously... why do I have to faithfully follow the rules he sets...)[p][cm]
+(But if there's even the slightest excuse, he'll immediately punish me...[p][cm]
+so I have to pretend to obey...)[p][cm]
+(He deliberately provokes my anger and waits for me to resist.[p][cm]
+If I show a rebellious attitude, it will only amuse him.)[p][cm]
+(I won't let him have his way...[p][cm]
+Ah!) (He's here...!)[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro260-2.png"  ]
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-1.png"  width="445"  height="1068"  left="155"  top="-20"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「お、おかえりなさいませご主人様・・・っ！」[p]
-#勝野
-「おう」[p]
-#亜紀子
-「きょ、今日もドスケベな亜紀子をたっぷりと・・・調教してくださいませ・・・っ！」[p]
-#勝野
-「ククク、だいぶ奴隷らしくなってきたな」[p]
-「よしよし、そんなに俺のチンポが待ちきれなかったか？」[p]
-#亜紀子
-（く・・・いい気になって・・・でも、我慢よ・・・）[p]
-（でも収録のことで怒ってるかと思ったけど、なんか機嫌が良さそうね？）[p]
-（梅田に呼ばれて叱られたんじゃないのかしら・・・？）[p]
-#勝野
-「とりあえず汗流すか。風呂の準備しろ」[p]
-#亜紀子
-「は、はい・・・」[p]
+#Akiko
+W-Welcome back, Master...![p][cm]
+#Katsuno
+Oh.[p][cm]
+#Akiko
+T-Today as well, please thoroughly...[p][cm]
+train the lewd me...![p][cm]
+#Katsuno
+Hehehe, you're starting to become quite the obedient slave.[p][cm]
+Well well, couldn't wait for my dick that much, huh?[p][cm]
+#Akiko
+(Ugh... feeling so good... but I must endure...)[p][cm]
+(I thought you would be angry about the recording, but you seem to be in a good[r]mood?)[p][cm]
+(I wonder if Umeda called me here to scold me...?)[p][cm]
+#Katsuno
+For now, let's work up a sweat.[p][cm]
+Prepare the bath.[p][cm]
+#Akiko
+Y-Yes...[p][cm]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -74,180 +80,185 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「し、失礼します・・・」[p]
+#Akiko
+E-Excuse me...[p][cm]
 #
-ヌリュッ・・・ヌリュッ・・・[p]
-身体にボディソープを塗りつけ、勝野の身体になすりつける[p]
-これはソープランドという風俗店で行うサービスらしい[p]
-奴隷には必須の技術だと、この部屋に連れ込まれた初日に教え込まれた[p]
-もちろん最初は拒否したが、お仕置きをされて結局はすることになるので、逆らっても無駄だと最近は悟った[p]
-#勝野
-「もっとしっかり身体を押し付けろ。舌とかも使えよ」[p]
-#亜紀子
-「はい・・・ヌリュッ、ヌリュッ・・・ペロペロ」[p]
-#勝野
-「だいぶ上手くなって来たじゃないか。これならいつアナウンサーをクビになってもソープ嬢で食っていけるぜ」[p]
-#亜紀子
-「あ、ありがとうございます・・・ヌリュッヌリュッ」[p]
-#勝野
-「・・・なんだ今日はやけに素直だな。いつもの反抗的な態度はどうした？」[p]
-#亜紀子
-「・・・」[p]
+*Squish... squish... * I apply body soap to my body and rub it against Katsuno's[r]body.[p][cm]
+This seems to be a service performed at a soapland, a type of adult[r]entertainment establishment.[p][cm]
+On my first day being brought into this room, I was taught that it is an[r]essential skill for a slave.[p][cm]
+Of course, I initially refused, but after being punished, I realized that it was[r]futile to resist.[p][cm]
+#Katsuno
+Press your body against me more firmly.[p][cm]
+Use your tongue too.[p][cm]
+#Akiko
+Yes... *Squish, squish*...   *Lick, lick*[p][cm]
+#Katsuno
+You've become quite skilled, haven't you?[p][cm]
+With this, even if you get fired as an announcer, you can make a living as a[r]soapland girl.[p][cm]
+#Akiko
+T-Thank you very much...[p][cm]
+*Squish, squish*[p][cm]
+#Katsuno
+... Why are you unusually obedient today?[p][cm]
+What happened to your usual defiant attitude?[p][cm]
+#Akiko
+・・・[p][cm]
 #
-ヌルッヌリュッ[p]
-#勝野
-「やっぱり女ってのはチンポで教育するのが一番だな。あの生意気だったお前がたった数十日でこんなにも従順なメスになるんだもんな、ククク」[p]
-#亜紀子
-「・・・っ」[p]
+*Squish, squish*[p][cm]
+#Katsuno
+As expected, the best way to educate a woman is with a dick.[p][cm]
+It's amusing how you, who used to be so cheeky, have become such an obedient[r]female in just a few days.[p][cm]
+Kukuku.[p][cm]
+#Akiko
+...[p][cm]
 #
-ヌリュッ・・・ヌリュッ[p]
-#勝野
-「一人前の奴隷に教育していただいた感謝の言葉は？」[p]
-#亜紀子
-（くっ・・・わたしを怒らせようと思って・・・。挑発に乗っちゃダメよ・・・っ）[p]
-「・・・あ、ありがとうございます」[p]
-#勝野
-「ダメだ。こういうときどういう風に言うか教えたはずだろ」[p]
-#亜紀子
-「くっ・・・お、愚かでドスケベな亜紀子を・・・勝野様のお、オチンポで・・・一人前の奴隷に教育してくださって・・・本当にありがとうございます・・・っ」[p]
-#勝野
-「お、なんだその目は？なにか言いたいことでもあるのか？」[p]
-#亜紀子
-「い、いえ・・・っ」[p]
-（我慢よ我慢・・・っ）[p]
-#勝野
-「おらっ、手を休めるな」[p]
-#亜紀子
-「は、はい・・・っ」[p]
+*Squish, squish*[p][cm]
+#Katsuno
+What are your words of gratitude for being educated as a proper slave?[p][cm]
+#Akiko
+(Kuh... Trying to provoke me...[p][cm]
+I mustn't fall for it...) ... Ah, thank you very much.[p][cm]
+#Katsuno
+No, that's not it. I'm sure I taught you how to respond in situations like this.[p][cm]
+#Akiko
+Kuh... Th-thank you very much for educating foolish and lewd me...[p][cm]
+with your, Katsuno-sama's... dick...[p][cm]
+and turning me into a proper slave...[p][cm]
+#Katsuno
+Oh, what's with that look? Do you have something to say?[p][cm]
+#Akiko
+N-No... (Endure, endure...)[p][cm]
+#Katsuno
+Hey, don't rest your hands.[p][cm]
+#Akiko
+Y-Yes...[p][cm]
 #
-ヌリュッヌリュッレロレロレロレロ[p]
-#勝野
-「よーし、そろそろチンポを洗え」[p]
-「お前を教育してくれたおチンポ様だ。感謝の念をこめて洗えよ」[p]
-#亜紀子
-「くっ・・・は、はい」[p]
-（く、悔しい・・・わたしがわざと従順なふりをしてるのを知ってて弄ってるんだわ・・・）[p]
+*Squish squish, lero lero lero lero*[p][cm]
+#Katsuno
+Alright, it's about time to wash your dick.[p][cm]
+It is the dick-sama that educated you.[p][cm]
+Wash it with gratitude.[p][cm]
+#Akiko
+Kuh... Y-Yes. (Kuh... It's frustrating...[p][cm]
+They know that I'm pretending to be obedient on purpose and they're toying with[r]me...)[p][cm]
 #
-シュッ・・・シュッ・・・コシコシコシ[p]
-勝野のすでにビンビンに膨張しているイチモツをソープの付いた手で優しく洗う[p]
-たぷっとした玉袋はさらに慎重に、袋のしわを伸ばして指の腹で丁寧にこする[p]
-#勝野
-「念入りに洗えよ。後でお前がしゃぶることになるんだからな。ウハハハ」[p]
-#亜紀子
-「・・・っ」[p]
+*Shh... Shh... Koshi koshi koshi* Katsuno gently washes the already erect[r]Ichimotsu with her soapy hands.[p][cm]
+The plump scrotum is handled even more carefully, gently stretching the wrinkles[r]of the sack and meticulously rubbing it with the pads of her fingers.[p][cm]
+#Katsuno
+Wash it thoroughly. You'll be sucking it later, after all.[p][cm]
+Uhahaha.[p][cm]
+#Akiko
+...[p][cm]
 #
-サワサワサワ・・・モミュモミュモミュ・・・[p]
-#勝野
-「おおぅ・・・上手くなったもんだぜ。これ以上やられると我慢汁が溢れちまう」[p]
-「それじゃ次はマットプレイだ」[p]
-#亜紀子
-「は、はい」[p]
+*Sawa sawa sawa... Momyu momyu momyu...  *[p][cm]
+#Katsuno
+Oh... You've gotten better at this.[p][cm]
+If you keep going, my patience juice will overflow.[p][cm]
+Well then, next is mat play.[p][cm]
+#Akiko
+Y-Yes.[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro141-2.jpg"  ]
 [tb_cg  id="141"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「んっ・・・ハァッ」[p]
+#Akiko
+Nn... Haah.[p][cm]
 #
-ヌリュッ・・・ヌリュッ・・・[p]
-空気で膨らませたマットの上に仰向けになった勝野に覆いかぶさるように重なり、身体を前後に滑らせて全身で勝野の身体を洗う[p]
-何度も犯されているとはいえ、こんなにも密着すると恥ずかしくて顔に血が上るのがわかる[p]
-#亜紀子
-「ンッ・・・アフゥ・・・♥」[p]
-（分厚い胸板・・・ごつごつして毛だらけで・・・男の身体だわ・・・）[p]
-（熱いおチンチンが・・・当たってる・・・）[p]
+*Slurp... Slurp... * Asuka covers Katsuno, who is lying on her back on the air-[r]filled mat, and slides her body back and forth to wash Katsuno's body with her[r]entire body.[p][cm]
+Even though I've been violated many times, I can't help but feel embarrassed and[r]my face flushes when we get this close.[p][cm]
+#Akiko
+Nn... Ahh... ♥ (A thick chest...[p][cm]
+rough and hairy... it's a man's body...)[p][cm]
+(A hot dick... is touching me...)[p][cm]
 #
-ニュルッ・・・ニュルッ・・・[p]
-#勝野
-「おほっ・・・お前の身体はボリュームがあってマットプレイには最適だな」[p]
-「マジで都内のどの店でも指名ナンバーワンを狙えるぜ。ククク」[p]
-#亜紀子
-「・・・っ・・・ンハァ・・・」[p]
+*Slurp... Slurp...  *[p][cm]
+#Katsuno
+Ohh... Your body has a nice volume, perfect for mat play.[p][cm]
+I can aim to be the number one in any shop in Tokyo for real.[p][cm]
+Hehehe.[p][cm]
+#Akiko
+... h... ngh...[p][cm]
 #
-ヌリュッヌリュッ[p]
-#勝野
-「よし、ご褒美にキスしてやるぜ」[p]
-#亜紀子
-「ンッ・・・！？ン・・・ムッ・・・♥」[p]
+*Squish... Squish...  *[p][cm]
+#Katsuno
+Alright, as a reward, I'll give you a kiss.[p][cm]
+#Akiko
+Nn...!? N... Mm...   ♥[p][cm]
 #
-チュバッ・・・ヌチュ・・・[p]
-#亜紀子
-「ンムッ・・・レロッ・・・チュバッ・・・ンハァッ♥」[p]
-（ん・・・なにがご褒美よ・・・っ）[p]
-#勝野
-「よし、次は裏だ」[p]
-#亜紀子
-「はい・・・」[p]
+*Mwah... Nchu...  *[p][cm]
+#Akiko
+Mmm... Lick... Suck... Nhaaahh♥ (Huh...[p][cm]
+What's the reward...)[p][cm]
+#Katsuno
+Alright, next is the back.[p][cm]
+#Akiko
+Yes...[p][cm]
 #
-ヌリュッ・・・ヌリュッ・・・[p]
-今度はうつ伏せになった勝野の上にかぶさり、身体をこすり付ける[p]
-#亜紀子
-「んっ・・・ハッ・・・ぁ」[p]
+*Squish... Squish... * Now, I straddle Katsuno, who is lying face down, and rub[r]my body against theirs.[p][cm]
+#Akiko
+Nn... Ha...   Ah[p][cm]
 #
-ヌリュッ・・・！ヌリュッ・・・！[p]
-結構な全身運動で、おもわず吐息が漏れる[p]
-勝野は悠然と寝そべり、指一本動かさずに自分の身体が綺麗になるのを楽しんでいる[p]
-#勝野
-「よし、脚を洗え。そのでかい乳でな」[p]
-#亜紀子
-「はい・・・」[p]
+*Slurp... Slurp... * With such a vigorous full-body exercise, I couldn't help[r]but let out a sigh.[p][cm]
+Katsuno leisurely lies down, enjoying the sight of their own body becoming[r]beautiful without moving a finger.[p][cm]
+#Katsuno
+Alright, wash your legs. And use those big breasts to...[p][cm]
+#Akiko
+Yes...[p][cm]
 #
-ズリュッ・・・ズリュッ・・・[p]
-勝野の毛だらけの脚を両の乳房で挟んでしごく[p]
-#亜紀子
-「ンッ・・・ハッ・・・」[p]
+*Squish... Squish... * I sandwich Katsuno's hairy legs between my breasts and[r]stroke them.[p][cm]
+#Akiko
+Nn... Ha...[p][cm]
 #
-ヌリュッ・・・ニュルンッ・・・[p]
-#勝野
-「くくく、でかいチンポにパイズリしてるみたいだろう」[p]
-#亜紀子
-「くっ・・・ンフゥ・・・」[p]
+*Slurp... Slurp...  *[p][cm]
+#Katsuno
+Hehehe, it must feel like I'm giving you a titjob with my big breasts.[p][cm]
+#Akiko
+Mmm... Ngh...[p][cm]
 #
-ヌリュッ・・・サスサスッ・・・[p]
-#勝野
-「足はどうするかわかってるな？」[p]
-#亜紀子
-「くっ・・・はい・・・っ」[p]
+*Slurp... Slurp...  *[p][cm]
+#Katsuno
+Do you know what to do with your legs?[p][cm]
+#Akiko
+*Gulp*... Yes...[p][cm]
 #
-ペロ・・・ペロッ・・・[p]
-勝野の足の指に舌を這わせる[p]
-#亜紀子
-「レロッレロッ・・・チュバッ」[p]
-（足を舐めさせられるなんて・・・最低だわ・・・）[p]
-「ネロッ・・・ンチュッ・・・」[p]
-#勝野
-「一日中仕事してたっぷり汗をかいたからな。しっかりとキレイにしろよ、ククク」[p]
-#亜紀子
-「くっ・・・レロレロレロレロンッ・・・チュバッ」[p]
-（いい気になって・・・悔しい・・・っ！）[p]
-「ペロペロペロッ・・・チュプ・・・」[p]
-#勝野
-「ほれ、手を抜くな。どうやるか教えただろう」[p]
-#亜紀子
-「はい・・・ハムッ」[p]
-（たしか指を一本ずつ口に含んで・・・）[p]
-「ンムッ・・・レロレロレロ・・・ンチュッ♥」[p]
-（飴玉を舐めるように・・・舌で指の間まで隈なく・・・）[p]
-「レロッレロッ・・・ンムッ・・・チューッ♥」[p]
-（ツバは吐き出さずに・・・飲みこめ・・・でしょっ）[p]
-「ムチュッ・・・ンム・・・チュゥッ・・・ゴクッ♥」[p]
+*Lick... Lick... * I let my tongue crawl along Katsuno's toes.[p][cm]
+#Akiko
+*Lick... Lick... * *Smooch* (To be made to lick her feet...[p][cm]
+How despicable...) *Nero... Nchu...  *[p][cm]
+#Katsuno
+I've been working all day and sweating a lot.[p][cm]
+Make sure to clean it up properly, hehehe.[p][cm]
+#Akiko
+*Gulp*... Lick... Lick... Lick...[p][cm]
+*Kiss* (Feeling so good... It's frustrating...!)[p][cm]
+*Lick... Lick... Lick... * *Smooch...  *[p][cm]
+#Katsuno
+Hey, don't slack off. I already taught you how to do it.[p][cm]
+#Akiko
+Yes... Hamu. (I'm pretty sure it was about putting one finger in my mouth at a[r]time...)[p][cm]
+*Nmm... Lick, lick, lick... Nchu~♥* (Lick it like a candy...[p][cm]
+With your tongue, thoroughly between the fingers...)[p][cm]
+*Lick, lick... Mmm... Suck~♥* (Don't spit out the saliva...[p][cm]
+Swallow it... okay?) *Mwah... Mmm...[p][cm]
+Smooch...[p][cm]
+Gulp♥*[p][cm]
 #
-最初に少し洗ったとはいえ汗臭い勝野の足を丹念にしゃぶったエキスを一滴もこぼさぬよう飲み下す[p]
-勝野はこっちを見ていないのでバレないように吐き出してもいいのだが、言いつけを忠実に守って塩気のある足汁を飲み込んでいった[p]
-#亜紀子
-「チュバッ・・・ジュルッ・・・ゴクッ♥」[p]
-「アムッ・・・チュバッ・・・レロレロレロ・・・ゴクッ♥」[p]
+I carefully sucked on Katsuno's sweaty feet, even though I washed them a little[r]at first, making sure not to spill a single drop of the extracted essence as I[r]swallowed it.[p][cm]
+Since Katsuno isn't looking this way, I could spit it out without getting[r]caught, but I faithfully followed the instructions and swallowed the salty foot[r]juice.[p][cm]
+#Akiko
+*Suck... Slurp... Gulp♥* *Mmm...[p][cm]
+Smack... Lick, lick, lick...   Gulp♥*[p][cm]
 #
-１０本の足の指を時間をかけてしゃぶり終わると、最後にお湯をかけて洗い流す[p]
-#亜紀子
-「お、終りました・・・ハァハァ」[p]
-#勝野
-「よーし、いいだろう。それじゃそろそろベッドでかわいがってやるよ」[p]
-#亜紀子
-「は、はい・・・」[p]
+After sucking on all ten toes for a while, I pour hot water over them to wash[r]away the residue.[p][cm]
+#Akiko
+I-I'm done...[p][cm]
+*panting*[p][cm]
+#Katsuno
+Alright, that's enough. Then, I'll take care of you on the bed soon.[p][cm]
+#Akiko
+Y-Yes...[p][cm]
 
 
 
@@ -266,36 +277,38 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「くくく、お前はやっぱり四つん這いが一番似合ってるな」[p]
-「ほれ、もっとよく見えるように尻を突き出せ」[p]
+#Katsuno
+Hehehe, you really do look best on all fours.[p][cm]
+There, stick your butt out more so I can see it better.[p][cm]
 #
-パン！[p]
-#亜紀子
-「アンッ・・・こ、こうですか」[p]
-#勝野
-「ふむ、いい格好だ。マ○コも肛門も丸見えだぞ」[p]
-#亜紀子
-「・・・っ」[p]
-#勝野
-「おいおい、もうマ○コほかほかじゃねえか。そんなに俺のチンポが待ちきれないのか？」[p]
+*Smack![p][cm]
+*[p][cm]
+#Akiko
+Ahh... Is this... like this?[p][cm]
+#Katsuno
+Hmmm, that's a good position. Your pussy and asshole are completely exposed.[p][cm]
+#Akiko
+...[p][cm]
+#Katsuno
+Hey hey, your pussy is already hot and ready.[p][cm]
+Can't you wait for my dick that much?[p][cm]
 #
-パンッ[p]
-#亜紀子
-「ンッ・・・！そ、そんなこと・・・っ」[p]
-#勝野
-「でも簡単にチンポをもらえると思うなよ」[p]
-「俺がチンポを挿れたくなるように、上手におねだりしてみろ」[p]
-#亜紀子
-「く・・・」[p]
-「お・・・おチンポを・・・入れてください・・・」[p]
-#勝野
-「ダメだダメだ。もっと頭を使って俺がその気になるようなセリフを考えろ」[p]
-「言い方とかも工夫しろよ。感情がこもって無いと何回でもやり直させるからな」[p]
-#亜紀子
-「く・・・っ」[p]
-（なんでわたしがそんなこと考えないといけないのよ・・・！）[p]
-（でも仕方ないわ・・・逆らうだけ時間の無駄だし・・・）[p]
+*Thud*[p][cm]
+#Akiko
+Nngh...! D-Don't do that...[p][cm]
+#Katsuno
+But don't think you can easily get my dick.[p][cm]
+Try begging skillfully so that I want to insert my dick.[p][cm]
+#Akiko
+Ugh... P-Please... insert your...[p][cm]
+dick...[p][cm]
+#Katsuno
+No, no. Think harder and come up with lines that will make me feel like it.[p][cm]
+Come up with better lines and put more emotion into it.[p][cm]
+If it doesn't feel genuine, I'll make you do it over and over again.[p][cm]
+#Akiko
+Ku... Why do I have to think about such things...![p][cm]
+(But I have no choice... It's just a waste of time to resist...)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -304,21 +317,20 @@
 [bg  time="00"  method="crossfade"  storage="hiro117-1.jpg"  ]
 [tb_eval  exp="f.qp=0"  name="qp"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（えーっと・・・勝野が喜びそうなおねだりでしょ）[p]
-（まず、言い方は・・・）[p]
+#Akiko
+(Um... I guess I should come up with a request that Katsuno would be pleased[r]with)[p][cm]
+(First, I should think about how to phrase it...)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a1a"  text="屈辱に耐えながら"  x="512"  y="337"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a1b"  text="大きな声でハキハキと"  x="491"  y="418"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a1c"  text="媚びて甘える感じ"  x="512"  y="497"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a1a"  text="Enduring humiliation"  x="512"  y="337"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a1b"  text="Speak loudly and clearly"  x="491"  y="418"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a1c"  text="Flirting and acting cute"  x="512"  y="497"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a1a
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（わたしが悔しがるのが勝野は一番喜ぶわけだから、ここは今の感情のままで素直にいきましょう）[p]
+#Akiko
+(I see...) (Since Katsuno would be most pleased if I show my frustration, I[r]should just be honest and express my current emotions)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=100"  name="qp"  cmd="+="  op="t"  val="100"  val_2="undefined"  ]
@@ -326,9 +338,8 @@
 *a1b
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（アナウンサーだから大きな声ではっきりと言うのがいいのかも・・・？）[p]
+#Akiko
+(I see...) (Maybe it's best to speak clearly with a loud voice since I'm an[r]announcer...?)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=200"  name="qp"  cmd="+="  op="t"  val="200"  val_2="undefined"  ]
@@ -337,29 +348,28 @@
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（おねだりだから、やっぱり甘える感じがいいのかしら・・・？）[p]
+#Akiko
+(I see...) (Since it's a request, maybe it's best to act a bit spoiled...?)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=300"  name="qp"  cmd="+="  op="t"  val="300"  val_2="undefined"  ]
 *q2
 
 [tb_start_text mode=1 ]
-#亜紀子
-（次は・・・自分のことをどう表現するかね）[p]
+#Akiko
+(Next... How should I express myself?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a2a"  text="ドスケベな亜紀子"  x="499"  y="325"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a2b"  text="愚かなで無能な下僕"  x="489"  y="413"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a2c"  text="盛りのついた雌牛"  x="499"  y="496"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a2a"  text="Akiko the Pervert"  x="499"  y="325"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a2b"  text="You foolish and incompetent servant"  x="489"  y="413"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a2c"  text="A well-seasoned female cow"  x="499"  y="496"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a2a
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（勝野がいつも言わせたがる定番ね・・・これでいいはず）[p]
+#Akiko
+(I see...) (This is the usual thing Katsuno always wants me to say...[p][cm]
+This should be fine)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=10"  name="qp"  cmd="+="  op="t"  val="10"  val_2="undefined"  ]
@@ -367,9 +377,9 @@
 *a2b
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（立場を強調するなら、このくらい言った方がいいかもね・・・屈辱だけど）[p]
+#Akiko
+(I see...) (If I want to emphasize my position, it might be better to say[r]something like this...[p][cm]
+It's humiliating, but...)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=20"  name="qp"  cmd="+="  op="t"  val="20"  val_2="undefined"  ]
@@ -377,29 +387,29 @@
 *a2c
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（家畜であるということを自ら認める・・・屈辱だけど効果はあるかも）[p]
+#Akiko
+(I see...) (Acknowledging that I am nothing more than livestock...[p][cm]
+It's humiliating, but it might be effective.)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=30"  name="qp"  cmd="+="  op="t"  val="30"  val_2="undefined"  ]
 *q3
 
 [tb_start_text mode=1 ]
-#亜紀子
-（最後は・・・ペニスをどうおねだりするかね）[p]
+#Akiko
+(Finally... how should I beg for a penis?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a3a"  text="勝野様の逞しいおチンポでかわいがってください"  x="382"  y="303"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a3b"  text="ご主人様のおチンポでみっちり教育してください"  x="388"  y="396"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene8.ks"  size="20"  target="*a3c"  text="早くおチンポをください。もう我慢できません"  x="401"  y="484"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a3a"  text="Please take care of me with your strong and cute penis, Mr Katsuno"  x="382"  y="303"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a3b"  text="Please educate me thoroughly with your penis, Master"  x="388"  y="396"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene8.ks"  size="20"  target="*a3c"  text="Please give me a penis quickly I can\'t hold back anymore"  x="401"  y="484"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *a3a
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（「俺様のチンポでかわいがってやる」とかよく言うし、そのままでいいかな）[p]
+#Akiko
+(I see...) (He often says things like I'll take care of you with my big dick.[p][cm]
+Should I just leave it as is?)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -407,9 +417,8 @@
 *a3b
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（奴隷らしい言い方ならこんな感じかしら・・・）[p]
+#Akiko
+(I see...) (I wonder if this is the kind of way a slave would say it...)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=2"  name="qp"  cmd="+="  op="t"  val="2"  val_2="undefined"  ]
@@ -417,9 +426,9 @@
 *a3c
 
 [tb_start_text mode=1 ]
-#亜紀子
-（そうね・・・）[p]
-（チンポをおねだりだから・・・欲しくてしょうがない感じを出すのが正解かも）[p]
+#Akiko
+(I see...) (Asking for a dick...[p][cm]
+Maybe it's best to show how desperately I want it)[p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=3"  name="qp"  cmd="+="  op="t"  val="3"  val_2="undefined"  ]
@@ -430,253 +439,274 @@
 [jump  storage="scene8.ks"  target="*132"  cond="f.qp==132"  ]
 [jump  storage="scene8.ks"  target="*213"  cond="f.qp==213"  ]
 [tb_start_text mode=1 ]
-#勝野
-「ダメだ。やり直し」[p]
-#亜紀子
-「くっ・・・」[p]
+#Katsuno
+No, that won't do. Let's start over.[p][cm]
+#Akiko
+*grunts*[p][cm]
 [_tb_end_text]
 
 [jump  storage="scene8.ks"  target="*q1"  ]
 *311
 
 [tb_start_text mode=1 ]
-#亜紀子
-「ドスケベな亜紀子を、勝野様のたくましいおチンポでいっぱいかわいがってくださいませっ・・・♥」[p]
-#勝野
-「ウハハハ、そんなに俺様のチンポが欲しいのか？」[p]
-#亜紀子
-「は、はい・・・っ♥」[p]
-#勝野
-「ククク、よくやるぜ。・・・まぁいい、その思い切った演技に免じて９０点やろう」[p]
+#Akiko
+Please take care of naughty Akiko with your strong dick, Katsuno-sama...[p][cm]
+♥[p][cm]
+#Katsuno
+Uhahaha, do you want my dick that badly?[p][cm]
+#Akiko
+Y-Yes...[p][cm]
+♥[p][cm]
+#Katsuno
+Hehehe, well done. ... Well, I'll give you a score of 90 for that bold[r]performance.[p][cm]
 [_tb_end_text]
 
 [jump  storage="scene8.ks"  target="*next"  ]
 *222
 
 [tb_start_text mode=1 ]
-#亜紀子
-「愚かで無能な下僕を、ご主人様のおチンポでみっちりと教育してくださいませっ！」[p]
-#勝野
-「ほぉ、これは文句のつけようがないな。性奴隷としては満点の回答だ」[p]
-「しかし創意工夫に欠けるので８５点ってとこだな」[p]
+#Akiko
+Please educate this foolish and incompetent servant thoroughly with your[r]master's dick![p][cm]
+#Katsuno
+Oh, this is flawless. It's a perfect response for a sex slave.[p][cm]
+However, it lacks creativity and ingenuity, so I would give it an 85.[p][cm]
 [_tb_end_text]
 
 [jump  storage="scene8.ks"  target="*next"  ]
 *132
 
 [tb_start_text mode=1 ]
-#亜紀子
-「くっ・・・さ、盛りのついた雌牛を・・・ご主人様の・・・お、おチンポで、みっちりと調教してくださいませ・・・っ」[p]
-#勝野
-「くくく、雌牛か。自らを家畜に貶めてまでチンポをねだる気分はどうだ？」[p]
-「よしよし、９２点やろう」[p]
+#Akiko
+Ah... P-Please, master... Use your...[p][cm]
+d-dick to thoroughly train this eager cow...[p][cm]
+#Katsuno
+Kukuku, a female cow, huh? How does it feel to degrade yourself to the point of[r]begging for a dick like a livestock?[p][cm]
+Alright, alright, let's give it a score of 92.[p][cm]
 [_tb_end_text]
 
 [jump  storage="scene8.ks"  target="*next"  ]
 *213
 
 [tb_start_text mode=1 ]
-#亜紀子
-（くっ・・・こんな最低のゲス男に・・・）[p]
-（体を洗わされて、足を舐めさせられて・・・おチンポのおねだりまでしなきゃいけないなんて・・・！）[p]
-（屈辱だわ・・・あぁっ♥）[p]
+#Akiko
+(Ugh... to such a despicable scumbag...)[p][cm]
+(Having my body washed, being made to lick his feet...[p][cm]
+and even having to beg for his dick...[p][cm]
+I can't believe I have to do all this!)[p][cm]
+(This is humiliating... Ahh♥)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「お、愚かでドスケベな亜紀子に・・・あぁっ♥早くっ勝野様のたくましいおチンポを・・・くださいませっ！も、もう我慢できませんーーーっ♥」[p]
-#勝野
-「ムハハハハハッ！本気でチンポをおねだりしやがった！」[p]
-「身も心も性奴隷になりきったようだな。１００点やるぜ！」[p]
+#Akiko
+Oh, to foolish and perverted Akiko...[p][cm]
+Ahh♥ Please, give me Katsuno-sama's strong dick quickly![p][cm]
+I...[p][cm]
+I can't hold back anymore♥[p][cm]
+#Katsuno
+Muhahahaha! You're seriously begging for a dick, huh?![p][cm]
+It seems like you've fully embraced being a sex slave, body and soul.[p][cm]
+I'll give you a perfect score of 100![p][cm]
 [_tb_end_text]
 
 *next
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「よし、合格だ」[p]
-「お待ちかねのチンポをくれてやるぞ。オラッ！」[p]
+#Katsuno
+Alright, you've passed. I'll give you the dick you've been eagerly waiting for.[p][cm]
+Here it is![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ！[p]
-#亜紀子
-「アッ・・・んんっ！」[p]
-#勝野
-「おいおい、まだ挿れただけだぞ。いい声出してるんじゃねえよ」[p]
+*Squelch![p][cm]
+*[p][cm]
+#Akiko
+Ahh... nnn![p][cm]
+#Katsuno
+Hey hey, I've only inserted it.[p][cm]
+Don't act like you're making such nice sounds.[p][cm]
 #
-ズプッズプッ[p]
-#亜紀子
-「ア・・・アンッ♥」[p]
-#勝野
-「やっぱりお前はバックで犯されるのが一番好きみたいだな、ククク」[p]
+*Squelch squelch*[p][cm]
+#Akiko
+Ah...[p][cm]
+ahh♥[p][cm]
+#Katsuno
+It seems like you still love being fucked from behind the most, hehehe.[p][cm]
 #
-ズプッ！ヌプッ！[p]
-#亜紀子
-「く・・・だれが・・・アァンッ♥」[p]
-（か・・・感じちゃう・・・っ）[p]
-#勝野
-「最初に犯したときからどんどんスケベになりやがって」[p]
+*Squelch! Nup!  *[p][cm]
+#Akiko
+Wh... who... ahh♥ (I... I'm starting to feel it...)[p][cm]
+#Katsuno
+You've become more and more perverted since I first violated you.[p][cm]
 #
-ズプッ！ズムッ！[p]
-#亜紀子
-「アンッ・・・ンンッ♥」[p]
-（たしかに・・・わたし・・・どんどん感じやすくなってる・・・）[p]
-#勝野
-「エリート看板キャスターさんがこんなにドスケベだったとは、視聴者が知ったら驚くぜ！」[p]
+*Squelch! Squirm!  *[p][cm]
+#Akiko
+Ahh... ahh♥ (Certainly... I...[p][cm]
+I'm becoming more and more sensitive...)[p][cm]
+#Katsuno
+If the viewers found out that the elite star caster is such a pervert, they[r]would be shocked![p][cm]
 #
-ズプッ！ヌチュッ！[p]
-#亜紀子
-「アンッ・・・ヤンッ♥」[p]
-#勝野
-「足舐めさせられたり、屈辱的なセリフ言わされたりして感じてたんだろう、このマゾ雌が！」[p]
+*Squelch! Nuchu!  *[p][cm]
+#Akiko
+Ahh...[p][cm]
+Yann♥[p][cm]
+#Katsuno
+You were feeling it when I made you lick my feet and said humiliating things,[r]you masochistic bitch![p][cm]
 #
-パンッパンッ[p]
-#亜紀子
-「だ、誰が・・・っ、感じて・・・アンッ♥」[p]
-（わたし・・・感じてなんか・・・）[p]
-#勝野
-「女の９５％はマゾ・・・お前自身が証明してるじゃねえか、オラッ！」[p]
+*Thump, thump*[p][cm]
+#Akiko
+W-Who... is feeling... Ahh♥ (I...[p][cm]
+am feeling something...)[p][cm]
+#Katsuno
+95% of women are masochists...[p][cm]
+You're proving it yourself, aren't you?![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！[p]
-#亜紀子
-「アヒッ・・・わ、わたしは・・・マゾなんかじゃ・・・アンッ♥」[p]
-（そんな・・・はず・・・無い・・・っ！）[p]
-#勝野
-「でけえ乳ブルンブルン揺らしやがって、オラッ！」[p]
+*Thump! Thump! Thump!  *[p][cm]
+#Akiko
+Ahh... I-I'm not... a masochist...[p][cm]
+Ahn♥ (That... can't be... true...!)[p][cm]
+#Katsuno
+You're shaking those huge tits, damn it![p][cm]
 #
-パンッ！パンッ！パンッ！[p]
-#亜紀子
-「アヒィッ！・・・ンンッ・・・ヤァーーーッ♥」[p]
-#勝野
-「もうイったのかよ、このドスケベが！」[p]
+*Thump! Thump! Thump!  *[p][cm]
+#Akiko
+Ahh... Nngh...   Yaaahhh♥[p][cm]
+#Katsuno
+You already came, you perverted slut![p][cm]
 #
-パンッ！パンッ！パンッ！[p]
-#亜紀子
-「アンッ！アンッ！やっ・・・ダメッ♥」[p]
-（なんでこんなに・・・気持ちいいの・・・っ！）[p]
-#勝野
-「おらっ、まだまだいくぞ！」[p]
+*Thump! Thump! Thump!  *[p][cm]
+#Akiko
+Ahh! Ahh! Yaa... Noo♥ (Why is it...[p][cm]
+so pleasurable...!)[p][cm]
+#Katsuno
+Here I go, I'm not done yet![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-5.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ！パンッ！パンッ！[p]
-#亜紀子
-「アンッ！アンッ！アンンッ♥」[p]
-（ダメェ・・・奥に当たって・・・！）[p]
-#勝野
-「どうだ、バックで子宮突かれると、どうしようもなくメスの気分になるだろうフヒヒ」[p]
+*Thump! Thump! Thump!  *[p][cm]
+#Akiko
+Ahh! Ahh! Ahhh♥ (No... It's hitting deep inside...!)[p][cm]
+#Katsuno
+How does it feel to have your uterus pounded from behind?[p][cm]
+You can't help but feel like a helpless female, huh?[p][cm]
+Fufufu[p][cm]
 #
-ズンッ！ズンッ！ズンッ！[p]
-#亜紀子
-「アヒッ！ンンッ・・・ァハンッ♥」[p]
-（ダメ・・・チンポに・・・負けちゃう・・・っ）[p]
-#勝野
-「おっと今日はまだ搾ってなかったな。ついでに搾ってやるか」[p]
+*Thump! Thump! Thump!  *[p][cm]
+#Akiko
+Ahh! Nnn... Ahan♥ (No... I'm losing to the dick...)[p][cm]
+#Katsuno
+Oh, I haven't milked you yet today.[p][cm]
+Might as well do it now.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-6.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ギュムッ[p]
-#亜紀子
-「アヒッ！？ダ、ダメェ・・・っ・・・オッパイだめぇっ♥」[p]
-#勝野
-「やっぱりパンパンに張ってるじゃねえか」[p]
-「乳が張ったら報告しろって言っただろ！」[p]
+*Squeeze*[p][cm]
+#Akiko
+Ahh!? N-No... Stop... My breasts...   nooo♥[p][cm]
+#Katsuno
+Your breasts are still so full and swollen, aren't they?[p][cm]
+I told you to report when your breasts are swollen![p][cm]
 #
-モミュッ！モミュッ！[p]
-#亜紀子
-「アヒッ！・・・も、申し訳ありませ・・・ンンーッ♥」[p]
-#勝野
-「手じゃ掴みきれないくらいでかいな。俺のザーメンたらふく飲んでまたでかくなったんじゃないのか？ククク」[p]
+*Squeeze! Squeeze!  *[p][cm]
+#Akiko
+Ahh!... I-I'm sorry...   Uhh♥[p][cm]
+#Katsuno
+Your breasts are so big that I can't grab them with just my hands.[p][cm]
+Did they get even bigger after drinking my semen to your heart's content?[p][cm]
+Hehehe.[p][cm]
 #
-モギュッ！モギュッ！[p]
-#亜紀子
-「アッ・・・そんな強く・・・揉まないでぇ・・・アヒィッ♥」[p]
-#勝野
-「おらっ、乳噴出してイっちまえ！」[p]
+*Squeeze! Squeeze!  *[p][cm]
+#Akiko
+Ahh... Don't squeeze so hard...   Ahii♥[p][cm]
+#Katsuno
+Ora, let your milk spray and cum![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-7.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ピュッ・・・ピューーーッ！[p]
-#亜紀子
-「アゥーーッ・・・お、おっぱい出ちゃう・・・っ♥」[p]
-#勝野
-「ワハハ、簡単に出るじゃねえか。これで自分で搾っても全然出ないってのは笑えるぜ」[p]
+*Squirt... Squeeaaak!  *[p][cm]
+#Akiko
+Ahhh... M-My breasts are leaking...  ♥[p][cm]
+#Katsuno
+Wahaha, it's so easy to make it come out.[p][cm]
+It's funny how you can't get any out even if you try to squeeze it yourself.[p][cm]
 #
-モギュッ　　ピューーッ！[p]
-モギュッ　　ピューーーーッ！[p]
-#亜紀子
-「アンッ・・・アンッ・・・アンーーッ♥」[p]
-#勝野
-「おい乳で感じてないでマ○コに集中しろ。そろそろ中に出してやるぞ」[p]
+*Squeeze... Splat! * *Squeeze...[p][cm]
+Splat![p][cm]
+*[p][cm]
+#Akiko
+Ahh... Ahh...   Ahhhh♥[p][cm]
+#Katsuno
+Hey, stop focusing on your breasts and concentrate on your pussy.[p][cm]
+I'm about to cum inside you.[p][cm]
 #
-パン！パン！パン！パンッ！[p]
-#亜紀子
-「アヒッ・・・な、中は・・・ダメェッ・・・アンンッ♥」[p]
-#勝野
-「ダメとか言いながらチンポをキュンキュン締め付けやがって！」[p]
-「お望みどおり俺のミルクを子宮にたっぷり飲ませてやるよ・・・！」[p]
+*Bang! Bang! Bang! Bang!  *[p][cm]
+#Akiko
+Ahh... N-No, inside... not there...   Ahnn♥[p][cm]
+#Katsuno
+You're tightening around my dick while saying it's no good![p][cm]
+As you wish, I'll make sure to pour plenty of my milk into your womb...![p][cm]
 #
-パンッパンッパンッパンッ！[p]
-#亜紀子
-「ンンーーーーッ！・・・っ・・・ィイーーーーッ♥」[p]
+*Thrust, thrust, thrust, thrust![p][cm]
+*[p][cm]
+#Akiko
+Nnnn... I-I'm...   cummingggg♥[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro117-8.jpg"  ]
 [tb_cg  id="117"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッ！ドピュピュッ！[p]
-#亜紀子
-「アァァァアッッ♥」[p]
-#勝野
-「うお・・・出る・・・っ！」[p]
+*Splat! Splat, splat!  *[p][cm]
+#Akiko
+Ahhhhh♥[p][cm]
+#Katsuno
+Ugh... I'm... coming...![p][cm]
 #
-ビュルビュルビュルッ！[p]
-#亜紀子
-「アァーーーンッ！！お、おなかに・・・出てる・・・っ♥」[p]
-#勝野
-「まだ・・・出るっ」[p]
+*Throb, throb, throb![p][cm]
+*[p][cm]
+#Akiko
+Ahhhhh!! It's coming out... inside my...[p][cm]
+stomach...[p][cm]
+♥[p][cm]
+#Katsuno
+Not yet... coming out...[p][cm]
 #
-ピュッ・・・ピュピュッ[p]
-#亜紀子
-「あぁ・・・ァハ・・・ンッ♥」[p]
-#勝野
-「ふう・・・出た出た」[p]
+*Pew...[p][cm]
+pew pew*[p][cm]
+#Akiko
+Ahh... Ahh...   Ahh♥[p][cm]
+#Katsuno
+Phew... I did it, I did it.[p][cm]
 #
-ヌポン・・・ッ[p]
-#亜紀子
-「アンッ・・・ハァ・・・ハァ・・・♥」[p]
-#勝野
-「逆にミルクを搾り取られちまったぜ・・・このドスケベ女め」[p]
-「おい、休んでないでチンポをしゃぶって綺麗にしろ」[p]
-#亜紀子
-「んっ・・・ハムッ」[p]
-「チュパ・・・レロレロレロ・・・♥」[p]
-「チュゥ・・・ンムッ・・・ゴクッ♥」[p]
-（出したばっかりで・・・ビクンビクンしてる・・・）[p]
-「チュムッ・・・レロレロレロ・・・ゴクンッ♥」[p]
-#勝野
-「今夜はまだまだかわいがってやるからな、ククク」[p]
-#亜紀子
-「チュプッ・・・チュポッ・・・♥」[p]
-（あぁ・・・このままじゃ・・・わたしどうなっちゃうの・・・）[p]
-（・・・・・・）[p]
+Nupon...![p][cm]
+#Akiko
+Ahh... Haa... Haa...  ♥[p][cm]
+#Katsuno
+She actually milked me instead...[p][cm]
+this perverted woman. Hey, instead of resting, suck my dick and clean it up.[p][cm]
+#Akiko
+Mmm... Hah... *Suck... lick lick lick...[p][cm]
+♥* *Chu... Mmm... Gulp♥* (Just came...[p][cm]
+twitching...) *Chu... Lick lick lick...   Gulp♥*[p][cm]
+#Katsuno
+I'll continue to pamper you tonight, hehehe.[p][cm]
+#Akiko
+*Suck... slurp... ♥* (Ah... If things continue like this...[p][cm]
+What will happen to me...) (..........)[p][cm]
 #
 
 [_tb_end_text]
@@ -689,88 +719,95 @@
 [playbgm  volume="70"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
 #
-次の日――[p]
+The next day--[p][cm]
 [_tb_end_text]
 
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-1.png"  width="601"  height="1503"  left="81"  top="12"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（はぁ・・・）[p]
-（昨夜は不覚だったわ・・・）[p]
-（何時間もみっちりと犯されて・・・快楽に負けてしまったわ）[p]
-（男嫌いだったわたしが・・・悔しいけど勝野にすっかり身体を開発されてしまって・・・）[p]
-（バイブとは違う本物の・・・やっぱり女は勝てないのかしら？）[p]
-（・・・でもセックスが気持ちいいのは生理的に仕方のないことよね）[p]
-（だからって勝野に心を許すのとは話が別だわ）[p]
-（あんな最低のゲス男、絶対に・・・）[p]
-（・・・おっと、そろそろニュースの本番ね）[p]
-（スタジオに移動しましょう）[p]
+#Akiko
+(Sigh...) (I was weak last night...)[p][cm]
+(I was violated for hours... and I succumbed to pleasure.)[p][cm]
+(Even though I used to hate men...[p][cm]
+It's frustrating, but Katsuno has completely developed my body...)[p][cm]
+(A real one, different from a vibrator...[p][cm]
+I wonder if women really can't win after all?)[p][cm]
+(... But it's only natural to find sex pleasurable, right?)[p][cm]
+(But that's a different story from trusting Katsuno with my heart.)[p][cm]
+(That despicable scumbag, definitely...)[p][cm]
+(... Oh, it's about time for the news broadcast.)[p][cm]
+(Let's move to the studio.)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro202.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「おい」[p]
+#Katsuno
+Hey[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-1.png"  width="597"  height="1433"  left="686"  top="-54"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#勝野
-「そろそろ本番か？」[p]
-#亜紀子
-「・・・そうよ」[p]
-#勝野
-「なんだよ、そっけないな。昨夜はあれだけ俺のチンポによがってたくせに」[p]
-#亜紀子
-「く・・・っ」[p]
-#勝野
-「なるほど、いじめて欲しくてわざと昼間は反抗的な態度を取ってるんだな。マゾだからなお前は」[p]
-#亜紀子
-「そんなわけないでしょ！わ、わたしはマゾなんかじゃないわ・・・！」[p]
-#勝野
-「いや、お前はマゾだよ。自分でも気付いてないかもしれないがな」[p]
-#亜紀子
-「勝手に決め付けないで・・・！」[p]
-#勝野
-「それじゃ試してやろうじゃないか。お前がマゾかどうか」[p]
-#亜紀子
-「た、試す・・？も、もうすぐ本番なのよ」[p]
-#勝野
-「その本番で・・・」[p]
+#Katsuno
+Is it about time for the main event?[p][cm]
+#Akiko
+... Yes.[p][cm]
+#Katsuno
+What's with the cold attitude?[p][cm]
+You were begging for my dick last night.[p][cm]
+#Akiko
+Ugh...[p][cm]
+#Katsuno
+I see, so you purposely act defiant during the day because you want to be[r]bullied.[p][cm]
+You're a masochist, aren't you?[p][cm]
+#Akiko
+That's not true! I-I'm not a masochist...![p][cm]
+#Katsuno
+No, you're a masochist. You might not even realize it yourself.[p][cm]
+#Akiko
+Don't jump to conclusions...![p][cm]
+#Katsuno
+Well then, let's put it to the test.[p][cm]
+Whether you're a masochist or not.[p][cm]
+#Akiko
+T-Test...? The main event is coming up soon.[p][cm]
+#Katsuno
+During that main event...[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="600"  effect="fadeOut"  ]
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-5.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「そ、そんなの無理よ・・・！出来るわけないわ！」[p]
-#勝野
-「出来る出来ないじゃない、やるんだよ。奴隷にノーは無いってこと忘れたか？」[p]
-「もしやらなかったらきつーいお仕置きだぞ。このお仕置きはマゾが喜ばないタイプのお仕置きだからな。ククク」[p]
+#Akiko
+Th-there's no way I can do that...![p][cm]
+It's impossible![p][cm]
+#Katsuno
+It's not about whether you can or can't, you're going to do it.[p][cm]
+Have you forgotten that there's no no for a slave?[p][cm]
+If you don't do it, you'll receive a severe punishment.[p][cm]
+This punishment is the type that even a masochist wouldn't enjoy.[p][cm]
+Hehehe.[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="00"  cross="false"  storage="chara/1/hiro258-1.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・っ」[p]
-#勝野
-「ほれ、そろそろ行かないと間に合わないぞ」[p]
-#亜紀子
-「あっ・・・」[p]
-#勝野
-「ちゃんとモニターで見てるからな」[p]
+#Akiko
+Ugh...[p][cm]
+#Katsuno
+Come on, we need to go soon or we won't make it in time.[p][cm]
+#Akiko
+Ah...[p][cm]
+#Katsuno
+I'm watching on the monitor, so make sure you do it properly.[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="勝野"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・」[p]
+#Akiko
+Ugh...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -785,88 +822,91 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ニュースプライムＺ、キャスターの千山亜紀子です」[p]
-「最初のニュースです。今日午後３時ごろ、Ｔ県Ｎ市で下校中の小学生がトラックの集団に突っ込む事故がありました」[p]
-「事故が起きたのは住宅街の一角で、小学生は法廷速度の時速６０ｋｍを超えるスピードでトラックの集団に突入したということです」[p]
-「この事故で小学生が軽症、トラック運転手に怪我人はありませんでした」[p]
-「トラック運転手の一人は『小学生がすごいスピードでこっちに突っ込んでくるのが見えて、避けようとしたが間に合わなかった』と証言しています」[p]
-「小学生は近くの病院に運ばれましたが、現在は自宅に戻っているということです」[p]
-（あぁ・・・どうしよう・・・）[p]
-「次のニュースです。訪日中のジョー・ダイベン米大統領の夫人シルさんが、神宮球場でプロ野球を観戦しました―――」[p]
-（やるしかないけど・・・でも・・・恥ずかしくて無理よ・・・）[p]
-「シル夫人は『球場の雰囲気がとてもよかった。傘を使った応援が印象的だった』と―――」[p]
-（あっ・・・バストショットになったわ・・・！今なら・・・）[p]
-「なお試合は９－１でホームのヤクルトが巨人を下しました―――」[p]
-（・・・え、えいっ！）[p]
+#Akiko
+This is Akiko Senzan, the caster for News Prime Z.[p][cm]
+This is the first news. Today around 3 p.[p][cm]
+m. , there was an accident where an elementary school student on their way home[r]was hit by a group of trucks in N City, T Prefecture.[p][cm]
+The accident occurred in a residential area, where an elementary school student[r]collided with a group of trucks traveling at a speed exceeding 60 km/h.[p][cm]
+In this accident, the elementary school student sustained minor injuries, and[r]there were no injuries to the truck driver.[p][cm]
+One of the truck drivers testified, I saw the elementary school student coming[r]at a tremendous speed towards me, and I tried to avoid it but couldn't make it[r]in time.[p][cm]
+The elementary school student was taken to a nearby hospital, but it is now[r]reported that they have returned home.[p][cm]
+(Ah... What should I do...) Next news.[p][cm]
+Mrs. Sil, the wife of President Joe Diven of the United States, watched a[r]professional baseball game at Jingu Stadium.[p][cm]
+(I have no choice but to do it...[p][cm]
+but... it's too embarrassing, I can't do it...)[p][cm]
+Mrs. Sil said, 'The atmosphere at the stadium was very good.[p][cm]
+The cheering with umbrellas was impressive' and-- (Ah...[p][cm]
+It became a bust shot...! Now, if I...)[p][cm]
+The game ended with a score of 9-1, and the home team Yakult defeated the[r]Giants.[p][cm]
+(... Eh, ei!)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-4.jpg"  ]
 [tb_start_text mode=1 ]
-#カメラマン
-（あっ！？脚が・・・！）[p]
-#ディレクター
-（おっ！？これはすごいぞ！）[p]
-#谷田
-（千山さん・・・！？）[p]
-#ディレクター
-（おい、カメラ！引いて！）[p]
-#カメラマン
-（わかってます！）[p]
-#亜紀子
-「オレンジ社はＹphoneの新作を秋に発売することを発表しました―――」[p]
-（あっ！？カメラが・・・！）[p]
+#Photographer
+(Ah!? Legs...!)[p][cm]
+#Director
+(Oh!? This is amazing!)[p][cm]
+#Tanida
+(Senyama-san...!?)[p][cm]
+#Director
+(Hey, camera! Zoom out!)[p][cm]
+#Photographer
+(I understand!)[p][cm]
+#Akiko
+Orange Corporation has announced that they will release a new model of Yphone in[r]autumn.[p][cm]
+(Ah!? The camera...!)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro101-5.jpg"  ]
 [tb_start_text mode=1 ]
-#ノブオ
-「千山アナ、今日のパンティはピンクか・・・おおっ！？」[p]
-「脚を開いたぞ！パンティが丸見えだ！大胆すぎるぜ！うひょーー！」[p]
-「これって局の命令なのかな・・・？それとも露出願望が・・・！？」[p]
-「とにかくエロすぎるぞ！」[p]
-・・・[p]
-#キミヒコ
-「なんてことだ・・・！俺の亜紀子が・・・！」[p]
-「局に無理やりやらされているんだな・・・かわいそうな亜紀子・・・ハァハァ」[p]
-「・・・いや、それとも俺に対するメッセージ・・・なのか！？」[p]
-「だとしたら・・・いやしかし・・・ハァハァハァ」[p]
-・・・[p]
-#子供
-「お母さん、あの人パンツ丸見えだよ」[p]
-#ママ
-「まぁ！もう、なにしてるの全く！破廉恥だわ！」[p]
-「ニュースをなんだと思ってるのかしら！ねえあなた、チャンネル変えましょうよ」[p]
-#パパ
-「うむ・・・いや、しかしニュースが途中だから・・・」[p]
-#ママ
-「他のチャンネルでもニュースやってるじゃない」[p]
-「なのにいつもこのチャンネルばっかり・・・あなたああいういやらしい女が好きなのね！」[p]
-#パパ
-「な、何を言ってるんだ。ボクはただニュースをだね・・・」[p]
-#子供
-「このハンバーグおいしー」[p]
-・・・[p]
+#Nobuo
+Senyama-san, are today's panties pink...[p][cm]
+Oh!?! I spread my legs! My panties are completely visible![p][cm]
+It's so bold! Woo-hoo! Is this an order from the station...?[p][cm]
+Or is it an exhibitionist desire...!?[p][cm]
+This is way too erotic! ・・・[p][cm]
+#Kimihiko
+What is this...! My Akiko...! Akiko is being forced to do it at the station...[p][cm]
+Poor Akiko... *panting* ... No, could it be a message...[p][cm]
+to me!? ... If that's the case...[p][cm]
+No, but... *panting* *panting* *panting* ・・・[p][cm]
+#Child
+Mom, that person's panties are completely visible.[p][cm]
+#Mama
+My goodness! What are you doing?[p][cm]
+It's so indecent! What do you think this news is?![p][cm]
+Hey, why don't we change the channel?[p][cm]
+#Papa
+Hmm... No, but the news is still on...[p][cm]
+#Mama
+They're also showing the news on other channels, you know.[p][cm]
+And yet, you always watch this channel...[p][cm]
+Do you like those kind of lewd women?[p][cm]
+#Papa
+W-What are you saying? I'm just watching the news...[p][cm]
+#Child
+This hamburger is delicious! ・・・[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-4.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「双子の姉妹が同じ日に双子を産むという珍しいおめでたニュースが届きました」[p]
-（あぁ・・・見られてる・・・）[p]
-「アメリカのメーン州に住むエリザベス・モリスさんとキャサリン・モリスさんは一卵性の双子姉妹ですが、現地時間２２日のほぼ同時刻に出産を迎えました」[p]
-（でも今閉じたら・・・このまま何もないふりをして読み続けるしかないわ）[p]
-「産まれてきたのはなんとどちらも双子、それも二組とも一卵性の男の子の双子でした」[p]
-（あっ、谷田君・・・そんな食いつくように見ないで・・・）[p]
-「実はこの姉妹の夫も一卵性の双子。２０１８年の同じ日に兄のロビンさんが妹のキャサリンさん、弟のブルックさんが姉のエリザベスさんと結婚しました」[p]
-（テレビの前で何万人もの男の人があんな目で見てるんだわ・・・）[p]
-「双子同士の夫婦が同日に双子を産むという非常に珍しいニュースにアメリカでも大きな話題になっているようです」[p]
-（あぁ・・・恥ずかしすぎる・・・あぁ♥）[p]
-「姉のエリザベスさんは『予定日が同じだったので同じ日に生まれるとは思っていたが、まさか両方双子とは思いませんでした。とても驚いています。４人とも元気に育って欲しい』と語っています」[p]
-「次のニュースです―――」[p]
+#Akiko
+I received news of a rare and joyful event where twin sisters gave birth to[r]twins on the same day.[p][cm]
+(Ah... I'm being watched...) Elizabeth Morris and Catherine Morris, identical[r]twin sisters living in the state of Maine in the United States, gave birth at[r]nearly the same time on the 22nd local time.[p][cm]
+(But if I close it now... I'll have no choice but to pretend nothing happened[r]and keep reading.)[p][cm]
+Both of them gave birth to twins, and what's more, both sets were identical twin[r]boys.[p][cm]
+(Ah, Tanida-kun... Don't stare at me like that...)[p][cm]
+Interestingly, the husbands of these sisters are also identical twins.[p][cm]
+On the same day in 2018, Robin married Catherine, and Brooke married Elizabeth,[r]their respective siblings.[p][cm]
+(There are tens of thousands of men watching me with those eyes in front of the[r]TV...)[p][cm]
+It seems that the news of twin couples giving birth to twins on the same day has[r]become a big topic in the United States as well.[p][cm]
+(Ah... It's so embarrassing...[p][cm]
+Ah♥) My sister Elizabeth said, 'Since our due dates were the same, I thought[r]they would be born on the same day, but I never expected both of them to be[r]twins.[p][cm]
+I'm very surprised. I hope all four of them grow up healthy.[p][cm]
+' The next news is...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
@@ -878,18 +918,19 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="30"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「ククク、どうだ？全国にパンツを見せびらかした気分は」[p]
-#亜紀子
-「く・・・最悪よ・・・っ」[p]
-#勝野
-「ウソつけ。興奮してたんだろうが」[p]
-#亜紀子
-「こ、興奮なんて・・・してないわっ」[p]
-#勝野
-「口ではなんとでも言えるからな。調べてやるから全裸になってケツを突き出せ」[p]
-#亜紀子
-「・・・っ！」[p]
+#Katsuno
+Hehehe, how does it feel to show off your panties to the whole country?[p][cm]
+#Akiko
+Ugh... This is the worst...[p][cm]
+#Katsuno
+Don't lie. You were excited, weren't you?[p][cm]
+#Akiko
+I-I wasn't... excited or anything...[p][cm]
+#Katsuno
+You can say anything with your mouth.[p][cm]
+I'll investigate, so get naked and stick your ass out.[p][cm]
+#Akiko
+...![p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -897,60 +938,70 @@
 [bg  time="1000"  method="crossfade"  storage="hiro104-7.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#勝野
-「おいっビチャビチャじゃねえか！ギャハハ！」[p]
-#亜紀子
-「あぁ・・・そんな・・・！」[p]
-#勝野
-「腿まで垂れてきてるじゃねえか。なにが感じてないだよ、自分でも濡れてるの判ってただろうが！」[p]
-#亜紀子
-「くっ・・・なんで・・・っ」[p]
-#勝野
-「なんでってお前がマゾだからだよ」[p]
-「下着をカメラに晒して興奮する、マゾの変態だからだよっ！」[p]
+#Katsuno
+Hey, you're all wet and messy![p][cm]
+Gyahaha![p][cm]
+#Akiko
+Ah... not like that...![p][cm]
+#Katsuno
+Your thighs are all wet. Don't tell me you're not feeling anything.[p][cm]
+You must have noticed that you're wet yourself![p][cm]
+#Akiko
+Ugh... why...[p][cm]
+#Katsuno
+Why? Because you're a masochist.[p][cm]
+Because you're a perverted masochist who gets excited by exposing your underwear[r]to the camera![p][cm]
 #
-パン！[p]
-#亜紀子
-「アンッ！」[p]
-#勝野
-「ケツ叩かれるのも好きなんだろう！ホレッ！」[p]
+Pan![p][cm]
+#Akiko
+Ahh![p][cm]
+#Katsuno
+You must like getting your butt spanked too, right?[p][cm]
+Here![p][cm]
 #
-パンッ！パンッ！[p]
-#亜紀子
-「アンッ！アヒッ♥」[p]
+*Spank! Spank!  *[p][cm]
+#Akiko
+Ahh![p][cm]
+Ahh♥[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro104-5.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「オラッ、マゾの変態だって認めろ！」[p]
+#Katsuno
+Admit it, you're a perverted masochist![p][cm]
 #
-パンッ！パンッ！[p]
-#亜紀子
-「アゥッ！イヤッ！アンンッ♥」[p]
-#勝野
-「自分で認めるまでぶつぞ！それとももっと叩いてほしくて意地張ってるのか？」[p]
+*Spank! Spank!  *[p][cm]
+#Akiko
+Ahh! No!   Ahh♥[p][cm]
+#Katsuno
+I'll keep spanking you until you admit it![p][cm]
+Or are you stubbornly resisting because you want me to spank you more?[p][cm]
 #
-パンッ！パンッ！パンッ！[p]
-#亜紀子
-「アンッ・・・痛い・・・ァハンッ♥」[p]
-（あぁ・・・なんでお尻叩かれてアソコがキュンてなるの・・・っ）[p]
-#勝野
-「ほれっ、わたしはマゾの変態ですって言っちまえ！」[p]
+*Spank! Spank! Spank!  *[p][cm]
+#Akiko
+Ahh... it hurts... Ahhn♥ (Ahh...[p][cm]
+why does my crotch feel tingly when my butt gets spanked...)[p][cm]
+#Katsuno
+There, admit it! Say that I'm a perverted masochist![p][cm]
 #
-ズポッ！[p]
-#亜紀子
-「アヒィッ！お、お尻に指入れないでぇ・・・っ♥！い、言います・・・っ・・・言いますから・・・っ」[p]
-「わ、わたしは・・・アンッ！ま、マゾの・・・変態です・・・っ！アンッ♥」[p]
-#勝野
-「オマ○コびちょびちょにしてすいませんって言え！」[p]
+*Squelch![p][cm]
+*[p][cm]
+#Akiko
+Ahh! D-Don't put your finger in my butt...[p][cm]
+♥! I-I'll say it... I'll say it, so...[p][cm]
+I-I'm... Ahh! I'm a... masochist...[p][cm]
+pervert...![p][cm]
+Ahh♥[p][cm]
+#Katsuno
+Say I'm sorry for making your pussy all wet![p][cm]
 #
-ズプッ！ズプッ！[p]
-#亜紀子
-「アヒッ！お、オ○コを・・・びちょびちょにして・・・ンッ、すいませんーーっ！アヒッ♥」[p]
-#勝野
-「よーし、ちゃんと言えたご褒美にチンポを入れてやろう」[p]
+*Squelch! Squelch!  *[p][cm]
+#Akiko
+Ahh! Y-You're making my pussy...[p][cm]
+all wet... Ngh, I'm sorry!   Ahh♥[p][cm]
+#Katsuno
+Alright, as a reward for saying it properly, I'll put my dick inside you.[p][cm]
 
 [_tb_end_text]
 
@@ -959,121 +1010,124 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ[p]
-#亜紀子
-「アァンッ！」[p]
-#勝野
-「おらっこのドスケベ女。これが欲しかったんだろうが」[p]
+*Squelch![p][cm]
+*[p][cm]
+#Akiko
+Ahh![p][cm]
+#Katsuno
+You naughty girl. This is what you wanted, right?[p][cm]
 #
-グチュッ！グチュッ！[p]
-#亜紀子
-「アッ・・・ンンッ・・・アンッ♥」[p]
-#勝野
-「テレビ見てる男はみんなお前を頭の中で犯してるんだぜっ」[p]
+*Mwah! Mwah!  *[p][cm]
+#Akiko
+Ahh... Unn...   Ahn♥[p][cm]
+#Katsuno
+Every man watching TV is fantasizing about fucking you in their heads.[p][cm]
 #
-ヌプッ！ヌプッ！[p]
-#亜紀子
-「アンッ・・・い、イヤァ・・・っ♥」[p]
-#勝野
-「ディレクターとかカメラマンとかＡＤもみんなお前をスケベな目で見てるんだ」[p]
-パン！パン！[p]
-#亜紀子
-「アァッ・・・アフゥッ・・・そ、そんなァ・・・アンっ♥」[p]
-#勝野
-「もう今のお前は知的なニュースキャスターじゃなく、みんなのオナペットなんだよ。どうだ、嬉しいか？」[p]
+*Squelch! Squelch!  *[p][cm]
+#Akiko
+Ahh... No... Yesss...   ♥[p][cm]
+#Katsuno
+The director, the cameraman, and even the AD are all looking at you with[r]perverted eyes.[p][cm]
+*Bang! Bang!  *[p][cm]
+#Akiko
+Ahh... Ahh... Like that...   Ahn♥[p][cm]
+#Katsuno
+You're no longer an intellectual news caster, you're everyone's masturbation pet[r]now.[p][cm]
+How does that make you feel?[p][cm]
 #
-パンッ！パンッ！[p]
-#亜紀子
-「アヒッ！や・・・やりたくて・・・ンッ♥やってるわけじゃ・・・アンッ♥」[p]
-#勝野
-「ウソつけ！お前はなんだ？言ってみろ！」[p]
+*Slap! Slap!  *[p][cm]
+#Akiko
+Ahh... I... I want to... Ahn♥ It's not like I'm doing it willingly...   Ahn♥[p][cm]
+#Katsuno
+Don't lie! What are you? Say it![p][cm]
 #
-パンッ！パンッ！[p]
-#亜紀子
-「わ・・・わたしは・・・アヒッ♥・・・ニュース・・・キャスター・・・ンッ♥」[p]
-#勝野
-「違うだろ！じゃあここで止めてもいいのか？」[p]
-#亜紀子
-「アッ・・・そんなァ・・・や、やめちゃ・・・っ♥」[p]
-#勝野
-「じゃあ正直に言ってみろ。お前はなんだ！？」[p]
-#亜紀子
-「アハァ・・・わ、わたしは・・・」[p]
-（ダメ・・・言っちゃダメ・・・っ）[p]
-「ま・・・ドスケベな・・・マゾの変態ですぅ・・・っ♥」[p]
-（あぁ・・・言っちゃった・・・）[p]
-#勝野
-「よし、それを忘れるなよ！」[p]
+*Smack! Smack!  *[p][cm]
+#Akiko
+I... I'm... Ahh♥... a news... caster...   Ungh♥[p][cm]
+#Katsuno
+You're wrong! So, is it okay to stop here?[p][cm]
+#Akiko
+Ahh... Like that... S-Stop it...   ♥[p][cm]
+#Katsuno
+Then, be honest and say it. What are you!?[p][cm]
+#Akiko
+Ahh... I... I am... (No... I can't say it...)[p][cm]
+... I-I'm... a perverted... masochistic slut...[p][cm]
+♥ (Ahh... I said it...)[p][cm]
+#Katsuno
+Alright, don't forget that![p][cm]
 #
-パンッ！パンッ！パンッ！[p]
-#亜紀子
-「アヒィーッ！アンッ♥アンッ♥アンーッ♥」[p]
-#勝野
-「おらっ、中に出してやるぞ、ドスケベ女！」[p]
+*Smack! Smack! Smack!  *[p][cm]
+#Akiko
+Ahh![p][cm]
+Ahn♥ Ahn♥ Ahnn♥[p][cm]
+#Katsuno
+I'm gonna cum inside you, you horny woman![p][cm]
 #
-パンッ！パンッ！パンッ！[p]
-#亜紀子
-「アひィンッ♥な、中は・・・ダメッ・・・アンッ♥」[p]
+*Slap! Slap! Slap!  *[p][cm]
+#Akiko
+Ahh... I-It's... no good... inside...   Ahn♥[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro113-6.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ドピュドピュドピュッ！[p]
-#亜紀子
-「アァーーーーッ！ダメェーーーーっ♥」[p]
-#勝野
-「う・・・しまる・・・っ」[p]
+*Squirt! Squirt! Squirt!  *[p][cm]
+#Akiko
+Ahhhhh![p][cm]
+Noooo♥[p][cm]
+#Katsuno
+Ugh... damn it...[p][cm]
 #
-ドピュッ・・・ビュルビュルッ！[p]
-#亜紀子
-「アッ・・・ンンーッ♥」[p]
-#勝野
-「ダメとか言いながら・・・マ○コは最後の一滴まで搾りとろうとしてるじゃねえか」[p]
-「子宮が精液を飲んでるのが判るか？」[p]
-#亜紀子
-「アァ・・・アフゥ・・・っ♥」[p]
-（あぁ・・・奥に・・・いっぱい・・・）[p]
-#勝野
-「ふう・・・出た出た」[p]
+*Dopyu... Byurubyuru!  *[p][cm]
+#Akiko
+Ahh...[p][cm]
+Uhhhh♥[p][cm]
+#Katsuno
+Even though you say no... your pussy is trying to squeeze out every last drop.[p][cm]
+Can you tell that your womb is drinking up the semen?[p][cm]
+#Akiko
+Ahh... Ahh... ♥ Ahh... Deep inside...[p][cm]
+So full...[p][cm]
+#Katsuno
+Phew... I did it, I did it.[p][cm]
 #
-ヌポンッ[p]
-#亜紀子
-「ハァ・・・ハァ・・・・」[p]
-#勝野
-「ほれ」[p]
+*Squish*[p][cm]
+#Akiko
+Haa... haa...[p][cm]
+#Katsuno
+Here.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro112-3.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンッ・・・レロッレロッ・・・♥」[p]
-#勝野
-「ククク、いちいち言わなくても掃除フェラするようになったな」[p]
-「美味そうに舐めやがって」[p]
-#亜紀子
-「くっ・・・レロレロ・・・チュバッ♥」[p]
-#勝野
-「やっぱりニュース読み終わってすぐの女子アナに局内で中出しセックスするのは最高だな」[p]
-「お前も局内の方が興奮するんじゃないのか？なにせ変態だからな」[p]
-#亜紀子
-「レロッ・・・チュプッ・・・ゴクッ♥・・・そ、そんなこと・・・」[p]
-#勝野
-「ほれ、休むな」[p]
-#亜紀子
-「ンッ・・・レロレロ・・・チュゥ♥」[p]
-#勝野
-「お前にはもっとカメラの前で身体を張ってもらうからな」[p]
-「俺の持ってる深夜番組でも色々お前を使った企画を考えてるところだ」[p]
-#亜紀子
-「チュバッ・・・レロレロレロッ♥」[p]
-（そんな・・・）[p]
-（これ以上恥ずかしいことをテレビでさせられたら・・・どうなってしまうの）[p]
-#勝野
-「ククク、楽しみにしておけよ」[p]
+#Akiko
+Nn... Licking... Licking...   ♥[p][cm]
+#Katsuno
+Hehehe, you've become so good at cleaning me up with a blowjob without me even[r]having to ask.[p][cm]
+You're licking it so deliciously.[p][cm]
+#Akiko
+Mmm... Lick... Lick...   Suck ♥[p][cm]
+#Katsuno
+Having sex with a female announcer right after she finishes reading the news is[r]the best.[p][cm]
+Don't you get excited by being inside the station too?[p][cm]
+After all, you're a pervert.[p][cm]
+#Akiko
+Lick... Suck... Swallow ♥... Th-there's no way...[p][cm]
+#Katsuno
+Hey, don't rest.[p][cm]
+#Akiko
+Mmm... Lick... Lick...   Kiss ♥[p][cm]
+#Katsuno
+I'm going to make you work harder in front of the camera.[p][cm]
+I'm actually thinking of various ideas to use you in the late-night program I[r]have.[p][cm]
+#Akiko
+Chubaa... Lick, lick, lick ♥ (Is that so...)[p][cm]
+(What will happen if I'm made to do even more embarrassing things on TV...)[p][cm]
+#Katsuno
+Hehehe, look forward to it.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

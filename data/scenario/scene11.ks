@@ -9,183 +9,209 @@
 [tb_show_message_window  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#ディレクター
-「本番５秒前！４！３！・・・・・・」[p]
+#Director
+5 seconds until the real thing![p][cm]
+4! 3! ...[p][cm]
 [_tb_end_text]
 
 [playbgm  volume="30"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「ウメちゃんのディープな話～～～！」[p]
-「・・・さっ、今週も始まりました。ゲストの皆さんよろしくお願いします」[p]
-#若手芸人
-「よろしくお願いします！」[p]
-#アイドル
-「よろしくお願いしまーす」[p]
-#梅田
-「さて、千山ちゃん、今週のテーマはなんですか？」[p]
+#Umeda
+Ume-chan's deep story~~~! ... And so, another week has begun.[p][cm]
+To all our guests, thank you for joining us.[p][cm]
+#Young comedian
+Nice to meet you![p][cm]
+#Idol
+Nice to meet you![p][cm]
+#Umeda
+So, Chiyama-chan, what is this week's theme?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「はい、あの・・・今週のテーマを発表する前にですね・・・わたくし千山から一つ良いでしょうか・・・？」[p]
-#梅田
-「ん？あなたから？なんですか？」[p]
-#亜紀子
-「はい・・・あのですね・・・前回わたくし、その・・・梅田さんにお尻を触られまして・・・」[p]
-#梅田
-「ちょ・・・あのことかいな。もう謝ったやん。許してよぉー」[p]
-#亜紀子
-「あっ、いえ、そうではなくて・・・その・・・それで私がカッとなって梅田さんに・・・ビンタをしてしまいまして・・・」[p]
-#梅田
-「あーされたされた。結構きつかったで、カカカカ」[p]
-#若手芸人
-「え！梅田さんにビンタしたんですか！？すごいアナウンサーさんやな！」[p]
-#アイドル
-「えーーーーｗ」[p]
-#亜紀子
-「そ、それで・・・あの・・・そのことを梅田さんに謝らないといけないと思いまして・・・」[p]
-#梅田
-「えっ？なんでぇな。ええよええよ俺が悪いんやし」[p]
+#Akiko
+Um, before announcing this week's theme...[p][cm]
+may I say something, Chiyama-san?[p][cm]
+#Umeda
+Hm? From you? What is it?[p][cm]
+#Akiko
+Um... well, you see... last time, I, um...[p][cm]
+Umeda-san touched my butt...[p][cm]
+#Umeda
+Huh... Are you talking about that?[p][cm]
+I already apologized. Please forgive me.[p][cm]
+#Akiko
+Ah, no, not that... um... well, you see, I got angry and ended up slapping[r]Umeda-san...[p][cm]
+#Umeda
+Ah, I got slapped, I got slapped.[p][cm]
+It was quite intense, ka-ka-ka-ka.[p][cm]
+#Young comedian
+Eh! You slapped Umeda-san!? You're an amazing announcer![p][cm]
+#Idol
+Eeeeeh?[p][cm]
+LOL[p][cm]
+#Akiko
+Um, well... I thought I should apologize to Umeda-san about that...[p][cm]
+#Umeda
+Huh? Why? It's fine, it's fine.[p][cm]
+It was my fault anyway.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro118-0.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「いえっ・・・私が間違ってました・・・っ！」[p]
-#若手芸人
-「あっ、えっ！？」[p]
-#アイドル
-「エーー？エーーーッ！？」[p]
+#Akiko
+No... I was the one who was wrong...![p][cm]
+#Young comedian
+Ah, eh!?[p][cm]
+#Idol
+Eh!? Ehhhh!?[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro118-1.jpg"  ]
 [playbgm  volume="20"  time="1000"  loop="true"  storage="烈火翔ける.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「梅田さん、本当に申し訳ありませんでしたっ！！」[p]
-#梅田
-「オイオイオイ、ちょ、やめてーや！ちょっとぉー！」[p]
-#ディレクター
-（おい、どういうことだ！？こんなの台本に無いぞ！）[p]
-#勝野
-（いいから続けさせろ！）[p]
-#亜紀子
-「う、梅田さんがバラエティに慣れてない私の緊張をほぐそうとして、気を利かせてくれたにもかかわらず、それに気づかない愚か者でした！」[p]
-#梅田
-「ちょっとちょっと！なんか俺が悪モンみたいになるやーん！やめてってー！」[p]
-#亜紀子
-「心のどこかで自分はキャスターだからとお高くとまってバラエティを下に見ていたんだと思います。本当に申し訳ありませんでした！」[p]
-#梅田
-「ええてええて、全然怒ってへんから！立って立って！」[p]
+#Akiko
+Umeda-san, I'm really sorry!![p][cm]
+#Umeda
+Hey hey hey, w-wait, stop it! Hold on![p][cm]
+#Director
+(Hey, what's going on!? This isn't in the script!)[p][cm]
+#Katsuno
+(Just continue with it!)[p][cm]
+#Akiko
+Even though Umeda-san was trying to ease my nervousness because I'm not used to[r]variety shows, I was a fool who didn't notice that![p][cm]
+#Umeda
+Hey hey hey! Wait a minute! I don't want to be portrayed as the bad guy![p][cm]
+Stop it![p][cm]
+#Akiko
+Deep down in my heart, I think I looked down on variety shows because I saw[r]myself as a news anchor.[p][cm]
+I'm truly sorry![p][cm]
+#Umeda
+Oh, no no, I'm not angry at all![p][cm]
+Stand up, stand up![p][cm]
 #
-実は梅田は前もってこのことを勝野から聞いて知っている[p]
-というか勝野と梅田で企んで亜紀子にこの土下座の指示を出しているのだ[p]
-しかし梅田は自分の好感度を下げないようにひたすら慌てて恐縮する演技をしている[p]
-#亜紀子
-「前回の無礼を許していただけますか？」[p]
-#梅田
-「許す許す！だから立って立って！」[p]
-#亜紀子
-「ありがとうございますっ！」[p]
+Actually, Umeda already knew about this from Katsuno in advance.[p][cm]
+In fact, Katsuno and Umeda conspired together and instructed Akiko to make this[r]apology.[p][cm]
+However, Umeda is desperately acting flustered in order to not lower his[r]likability.[p][cm]
+#Akiko
+Can you forgive me for my previous rudeness?[p][cm]
+#Umeda
+I forgive you, I forgive you! So stand up, stand up![p][cm]
+#Akiko
+Thank you very much![p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro120-1.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「いや、俺もいきなりお尻触ったの悪かったんやしさ。そない謝らんでもええがな。おあいこやんおあいこ」[p]
-#亜紀子
-「寛大なお言葉ありがとうございます！もう二度と嫌な顔しませんので、これからは好きなだけセクハラしてください」[p]
-#梅田
-「セクハラて、人聞き悪いがな。スキンシップやスキンシップ、な？」[p]
-#亜紀子
-「あ、はいっ！すいません、スキンシップです。どんどんスキンシップしてください！」[p]
-#梅田
-「そうそう、緊張をほぐしてあげようと思ってやってるんやから。どや、今日は緊張してへんか？」[p]
+#Umeda
+Nah, it was my bad for suddenly touching your butt.[p][cm]
+You don't have to apologize like that.[p][cm]
+Let's call it even, let's call it even.[p][cm]
+#Akiko
+Thank you for your generous words![p][cm]
+I promise I won't make any unpleasant faces anymore, so please feel free to[r]sexually harass me as much as you like.[p][cm]
+#Umeda
+Sexual harassment sounds bad, doesn't it?[p][cm]
+Let's just call it skinship, shall we?[p][cm]
+#Akiko
+Oh, yes! I'm sorry, it's just skinship.[p][cm]
+Please feel free to engage in more skinship with me![p][cm]
+#Umeda
+That's right, I'm doing this to help you relax.[p][cm]
+So, are you feeling nervous today?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-5.jpg"  ]
 [tb_start_text mode=1 ]
 #
-サワサワサワ[p]
-#亜紀子
-「アンッ・・・は、はい、ちょっと緊張してます」[p]
-#梅田
-「そらあかん、リラックスしいや。ほれ」[p]
+Sawasawa sawa[p][cm]
+#Akiko
+Umm... Y-yes, I'm feeling a bit nervous.[p][cm]
+#Umeda
+No, no, relax. Look.[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「アッ・・・はい、おかげさまでだいぶ緊張がほぐれてきました・・・ンッ♥」[p]
-#若手芸人
-「うわぁ、いいなー！ボクもスキンシップしたいなぁー！」[p]
-#梅田
-「アホ、これは司会者の特権・・・いや仕事やないか」[p]
-「アシスタントの子にも気を遣ってあげる。これが良い司会者や、なっ？」[p]
+*Groping, groping, groping*[p][cm]
+#Akiko
+Ah... Yes, thanks to you, I'm starting to relax a lot...   Mmm♥[p][cm]
+#Young comedian
+Wow, that's great! I want to engage in skinship too![p][cm]
+#Umeda
+Idiot, this is the privilege of the host...[p][cm]
+No, it's part of the job. I'll also take care of the assistant.[p][cm]
+That's what a good host does, right?[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「は、はい・・・ンッ♥あ、ありがとうございます」[p]
-#梅田
-「ほな、そろそろ今日のテーマいきましょか」[p]
-#亜紀子
-「あ、はい、今日のテーマは・・・ンッ！？」[p]
+*Squeeze, squeeze, squeeze*[p][cm]
+#Akiko
+Y-Yes... Mmm♥ T-Thank you very much.[p][cm]
+#Umeda
+Well then, shall we go with today's theme?[p][cm]
+#Akiko
+Ah, yes, today's theme is... Huh!?[p][cm]
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-97.jpg"  width="388"  height="411"  x="0"  y="307"  _clickable_img=""  ]
 [tb_start_text mode=1 ]
-#梅田
-「どうした？しっかりしいや。まだ緊張してんのか？」[p]
+#Umeda
+What's wrong? Pull yourself together.[p][cm]
+Are you still nervous?[p][cm]
 #
-グイッ[p]
-#亜紀子
-「あっ！？す、すいません・・・今日のテーマはこちら・・・『無乳』です」[p]
-（やっ・・・パンティを・・・）[p]
-#梅田
-「無乳？なにそれ？」[p]
+*Squeeze*[p][cm]
+#Akiko
+Ah!? S-Sorry... Today's theme is...[p][cm]
+'Flat-chested'. (Y-... My panties...)[p][cm]
+#Umeda
+Flat-chested? What's that?[p][cm]
 #
-ズプッ・・・クチュッ・・・[p]
-#亜紀子
-「アンッ♥・・・えー、胸の大きい女性を・・・ンッ♥・・・よ、よく「巨乳」って言いますよね」[p]
-（イヤァ・・・指を・・・入れないで・・・っ）[p]
-#梅田
-「言うよ。ボインちゃんやろ」[p]
+*Squeeze... Smack...  *[p][cm]
+#Akiko
+Ahh... umm, women with big breasts...[p][cm]
+Ahh... they often say 'big boobs', right?[p][cm]
+(N-No... don't... put your fingers inside...)[p][cm]
+#Umeda
+I'll say it. Boing-chan, right?[p][cm]
 #
-ニュプッ・・・クニュッ・・・[p]
-#若手芸人
-「それはちょっと古いっす」[p]
-#亜紀子
-「ンンッ・・・♥そ、その逆でおっぱいの小さな女性は・・・ハァッ・・・「貧乳」ってよく言われますよね」[p]
-（あぁ・・・カメラで撮られてるのに・・・アソコに指入れられてる・・・）[p]
-#梅田
-「あー言う言う。貧乳な。キミなんかそうやん」[p]
-#アイドル
-「ヒドーーーーイ！私はちゃんとありますー！」[p]
+*Squeeze...[p][cm]
+*[p][cm]
+#Young comedian
+That's a bit outdated.[p][cm]
+#Akiko
+Nn... ♥ Umm, on the contrary, women with small breasts...[p][cm]
+Haa... are often called 'flat-chested', right?[p][cm]
+(Ahh... even though I'm being filmed...[p][cm]
+fingers are being inserted into my private parts...)[p][cm]
+#Umeda
+Ah, I see. Flat-chested, huh? That's what you are.[p][cm]
+#Idol
+Horrible! I definitely have them![p][cm]
 #
-グチュッ・・・クチュッ・・・[p]
-#亜紀子
-「・・・ンンッ・・・♥」[p]
-（お、音が聞こえちゃう・・・っ！）[p]
-#梅田
-「なんぼよ。サイズ言ってみいや」[p]
-#アイドル
-「えーー・・・秘密です。でもちゃんとありますっ！」[p]
-#亜紀子
-「えーー、で、「無乳」というのは・・・ンッ♥・・・その貧乳の中でも本当に小さい、あ、あるかないかよく判らないような・・・ハンッ♥・・・お、オッパイのことを言うんですね」[p]
-#若手芸人
-「ちょっと梅田さんずっとお尻触ってるけど触りすぎちゃいます？千山さん大丈夫？」[p]
-#亜紀子
-「あ、はい、大丈夫です！う、梅田さんにお尻を触っていただいてるおかげでだいぶリラックスできてます」[p]
-#梅田
-「そやろそやろ、カッカッカ」[p]
-「ほら、進行進行」[p]
+*Mwah... slurp...  *[p][cm]
+#Akiko
+... Nn... ♥ (Oh, I can hear the sound...!)[p][cm]
+#Umeda
+How much? Tell me your size.[p][cm]
+#Idol
+Ehh... It's a secret. But I definitely have them![p][cm]
+#Akiko
+Ehh, so, being flat-chested...[p][cm]
+*Moan*... Even among small breasts, it's like...[p][cm]
+*Moan*... I can't really tell if they exist or not...[p][cm]
+You're talking about breasts, right?[p][cm]
+#Young comedian
+Um, Umeda-san, is it okay that you've been touching her butt for so long?[p][cm]
+Are you alright, Senzan-san?[p][cm]
+#Akiko
+Ah, yes, I'm fine! U-Umeda-san touching my butt has actually helped me relax[r]quite a bit.[p][cm]
+#Umeda
+That's right, that's right, hahaha.[p][cm]
+Come on, let's keep going.[p][cm]
 #
-グチュッ・・・クチュッ[p]
-#亜紀子
-「アッ･･･♥は、はいっ・・・本日はそんな「無乳」を愛する「無乳」マニアの皆さんに・・・アフゥッ♥・・・お集まりいただきました。どうぞ！」[p]
+*Mwah... slurp...  *[p][cm]
+#Akiko
+Ahh... Yes... Today, we have gathered here for all the flat-chest enthusiasts[r]who love such small breasts...[p][cm]
+Ahh... Please enjoy![p][cm]
 
 
 
@@ -199,92 +225,101 @@
 [playbgm  volume="30"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
 #
-番組はいつものようにマニアを称する３人をスタジオに迎え、今回は「無乳」に関して熱く語り始めるところからスタートした[p]
-#梅田
-「ただ痩せてるのが好きってことじゃないん？」[p]
-#マニアＡ
-「うーん、違うんですけど、基本的に無乳って痩せてる人しか居ないんですよね」[p]
-#若手芸人
-「あーそうか、ぽっちゃりしてたらその時点で胸はあるもんね」[p]
-#マニアＢ
-「そうなんですよ」[p]
-#梅田
-「ロリコンとは違うん？」[p]
-#マニアＡ、Ｂ、Ｃ
-「違います！」[p]
-#梅田
-「おわ！ごめんごめん、そらそうやねｗ」[p]
-#マニアＡ
-「一緒にされると非常に困るんですよ。我々は大人の女性なのにオッパイが全然ないという、なんていうか奥ゆかしさに惹かれるわけで」[p]
-#マニアＣ
-「そうそう、子供は無くて当たり前なんですから。なんにも興奮しませんよ」[p]
-#若手芸人
-「はぁーー、そうなんや」[p]
-「でも全然無いのが良いんやったら、男の胸見て興奮してしまったりとか無いの？」[p]
-#マニアＡ
-「無いですよ！」[p]
-#マニアＢ
-「話聞いてました？男なんてオッパイ無いのが当たり前じゃないですか。大人の女なのに無いというレア感がですね・・・」[p]
-#梅田
-「あーわかったわかった。じゃあ例えばこのアイドルちゃんとかは？だいぶ無いけど、これはどんな感じ？」[p]
-#アイドル
-「わたしはありますって！」[p]
-#マニアＡ
-「いや、全然ですよ。ボクに言わせればアイドルさんは巨乳ですよ」[p]
-#マニアＢ
-「巨乳だね。うん」[p]
-#アイドル
-「やったーー！」[p]
-#梅田
-「いや、巨乳ではないやん！貧乳やん！」[p]
-#アイドル
-「ちょっと梅田さんヒドーーイ！」[p]
-#梅田
-「いや全然無いやん！こんなレベルじゃないんや無乳っていうのは？」[p]
-#マニアＣ
-「基本的にＡカップあれば巨乳ですよ」[p]
-#梅田
-「マジか！」[p]
-#マニアＡ
-「ブラジャーが必要な時点で無乳ではないですね」[p]
-#アイドル
-「えーーーーｗ」[p]
-#梅田
-「じゃあこいつなんかもう論外や？」[p]
+The program started with the usual three self-proclaimed enthusiasts being[r]welcomed to the studio, and this time they began passionately discussing flat-[r]chestedness.[p][cm]
+#Umeda
+It's not just about liking someone who is skinny, right?[p][cm]
+#Mania A
+Hmm, well, it's not exactly like that, but basically, there are only skinny[r]people who are flat-chested.[p][cm]
+#Young comedian
+Ah, I see. So, if someone is chubby, then they already have breasts at that[r]point.[p][cm]
+#Mania B
+That's right.[p][cm]
+#Umeda
+Isn't that different from being a lolicon?[p][cm]
+#Mania A, B, C
+No, that's different![p][cm]
+#Umeda
+Oops! Sorry, sorry, of course, that's right![p][cm]
+#Mania A
+It would be very troubling to be treated the same.[p][cm]
+We are adult women, but we are attracted to the modesty of having almost no[r]breasts.[p][cm]
+#Mania C
+That's right, it's only natural for children to not have them.[p][cm]
+It doesn't excite me at all.[p][cm]
+#Young comedian
+Haaah, I see. But if you like the complete absence, wouldn't you get excited by[r]looking at a man's chest or something?[p][cm]
+#Mania A
+No, not at all![p][cm]
+#Mania B
+Did you hear the conversation?[p][cm]
+Isn't it normal for men to not have breasts?[p][cm]
+As adult women, the rarity of not having them is...[p][cm]
+#Umeda
+Ah, I see, I see. Then, for example, what about this idol girl?[p][cm]
+It's quite rare, but what's the impression of this?[p][cm]
+#Idol
+I have them, you know![p][cm]
+#Mania A
+No, not at all. If you ask me, idol girls have big breasts.[p][cm]
+#Mania B
+She has big breasts. Yeah.[p][cm]
+#Idol
+Yay![p][cm]
+#Umeda
+No, she's not busty! She's flat-chested![p][cm]
+#Idol
+Umeda-san, that's mean![p][cm]
+#Umeda
+No, she doesn't have any at all![p][cm]
+Isn't this more than just being flat-chested?[p][cm]
+#Mania C
+Basically, if you have an A-cup, you're considered busty.[p][cm]
+#Umeda
+Seriously?![p][cm]
+#Mania A
+If she needs a bra, then she's not flat-chested.[p][cm]
+#Idol
+Eeeeeh?[p][cm]
+#Umeda
+So, this person is completely out of the question, right?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ムギュッ[p]
-#亜紀子
-「アッ・・・！？」[p]
-#マニアＢ
-「いや・・・まぁ、そうですね。対象外ですね」[p]
-#梅田
-「もう気持ち悪いんや、こんなん？」[p]
+*Squeeze*[p][cm]
+#Akiko
+Ah...!?[p][cm]
+#Mania B
+Well... yeah, I guess so. She's not in the running.[p][cm]
+#Umeda
+Isn't this just disgusting?[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「アッ・・・ンッ♥」[p]
-#マニアＡ
-「いや・・・まぁ、気持ち悪いとまでは・・・」[p]
-#梅田
-「こっちの方がええと思うけどなぁ、揉み応えもあるし」[p]
+*Squeeze squeeze squeeze*[p][cm]
+#Akiko
+Ah...[p][cm]
+ngh♥[p][cm]
+#Mania A
+Well... I mean, it's not exactly disgusting...[p][cm]
+#Umeda
+I think this one is better, it has a good feel to it.[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「ンッ・・・ハァッ♥」[p]
-#若手芸人
-「ちょっと梅田さん！揉みすぎですってｗｗ」[p]
-#梅田
-「なんでや、スキンシップやん。なぁ？」[p]
-#亜紀子
-「アッ・・・は、はい。愛情のあるスキンシップですから・・・嬉しいです・・・アンッ♥」[p]
-#アイドル
-「千山さんちょっとエローーーいｗ」[p]
-#亜紀子
-「す、すみません・・・アハハハ」[p]
+*Squeeze squeeze squeeze*[p][cm]
+#Akiko
+Nn...[p][cm]
+haa♥[p][cm]
+#Young comedian
+Hey, Umeda-san! You're squeezing too much, lol.[p][cm]
+#Umeda
+What's wrong with some skinship, huh?[p][cm]
+#Akiko
+Ah... y-yes. It's affectionate skinship...[p][cm]
+I'm happy...[p][cm]
+ahh♥[p][cm]
+#Idol
+Senzan-san, you're a little too eroooootic, lol.[p][cm]
+#Akiko
+S-Sorry... Ahahaha.[p][cm]
 #
 
 
@@ -296,126 +331,139 @@
 [playbgm  volume="30"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
 #
-その後も梅田は番組を進行しながらも亜紀子の乳を揉み続けた[p]
-#梅田
-「なるほどねぇ、無乳の女性はやっぱりかなりコンプレックスを持ってるんやねぇ」[p]
+Afterwards, while continuing to host the show, Umeda kept squeezing Akiko's[r]breasts.[p][cm]
+#Umeda
+I see, so women with small breasts do have quite a complex, huh?[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「ンッ・・・アフゥッ・・・ハンッ♥」[p]
-#マニアＣ
-「そこが良いんですよね。なんか愛おしいっていうか、俺が評価してあげるよっていうか・・・」[p]
-#梅田
-「あーそういうこともあるんや」[p]
+Squeeze squeeze squeeze.[p][cm]
+#Akiko
+Nn... Ahh...   Hahn♥[p][cm]
+#Mania C
+That's what's so good about it.[p][cm]
+It's like... I find it endearing, you know?[p][cm]
+Like, I'm giving my approval...[p][cm]
+#Umeda
+Ah, there are things like that too.[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「アフッ・・・ン・・・ハァッ♥」[p]
-#梅田
-「なるほどねぇ・・・」[p]
+Squeeze squeeze squeeze.[p][cm]
+#Akiko
+Ahh... Nn...   Haa♥[p][cm]
+#Umeda
+I see, I see...[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「ンッ・・・アンッ♥」[p]
-#梅田
-「ほら、千山ちゃん、進行進行」[p]
-#亜紀子
-「えっ・・・あっ、すいません！えーっと・・・ここでＶＴＲをご覧くださいっ」[p]
-#梅田
-「ぼーっとしてたらあかんやんかｗ」[p]
+Squeeze squeeze squeeze.[p][cm]
+#Akiko
+Nn...[p][cm]
+Ahh♥[p][cm]
+#Umeda
+Hey, Chiyama-chan, let's keep going.[p][cm]
+#Akiko
+Huh... Ah, sorry! Um... Please watch the VTR here.[p][cm]
+#Umeda
+You can't just space out, you know?[p][cm]
+lol[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「アンッ・・・す、すいませんでした・・・ンンッ♥」[p]
+Squeeze squeeze squeeze.[p][cm]
+#Akiko
+Ahh... I-I'm sorry...   Nngh♥[p][cm]
 #
-ＶＴＲが流れている間も梅田の手は亜紀子の胸を執拗に揉みつづけた[p]
-#亜紀子
-「ンフゥ・・・アッ・・・ンンッ♥[p]
+Umeda's hands continued to persistently squeeze Akiko's breasts even while the[r]VTR was playing.[p][cm]
+#Akiko
+Nnfu... Ahh...   Unn♥[p][cm]
 #
-強弱をつけた梅田の老練な手技に亜紀子の吐息はどんどん荒くなっていった[p]
-そしてついに恐れていたことが起こってしまった[p]
+Akiko's breath became increasingly rough in response to Umeda's skilled[r]technique, which alternated between strength and gentleness.[p][cm]
+And finally, the thing I was afraid of happened.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-4.jpg"  ]
 [tb_cg  id="120"  ]
 [tb_start_text mode=1 ]
 #
-モミモミモミ[p]
-#亜紀子
-「アゥンッ・・・アフゥッ・・・ヤァ・・・ッ♥」[p]
+Squeeze squeeze squeeze.[p][cm]
+#Akiko
+Ahh... Ahh... Yaa...   ♥[p][cm]
 #
-ジワ・・・[p]
-#亜紀子
-「アッ・・・！？ア・・・イヤ・・・ッ♥」[p]
-#梅田
-（お、出てきた出てきた。母乳出るってホンマやったんやな！）[p]
-#亜紀子
-「んんっ・・・ハァンッ♥」[p]
-（う、梅田さん・・・ぼ、母乳が・・・バレちゃいます・・・っ）[p]
-#梅田
-（大丈夫やて、バレへんバレへん）[p]
+Slowly...[p][cm]
+#Akiko
+Ah...!? Ah... no...   ♥[p][cm]
+#Umeda
+(Oh, it's coming out, it's coming out.[p][cm]
+So it's true that breast milk comes out!)[p][cm]
+#Akiko
+Nn... Haan♥ (U-Umeda-san... M-My breast milk...[p][cm]
+It's going to be exposed...)[p][cm]
+#Umeda
+(Don't worry, it won't be exposed, it won't be exposed)[p][cm]
 #
-モミモミモミ[p]
-ジュワァァァ・・・[p]
-#亜紀子
-「ハァッ・・・アヒッ♥」[p]
-#梅田
-（それよりそろそろＶ終るで。進行しいやちゃんと）[p]
-#亜紀子
-（は、はい・・・っ！・・・アンッ♥）[p]
+Squeeze squeeze squeeze. *Juwaah...  *[p][cm]
+#Akiko
+Haa...[p][cm]
+Ahh♥[p][cm]
+#Umeda
+(Anyway, it's almost time to finish the V.[p][cm]
+Let's proceed properly.)[p][cm]
+#Akiko
+(Y-Yes...! ... Ahh♥)[p][cm]
 #
-ＶＴＲが終り、番組も締めの段階に入る[p]
-#亜紀子
-「はい・・・以上ＶＴＲでした。えー・・・今日は「無乳」というテーマで色々掘り下げてきましたけど・・・無乳の良さが解りましたか？」[p]
-#梅田
-「どうでした？若手芸人」[p]
-#若手芸人
-「いやーだいぶ見方は変わりましたねー。色々コンプレックスもありながら頑張ってはるところとか、かわいいなぁと思いましたし」[p]
-「なんかちょっと目覚めそうな感じはありますね」[p]
-#梅田
-「アイドルちゃんはどうでした？」[p]
-#アイドル
-「わたしも全然胸に自信なかったんですけど～、実は自分が巨乳だったと知れてよかったです～」[p]
-#梅田
-「巨乳ではないけどな？」[p]
-#アイドル
-「えーーーｗでも、どんな胸でも好きになってくれる人はいるから、わたしも頑張ろうと思いましたｗ」[p]
-#梅田
-「カカカカ」[p]
-#亜紀子
-「えー、梅田さんはどうでしたか？」[p]
-#梅田
-「いやー、俺はやっぱりでかい方がいいわ。こんくらい」[p]
+The VTR is over, and the program is entering the closing stage.[p][cm]
+#Akiko
+Yes... That concludes the VTR.[p][cm]
+Um... Today, we delved into the theme of flat-chestedness and explored various[r]aspects...[p][cm]
+Did you come to understand the charm of being flat-chested?[p][cm]
+#Umeda
+How was it? The young comedian...[p][cm]
+#Young comedian
+Oh, I've definitely changed my perspective.[p][cm]
+Seeing you work hard despite having various complexes, I thought it was cute.[p][cm]
+There's a slightly awakening feeling, isn't there?[p][cm]
+#Umeda
+How about you, Idol-chan?[p][cm]
+#Idol
+I also didn't have any confidence in my chest at all, but actually knowing that[r]I have big breasts is a relief~[p][cm]
+#Umeda
+But you're not busty, right?[p][cm]
+#Idol
+Eeeh~ But there are people who will love me no matter what size my breasts are,[r]so I thought I should do my best too~[p][cm]
+#Umeda
+Hahaha[p][cm]
+#Akiko
+So, how about you, Umeda-san?[p][cm]
+#Umeda
+Well, for me, I still prefer the bigger ones.[p][cm]
+About this size...[p][cm]
 #
-モミモミモミ[p]
-#亜紀子
-「アッ・・・アンッ♥」[p]
-#アイドル
-「あれ～～？千山さんなんか胸のところ濡れてません？」[p]
-#若手芸人
-「ほんまや、めっちゃ濡れてる！」[p]
-#ディレクター
-（ん・・・？なんだあれ・・・？）[p]
-（カメラ！寄って！）[p]
-#カメラマン
-（了解！）[p]
-#亜紀子
-「エッ・・・あ、こ、これは・・・汗ですっ！」[p]
-「梅田さんにたくさんスキンシップしていただいて、あ、汗が出ちゃいました！」[p]
-#梅田
-「ほんまや！揉んでて全然気つかへんかったわ！」[p]
-「めっちゃ濡れてるやん。ほんまに汗か？まさか乳出とるんやないやろなｗｗ」[p]
-#亜紀子
-「そっ、そんなわけないじゃないですか・・・っ！う、梅田さんやめてくださいよ、アハハハ」[p]
-#梅田
-「そうか子供もおらんのにオッパイ出るわけないもんな、ゴメンゴメンｗ」[p]
-#亜紀子
-「えー、と、というわけで今回は無乳について学びました。えー・・・っと・・・そ、それではまた来週。さようなら！」[p]
-#梅田
-「また来週！」[p]
+Squeeze, squeeze, squeeze[p][cm]
+#Akiko
+Ah...[p][cm]
+Ahn♥[p][cm]
+#Idol
+Huh~? Chiyama-san, why is your chest area wet?[p][cm]
+#Young comedian
+Oh my, it's really wet![p][cm]
+#Director
+(Huh...? What's that...?) (Camera![p][cm]
+Get closer!)[p][cm]
+#Photographer
+(Roger!)[p][cm]
+#Akiko
+Eh... Ah, th-this is... sweat![p][cm]
+I received a lot of skinship from Umeda-san, and, ah, I started sweating![p][cm]
+#Umeda
+Oh, really! I didn't even notice while I was touching them![p][cm]
+It's really wet. Is it really sweat?   I hope it's not breast milk lol[p][cm]
+#Akiko
+Th-there's no way that's true...![p][cm]
+U-Umeda-san, please stop, ahahaha.[p][cm]
+#Umeda
+I guess it's impossible for breasts to produce milk when you don't have any[r]kids, sorry sorry lol.[p][cm]
+#Akiko
+Um, so, that's all for today's lesson on being flat-chested.[p][cm]
+Um... well... then, see you next week.[p][cm]
+Goodbye![p][cm]
+#Umeda
+See you next week![p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
@@ -427,36 +475,37 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「ククク、なかなかナイスな土下座だったぜ」[p]
-#亜紀子
-「くぅ・・・っ」[p]
-#勝野
-「カットせずにそのままきっちり放送してやるから楽しみにしておくんだな」[p]
-#亜紀子
-「あぁ・・・そんな・・・」[p]
-#勝野
-「それで、この後２本撮りの２本目だが・・・解かってるだろうな？」[p]
-#亜紀子
-「う・・・ほ、本当にやるんですか・・・？」[p]
-「もし、バレたら・・・」[p]
-#勝野
-「やるんだよ。なんだ、なにか文句でもあるのか？」[p]
-#亜紀子
-「い・・・いえっ！や、やります・・・」[p]
+#Katsuno
+Hehehe, that was quite a nice bow.[p][cm]
+#Akiko
+Ugh...[p][cm]
+#Katsuno
+I'll broadcast it without any cuts, so look forward to it.[p][cm]
+#Akiko
+Ah... that's...[p][cm]
+#Katsuno
+So, for the second shoot after this...[p][cm]
+you understand, right?[p][cm]
+#Akiko
+Ugh... A-Are you really going to do it...?[p][cm]
+If we get caught...[p][cm]
+#Katsuno
+We're doing it. What, do you have a problem with that?[p][cm]
+#Akiko
+N-No! I-I'll do it...[p][cm]
 
-#勝野
-「なに、お前さえ上手くやればバレることはないし、もしなにかあっても梅田さんがなんとかしてくれるさ」[p]
-「・・・よし、そろそろ時間だな。早く着替えてスタジオに来いよ」[p]
-#亜紀子
-「はい・・・」[p]
+#Katsuno
+What, as long as you do it well, there won't be any problems.[p][cm]
+And even if something happens, Umeda-san will take care of it somehow.[p][cm]
+... Alright, it's about time. Hurry up and change and come to the studio.[p][cm]
+#Akiko
+Yes...[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -464,74 +513,74 @@
 [bg  time="1000"  method="crossfade"  storage="hiro118-3.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#ディレクター
-「それでは本番５秒前！４・・・３・・・」[p]
+#Director
+And now, 5 seconds until the start![p][cm]
+4... 3...[p][cm]
 #
-・・・・・・[p]
+・・・・・・[p][cm]
 
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="オフィスの日常.ogg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「ウメちゃんのディープな話～～～～！！」[p]
-「・・・っさ、始まりました。今週のゲストはこいつらでーす」[p]
-#中堅芸人
-「ちょっと！ちゃんと紹介してくださいよｗ」[p]
-#グラドル
-「どうも～～おねがいしま～～す」[p]
-「あ、今度ＤＶＤ出るんで買ってくださ～い」[p]
-#梅田
-「こらっ！勝手に宣伝すんな！しばくぞ！」[p]
-#グラドル
-「キャー、怖いーーｗ」[p]
-#中堅芸人
-「ていうか梅田さん、今日は一人ですか？」[p]
-#梅田
-「え、なにが？いつも一人やけど？」[p]
-#中堅芸人
-「いや、いつもアシスタントの人いてますやん」[p]
-#梅田
-「あれ？そやったっけ？」[p]
-「まぁまぁ今日は千山ちゃんはね、ちょっと他の番組の方にね」[p]
-#中堅芸人
-「あ、そうなんですか」[p]
-#梅田
-「なんで今日は一人で仕切らせてもらいます」[p]
-#中堅芸人
-「大丈夫ですか？ちゃんと出来ます？」[p]
-#梅田
-「出来るっちゅうねん！何年やってると思ってるねん！」[p]
-「えー・・・最初は・・・なんでしたっけ？」[p]
-#中堅芸人
-「できてませんやん！」[p]
-#梅田
-「冗談やがな冗談」[p]
-「えー、今日のテーマですね。今日のテーマは『インテリ美女』！」[p]
-「頭の良い女性にしか興奮できないインテリ美女マニアの方々と、その良さを語っていきたいと思います」[p]
-「・・・ということですけど、どうですかインテリ美女」[p]
-#中堅芸人
-「良いですねー。僕も好きなんですよ、賢い女の人」[p]
-「こんなに賢いのに自分の前では・・・みたいなギャップも良いですよね」[p]
-#梅田
-「でもお前の嫁はんパッパラパーやんか」[p]
-#中堅芸人
-「誰がパッパラパーやねん！」[p]
-「誰が元ヤンでいまだに九九間違えるパッパラパーの嫁やねん！」[p]
-#梅田
-「そこまで言うてへんがなｗ」[p]
-#中堅芸人
-「ええかげんにしいやほんま」[p]
-#梅田
-「あなたはどうなんですか、頭の方は？」[p]
-#グラドル
-「わたし、こう見えて国立大学出てるんですよ」[p]
-#梅田
-「へーそうなん？・・・見えんなーー」[p]
-#グラドル
-「ちょっとーｗまぁよく言われますけどｗ」[p]
-#梅田
-「じゃあまあ早速マニアの方々に登場してもらいますか。どうぞー！」[p]
+#Umeda
+Ume-chan's deep talk~~~~!! ...[p][cm]
+And so, it has begun. This week's guests are these guys![p][cm]
+#Middle-ranking entertainer
+Hey! Introduce me properly, will ya?[p][cm]
+#Gravure Idol
+Hello~~ Nice to meet you~~ Oh, I'm releasing a DVD next time, so please buy it~[p][cm]
+#Umeda
+Hey! Don't advertise without permission![p][cm]
+I'll give you a smack![p][cm]
+#Gravure Idol
+Kyaa, how scary~ lol[p][cm]
+#Middle-ranking entertainer
+By the way, Umeda-san, are you alone today?[p][cm]
+#Umeda
+Huh, what do you mean? I'm always alone though?[p][cm]
+#Middle-ranking entertainer
+No, there's always an assistant with you, right?[p][cm]
+#Umeda
+Huh? Is that so? Well, well, today Chiyama-chan is, you know, appearing on[r]another program.[p][cm]
+#Middle-ranking entertainer
+Oh, is that so?[p][cm]
+#Umeda
+Why am I the one in charge alone today?[p][cm]
+#Middle-ranking entertainer
+Are you okay? Can you handle it properly?[p][cm]
+#Umeda
+Of course I can handle it! How many years do you think I've been doing this?![p][cm]
+Um... What was it at first?[p][cm]
+#Middle-ranking entertainer
+You can't do it![p][cm]
+#Umeda
+Just kidding, just kidding. Well, today's theme is, right?[p][cm]
+Today's theme is 'Intellectual Beauties'![p][cm]
+I would like to talk with the intellectual beauty enthusiasts who can only be[r]excited by intelligent women, and discuss their charm.[p][cm]
+... that's the plan, but what do you think about intellectual beauties?[p][cm]
+#Middle-ranking entertainer
+That's great. I also like intelligent women.[p][cm]
+It's also nice to see the contrast of being so intelligent, but acting[r]differently in front of me, right?[p][cm]
+#Umeda
+But isn't your wife a party girl?[p][cm]
+#Middle-ranking entertainer
+Who's the ex-delinquent wife who still gets the multiplication tables wrong?![p][cm]
+#Umeda
+I wouldn't go that far, lol.[p][cm]
+#Middle-tier Entertainer
+Cut it out, seriously.[p][cm]
+#Umeda
+What about you, are you good with intellectual stuff?[p][cm]
+#Gravure Idol
+You know, I may not look like it, but I graduated from a national university.[p][cm]
+#Umeda
+Oh, really? ... I can't tell at all.[p][cm]
+#Gravure Idol
+Hey, come on~ I get that a lot, you know~[p][cm]
+#Umeda
+Well then, let's introduce the enthusiasts right away.[p][cm]
+Here they are![p][cm]
 
 
 
@@ -540,290 +589,315 @@
 [bg  time="1000"  method="crossfade"  storage="hiro121-1.jpg"  ]
 [tb_start_text mode=1 ]
 #
-いつものように番組はマニアの人たちとのトークの形で始まった[p]
-トークに慣れていないマニアたちから話を上手く引き出すのは普段ならアシスタントの役割だが、今回は梅田が番組を上手く進行させていた[p]
-本来なら自分がやらなければいけない仕事を梅田がベテランの技量でこなしている様子を、亜紀子はすぐ近くで聞いていた[p]
-梅田のペニスをしゃぶりながら―――[p]
+The program started as usual with a talk with the enthusiasts.[p][cm]
+Normally, it's the assistant's role to skillfully draw out the conversation from[r]the enthusiasts who are not used to talking, but this time Umeda was skillfully[r]leading the program.[p][cm]
+Akiko was listening closely as Umeda skillfully handled the task that she would[r]normally be responsible for, showcasing his veteran skills.[p][cm]
+While sucking Umeda's penis--[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro121-2.jpg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「インテリ美女ってのは雰囲気だけでいいの？メガネかけてるとか。それともホンマに頭が良くないとアカンの？」[p]
-#マニアＡ
-「それはもちろんそうですね。頭がいいってことに興奮するわけですから」[p]
-#亜紀子
-「チュプ・・・チュパ・・・」[p]
-#梅田
-「ほんなら頭めっちゃええけど金髪でピアスしてウェーーーイ！みたいな女は？それでもええの？」[p]
-#マニアＡ
-「うーーん・・・それはちょっと・・・」[p]
-#中堅芸人
-「やっぱ雰囲気やないですか？インテリっぽいのが好きなんちゃうの？」[p]
-#マニアＡ
-「いや・・・両方大事なんですよねぇ・・・」[p]
-#亜紀子
-「レロレロレロ・・・っ」[p]
-#マニアＢ
-「ていうか本当に頭良い人は、それなりの雰囲気になるんですよ、おのずと」[p]
-#梅田
-「でもこいつなんか見てみ？ちゃんとした大学出てこんなことなってるんやで？」[p]
-#グラドル
-「こんなことってなんですかｗわたしはちゃんとインテリ美女ですよね？」[p]
-#亜紀子
-「ジュプ・・・チュバッ・・・」[p]
-#マニアＢ
-「いやグラドルさんは国立大を出てるだけで・・・まぁ普通の人ですよ」[p]
-#マニアＣ
-「ぼくらの言うインテリってのはもっと高いレベルの話でして・・・」[p]
-#グラドル
-「ひどーーーーーいｗ」[p]
-#梅田
-「あ、こんなもんインテリでも何でもないんや？」[p]
-#亜紀子
-「チュプ・・・レロンレロン・・・」[p]
-#マニアＡ
-「まぁ美女の方は合格点として、インテリのほうは物足りないというか・・・」[p]
-#グラドル
-「くやしーーーー！」[p]
-#中堅芸人
-「いや、何様やねんｗ」[p]
-#梅田
-「確かになｗキミら自身は学歴はどうなんよ？」[p]
-#亜紀子
-「チュプ・・・レロレロッ」[p]
-#マニアＡ
-「わたしは一応Ｋ大のほうを・・・」[p]
-#マニアＢ
-「高卒です」[p]
-#マニアＣ
-「同じく」[p]
-#梅田
-「なんや、高卒やんけお前ら！」[p]
-#亜紀子
-「チュプ・・・クチュッ・・・」[p]
-#マニアＣ
-「だからこそなんですよ！高卒のボクが高学歴の才女を・・・に興奮するんですよ！」[p]
-#梅田
-「あーなるほど、そういうことね。なんかわかるかもしれんわ」[p]
-「ほな頭が良ければ良いほど興奮するんや？Ｔ大とか」[p]
-#亜紀子
-「チュブ・・・チュプッ・・・」[p]
-#マニアＢ
-「いいですねＴ大。興奮しますねぇ」[p]
-#マニアＣ
-「Ｔ大っていう響きにもう興奮しますからね、グフフ」[p]
-#梅田
-「あいつ確かＴ大ちゃうの、千山ちゃん」[p]
-#亜紀子
-「・・・！・・・チュプ・・・チュパッ」[p]
-#マニアＡ
-「そう！わたし大ファンなんですよ千山アナウンサー！」[p]
-「あれぞインテリ美女ですよ。美しい顔から知性がにじみ出てるし、スタイルも抜群なのがまた・・・」[p]
-#亜紀子
-「ジュプッ・・・ズチュッ・・・」[p]
-#マニアＢ
-「ボクも大好きです千山アナ。インテリ美女マニアにはどストライクですよ」[p]
-「今日は会えると思って楽しみにして来たのに残念です・・・」[p]
-#亜紀子
-「チュブ・・・ジュプッ・・・」[p]
-#梅田
-「そうなんやー、今日はたまたまね。申し訳ない。運がなかったねｗ」[p]
-#グラドル
-「まぁ代わりにわたしが居るじゃないですか、ね？」[p]
-#マニアＡ
-「はぁー」[p]
-#グラドル
-「ちょっとーーーーｗ」[p]
-#亜紀子
-「ジュプッ・・・チュブッ・・・」[p]
-#梅田
-「さて、いつもならこの辺で理想の女性の人に来てもらって、色んなシチュエーションを実際にやってもらうんですが・・・」[p]
-「今回はナーシ」[p]
-#マニアＣ
-「えーーー！？」[p]
-#マニアＢ
-「そんなーー！」[p]
-#亜紀子
-「ジュプッ・・・ジュポッ・・・」[p]
-#梅田
-「ちょっと今回は用意するのが難しくてね。ほら『巨乳』とかやったらオッパイ大きい女優さんとか呼んだらええわけやけど」[p]
-「インテリ美女ってなかなかそういうわけにはね」[p]
-#中堅芸人
-「そうですよね、ぱっと見てわかるもんでもないですしね」[p]
-#梅田
-「というわけであらかじめ理想のシーンなんかを撮ってきてもらってるんでしょ？そのⅤいきましょう」[p]
-「どうぞっ」[p]
+#Umeda
+Is it enough for an intellectual beauty to just have the appearance?[p][cm]
+Like wearing glasses. Or is it necessary for them to actually be smart?[p][cm]
+#Mania A
+Of course, that's right. It's because being smart is exciting.[p][cm]
+#Akiko
+*Suck... slurp...  *[p][cm]
+#Umeda
+So what about a girl who has a great mind but also has blonde hair, wears[r]piercings, and goes like Waaaah!?[p][cm]
+Would that still be okay?[p][cm]
+#Mania A
+Hmm... that's a little...[p][cm]
+#Middle-ranking entertainer
+Isn't it all about the atmosphere?[p][cm]
+Don't you like the intellectual type?[p][cm]
+#Mania A
+Well... both are important, you know...[p][cm]
+#Akiko
+Lero lero lero...[p][cm]
+#Mania B
+Well, people who are truly intelligent naturally have a certain aura about them.[p][cm]
+#Umeda
+But look at this guy. He didn't even graduate from a proper university and ended[r]up like this, you know?[p][cm]
+#Gravure Idol
+What is this all about? I am a proper intellectual beauty, right?[p][cm]
+#Akiko
+*Suck... slurp...  *[p][cm]
+#Mania B
+Well, the gravure idol just graduated from a national university...[p][cm]
+She's just an ordinary person, you know.[p][cm]
+#Mania C
+When we talk about intellectuals, it's on a much higher level...[p][cm]
+#Gravure Idol
+That's so mean![p][cm]
+LOL[p][cm]
+#Umeda
+Oh, so this isn't something an intellectual would do?[p][cm]
+#Akiko
+*Chupu... Leron Leron...  *[p][cm]
+#Mania A
+Well, I suppose the beautiful ones pass as intellectuals, but the intellectuals[r]are somewhat lacking...[p][cm]
+#Gravure Idol
+I'm so frustrated![p][cm]
+#Middle-tier Entertainer
+Oh, who do you think you are?[p][cm]
+LOL[p][cm]
+#Umeda
+Well, that's true. So, what about your own educational background?[p][cm]
+#Akiko
+*Chupu... Leron Leron...  *[p][cm]
+#Mania A
+Well, I did attend K University, at least...[p][cm]
+#Mania B
+I'm a high school graduate.[p][cm]
+#Mania C
+Same here.[p][cm]
+#Umeda
+What, you guys are high school graduates![p][cm]
+#Akiko
+*Chupu... Slurp...  *[p][cm]
+#Mania C
+That's exactly why! It's because I, a high school graduate, get excited about a[r]highly educated talented woman...[p][cm]
+#Umeda
+Ah, I see. I might understand that feeling.[p][cm]
+So, the smarter someone is, the more excited you get?[p][cm]
+Like, if they went to a prestigious university like T University?[p][cm]
+#Akiko
+*Chupu... Chupu...  *[p][cm]
+#Mania B
+T University, huh? That's impressive.[p][cm]
+It gets me excited.[p][cm]
+#Mania C
+The sound of T University already excites me, hehehe.[p][cm]
+#Umeda
+That person is definitely from T University, right?[p][cm]
+Senyama-chan.[p][cm]
+#Akiko
+...! ... Chupu...   Chupa[p][cm]
+#Mania A
+That's right! I'm a huge fan of Announcer Senyama![p][cm]
+There she is, the intelligent beauty.[p][cm]
+Intelligence oozes from her beautiful face, and her figure is outstanding as[r]well...[p][cm]
+#Akiko
+*Suck... Suck...  *[p][cm]
+#Mania B
+I love Senyama Announcer too. She's a perfect match for my intellectual beauty[r]fetish.[p][cm]
+I was looking forward to seeing you today, so it's disappointing...[p][cm]
+#Akiko
+*Chubu... Jupu...  *[p][cm]
+#Umeda
+Oh, is that so? It just happened to be today.[p][cm]
+I'm sorry. You were unlucky, huh?   *laughs*[p][cm]
+#Gravure Idol
+Well, I'm here as a replacement, aren't I?[p][cm]
+#Mania A
+*sigh*[p][cm]
+#Gravure Idol
+Heyyyyyy~![p][cm]
+#Akiko
+*Squish... Suck...  *[p][cm]
+#Umeda
+Well, usually I would have an ideal woman come around this time and have her do[r]various situations in reality...[p][cm]
+This time it's Narsi.[p][cm]
+#Mania C
+Eh!?[p][cm]
+#Mania B
+No wayyy![p][cm]
+#Akiko
+*Squish... Suck...  *[p][cm]
+#Umeda
+Well, this time it was difficult to prepare.[p][cm]
+You know, if we were doing something like big breasts, we could just call in an[r]actress with big boobs.[p][cm]
+It's not that easy to find an intelligent beauty like that.[p][cm]
+#Middle-ranking entertainer
+Yeah, that's right. It's not something you can tell at first glance, after all.[p][cm]
+#Umeda
+So, you've already filmed some ideal scenes in advance, right?[p][cm]
+Let's go with that V. Please go ahead.[p][cm]
 #
-モニターにＶＴＲが流れ、それを見ながらコメントをはさむ形で番組は進んでいった[p]
-その間も亜紀子は進行台の下で梅田のペニスに奉仕し続けていた[p]
-このＶＴＲ中にイかせろと命令されていたので、ペニスを絶頂に導こうと勝野に仕込まれた技で唇と舌を動かしていく[p]
+The program continued to progress with comments inserted while watching the VTR[r]on the monitor.[p][cm]
+Meanwhile, Akiko continued to serve Umeda's penis under the progress table.[p][cm]
+Since I was ordered to make him cum during this VTR, I moved my lips and tongue[r]using the techniques taught to me by Katsuno to bring his penis to climax.[p][cm]
 
 
 
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#亜紀子
-「チュブッ・・・ジュパッ・・・！」[p]
-#梅田
-「おい、しっかりしゃぶらんかい」[p]
-#中堅芸人
-「しゃぶらんかい？」[p]
-#亜紀子
-「・・・！？」[p]
-#梅田
-「『しゃべらんかい』って言ったんや。えらい棒読みやから」[p]
-#中堅芸人
-「ああ、「しゃべらんかい」ね。しょうがないですよ素人さんなんやから」[p]
-#亜紀子
-「ジュプッ・・・ジュポッ・・・」[p]
-#梅田
-「ちんたらしとんなぁ。ペースを上げろペースを！」[p]
-#中堅芸人
-「いや、録画ですから。いても無理ですよｗ」[p]
-#梅田
-「いや、なんかダラダラやってるからさ」[p]
-#亜紀子
-「ジュポッ・・・ジュポッ・・・ジュポッ！」[p]
-#梅田
-「ええぞぉ・・・その調子や・・・」[p]
-#グラドル
-「いい感じですねー。マニアＢさんデレデレしちゃって」[p]
-#マニアＢ
-「アハハハ」[p]
-#亜紀子
-「ジュプッジュプッジュプッ！」[p]
-#梅田
-「おぉ・・・いくぞー！いくぞぉー！」[p]
-#中堅芸人
-「いやそんな興奮するシーンですか？ｗ」[p]
-#亜紀子
-「ジュプッ！ジュプッ！ジュプッ！」[p]
-#梅田
-「・・・う・・・っ」[p]
+#Akiko
+*Suck... Slurp...!  *[p][cm]
+#Umeda
+Hey, suck it properly.[p][cm]
+#Middle-ranking entertainer
+Wanna give it a suck?[p][cm]
+#Akiko
+...!?[p][cm]
+#Umeda
+I told you not to talk. Your reading is so stiff.[p][cm]
+#Middle-ranking entertainer
+Ah, can't you keep quiet? Well, I guess it can't be helped since you're an[r]amateur.[p][cm]
+#Akiko
+*Suck... Slurp...  *[p][cm]
+#Umeda
+Don't be so slow. Pick up the pace, pick up the pace![p][cm]
+#Middle-ranking entertainer
+No, it's being recorded. It's impossible to fake it, you know?   LOL[p][cm]
+#Umeda
+No, you're being too slow.[p][cm]
+#Akiko
+*Suck... Slurp... Slurp...!  *[p][cm]
+#Umeda
+That's it... Keep it up...[p][cm]
+#Gravure Idol
+Looking good, huh? Mania B-san is all smitten.[p][cm]
+#Mania B
+Ahahaha[p][cm]
+#Akiko
+*Squish... Squish... Squish...!  *[p][cm]
+#Umeda
+Oh... Here we go! Let's go![p][cm]
+#Middle-ranking entertainer
+Oh, is this scene supposed to be exciting?[p][cm]
+LOL[p][cm]
+#Akiko
+*Suck... Slurp... Slurp...!  *[p][cm]
+#Umeda
+... Uh...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro121-3.jpg"  ]
 [tb_cg  id="121"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッ！[p]
-#亜紀子
-「ンッ・・・ンムッ！？」[p]
-#梅田
-「飲めよ・・・！」[p]
-#中堅芸人
-「のめよ？」[p]
-#亜紀子
-「ンッ・・・ゴクッゴクッ♥」[p]
-#梅田
-「いや・・・受け入れろよ！ってことやんか・・・フゥ」[p]
-#中堅芸人
-「いや、受け入れますよ理想のシチュエーションなんやからｗ」[p]
-「ちゃんと見ましょうよＶＴＲ」[p]
-#梅田
-「いや、すまんすまん・・・ふぅー」[p]
-#亜紀子
-「ゴクッ・・・チュゥッ♥」[p]
-#梅田
-「いやぁーたまらんねー」[p]
-#グラドル
-「ドキドキしちゃいます～～」[p]
-#亜紀子
-「ハァ・・・ハァ・・・」[p]
+*Splash![p][cm]
+*[p][cm]
+#Akiko
+Nn... Nmuu!?[p][cm]
+#Umeda
+Drink it...![p][cm]
+#Middle-ranking entertainer
+Wanna drink it?[p][cm]
+#Akiko
+Nn...[p][cm]
+Gulp, gulp ♥[p][cm]
+#Umeda
+No... Accept it! That's what it means...[p][cm]
+Fuu.[p][cm]
+#Middle-tier Entertainer
+No, I'll accept it. It's the ideal situation, after all.[p][cm]
+LOL Let's watch the VTR properly.[p][cm]
+#Umeda
+No, I'm sorry...[p][cm]
+*sigh*[p][cm]
+#Akiko
+Gulp...[p][cm]
+Mwah ♥[p][cm]
+#Umeda
+Oh, it's irresistible.[p][cm]
+#Gravure Idol
+My heart is pounding~[p][cm]
+#Akiko
+*panting* *panting*[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro121-1.jpg"  ]
 [tb_start_text mode=1 ]
-#梅田
-「さあＶＴＲ見ていただきましたけど、どうでしたか？」[p]
-#中堅芸人
-「いやぁーインテリ美女いいですねぇー。なんかハマっちゃったかも」[p]
-#梅田
-「そんなん言うたらパッパラパーの嫁が怒るんちゃうか？」[p]
-#中堅芸人
-「誰がパッパラパーの嫁や！」[p]
-「誰が高校のとき教科書を古本屋に売ろうとしたパッパラパーの嫁や！」[p]
-#梅田
-「だからそこまで言うてへんて」[p]
-「あなたはどうでしたか？」[p]
-#グラドル
-「いや、いいですけど、あんな女性現実にいないでしょー」[p]
-#マニアＡ
-「まぁあくまで理想ですからね。夢です」[p]
-#グラドル
-「夢見すぎー」[p]
-#梅田
-「キミ、千山があんな風にしてきたらどうすんの」[p]
-#マニアＡ
-「そりゃぁもう・・・最高ですね。最高すぎます」[p]
-#梅田
-「そやろねぇ。今日おったらやってもらえたのに残念やねぇ～」[p]
-#亜紀子
-「わたしのこと呼びましたか？」[p]
+#Umeda
+So, did you watch the VTR? How was it?[p][cm]
+#Middle-tier Entertainer
+Wow, intellectual beauty is so attractive.[p][cm]
+I might have gotten hooked on it.[p][cm]
+#Umeda
+If you say that, won't Paparappa's wife get angry?[p][cm]
+#Middle-ranking entertainer
+Who's Paparappa's wife?! Who's Paparappa's wife, the one who tried to sell her[r]high school textbooks at a second-hand bookstore?![p][cm]
+#Umeda
+I didn't say anything like that.[p][cm]
+How about you?[p][cm]
+#Gravure Idol
+Well, it's fine, but women like that don't exist in reality, you know.[p][cm]
+#Mania A
+Well, it's just an ideal after all.[p][cm]
+It's a dream.[p][cm]
+#Gravure Idol
+Dreaming too much.[p][cm]
+#Umeda
+What would you do if Chiyama came at you like that?[p][cm]
+#Mania A
+Oh my... It's the best. It's too good.[p][cm]
+#Umeda
+Yeah, that's right.[p][cm]
+It's a shame you weren't here today, you could have experienced it~[p][cm]
+#Akiko
+Did you call me?[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro120-1.jpg"  ]
 [tb_start_text mode=1 ]
-#中堅芸人
-「うわっ！？」[p]
-#グラドル
-「えっ！？えーーーっ！？」[p]
-#マニアＡ
-「えっ！？えっ！？・・・うわっ！？」[p]
-#亜紀子
-「ど、どうも、インテリ美女の千山亜紀子です」[p]
-#梅田
-「自分で言うなｗ」[p]
-#中堅芸人
-「えっ、どうなってんの？え？どこにいたん？」[p]
-#ゲラドル
-「びっくりしたー！」[p]
-#亜紀子
-「えー、驚かせてすいません。実は最初からずっとこの中に隠れてスタンバイしてたんですよ」[p]
-#中堅芸人
-「えっ、ずっといたん？その中に！？」[p]
-#梅田
-「そう、実はずっといたんですよ」[p]
-「Ａさんが千山ちゃんの大ファンやって事前に聞いてたんで、サプライズですよサプライズ」[p]
-#グラドル
-「でもそこだいぶ狭かったんじゃないですか？」[p]
-#亜紀子
-「え、ええ、狭かったんで大変でした・・・アハハ」[p]
-#中堅芸人
-「ずーっと声も出せないしねー」[p]
-#亜紀子
-「はい、辛かったです」[p]
-#梅田
-「声出さへんように、俺が【ピーーー】くわえさせてたからな」[p]
-#亜紀子
-「っ！？ちょ、ちょっと、梅田さん、へ、変な事言わないでくださいよ・・・っ！アハハハ」[p]
-#グラドル
-「もー梅田さんたらーーｗ」[p]
-#中堅芸人
-「・・・ん？・・・あれ？」[p]
-（そういえばなんかＶＴＲ見ながら「しゃぶれ」とか・・・「飲め」とか・・・えっ？）[p]
-「えっ・・・ウソ・・・もしかして・・・えっ！？」[p]
-#梅田
-「なにをブツブツ言うとんねん」[p]
-#中堅芸人
-「えっ・・・あっ、いや、なんでもないですっ・・・アハハハ」[p]
-（ほ、ほんまにしゃぶらせてたんやこの人・・・！なんてことするんや、こわ～～～！）[p]
-#梅田
-「Ａさんどうですか、実物に会えて」[p]
-#マニアＡ
-「えーーー・・・いやぁ・・・びっくりしすぎてなにがなんだか・・・・」[p]
-#梅田
-「ほら、もっと近くに行ったれよ」[p]
-#亜紀子
-「あ、はいっ」[p]
+#Middle-ranking entertainer
+Wow![p][cm]
+#Gravure Idol
+Huh!? No way![p][cm]
+#Mania A
+Huh!? Huh!? ... Whoa![p][cm]
+#Akiko
+U-Um, hello, I'm Chiyama Akiko, the intellectual beauty.[p][cm]
+#Umeda
+Don't say that about yourself.[p][cm]
+#Middle-ranking entertainer
+Huh, what's going on? Huh? Where were you?[p][cm]
+#Gerador
+I was surprised![p][cm]
+#Akiko
+Oh, I'm sorry for surprising you.[p][cm]
+Actually, I've been hiding and waiting inside here from the beginning.[p][cm]
+#Middle-tier Entertainer
+Huh, you've been here the whole time?[p][cm]
+Inside there!?[p][cm]
+#Umeda
+Yes, actually, I've been here the whole time.[p][cm]
+A-san is a big fan of Chiyama-chan, so I heard in advance.[p][cm]
+This is a surprise, a surprise.[p][cm]
+#Gravure Idol
+But wasn't it quite cramped in there?[p][cm]
+#Akiko
+Uh, y-yes, it was quite cramped...[p][cm]
+Ahaha.[p][cm]
+#Middle-ranking entertainer
+I couldn't even make a sound the whole time.[p][cm]
+#Akiko
+Yes, it was tough.[p][cm]
+#Umeda
+I made sure not to make a sound, so I had censored in my mouth.[p][cm]
+#Akiko
+H-Hey, Umeda-san, pl-please don't say weird things...[p][cm]
+Ahahaha.[p][cm]
+#Gravure Idol
+Umeda-san, you're such a tease, haha.[p][cm]
+#Middle-ranking entertainer
+... Hm? ... Huh? (By the way, while watching the VTR, something about sucking...[p][cm]
+and drinking... Huh?) Huh... No way...[p][cm]
+Could it be... Huh!?[p][cm]
+#Umeda
+What are you mumbling about?[p][cm]
+#Middle-ranking entertainer
+Huh... Ah, no, it's nothing...[p][cm]
+Ahahaha. (H-He really made me suck it...![p][cm]
+Why would he do something like that, I'm so scared~!)[p][cm]
+#Umeda
+How about meeting the real thing, A-san?[p][cm]
+#Mania A
+U-Um... I-I'm so surprised, I don't even know what's going on...[p][cm]
+#Umeda
+Come on, get closer.[p][cm]
+#Akiko
+Ah, yes.[p][cm]
 
 [_tb_end_text]
 
@@ -832,12 +906,11 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
 #
-その後、マニアたちの理想のシチュエーションを寸劇で再現したりして番組は無事終了した[p]
-亜紀子が本番中にフェラチオをしていたことは、勝野以外のスタッフは誰も気付くことはなかった[p]
-梅田と付き合いの長い中堅芸人だけが察したようだが、梅田の怖さを知っている彼は誰にも話すことはなかった[p]
-番組は数週間後放送され、好評だった[p]
-・・・・・・[p]
-・・・[p]
+Afterwards, the program safely ended by reenacting the ideal situations of the[r]maniacs in a skit.[p][cm]
+No one on the staff, except for Katsuno, noticed that Akiko was giving a blowjob[r]during the live broadcast.[p][cm]
+It seems that only the middle-tier entertainer, who has a long history with[r]Umeda, noticed, but knowing Umeda's scariness, he didn't tell anyone.[p][cm]
+The program was broadcasted a few weeks later and received favorable reviews.[p][cm]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

@@ -8,21 +8,25 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
 #
-翌日―――[p]
-#亜紀子
-（はぁ・・・）[p]
-（昨日の事がやっぱりネットで話題になってるわ・・・）[p]
-（『千山亜紀子ニュース本番でパンツ見せつけ開脚』『千山亜紀子露出狂か！？』etc・・・）[p]
-（好きでやってるわけじゃないのに・・・世間にはそんなことわからないから仕方ないけど）[p]
-（誰が露出狂よ！・・・たしかに見られて感じてたのは事実だけど・・・）[p]
-（だからってこんなことで注目されて人生を無茶苦茶にしたいわけじゃないわ）[p]
-（・・・問題は勝野よ。もっと露出を増やすみたいなこと言ってたし・・・なんとか止めないと）[p]
-（これ以上エッチなキャラが定着したら、もう二度とキャスターには戻れないわ）[p]
-（でも勝野をどうやって・・・）[p]
-（・・・あ、なんかオッパイが張ってきたわ・・・）[p]
-（本番にはまだ時間があるけど・・・この感じだと結構危ないかも）[p]
-（・・・勝野に搾ってもらうしかないわ・・・）[p]
-（仕方がない、勝野に頼みましょう）[p]
+The next day--[p][cm]
+#Akiko
+(Sigh...) (It seems like yesterday's incident is becoming a hot topic on the[r]internet...)[p][cm]
+(Akiko Chiyama exposes her panties and spreads her legs on live news broadcast.[p][cm]
+Is Akiko Chiyama an exhibitionist!?[p][cm]
+etc...) (Even though I'm not doing it on purpose...[p][cm]
+I guess there's no helping it if the public doesn't understand.)[p][cm]
+(Who's the exhibitionist!? ...[p][cm]
+It's true that I was feeling aroused from being watched, but...)[p][cm]
+(But that doesn't mean I want my life to be turned upside down just because of[r]this attention.)[p][cm]
+(... The problem is Katsuno. She was saying things like wanting to increase[r]exposure...[p][cm]
+I have to find a way to stop her somehow.)[p][cm]
+(If I become known as an even more perverted character, I'll never be able to[r]return to being a newscaster again.)[p][cm]
+(But how can I deal with Katsuno...)[p][cm]
+(Hmm... Oh, my breasts are starting to feel swollen...)[p][cm]
+(Although there is still time until the actual performance...[p][cm]
+based on this feeling, it might be quite risky.)[p][cm]
+(I have no choice but to rely on Katsuno to milk me...)[p][cm]
+(There's no other choice, I'll ask Katsuno for help.)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -34,95 +38,102 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="60"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「お前から呼び出すなんて珍しいな」[p]
-「どうした、急にチンポが欲しくなったか？」[p]
-#亜紀子
-「ち、違うわ。そ、その・・・」[p]
-「お、オッパイが・・・」[p]
-#勝野
-「あぁ・・・乳が張ってきたのか。本番まで持たないのか？」[p]
-#亜紀子
-「わからないけど、ちょうど危ないかも・・・」[p]
-#勝野
-「本番に溢れそうなのか。そりゃ面白そうだ、ククク」[p]
-#亜紀子
-「そ、そんなの嫌よ。搾ってちょうだい・・・！」[p]
-#勝野
-「ふっ、そんな頼み方じゃダメだ。学習しろよ」[p]
-#亜紀子
-「く・・・ご、ご主人様、オッパイが張って・・・母乳が出そうです。どうかこのドスケベな家畜を・・・搾乳してくださいませ・・・っ」[p]
-#勝野
-「ククク、上手く言えるようになったじゃねえか」[p]
-「でもダメだ」[p]
-#亜紀子
-「そ、そんな・・・！」[p]
-#勝野
-「ククク、あわてるな。乳は搾ってやるよ。ただし俺じゃないがな」[p]
-「ちょうど面白い遊びを考えていたんだ」[p]
-#亜紀子
-「えっ、遊び・・・？ど、どういうこと・・・？」[p]
-#勝野
-「ＡＤの谷田いるだろ。お前にくびったけの」[p]
-#亜紀子
-「谷田君・・・？彼がいったい・・・」[p]
-#勝野
-「あいつにお前の乳を搾らせてやるのさ」[p]
+#Katsuno
+It's rare for you to call me out.[p][cm]
+What's wrong? Suddenly craving a dick?[p][cm]
+#Akiko
+N-No, it's not like that. I-I mean...[p][cm]
+My, my breasts...[p][cm]
+#Katsuno
+Ah... Are your breasts getting swollen?[p][cm]
+Can't you hold out until the actual performance?[p][cm]
+#Akiko
+I'm not sure, but it might be quite risky...[p][cm]
+#Katsuno
+Are you overflowing with anticipation for the actual performance?[p][cm]
+Well, that sounds interesting, hehehe.[p][cm]
+#Akiko
+N-No, I don't want that. Please milk me...![p][cm]
+#Katsuno
+Hmph, that's not how you ask. Learn some manners.[p][cm]
+#Akiko
+M-My... Master, my breasts are swollen...[p][cm]
+It feels like I'm about to produce breast milk.[p][cm]
+Please... milk this lewd livestock of yours...[p][cm]
+#Katsuno
+Hehehe, looks like you've become quite skilled at expressing yourself.[p][cm]
+But it's no good.[p][cm]
+#Akiko
+N-No, that's...![p][cm]
+#Katsuno
+Hehehe, don't panic. I'll milk your breasts for you.[p][cm]
+But it won't be me doing it. I was just thinking of an interesting game.[p][cm]
+#Akiko
+Huh, a game...? W-What do you mean...?[p][cm]
+#Katsuno
+You know Tani from the AD, right?[p][cm]
+He's head over heels for you.[p][cm]
+#Akiko
+Tani-kun...? What does he have to do with this...?[p][cm]
+#Katsuno
+I'll make him milk your breasts.[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro258-5.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ええっ！？そ、そんなの無理よ！」[p]
-#勝野
-「これは命令だ。お前に拒否権なんかねえ」[p]
-#亜紀子
-「そ、そんな・・・！」[p]
-#勝野
-「あいつは前からお前に夢中だったからな。最近のお前の格好見て毎日オナニーが止まらんだろう」[p]
-「かわいそうだからちょっと美味しい目を見せてやろうと思ってな」[p]
-「谷田のこと嫌いか？」[p]
-#亜紀子
-「き、嫌いじゃないけど・・・」[p]
-#勝野
-「じゃあいいじゃねえか。なにも谷田にこれからも調教に加わってもらおうって気はねえ」[p]
-「ちょっとした遊びさ」[p]
-#亜紀子
-「で、でも・・・」[p]
+#Akiko
+Eh!? Th-That's impossible![p][cm]
+#Katsuno
+This is an order. You don't have the right to refuse.[p][cm]
+#Akiko
+N-No, that...![p][cm]
+#Katsuno
+He's been obsessed with you for a while.[p][cm]
+Seeing your recent appearance, he probably can't stop masturbating every day.[p][cm]
+I thought I'd show him a little taste of something delicious because I feel[r]sorry for him.[p][cm]
+Do you hate Tani?[p][cm]
+#Akiko
+W-Well, I don't hate him but...[p][cm]
+#Katsuno
+Well, then it's fine. I don't have any intention of involving Tani in your[r]training from now on.[p][cm]
+Just a little game.[p][cm]
+#Akiko
+B-But...[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="00"  cross="false"  storage="chara/1/hiro258-1.png"  ]
 [tb_start_text mode=1 ]
-#勝野
-「プランは２つ考えてきてあるんだが・・・プランＡ、プランＢとするか」[p]
-「これがどっちも捨てがたいんだよ。よし、お前が好きなほうを選んでいいぞ」[p]
-#亜紀子
-「えっ・・・そんなこと言われても・・・」[p]
-「内容がわからないと選びようがないわ」[p]
-#勝野
-「そうだな・・・プランＡはお前の演技力が必要だが、リスクは少ない」[p]
-「プランＢは運がよければなにも起こらないかもしれないが、リスクは高いな」[p]
-「さぁどっちが良い？」[p]
-#亜紀子
-「り、リスクって・・・一体なにを・・・」[p]
-（どうしよう・・・どっちを選んだからいいのかしら？）[p]
+#Katsuno
+I've come up with two plans...[p][cm]
+Plan A and Plan B. Both of these options are hard to give up.[p][cm]
+Alright, you can choose the one you like.[p][cm]
+#Akiko
+Ehh... even if you say that...[p][cm]
+If I don't understand the content, I can't make a choice.[p][cm]
+#Katsuno
+I see... Plan A requires your acting skills, but the risk is minimal.[p][cm]
+Plan B might not have any consequences if you're lucky, but the risk is high.[p][cm]
+So, which one is better?[p][cm]
+#Akiko
+R-Risk... What exactly... (What should I do...[p][cm]
+Does it really matter which one I choose?)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
-[glink  color="black"  storage="scene9.ks"  size="20"  text="プランＡ（演技力）"  x="479"  y="325"  width=""  height=""  _clickable_img=""  target="*s9a"  ]
-[glink  color="black"  storage="scene9.ks"  size="20"  text="プランＢ（運次第）"  x="481"  y="411"  width=""  height=""  _clickable_img=""  target="*s9b"  ]
+[glink  color="black"  storage="scene9.ks"  size="20"  text="Plan A (Acting skills)"  x="479"  y="325"  width=""  height=""  _clickable_img=""  target="*s9a"  ]
+[glink  color="black"  storage="scene9.ks"  size="20"  text="Plan B (Depending on luck)"  x="481"  y="411"  width=""  height=""  _clickable_img=""  target="*s9b"  ]
 [s  ]
 *s9a
 
 [tb_start_text mode=1 ]
-#亜紀子
-（リスクが少ない・・・安全ってことよね）[p]
-「じゃあ・・・Ａ・・・で」[p]
-#勝野
-「Ａか、よし。それじゃ作戦を教えるから覚えろよ」[p]
-#亜紀子
-「・・・」[p]
+#Akiko
+(If the risk is low... that means it's safe, right?)[p][cm]
+Then... Plan A...[p][cm]
+#Katsuno
+Alright, if you choose A. Then I'll tell you the plan, so remember it well.[p][cm]
+#Akiko
+・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -131,27 +142,27 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="枯れ葉が集う路地裏通り_2.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「・・・って感じだ。わかったか？」[p]
-#亜紀子
-「そ、そんなの・・・無理よ・・・」[p]
-#勝野
-「拒否権は無いって言ったろ」[p]
-「なに大丈夫さ。あいつはお前を崇拝してるからお前が巧くやれば普通に終るよ」[p]
-#亜紀子
-「そんなこと言っても・・・」[p]
-#勝野
-「部屋に隠しカメラをセットしておくからな。ちゃんと台本どおりやらないとお仕置きだぞ」[p]
-「それじゃ上手くやれよ」[p]
+#Katsuno
+... That's how it is. Do you understand?[p][cm]
+#Akiko
+Th-there's no way... I can't do that...[p][cm]
+#Katsuno
+I told you that you don't have the right to refuse.[p][cm]
+Don't worry. He idolizes you, so if you handle it well, it will end normally.[p][cm]
+#Akiko
+Even if you say that...[p][cm]
+#Katsuno
+I'll set up hidden cameras in the room.[p][cm]
+If you don't follow the script properly, there will be punishment.[p][cm]
+Then do it well.[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="勝野"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あぁ・・・やるしかないのね・・・」[p]
+#Akiko
+Ah... I have no choice but to do it...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -168,43 +179,41 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ち、千山さん、頼みたいことってなんですか？」[p]
-「千山さんのためなら、な、なんでもやりますよ・・・！」[p]
-#亜紀子
-「あ・・・そ、そう・・・えーっと・・・その・・・」[p]
-#谷田
-「な、なんですか？」[p]
-「お、お金なら僕もってませんけど」[p]
-#亜紀子
-「ち、違うわ。お金じゃなくて・・・えっと・・・」[p]
-#谷田
-「そ、そうですよね。よかった」[p]
-「それじゃ、なんですか？なんでも言ってください！」[p]
-#亜紀子
-「そ、その・・・ぼ、母乳を・・・」[p]
-#谷田
-「え？」[p]
-#亜紀子
-「あの・・・母乳を搾ってほしいの」[p]
-#谷田
-「えっ、ぼ、母乳・・・？えっ？」[p]
-#亜紀子
-「その・・・わたし、体質で母乳が出るの」[p]
-「それで、自分では上手く搾れないから、谷田くんに搾ってもらえないかって・・・」[p]
-#谷田
-「ぼ、母乳を搾る・・・！？」[p]
-「えっ、ど、ど、ど、どういう・・・」[p]
-#亜紀子
-「あ、その・・・」[p]
-#谷田
-「えっ、あ、冗談ですか！？そ、そうですよね」[p]
-「母乳なんておかしいし・・・ドッキリみたいなやつですか？」[p]
-#亜紀子
-「違うのっ・・・あの・・・」[p]
-「ん・・・っ」[p]
-#谷田
-「えっ！？ちょ、ち、千山さん・・・！？」[p]
+#Tanida
+U-Um, Chiyama-san, what is it that you want to ask me to do?[p][cm]
+I-I'll do anything for you, Chiyama-san...![p][cm]
+#Akiko
+Ah... Y-Yes... Umm... Well...[p][cm]
+#Tanida
+W-What is it? Oh, um... I don't have any money either, but...[p][cm]
+#Akiko
+No, that's not it. It's not about money...[p][cm]
+um...[p][cm]
+#Tanida
+Y-Yes, that's right. Thank goodness.[p][cm]
+Well then, what is it? Please tell me anything![p][cm]
+#Akiko
+Th-That... I-I want... breast milk...[p][cm]
+#Tanida
+Huh?[p][cm]
+#Akiko
+Um... I want you to milk me for breast milk.[p][cm]
+#Tanida
+Huh? B-Breast milk...? Huh?[p][cm]
+#Akiko
+Um... I have a condition where I produce breast milk.[p][cm]
+So, because I can't do it well myself, I was wondering if you could help me by[r]milking me, Tanida-kun...[p][cm]
+#Tanida
+M-Milking breast milk...!? Huh, wha-wha-wha-what do you mean...?[p][cm]
+#Akiko
+Uh, well...[p][cm]
+#Tanida
+Huh, uh, are you joking!? Th-That's right, right?[p][cm]
+Breast milk is strange... Is this some kind of prank?[p][cm]
+#Akiko
+No... um... Hmm...[p][cm]
+#Tanida
+Huh!? Ch-Chiyama-san...!?[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="300"  wait="true"  pos_mode="false"  ]
@@ -213,59 +222,62 @@
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro261-4.png"  width="466"  height="1165"  left="174"  top="40"  reflect="false"  ]
 [chara_mod  name="谷田"  time="00"  cross="false"  storage="chara/4/hiro259-3.png"  ]
 [tb_start_text mode=1 ]
-#谷田
-「あ、あ、あ、わ・・・」[p]
-「ど、ど、ど、どうしたんですか、ち、千山さん・・・っ！」[p]
-「な、なんで裸に・・・！？」[p]
-#亜紀子
-「ぬ、脱がないと母乳を搾れないから・・・」[p]
-#谷田
-「え、ぼ、母乳って本当に・・・？」[p]
-「で、でも・・・なんで全部脱ぐんですか・・・？」[p]
-#亜紀子
-「母乳で汚れちゃったら困るでしょ。そ、それで一応全部脱いだのよ」[p]
-#谷田
-「そ、そうなんですか？・・・す、すごい・・・千山さんの裸・・・ゴクリ」[p]
-「お、おっぱい・・・すごっ・・・！」[p]
-#亜紀子
-「は、恥ずかしいからあんまり見ないで・・・」[p]
-#谷田
-「す、すいません・・・ハァハァ」[p]
-#亜紀子
-「そ、それでね・・・あの、わ、わたしだけ裸じゃ恥ずかしいから・・・谷田君も脱いで欲しいの」[p]
-#谷田
-「えっ！？ぼ、ボクもですか！？」[p]
-「で、でも・・・」[p]
-#亜紀子
-「お、お願い。ねっ」[p]
-#谷田
-「わ、わかりました・・・っ！」[p]
+#Tanida
+A-A-Ah... W-What's wrong, Ch-Chiyama-san...!?[p][cm]
+W-Why are you naked...!?[p][cm]
+#Akiko
+I-I have to undress to extract breast milk...[p][cm]
+#Tanida
+Eh, i-is it true... breast milk?[p][cm]
+But... why do I have to take off everything...?[p][cm]
+#Akiko
+If I get dirty with breast milk, it would be troublesome.[p][cm]
+S-So, I took off everything just in case.[p][cm]
+#Tanida
+I-Is that so?... I-It's amazing...[p][cm]
+Chiyama-san's naked body... *gulp* B-Breasts...[p][cm]
+amazing...![p][cm]
+#Akiko
+P-Please don't look too much...[p][cm]
+It's embarrassing...[p][cm]
+#Tanida
+S-Sorry...[p][cm]
+*panting*[p][cm]
+#Akiko
+U-Um... S-So, um... I-I feel embarrassed being the only one naked...[p][cm]
+I want you, Tanida-kun, to undress too.[p][cm]
+#Tanida
+Eh!? M-Me too!? B-But...[p][cm]
+#Akiko
+P-Please...[p][cm]
+#Tanida
+I-I understand...![p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro999.jpg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ぜ、全部ですよね？」[p]
-#亜紀子
-「え、ええ、全部脱いで・・・」[p]
-#谷田
-「は、はいっ。・・・脱ぎました！」[p]
-#亜紀子
-「あ、ありがとう」[p]
-（あぁ・・・すごい・・・ビンビンに勃起してるわ・・・）[p]
-#谷田
-「そ、それで・・・母乳を搾るって・・・どうすれば？」[p]
-#亜紀子
-「えっと・・・搾るっていうより・・・その・・・す、吸ってほしいの」[p]
-#谷田
-「えっ！？」[p]
-「す、吸う！？・・・ぼ、母乳を・・・！？」[p]
-#亜紀子
-「え、ええ・・・その方が出やすいから・・・」[p]
-「こ、こっちへ来て。・・・ここに仰向けに・・・頭をここに・・・」[p]
-#谷田
-「は、はい・・・っ！」[p]
+#Tanida
+E-Everything, right?[p][cm]
+#Akiko
+E-Everything, undress...[p][cm]
+#Tanida
+Y-Yes... I-I undressed![p][cm]
+#Akiko
+Thank you. (Ah... amazing... it's so hard and erect...)[p][cm]
+#Tanida
+S-So... how do I... extract breast milk?[p][cm]
+#Akiko
+Um... rather than extracting...[p][cm]
+um... I want you to... suckle them.[p][cm]
+#Tanida
+S-Suckle!? E-Extract breast milk...!?[p][cm]
+#Akiko
+Uh, um... it's easier to extract that way...[p][cm]
+C-Come over here... Lie down on your back...[p][cm]
+Put your head here...[p][cm]
+#Tanida
+Y-Yes...![p][cm]
 
 [_tb_end_text]
 
@@ -273,203 +285,215 @@
 [bg  time="1000"  method="crossfade"  storage="hiro139-1.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ハァァァ・・・！千山さんとこんな・・・ゆ、夢じゃないのか・・・ハァハァ」[p]
-「ほ、本当にす、す、吸っていいんですか・・・？」[p]
-#亜紀子
-「ええ・・・す、吸ってちょうだい」[p]
-#谷田
-「は、はい・・・ん・・・ハムッ」[p]
-#亜紀子
-「アッ・・・♥」[p]
-#谷田
-「チューーーッ・・・ンムーーーッ」[p]
-#亜紀子
-「ンッ・・・アンッ♥」[p]
-#谷田
-「チューーーッ・・・チューーーッ・・・ンッ！？」[p]
-「チューーッ！ゴクッ・・・ゴクッ」[p]
-#亜紀子
-「ンンッ・・・アフッ♥」[p]
-#谷田
-「チューーッ！チューーッ！・・・ゴクッ・・・プハーーッ！」[p]
-「ほ、本当に母乳だ・・・千山さんの母乳・・・ムチューーーーッ！」[p]
-#亜紀子
-「アンッ・・・ハァッ・・・ンンッ♥」[p]
-（あぁ・・・谷田君のおチンチン・・・あんなにビクンビクンして・・・）[p]
-（あれを・・・手で・・・しないといけないのよね・・・）[p]
+#Tanida
+Haaah...! Being like this with Senzan-san...[p][cm]
+I-Is this... not a dream...? Haaah, haaah.[p][cm]
+I-Is it really okay for me to...[p][cm]
+suckle...?[p][cm]
+#Akiko
+Y-Yes... please suckle.[p][cm]
+#Tanida
+Y-Yes... mmm... hahh...[p][cm]
+#Akiko
+Ahh...[p][cm]
+♥[p][cm]
+#Tanida
+Mmm... mmm...[p][cm]
+#Akiko
+Nn...[p][cm]
+Ahh♥[p][cm]
+#Tanida
+Mmm... mmm... Ahh!? *smooch* Gulp...[p][cm]
+gulp...[p][cm]
+#Akiko
+Nn...[p][cm]
+Ahh♥[p][cm]
+#Tanida
+*smooch* *smooch*... *gulp*...[p][cm]
+*sigh* I-Is this really breast milk...?[p][cm]
+Senyama-san's breast milk... *smooch*![p][cm]
+#Akiko
+Ahh... Haa... Ahh♥ (Ahh... Tanida-kun's dick...[p][cm]
+it was twitching so much...) (I have to...[p][cm]
+do it with my hand... don't I...)[p][cm]
 #
-スッ・・・[p]
-#谷田
-「チュウウーーッ・・・！？」[p]
-「プハッ・・・えっ！？ち、千山さん・・・！？」[p]
-#亜紀子
-「あ・・・あの、母乳を搾ってくれてるお礼に・・・わ、わたしもミルクを搾らせて♥」[p]
+*hmm...[p][cm]
+*[p][cm]
+#Tanida
+Mwahhh...!? Puh... Huh!? Ch-Chiyama-san...!?[p][cm]
+#Akiko
+Umm... Uhm, as a thank you for helping me express breast milk...   I-I would[r]like to help you express milk too ♥[p][cm]
 #
-サスッサスッサスッ[p]
-#谷田
-「おぉぉぉおおお・・・っ」[p]
-「そ、そんなことされたら・・・す、すぐに・・・出ちゃ・・・」[p]
-#亜紀子
-「ほ、ほらオッパイをちゃんと吸って・・・」[p]
-#谷田
-「ンプッ・・・ンムーーー・・・チュゥ・・・チューーッ・・・ゴクッ」[p]
-「チューーーッ！ゴクッ・・・チューーーッ！ゴクッ・・・」[p]
+Sasu sasu sasu[p][cm]
+#Tanida
+Ohhhhhh... I-If you do that...[p][cm]
+I-I'll... cum right away...[p][cm]
+#Akiko
+H-Hey, please suck my breasts properly...[p][cm]
+#Tanida
+Mmmph... Mmmooo... Chu... Chuuu...[p][cm]
+*gulp* *Mwahhh... *gulp*... Mwahhh...[p][cm]
+*gulp*...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro139-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「アンッ・・・ンッ♥」[p]
+#Akiko
+Ahh...[p][cm]
+Ahh ♥[p][cm]
 #
-シュッシュッシュッ・・・[p]
-#谷田
-「ンンーーーーッ！ンムーーーッ・・・チューーーッ」[p]
-「ゴクッ・・・ゴクッ・・・チュバッ・・・あぁっ・・・やばいです・・・っ！」[p]
-#亜紀子
-「ハァッ・・・ハァッ・・・アフッ♥」[p]
-「ミ、ミルク・・・いっぱい出して・・・っ♥」[p]
+*Sshh... sshh... sshh...  *[p][cm]
+#Tanida
+Nnnngh! Mmmmm... Chuuhhh... *Gulp*...[p][cm]
+*gulp*... *chubaa*... Ahh... This is bad...![p][cm]
+#Akiko
+Haa... haa... Ahh ♥ M-Milk... Please give me lots of milk...   ♥[p][cm]
 #
-シュッシュッシュッシュッ・・・[p]
-#谷田
-「う・・・ンムッ・・・チューーーッ！ゴクッ」[p]
-「チューーッ！ゴクッゴクッ！チューーーーッ」[p]
-#亜紀子
-「アヒッ・・・ンッ・・・アンッ♥」[p]
+*Shh... shh... shh... shh...  *[p][cm]
+#Tanida
+U... Mmm... Chuuuu! *gulp* *Mwahhh![p][cm]
+*gulp* *gulp*! Mwahhh!  *[p][cm]
+#Akiko
+Ahh... Nngh...   Unghh ♥[p][cm]
 #
-シュッ！シュッ！シュッ！[p]
-#谷田
-「ンンーーーッ！ゴクッゴクッ」[p]
-「ンムーーーーーッ！（出るーーーーっ！）」[p]
+*Shh! Shh! Shh!  *[p][cm]
+#Tanida
+Nnnghhh! *gulp* *gulp* Mmmoooooo![p][cm]
+(I'm coming!)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro139-3.jpg"  ]
 [tb_cg  id="139"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッ！！[p]
-#亜紀子
-「あっ・・・♥」[p]
-#谷田
-「ンンーーーーッ！」[p]
-「チューーーーッ！チューーーッ！」[p]
+*Splash![p][cm]
+*[p][cm]
+#Akiko
+Ahh...[p][cm]
+♥[p][cm]
+#Tanida
+Nnnghhh! *Mwah! Mwah!  *[p][cm]
 #
-ドピュピュピュッ！[p]
-#亜紀子
-「ンンーーッ！アッ・・・・ハンッ♥」[p]
+*Squirt![p][cm]
+*[p][cm]
+#Akiko
+Nnnghhh! Ah...   Han♥[p][cm]
 #
-ピュッ・・・ピュピュッ[p]
-#谷田
-「ンムーーーッ・・・ゴクッ・・・ゴクッ・・・」[p]
-「プハッ・・・ハァッ・・・ハァッ・・・」[p]
-#亜紀子
-「ハァ・・・アフゥ・・・」[p]
-（一回出したのに・・・まだカチカチだわ・・・）[p]
-#谷田
-「ハァ・・・フゥッ・・・ち、千山さん・・・」[p]
-「あ、あの・・・ボク・・・」[p]
-#亜紀子
-「あっ・・・た、谷田君、ありがとう。母乳吸ってもらってだいぶ・・・楽になったわ」[p]
-#谷田
-「えっ・・・あ、はい」[p]
-#亜紀子
-「あ・・・ありがとうね」[p]
-（どうしよう・・・もう一回しないといけないんだけど・・・）[p]
-#谷田
-「いえっ、全然！ボクでよければいつでも・・・っ！」[p]
-#亜紀子
-「そ、そうね・・・ええ・・・」[p]
-（勝野に手の後、口でもう一回してやれって言われてるのよね・・・）[p]
-#谷田
-「あ、あの・・・母乳・・・お、美味しかったです！」[p]
-#亜紀子
-「えっ！？あ、ええ・・・あ、ありがとう・・・」[p]
-「そ、それでね・・・谷田君」[p]
-#谷田
-「はい、なんですか？」[p]
-#亜紀子
-「そ、その・・・お、お礼に・・・」[p]
-「ぼ、母乳を吸ってくれたお礼に・・・た、谷田君のミルクも飲んであげる♥」[p]
-（わ、わたし何言ってるのかしら・・・？）[p]
-#谷田
-「えっ！？なっ・・・」[p]
-#亜紀子
-「ねっ、谷田君のミルク飲ませて・・・っ♥」[p]
-（こうなったらヤケクソよ！）[p]
-#谷田
-「えっ・・・う、うわっ！」[p]
+*Pshh...[p][cm]
+Pshh pshh*[p][cm]
+#Tanida
+Mmmooo... gulp... gulp... Puh...[p][cm]
+Haa... Haa...[p][cm]
+#Akiko
+Haa... Afu... (Even though I came once...[p][cm]
+it's still hard...)[p][cm]
+#Tanida
+Haa... Fuu... Ch-Chiyama-san...[p][cm]
+Uh, um... I...[p][cm]
+#Akiko
+Ah... T-Tanida-kun, thank you.[p][cm]
+After you suckled my breast milk...[p][cm]
+I feel much... better now.[p][cm]
+#Tanida
+Huh... Ah, yes.[p][cm]
+#Akiko
+Thank you... (What should I do...[p][cm]
+I have to do it one more time...)[p][cm]
+#Tanida
+No, not at all! If it's okay with me, anytime...![p][cm]
+#Akiko
+Y-Yes... I-I see... (Katsuno wants me to do it again, but this time with my[r]mouth...)[p][cm]
+#Tanida
+Uh, um... The breast milk... It was delicious![p][cm]
+#Akiko
+Huh!? Uh, well... Th-Thank you...[p][cm]
+S-So, um... Tanida-kun...[p][cm]
+#Tanida
+Yes, what is it?[p][cm]
+#Akiko
+Um, th-that... as a t-thank you...[p][cm]
+As a thank you for... um, letting me suck your breast milk...[p][cm]
+I'll let you drink Tanida-kun's milk ♥ (W-What am I saying...?)[p][cm]
+#Tanida
+Huh!? Wha...[p][cm]
+#Akiko
+H-Hey, let me drink Tanida-kun's milk...[p][cm]
+♥ (If it's come to this, I'll go all out!)[p][cm]
+#Tanida
+Huh... Uh, oh no![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro140-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ん・・・ハムッ♥」[p]
-#谷田
-「うわっ・・・ち、千山さん・・・っ！」[p]
-#亜紀子
-「チュバ・・・チュム・・・っ♥」[p]
-#谷田
-「あぁ・・・ち、千山さんの・・・舌が・・・っ！」[p]
-#亜紀子
-「チュプッ・・・レロレロレロン♥」[p]
-（あぁ・・・なんて恥ずかしい格好なの・・・）[p]
-#谷田
-「お・・・ぅ・・・ち、千山さんの・・・アソコ・・・ハァッハァッ」[p]
-#亜紀子
-「チュプッ・・・チュバッ・・・ンムッ♥」[p]
-（あぁ・・・見られてる・・・わたしのアソコ・・・）[p]
-#谷田
-「ハァッ・・・ハァッ・・・ペロッ・・・」[p]
-#亜紀子
-「ンンッ・・・ンフゥッ♥」[p]
-「チュ・・・チュポッ・・・アンッ・・・イヤァッ♥」[p]
+#Akiko
+Mmm...[p][cm]
+Hahm ♥[p][cm]
+#Tanida
+Uwah... Ch-Chiyama-san...![p][cm]
+#Akiko
+Chupa... Chumu...   ♥[p][cm]
+#Tanida
+Ah... Ch-Chiyama-san's... tongue...![p][cm]
+#Akiko
+Chupu... Lero lero leron ♥ (Ah...[p][cm]
+I feel so embarrassed in this outfit...)[p][cm]
+#Tanida
+Oh... uh... Chiyama-san's... crotch...[p][cm]
+hah...[p][cm]
+hah[p][cm]
+#Akiko
+Chupu... Chuba... Nmu ♥ (Ah...[p][cm]
+I'm being watched... my genitals...)[p][cm]
+#Tanida
+Haa... haa... pero...[p][cm]
+#Akiko
+Nnn... Nfu ♥ Chuu... Chupo... Ahn...   Iyaa ♥[p][cm]
 #
-ムギュッ[p]
-#谷田
-「ンブッ！？ンムーーーッ！」[p]
-#亜紀子
-「ハァッ・・・ハムッ・・・ンチュッ♥」[p]
-（あぁ・・・恥ずかしすぎて・・・顔にアソコを押し付けちゃった・・・）[p]
+*Mugyu*[p][cm]
+#Tanida
+Nbu!? Nmuuuu![p][cm]
+#Akiko
+Haa... Hamu... Nchu ♥ (Ah... It's so embarrassing...[p][cm]
+I pressed my genitals against my face...)[p][cm]
 #
-ムギューー[p]
-#谷田
-「ンムーーッ・・・プフーーーッ！」[p]
-「フーッ・・・フーッ・・・レロレロレロッ」[p]
-#亜紀子
-「ンンッ！？・・・チュムッ・・・レロレロッ♥」[p]
-（あぁ・・・谷田君の舌が・・・っ）[p]
-#谷田
-「ンフーーッ・・・レロレロレロッ・・・チュバチュバッ！」[p]
-#亜紀子
-「ンンーーッ！・・・チュブッ・・・ジュプッ♥」[p]
-（は、早くイかせないと・・・っ）[p]
+*Mugyu*[p][cm]
+#Tanida
+Nmuuu... Pufuuuu! Hoo... Hoo...[p][cm]
+Lick, lick, lick.[p][cm]
+#Akiko
+Nn?! ... Chum... Lick, lick ♥ (Ah...[p][cm]
+Tanida-kun's tongue...)[p][cm]
+#Tanida
+Nfuuh... Lero lero lero... Chubachuba![p][cm]
+#Akiko
+Nnnhhh... Chubu... Jupu ♥ (I need to make them come quickly...)[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro140-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ジュプッ！ジュポッ！チュブッ♥」[p]
-#谷田
-「ンフーーーッ！ンフーーーッ！」[p]
-「ベロベロベロッ・・・ズチュチュチュッ！」[p]
-#亜紀子
-「ンフッ！・・・ジュプッ！ジュポッ！ジュポッ！」[p]
-（唇をオ○ンコのようにして・・・全体を・・・）[p]
-#谷田
-「ンムーーーッ！ジュパジュパチュバッ！」[p]
-#亜紀子
-「ジュプッ！チュバッ！チュポッ！」[p]
-（同時に舌でも・・・敏感な部分を・・・）[p]
-#谷田
-「ンンーーーッ・・・レロレロレロレロッ！」[p]
-#亜紀子
-「ンンーーッ♥」[p]
-（早く・・・イかさないと・・・イかされちゃう・・・っ♥）[p]
-「・・・ジュプッ！ジュポッ！チュバッ！チュプッ！」[p]
-#谷田
-「ンフッ！？・・・ンンーーーッ！」[p]
+#Akiko
+Jupu! Jupo!   Chubu ♥[p][cm]
+#Tanida
+Nfuuuu! Nfuuuu! Lick, lick, lick...[p][cm]
+Suck, suck, suck![p][cm]
+#Akiko
+Nfuh! ... Jupu! Jupo! Jupo! (Making my lips like a pussy...[p][cm]
+Covering the whole thing...)[p][cm]
+#Tanida
+Mmmoooo! Jupa jupa chubaa![p][cm]
+#Akiko
+Jupu! Chubaa! Chupo! (At the same time, with my tongue...[p][cm]
+on the sensitive parts...)[p][cm]
+#Tanida
+Nnnhhh... Lick, lick, lick, lick, lick![p][cm]
+#Akiko
+Mmmmm ♥ (Hurry... If I don't cum soon...[p][cm]
+I'll be made to cum... ♥) ... Jupu![p][cm]
+Jupo! Chubaa! Chupo![p][cm]
+#Tanida
+Nfuh!? ... Nnnhhh![p][cm]
 
 [_tb_end_text]
 
@@ -477,34 +501,34 @@
 [tb_cg  id="140"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッ！！[p]
-#亜紀子
-「ングッ！？・・・ンムーーーッ・・・ゴキュッ♥」[p]
-（なにこの量・・・さっきより多いんじゃ・・・）[p]
-「ンチューーーッ・・・ゴキュッゴキュッ♥」[p]
-#谷田
-「ンムーーー・・・プフーーーッ！」[p]
-「ハァッ・・・ち、千山さんが・・・ボクのザーメンを・・・っ！」[p]
+*Splash![p][cm]
+*[p][cm]
+#Akiko
+Ngu!? ... Nmuuuu... Gokyuu ♥ (What is this amount...[p][cm]
+It's more than before...)[p][cm]
+Nchu---- Gokyuu, gokyuu ♥[p][cm]
+#Tanida
+Nmuuuu... Puhhhh! Haa... Chiyama-san is...[p][cm]
+going to take my semen...![p][cm]
 #
-ビュルビュル・・・ッ！[p]
-#亜紀子
-「ンンッ・・・ズズズッ・・・ゴクッ♥」[p]
-#谷田
-「アフゥ・・・ッ」[p]
+*Bubbling...![p][cm]
+*[p][cm]
+#Akiko
+Nnn... Zuzuzu...   Gokku ♥[p][cm]
+#Tanida
+Ahh...[p][cm]
 #
-ピュピュピュッ・・・[p]
-#亜紀子
-「ン・・・チュゥ・・・ゴクッ♥」[p]
-「ズズッ・・・チュムッ・・・ゴクンッ♥」[p]
-#谷田
-「ち、チンコが・・・溶けて無くなりそう・・・」[p]
-#亜紀子
-「ズズッ・・・ゴクッ♥」[p]
-「チュバ・・・チュポンッ♥」[p]
-「ハァ・・・ハァ・・・」[p]
-（あぁ・・・いっぱい飲んじゃった・・・谷田君の精液・・・）[p]
-#谷田
-「はぁ・・・はぁ・・・これは・・・夢なのか・・・？」[p]
+Pyu pyu pyu...[p][cm]
+#Akiko
+N... chu... gokuu ♥ Zuzu... Chumu...   Gokun ♥[p][cm]
+#Tanida
+M-My dick... it feels like it's melting away...[p][cm]
+#Akiko
+Zuzu... Gokku ♥ Chu... chupon ♥ *Haa...[p][cm]
+haa... * (Ahh... I drank a lot...[p][cm]
+Tanida-kun's semen...)[p][cm]
+#Tanida
+Haa... haa... Is this... a dream...?[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -515,74 +539,67 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「あ、あの・・・」[p]
-#亜紀子
-「え・・・」[p]
-#谷田
-「あ・・・いや・・・」[p]
-#亜紀子
-「・・・・・・」[p]
-「あっ・・・時間が・・・。そろそろ本番に行かないと」[p]
-#谷田
-「あっ・・・そ、そうですね！」[p]
-「い、急がないと・・・」[p]
-#亜紀子
-「あ、谷田君・・・このことは他の人には・・・」[p]
-#谷田
-「あっ・・・はいっ。わ、わかってます。だ、誰にも言いません！」[p]
-#亜紀子
-「ぜ、絶対・・・お願いね」[p]
-#谷田
-「は、はいっ・・・」[p]
-「そ、それじゃボクは先に・・・」[p]
+#Tanida
+Ah, um...[p][cm]
+#Akiko
+Eh...[p][cm]
+#Tanida
+Ah... no...[p][cm]
+#Akiko
+・・・・・・ Ah... time... I should go to the main event soon.[p][cm]
+#Tanida
+Ah, I need to hurry...[p][cm]
+#Akiko
+Ah, Tanida-kun... We shouldn't tell anyone else about this...[p][cm]
+#Tanida
+Ah... Yes. I-I understand. I won't tell anyone![p][cm]
+#Akiko
+P-Please... I'm begging you.[p][cm]
+#Tanida
+Y-Yes... W-Well then, I'll go ahead...[p][cm]
 [_tb_end_text]
 
 [chara_move  name="谷田"  anim="true"  time="300"  effect="linear"  wait="true"  left="1017"  top="-17"  width="461"  height="1106"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あっ・・・谷田君！」[p]
-（最後の指令をやらないと・・・）[p]
-#谷田
-「えっ、なんですか？」[p]
+#Akiko
+Ah... Tanida-kun! (If I don't carry out the final order...)[p][cm]
+#Tanida
+Huh, what is it?[p][cm]
 [_tb_end_text]
 
 [chara_move  name="谷田"  anim="false"  time="300"  effect="linear"  wait="true"  left="657"  top="-17"  width="461"  height="1106"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あ・・・その・・・」[p]
-#谷田
-「・・・？」[p]
-#亜紀子
-（えーい・・・やるしかないわ・・・！）[p]
-「た、谷田君のミルク、とっても美味しかったわっ」[p]
+#Akiko
+Ah... um...[p][cm]
+#Tanida
+...?[p][cm]
+#Akiko
+(Alright... I have no choice but to do it...!)[p][cm]
+T-Tanida-kun's milk was really delicious![p][cm]
 [_tb_end_text]
 
 [chara_move  name="美里"  anim="true"  time="300"  effect="linear"  wait="true"  left="536"  top="53"  width="555"  height="1388"  ]
 [tb_start_text mode=1 ]
 #
-チュッ♥[p]
+*Kiss*♥[p][cm]
 [_tb_end_text]
 
 [chara_move  name="美里"  anim="true"  time="300"  effect="linear"  wait="true"  left="55"  top="10"  width="555"  height="1388"  ]
 [chara_mod  name="谷田"  time="00"  cross="true"  storage="chara/4/hiro259-3.png"  ]
 [tb_start_text mode=1 ]
-#谷田
-「えっ・・・！？」[p]
-#亜紀子
-「じゃ、じゃあわたしは行くわね・・・！」[p]
+#Tanida
+Huh...!?[p][cm]
+#Akiko
+Well, then I'll be going...![p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#谷田
-「あっ・・・千山さん！」[p]
-「・・・・・・」[p]
-「千山さん・・・」[p]
+#Tanida
+Ah... Senyama-san! ・・・・・・ Senyama-san...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 [_tb_end_text]
 
@@ -595,52 +612,54 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（あぁ・・・恥ずかしかった・・・）[p]
-（谷田君とあんなことするなんて・・・夢だったらいいのに・・・）[p]
-（明日から谷田君とどんな顔で会ったらいいのよ・・・）[p]
+#Akiko
+(Ah... I was so embarrassed...)[p][cm]
+(I wish it was just a dream...[p][cm]
+doing something like that with Tanida-kun...)[p][cm]
+(How should I face Tanida-kun starting from tomorrow...)[p][cm]
 
 [_tb_end_text]
 
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-3.png"  width="531"  height="1275"  left="630"  top="-26"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#勝野
-「どうだ、ちゃんとシナリオ通りにやったか？」[p]
-#亜紀子
-「・・・ちゃんとやったわ」[p]
-#勝野
-「ククク、谷田のやつどんな反応したか・・・映像をチェックするのが楽しみだぜ」[p]
-#亜紀子
-「・・・・・・」[p]
-#勝野
-「カメラを回収してくるか。ほれ、お前は早く行かないと本番に遅れるぞ」[p]
-#亜紀子
-「え、ええ・・・」[p]
+#Katsuno
+How did it go? Did you do it properly according to the scenario?[p][cm]
+#Akiko
+... I did it properly.[p][cm]
+#Katsuno
+Hehehe, I can't wait to check the footage and see how Tanida reacted.[p][cm]
+#Akiko
+・・・・・・[p][cm]
+#Katsuno
+Should I go and retrieve the camera?[p][cm]
+Hurry up, or you'll be late for the main event.[p][cm]
+#Akiko
+Uh, um...[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro203.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「さてと、隠しカメラを回収して・・・と」[p]
-「・・・あれ？」[p]
+#Katsuno
+Well then, let's go retrieve the hidden camera...[p][cm]
+and ... Huh?[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="勝野"  time="200"  cross="false"  storage="chara/5/hiro256-2.png"  ]
 [tb_start_text mode=1 ]
-#勝野
-「しまった、電源が切れてるじゃねえか！」[p]
-「くそっ、せっかくあいつの演技と谷田の顔を見てやりたかったのによ・・・」[p]
+#Katsuno
+Damn it, the power is off! Damn it, I really wanted to see his acting and[r]Tanida's face...[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="勝野"  time="200"  cross="false"  storage="chara/5/hiro256-1.png"  ]
 [tb_start_text mode=1 ]
-#勝野
-「・・・まぁいい、あいつは撮られてたと信じてるし、ちゃんとやったはずだろう」[p]
-「また今度他の男に抱かせるのも面白いな。金とか取ってもいいし。まだまだあいつで遊べるぜ」[p]
+#Katsuno
+... Well, it's fine. I believe he was being recorded, so he must have done it[r]properly.[p][cm]
+It would be interesting to let another man embrace me next time.[p][cm]
+I wouldn't mind taking some money for it either.[p][cm]
+I can still have fun with that guy.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -650,38 +669,39 @@
 [tb_eval  exp="f.tp=1"  name="tp"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（運次第ではなにも起こらないかもしれない・・・それに賭けて見るしかないわ）[p]
-「じゃあ・・・プランＢで」[p]
-#勝野
-「ククク、Ｂを選ぶか。なかなかのギャンブラーだな」[p]
-「よし、それじゃついて来い」[p]
-#亜紀子
-「え・・・どこへ・・・」[p]
+#Akiko
+(Depending on luck, nothing might happen...[p][cm]
+I have no choice but to bet on it and see.)[p][cm]
+Well then... Plan B it is.[p][cm]
+#Katsuno
+Hehehe, choosing option B, huh?[p][cm]
+Quite the gambler. Alright, then follow me.[p][cm]
+#Akiko
+Eh... Where are we going...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro203.jpg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「ここでいいだろ。よし、脱げ」[p]
-#亜紀子
-「えっ・・・」[p]
-#勝野
-「全裸になるんだよ。早くしろ」[p]
-#亜紀子
-「く・・・はい」[p]
+#Katsuno
+This should be fine. Alright, strip.[p][cm]
+#Akiko
+Huh...[p][cm]
+#Katsuno
+Get completely naked. Hurry up.[p][cm]
+#Akiko
+U-... Okay.[p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="false"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro261-1bk.png"  width="501"  height="1253"  left="119"  top="27"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ぬ、脱いだわ・・・」[p]
-#勝野
-「よし、それじゃ準備をするか」[p]
-#亜紀子
-「えっ・・・あっ・・・！？」[p]
+#Akiko
+I-I took off my clothes...[p][cm]
+#Katsuno
+Alright, then let's get ready.[p][cm]
+#Akiko
+Eh... Ah...!?[p][cm]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -696,242 +716,263 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="SO_SAD.ogg"  ]
 [tb_start_text mode=1 ]
-#勝野
-「・・・よし、これで準備完了だ」[p]
-「ククク、オムツがよく似合ってるぜ」[p]
-#亜紀子
-「ンーーーーーッ！ンンーーーーッ！」[p]
-（イヤァーッ！こんなの・・・っ！）[p]
-#勝野
-「手錠は自分では指が届かなくて外せないが、他人がやれば簡単にはずせるようになってるからな」[p]
-「谷田に外してもらえればそれで終わりだ。裸は見られるがな」[p]
-「あとは谷田の理性が勝つか欲望が勝つかだな。クヒヒヒ」[p]
-#亜紀子
-「ンンッ・・・ン・・・」（そんな・・・）[p]
-#勝野
-「隠しカメラをここにセットして・・・と」[p]
-「谷田を匿名メールでここに呼び出すから、そしたらゲームスタートだ」[p]
-「ククク、谷田のやつどんな反応するか・・・楽しみだぜ」[p]
-#亜紀子
-「ンーーーッ・・・ウゥ・・・」（あぁ・・・イヤァ・・・なんでこんなことを・・・）[p]
-#勝野
-「それじゃな、幸運を祈るぜ。クックックック」[p]
-#亜紀子
-「ンンーーーーッ！ンンーーーッ！」（ま、待って・・・！行かないでぇ・・・！！）[p]
+#Katsuno
+... Alright, with this, the preparations are complete.[p][cm]
+Hehehe, the diaper suits you well.[p][cm]
+#Akiko
+Mmmmm! Mmmm! (Yaaah! This is...!)[p][cm]
+#Katsuno
+I can't reach the handcuffs myself, so I can't take them off, but someone else[r]can easily remove them.[p][cm]
+If Tanita can take them off, then it will be over.[p][cm]
+They may see me naked, but that's it.[p][cm]
+It all comes down to whether Tanita's reason or desire will prevail.[p][cm]
+Kuhuhu.[p][cm]
+#Akiko
+Mmm... Mm... (No way...)[p][cm]
+#Katsuno
+Set up a hidden camera here...[p][cm]
+and... I will call Tanita here with an anonymous email, and then the game will[r]start.[p][cm]
+Kuhuhu, I'm looking forward to seeing how Tanita will react...[p][cm]
+#Akiko
+Mmm... Ugh... (Ah... No... Why is this happening...)[p][cm]
+#Katsuno
+Well then, I'll pray for your good fortune.[p][cm]
+Kukukukuku.[p][cm]
+#Akiko
+Nnnngh! Nnnngh! (W-Wait...! Don't go...!!)[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro127-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（あぁ・・・行っちゃった・・・）[p]
-（も、もうすぐここに谷田君が・・・来る・・・！）[p]
-（ハァッハァッ・・・なんとか逃げられないかしら）[p]
+#Akiko
+(Ah... They left...) (T-Tanita-kun will be here soon...!)[p][cm]
+(Haa... Haa... I wonder if I can somehow escape...)[p][cm]
 #
-ガチャガチャッ！[p]
-#亜紀子
-（ダメだわ・・・外れない！）[p]
-（ああ、谷田君が来ちゃう・・・！）[p]
+*Clatter![p][cm]
+*[p][cm]
+#Akiko
+(It's no use... It won't come off!)[p][cm]
+(Ah, Tanita-kun is coming...!)[p][cm]
 #
-ドクッドクッドクッドクッ[p]
-#亜紀子
-（心臓が・・・ものすごいスピードで打ってるわ）[p]
-（も、もし・・・他の人が入ってきたら・・・！？）[p]
-（人生が終っちゃう・・・っ！）[p]
-（あぁ・・・！）[p]
+*Thump, thump, thump, thump*[p][cm]
+#Akiko
+(My heart... is pounding at an incredible speed)[p][cm]
+(W-What if... someone else comes in!?)[p][cm]
+(My life is over...!) (Ah...!)[p][cm]
 [_tb_end_text]
 
 [bg  time="0"  method="crossfade"  storage="hiro203.jpg"  ]
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-1.png"  width="484"  height="1162"  left="358"  top="-9"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
-ガチャッ[p]
-#谷田
-「誰か知らないけどこんなところに何が・・・」[p]
+*Clatter![p][cm]
+*[p][cm]
+#Tanida
+Who knows what's in a place like this...[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="谷田"  time="00"  cross="true"  storage="chara/4/hiro259-3.png"  ]
 [tb_start_text mode=1 ]
-#谷田
-「エッ・・・う、ウワッ！！？」[p]
-「えっ、ち、千山さん・・・！？」[p]
+#Tanida
+Huh... W-What!? Eh, Chiyama-san...!?[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="false"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro127-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンーーーーッ！！」（た、谷田君！！）[p]
-#谷田
-「ち、千山さん・・・ど、どうしたんですか！？」[p]
-「こんなところで何を・・・っていうか、は、裸で・・・！」[p]
-#亜紀子
-「ンーーーーッ！ンンッ・・・」（み、見ないでぇーーっ！）[p]
-#谷田
-「い、一体これは・・・。う、動けないんですか・・・？」[p]
+#Akiko
+Ughhh!! (T-Tanida-kun!!)[p][cm]
+#Tanida
+C-Chiyama-san... W-What's wrong!?[p][cm]
+What are you doing here... I mean, why are you...[p][cm]
+naked?![p][cm]
+#Akiko
+Mmmmm! Nnnn... (D-Don't look!!)[p][cm]
+#Tanida
+W-What on earth is this...? C-Can't you move...?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro127-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンンーーーーッ！ンムーーーッ！」（お願い！手錠を外して！）[p]
-#谷田
-「え、そ、それ・・・紙オムツ！？」[p]
-「なんでそんなものを・・・」[p]
-#亜紀子
-「ンンッ・・・ンムーーーッ！」（オムツはいいから・・・助けてっ！）[p]
-#谷田
-「えっ・・・あっ、猿ぐつわでしゃべれないんですね・・・！」[p]
-「だ、誰かにやられたんですか？・・・もしかして暴漢が・・・！？」[p]
-#亜紀子
-「ンンーーーーッ！」（とにかく外してちょうだい！早く！）[p]
-#谷田
-「と、とりあえず・・・口のやつを外したらいいですか・・・？」[p]
-「ち、近づいてもいい・・・ですか？」[p]
-#亜紀子
-「ンンーーーッ！ンンッ！」（近づいていいから！とにかく外して！）[p]
-#谷田
-「ち、近づきますよ・・・」[p]
-「ち、千山さんの・・・お、おっぱい・・・ゴクリ」[p]
-#亜紀子
-「ンンッ・・・ウウゥ・・・」（あぁそんなに見ないで・・・）[p]
-#谷田
-「・・・・・・ジィーーー」[p]
-「・・・ハッ！そ、そうだ・・・く、口のやつを外しますね」[p]
-「・・・あれ・・・外せないぞ・・・あれっ」[p]
-#亜紀子
-「ンムーーッ・・・ンンッ！」（口のはいいから・・・手錠をお願い・・・！）[p]
-#谷田
-「かっちりはまってて・・・外せない・・・！」[p]
-「どうやって・・・あっ、すいませんっ！」[p]
-「お、オッパイに手が・・・ハァッハァッ」[p]
-#亜紀子
-「ウー・・・ンムーッ！」（そ、それはいいから・・・手錠を・・・！）[p]
-#谷田
-「ハァハァ・・・ち、千山さんの・・・オッパイ・・・ゴクリ」[p]
-#亜紀子
-「ンッ・・・ンンッ！？」（た、谷田君・・・！？し、しっかりして！）[p]
+#Akiko
+Nnnngh! Mmmmm! (Please! Remove the handcuffs!)[p][cm]
+#Tanida
+Eh, i-is that... a diaper!? Why would you have something like that...?[p][cm]
+#Akiko
+Nnnn... Mmmoooohhh! (Forget about the diaper...[p][cm]
+help me!)[p][cm]
+#Tanida
+Huh... Ah, you can't speak with a monkey gag on...![p][cm]
+D-Did someone do this to you?...[p][cm]
+Could it be a thug...!?[p][cm]
+#Akiko
+Nnnngh! (Please remove it anyway![p][cm]
+Hurry!)[p][cm]
+#Tanida
+U-Um... Should I start by removing the thing on your mouth...?[p][cm]
+C-Can I... get closer...?[p][cm]
+#Akiko
+Nnnn! Nnn! (You can come closer![p][cm]
+Just remove it anyway!)[p][cm]
+#Tanida
+I-I'm getting closer... C-Chiyama-san's...[p][cm]
+b-breasts...[p][cm]
+gulp[p][cm]
+#Akiko
+Nnn... Uuuh... (Ah, please don't look at me like that...)[p][cm]
+#Tanida
+...... Hmmmm ... Hah! Th-That's right...[p][cm]
+I-I'll remove the thing on your mouth, okay?[p][cm]
+... Huh... I can't remove it...[p][cm]
+Huh?[p][cm]
+#Akiko
+Mmm... Nnn! (Forget about the mouth...[p][cm]
+Please remove the handcuffs!)[p][cm]
+#Tanida
+It's tightly locked... I can't remove it...![p][cm]
+How... Ah, I'm sorry! My hands on...[p][cm]
+your breasts... Haa... Haa...[p][cm]
+#Akiko
+Ugh... Mmm! (F-Forget about that...[p][cm]
+Remove the handcuffs...!)[p][cm]
+#Tanida
+Haa... Haa... Ch-Chiyama-san's...[p][cm]
+breasts...[p][cm]
+gulp[p][cm]
+#Akiko
+Nn... Nn?! (T-Tanida-kun...!? G-Get a hold of yourself!)[p][cm]
 
 [_tb_end_text]
 
 [bg  time="10"  method="crossfade"  storage="hiro127-2.jpg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ハァッハァッ・・・ち、千山さんの・・・ハァハァ」[p]
-#亜紀子
-「ンンンーーーッ！ンフーーーッ！」（ちょっと谷田君！は、外してお願い！）[p]
-#谷田
-「ちょ・・・ちょっとだけ・・・」[p]
+#Tanida
+Haa... Haa... Ch-Chiyama-san's...[p][cm]
+Haa... Haa...[p][cm]
+#Akiko
+Nnnn! Huh! (Tanida-kun, please remove it!)[p][cm]
+#Tanida
+Just... just a little...[p][cm]
 #
-モミッ[p]
-#亜紀子
-「ンッ！？ンンーーーッ！」（アンッ！や、やめてーーっ！）[p]
-#谷田
-「はわっ・・・や、柔らかい・・・っ！」[p]
-「も・・・もう・・・うぉぉーっ！」[p]
-#亜紀子
-「ンンーーーーーーッ！」（イヤァーーーーッ！）[p]
+*Squeeze...[p][cm]
+*[p][cm]
+#Akiko
+Nn?! Nnnn---! (Ah! S-Stop it--)[p][cm]
+#Tanida
+Ah... so soft...! M-Mou... Uwooo![p][cm]
+#Akiko
+Nnnn---! (Yaaahhh!)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro127-3.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ムフォーーーー！ハムッ！」[p]
-「ムフーーーーッ！ムフーーーッ！」[p]
-#亜紀子
-「ンムーーーーーッ！？ンンーーーーーッ！」（アァーーーッ！ダメェーーーーッ！）[p]
-#谷田
-「ハモーーッ！ブチュッ！チュバッ！」[p]
-「モミモミモミモミ・・・チューーッ！」[p]
-#亜紀子
-「ンムーーーーッ・・・！ンフーーーッ♥」（アンッ・・・吸っちゃ・・・アンンッ♥）[p]
-（しょ、正気に返って・・・谷田君・・・アンッ♥）[p]
-#谷田
-「フゴッ・・・チュバッ・・・チュバッ！」[p]
-「チューーーッチューーーッ！」[p]
-#亜紀子
-「ンッ・・・ンンーーーーーーッ！」（そ、そんなに吸ったら・・・っ！で、出ちゃ・・・うっ♥）[p]
-#谷田
-「チューーッ！チューーーッ！・・・フモッ！？」[p]
-「エッ・・・これ・・・ぼ、母乳！？」[p]
-「な、なんで千山さんが・・・子供がいるはずないのに・・・？」[p]
-#亜紀子
-「ンンッ・・・ンフゥッ・・・」（あぁ・・・母乳が出ること・・・知られちゃった・・・）[p]
-#谷田
-「ち、千山さんの・・・ぼ、ぼ、母乳・・・ふぉおおおっ！」[p]
-「ハムッ！チューーーッ・・・ゴクッ！チューーーーッ・・・ゴクッ」[p]
-#亜紀子
-「ンンンーーーーッ！ンフーーーーーッ♥」（イヤァーーッ！の、飲まないでェーーーーッ・・・ヤンッ♥）[p]
-#谷田
-「チューッ！ゴクッゴクッ！」[p]
-「チューーッ！ゴクッ！チューーッ！ゴクッ！・・・ムハーーーッ！」[p]
-#亜紀子
-「ンンーーーーーッ！ンフーーーーッ♥」（ダメェーーーーッ！オッパイそんなに強く吸っちゃ・・・アヒィーーーっ♥）[p]
-#谷田
-「チュバッ！チュバッ！ムフーーーッ！」[p]
-「ンチューーーーッ！ゴクッゴクッ！チューーーーッ！ゴクッツゴクッ！」[p]
-#亜紀子
-「ンフゥッ！・・・・ンンンーーーーーーーーッ♥」（アッ・・・ダメェーーーーーッ♥）[p]
+#Tanida
+Mufuuuu! Haaam! *Mmmmm! Mmmmm!  *[p][cm]
+#Akiko
+Nnnmuuuuuu?! Nnnnuuuuuu?! (Aaaahhh![p][cm]
+Noooo!)[p][cm]
+#Tanida
+Haaamooo! Buchu! Chuba! Squeeze, squeeze, squeeze...[p][cm]
+mmmwah![p][cm]
+#Akiko
+Nmuuuuuu...! Nfuuuuuu♥ (Ah... you're sucking...[p][cm]
+Ahhh♥) (G-Get a hold of yourself...[p][cm]
+Tanida-kun... Ahh♥)[p][cm]
+#Tanida
+Fugo... chubba... chubba! *Mwahhh![p][cm]
+Mwahhh![p][cm]
+*[p][cm]
+#Akiko
+Nnn... Nnnn---! (D-Don't suck so much...[p][cm]
+I-I'm going to... cum♥)[p][cm]
+#Tanida
+Mwahhh! Mwahhh!... Huh?! Huh...[p][cm]
+This... i-it's breast milk?! W-Why does Senyama-san...[p][cm]
+have a child even though she shouldn't...?[p][cm]
+#Akiko
+Nnn... Nfu... (Ah... I've been found out...[p][cm]
+that my breast milk is coming out...)[p][cm]
+#Tanida
+S-Senyama-san's... b-breast milk...[p][cm]
+f-fooooohhhh! *Ham! Chuuuu... Gokku![p][cm]
+Chuuuu... Gokku!  *[p][cm]
+#Akiko
+Nnnn---! Nfu---♥ (Nooo, don't drink it...[p][cm]
+Yaaan♥)[p][cm]
+#Tanida
+*Suck! Gulp gulp! * *Mwahhh! Gulp![p][cm]
+Mwahhh! Gulp!... Ahhhh!  *[p][cm]
+#Akiko
+Nnn---! Nfu---♥ (No, stop it! Don't suck my breasts so hard...[p][cm]
+Ahii---♥)[p][cm]
+#Tanida
+Chubaa! Chubaa! Mufuuu! *Nchu----![p][cm]
+Gokku gokku! Chuu----! Gokku tsu gokku!  *[p][cm]
+#Akiko
+Nfuu!... Nnnn---♥ (Ah... Nooo---♥)[p][cm]
 #
-ジョワワワワワ・・・[p]
-#谷田
-「チューーーッ！ゴクゴクッ！」[p]
-「チューーーーッ！ゴクゴクッ！」[p]
-#亜紀子
-「ンンッ・・・ンフゥッ♥」（あぁ・・・オムツの中で・・・おしっこ・・・出ちゃ・・・った♥）[p]
+Jo-wa-wa-wa-wa-wa...[p][cm]
+#Tanida
+*Chuuuu! Gokugoku! * *Mwahhh! Gulp gulp!  *[p][cm]
+#Akiko
+Nnn... Nfuu♥ (Ah... I... peed in my diaper♥)[p][cm]
 #
-ジョワワワワワ・・・[p]
-#谷田
-「チューーーーッ！ゴクッ！チューーーーッ！ゴクッ！」[p]
-「ゴクッゴクッ！・・・プハァーーーーッ！」[p]
-「ハァッ・・・ハァッ・・・ち、千山さん・・・！」[p]
-#亜紀子
-「ンンッ・・・ンフーーッ・・・ンフーーーッ♥」（あんっ・・・谷田君に・・・オッパイ吸われて・・・お漏らししちゃった・・・♥）[p]
+Jo-wa-wa-wa-wa-wa...[p][cm]
+#Tanida
+Mwahhh! Gulp! Mwahhh! Gulp! *Gokku gokku!...[p][cm]
+Puhhhh! * Haa... Haa... Chi, Senyama-san...![p][cm]
+#Akiko
+Nnn... Nfuuu... Nfuuu♥ (Ah... Tanida-kun...[p][cm]
+sucking on my breasts... I wet myself...[p][cm]
+♥)[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro127-4.jpg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ハァッ・・・ハァッ・・・あぁ、なんてことを・・・」[p]
-「千山さんのオッパイを、吸ってしまった・・・」[p]
-#亜紀子
-「ンンーーーッ！」（いいから・・・手錠を外して！）[p]
-#谷田
-「あぁ・・・く、クビだ・・・いや・・・逮捕・・・！？」[p]
-#亜紀子
-「ンンーーーッ！ンムーーッ！」[p]
-（誰にも言わないから・・・まず手錠を外してちょうだい！）[p]
-#谷田
-「もう・・・取り返しがつかない・・・」[p]
-「こ・・・こうなったら・・・やけくそだ！」[p]
+#Tanida
+Haa... Haa... Ah, what have I done...[p][cm]
+I ended up sucking Senyama-san's breasts...[p][cm]
+#Akiko
+Nnnngh! (Just... remove the handcuffs!)[p][cm]
+#Tanida
+Ah... I-I'm fired... No... arrested...!?[p][cm]
+#Akiko
+Nnnngh! Mmmmm! (Because I won't tell anyone...[p][cm]
+Please remove the handcuffs first!)[p][cm]
+#Tanida
+It's... irreversible now... If...[p][cm]
+if it's come to this... I'll do it recklessly![p][cm]
 
 [_tb_end_text]
 
 [bg  time="400"  method="crossfade"  storage="hiro127-5.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンンーーーーーッ！？」（ダ、ダメェッ！落ち着いて谷田君！誰にも言わないから！）[p]
-#谷田
-「こ、この・・・オムツ・・・ハァハァ・・・」[p]
-「ぬ、脱がせてあげますね・・・っ！」[p]
-#亜紀子
-「ンーーーーーッ！？ンムーーーーッ！！」[p]
-（ダメェーーーーッ！そ、それだけはやめてぇーーーーっ！）[p]
-#谷田
-「ち、ち、千山さんの・・・アソコ・・・ハァッ・・・ハァッ」[p]
+#Akiko
+Nnnngh!? (N-No! Calm down, Tanida-kun![p][cm]
+I won't tell anyone!)[p][cm]
+#Tanida
+Th-this... diaper... *panting*...[p][cm]
+I-I'll undress you...![p][cm]
+#Akiko
+Nnnnngh!? Mmmmm! (No! P-Please stop that!)[p][cm]
+#Tanida
+C-Chi-Chiyama-san's... down there...[p][cm]
+*panting*...[p][cm]
+*panting*[p][cm]
 
 [_tb_end_text]
 
 [bg  time="400"  method="crossfade"  storage="hiro127-6.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンンーーーーーーーッ！」（イヤァアーーーーッ！）[p]
-#谷田
-「えっ・・・こ、これは・・・！？」[p]
+#Akiko
+Nnnnghhh! (Nooo!)[p][cm]
+#Tanida
+Eh... Th-this is...!?[p][cm]
 
 
 [_tb_end_text]
@@ -939,158 +980,181 @@
 [bg  time="1000"  method="crossfade"  storage="hiro127-7.jpg"  ]
 [tb_cg  id="127"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンンーーーッ・・・ンンムーーッ！」（あぁ・・・見られちゃった・・・！）[p]
-#谷田
-「こ、これは・・・！？」[p]
-「私は・・・ドＭの変態です・・・ご、ご自由に・・・？」[p]
-#亜紀子
-「ンムーーーーッ！ンフーーーッ！」（谷田君、これは違うの・・・！）[p]
-「ンンーーーーッ！ンンーーーーッ！」（自分で書いたんじゃないの！わたしは変態なんかじゃ・・・！）[p]
-#谷田
-「も・・・もしかして・・・これって暴漢にやられたとかじゃなくて・・・ＳＭプレイかなんかだったんですか？」[p]
-「ち、千山さんが・・・ドＭ・・・？」[p]
-#亜紀子
-「ンンーーーーッ！ブンブンッ」（違うわ！違う！）[p]
-#谷田
-「てことは・・・嫌がる振りして、本当は喜んでたんですね・・・っ！？」[p]
-#亜紀子
-「ンムーーーッ！ンンーーーッ！」（違うの！谷田君聞いて！）[p]
-#谷田
-「まさか・・・千山さんがそんな変態だったなんて・・・！」[p]
-「ハァッ・・・ハァッ・・・憧れの千山さんが・・・！」[p]
-#亜紀子
-「ンンーーーーッ！ンフーーーーッ！」（違うの！わたしを信じて・・・っ！）[p]
-#谷田
-「ハァッハァッご、ご自由に・・・ってことは・・・いいんだよな？」[p]
-「グフッ・・・グフフフッ」[p]
-#亜紀子
-「ンンーーーーーーッ！ンムゥーーーッ！」（イヤァーーーーっ！ヤメテェーーーーッ！）[p]
+#Akiko
+Nnnngh... Mmmmm! (Ah... I've been seen...)[p][cm]
+#Tanida
+Th-this is...!? I... I'm a masochistic pervert...[p][cm]
+Feel free to do as you please...?[p][cm]
+#Akiko
+Nnmuuuuh! Nfuuuuh! (Tanida-kun, this is not right...)[p][cm]
+Nnnngh! Nnnngh! (I didn't write this myself![p][cm]
+I'm not a pervert...!)[p][cm]
+#Tanida
+C-Could it be... this wasn't an assault by a random attacker...[p][cm]
+but some kind of BDSM play or something?[p][cm]
+C-Chiyama-san... is a masochist...?[p][cm]
+#Akiko
+Nnnnghhhh! B-bunbun! (No, that's not it![p][cm]
+That's not it!)[p][cm]
+#Tanida
+So... you were pretending to dislike it, but you actually enjoyed it...!?[p][cm]
+#Akiko
+Nmuuuuh! Nnnngh! (No, that's not it![p][cm]
+Tanida-kun, listen!)[p][cm]
+#Tanida
+No way... Chiyama-san is such a pervert...![p][cm]
+Haah... Haah... My admired Chiyama-san...![p][cm]
+#Akiko
+Nnnnghhhh! Nfuuuhhhh! (That's not it![p][cm]
+Please believe me...!)[p][cm]
+#Tanida
+Haa... Haa... So, you're saying...[p][cm]
+it's okay for me to do as I please...?[p][cm]
+*Guh...[p][cm]
+Guhuhuhu*[p][cm]
+#Akiko
+Nnnnngh! Nmuuuuh! (Nooo! Stop it!)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro129-1.jpg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ふもぉーーーっ！」[p]
-#亜紀子
-「ンーーーーッ！ンンーーーーッ！」（イヤァーーーーーッ！ヤメテェーーーーッ！）[p]
-#谷田
-「千山さんっ・・・千山さん・・・っ！」[p]
-#亜紀子
-「ンムーーーッ！」（離してぇーーっ！）[p]
-#谷田
-「ハァッ！ハァッ！・・・これが千山さんの・・・マ・・・マ○コ・・・っ！」[p]
-「フッ・・・フンッ・・・あ、あれっ・・・入らないぞ・・・クソッ！」[p]
-#亜紀子
-「ンンーーーーッ！ンンーーーッ！」（アァーーーッ！ヤメテェーーーーッ！）[p]
-#谷田
-「こ、こうか・・・！？」[p]
+#Tanida
+Fuuuhhhh![p][cm]
+#Akiko
+Nnnnngh! Nnnngh! (No! Stop it!)[p][cm]
+#Tanida
+Chiyama-san... Chiyama-san...![p][cm]
+#Akiko
+Nmmuuuu! (Let gooo of meeee!)[p][cm]
+#Tanida
+Haa... Haa... This is Chiyama-san's...[p][cm]
+pu... pussy...! Huh... Hngh...[p][cm]
+Ah, that... it won't go in... damn it![p][cm]
+#Akiko
+Nnnnghhh! Nnnnghhh! (Aaaah! Stop it!)[p][cm]
+#Tanida
+Is this... working...!?[p][cm]
 #
-ズプッ！[p]
-#亜紀子
-「ンンーーーーーッ！？」（アァーーーーッ！）[p]
-#谷田
-「や、やった・・・！は、入った・・・！」[p]
-「ち、ち、千山さんと・・・せ、セックス・・・っ！」[p]
-#亜紀子
-「ンンーーーッ・・・・ンムーーーーッ！」（あぁぁ・・・谷田君のオチンチンが・・・！）[p]
-#谷田
-「ハァッ！ハァッ！・・・す、すごい・・・これが千山さんの・・・！」[p]
-「ハァッ・・・フンッ！フンッ！」[p]
+*Squish![p][cm]
+*[p][cm]
+#Akiko
+Nnnnghhh!? (Aaaahhh!)[p][cm]
+#Tanida
+Y-Yatta...! It, it went in...![p][cm]
+Ch-Chiyama-san and... s-sex...![p][cm]
+#Akiko
+Nnnnghhhh... Mmmuuuuu! (Aaahhh...[p][cm]
+Tanida-kun's dick...!)[p][cm]
+#Tanida
+Haa... Haa... Amazing... This is Chiyama-san's...![p][cm]
+*Haa... Hngh! Hngh!  *[p][cm]
 #
-ズムッ！ズムッ！[p]
-#亜紀子
-「ンムーーーーーッ！ンンッ！」（あぁ・・・う、動かないでぇ・・・アンッ！）[p]
-#谷田
-「す、すごっ・・・熱くて・・・ギュッって・・・ハァッハァッ！」[p]
+*Thrust! Thrust!  *[p][cm]
+#Akiko
+Nnnmuuuuu! Nnnn! (Aah... D-Don't move...[p][cm]
+Ahhh!)[p][cm]
+#Tanida
+A-Amaz... ing... It's so hot...[p][cm]
+Tight... Haa... Haa...![p][cm]
 #
-ズチュッ！ズチュッ！ズチュッ！[p]
-#亜紀子
-「ンンッーーンンンーーーッ♥」（アンッ！アァンーーーッ♥）[p]
-#谷田
-「き、気持ちよすぎ・・・っ！ホァァァーーッ！」[p]
+*Slosh! Slosh! Slosh!  *[p][cm]
+#Akiko
+Nnnnghhhhh... Ahhhh! (Aaahhh...)[p][cm]
+#Tanida
+It feels too good...! Ahhhhh![p][cm]
 #
-ズンッ！ズンッ！ズンッ！[p]
-#亜紀子
-「ンムーーーーーッ！ンンーーーッ♥」（アァーーーッ・・・奥・・・突いちゃ・・・っ！アヒィッ♥）[p]
-#谷田
-「ハァッハァッ・・・ち、千山さん・・・っ・・・ハムッ！」[p]
-#亜紀子
-「ンンーーーッ！？」（た、谷田君・・・！）[p]
-#谷田
-「ブチュゥ！ベロベロベロッ・・・ンムーーッ！」[p]
-#亜紀子
-「ンムーーーーッ！ンフゥッ♥」（唇舐めまわさないでぇ・・・ンンッ♥）[p]
-#谷田
-「ハムッ・・・ベチュ・・・チュバッ！」[p]
+*Thrust! Thrust! Thrust!  *[p][cm]
+#Akiko
+Nnnmuuuuu! Nnnn! (Aaahhh... Deeper...[p][cm]
+You're thrusting inside... Ahhiiii♥)[p][cm]
+#Tanida
+Haa... Haa... Chiyama-san... Haa...![p][cm]
+#Akiko
+Nnnn?! (T-Tanida-kun...!)[p][cm]
+#Tanida
+*Slurp! Lick, lick, lick... Mmmoooan!  *[p][cm]
+#Akiko
+Nnmuuuuu! Nfu♥ (Don't lick my lips...[p][cm]
+Nnn♥)[p][cm]
+#Tanida
+Hamu... Betchu... Chu-ba![p][cm]
 #
-ズチュッ！ズチュッ！ズチュッ！[p]
-#亜紀子
-「ンムーーーーッ・・・ンンンッ♥」（キスしながら・・・奥をズンズンしないでぇ・・・っ♥）[p]
+*Slosh! Slosh! Slosh!  *[p][cm]
+#Akiko
+Mmmmm... Nnnn♥ (Don't thrust deep inside while kissing...[p][cm]
+Ahh... ♥)[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro129-2.jpg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ハァッハァッ・・・千山さんっ・・・ムチューッ」[p]
+#Tanida
+Haa... Haa... Chiyama-san...   Mchu-[p][cm]
 #
-グチュッ！グチュッ！グチュッ！[p]
-#亜紀子
-「ンンンーーーッ！ンムゥ・・・っ♥」（アァーーーッ・・・感じちゃう・・・ンンッ♥）[p]
-#谷田
-「ハァッハァッハァッ・・・ベロベロベロンッ」[p]
+*Mwah! Mwah! Mwah!  *[p][cm]
+#Akiko
+Nnnn! Mmm... ♥ (Aaahhh... I'm feeling it...[p][cm]
+Nnnn♥)[p][cm]
+#Tanida
+Haa... Haa... Haa... *Lick, lick, lick...  *[p][cm]
 #
-ズチュッ！ズチュッ！ズチュッ！[p]
-#亜紀子
-「ンフーーーッ！ンンッ・・・ンンーッ♥」（谷田君の唾液が・・・く、臭い・・・アァッ♥）[p]
+*Slosh! Slosh! Slosh!  *[p][cm]
+#Akiko
+Nfuuhhhh! Nnnn... Nnnnhhhh♥ (Tanida-kun's saliva...[p][cm]
+it smells... Ahhh♥)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro129-3.jpg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ふぉぉおーーーーっ！」[p]
+#Tanida
+Foooooooh![p][cm]
 #
-パン！パン！パン！パンッ！[p]
-#亜紀子
-「ンフゥーーーーッ♥」（アヒィーーーッ♥）[p]
-#谷田
-「あぁっ、千山さんっ！千山さん・・・っ！」[p]
+*Thump! Thump! Thump! Thump!  *[p][cm]
+#Akiko
+Nfuuhhhh! Ahiiiiii♥ (Ahhhhhh♥)[p][cm]
+#Tanida
+Ahh, Chiyama-san! Chiyama-san...![p][cm]
 #
-パン！パン！パン！パン！パン！パンッ！[p]
-#亜紀子
-「ンンーーーーッ！ンフゥーーーーッ♥」（は、激し・・・ッ！・・・イ、イっちゃ・・・っ♥）[p]
-#谷田
-「アッ・・・アッ・・・で、出る・・・ッ！」[p]
+*Bang! Bang! Bang! Bang! Bang![p][cm]
+Bang![p][cm]
+*[p][cm]
+#Akiko
+Nnnn! Mmm... ♥ (It's intense...[p][cm]
+Ah, I'm... ♥)[p][cm]
+#Tanida
+Ah... Ah... I'm... I'm coming...![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro129-4.jpg"  ]
 [tb_cg  id="129"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ンンンーーーーーーーッッ♥」（イクーーーーーーーッ♥）[p]
-#谷田
-「うっ・・・ハァッ！」[p]
+#Akiko
+Nnnn... Ahhhhhhhhhhh♥ (I'm comingggggggggg♥)[p][cm]
+#Tanida
+Ugh... Haaah![p][cm]
 #
-ドピュピュピュッ！[p]
-#亜紀子
-「ン・・・・・・ッ♥ンフゥ・・・ッ♥」（な、中に・・・いっぱい出てる・・・っ♥）[p]
-#谷田
-「あ・・・う・・・っ」[p]
+*Squirt! Squirt! Squirt!  *[p][cm]
+#Akiko
+N... Fuu... ♥ Ngh... (I-it's filling me up...[p][cm]
+so much is coming out... ♥)[p][cm]
+#Tanida
+Ah... Ugh...[p][cm]
 #
-ビュルビュルビュルッ！[p]
-#亜紀子
-「ンンッ・・・ンフッ・・・ンッ♥」（あぁ・・・まだ出てる・・・奥に出てる・・・♥）[p]
-#谷田
-「ハァッ・・・ハァッツ・・・ブフゥ」[p]
+*Gush! Gush! Gush!  *[p][cm]
+#Akiko
+Nnn... Huh... Nn♥ (Ah... It's still coming out...[p][cm]
+Deep inside... ♥)[p][cm]
+#Tanida
+Haa... Haa... Haa... Bufoo.[p][cm]
 #
-ピュ・・・ピュッ[p]
-#亜紀子
-「ンフーッ・・・ンフゥッ♥」（谷田君に・・・中出しされて・・・イかされちゃった・・・♥）[p]
+*Pyu...[p][cm]
+Pyu*[p][cm]
+#Akiko
+Nfuuh... Nfuu♥ (Tanida-kun... came inside me...[p][cm]
+and made me cum... ♥)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 
 
@@ -1105,10 +1169,9 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「は・・・ボ、ボクはなんてことを・・・」[p]
-「ち、千山さんを・・・レ、レ、レイ・・・」[p]
-「あわ・・・はわわわっ！」[p]
+#Tanida
+Wha... Wh-what have I done... Ch-Chiyama-san...[p][cm]
+R-R-Rei... Awawa... H-Huh?![p][cm]
 #
 [_tb_end_text]
 
@@ -1116,8 +1179,7 @@
 [chara_hide  name="谷田"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -1125,42 +1187,43 @@
 [chara_show  name="勝野"  time="1000"  wait="true"  storage="chara/5/hiro256-3.png"  width="561"  height="1347"  left="666"  top="-37"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#勝野
-「ククク、谷田のやつだいぶハッスルしたみたいだな」[p]
-「あわてて逃げていきやがった。小心者のくせに頑張ったぜ」[p]
-#亜紀子
-「く・・・うぅ・・・」[p]
-#勝野
-「なに泣いてるんだよ。どうせお前だって楽しんだんだろう？」[p]
-「谷田のチンポは良かったか？」[p]
-#亜紀子
-「た、楽しんでなんか・・・っ！」[p]
-#勝野
-「ウソつけ、楽しんだに決まってるぜ。お前はマゾの変態なんだからよ」[p]
-#亜紀子
-「ち、違う・・・わたしは変態じゃ・・・」[p]
-#勝野
-「まぁいい、後で動画をチェックすれば判ることだ」[p]
-「おい、それよりそろそろ行かないとやばいんじゃないのか」[p]
-#亜紀子
-「あっ・・・」[p]
-#勝野
-「しっかり仕事して来い。淫乱キャスターさんよ、ククク」[p]
-#亜紀子
-「くっ・・・」[p]
+#Katsuno
+Hehehe, it seems like Tanida has been quite busy.[p][cm]
+He hurriedly ran away. Even though he's a coward, he did his best.[p][cm]
+#Akiko
+Ku... Ugh...[p][cm]
+#Katsuno
+Why are you crying? You were enjoying it too, weren't you?[p][cm]
+Was Tanida's dick good?[p][cm]
+#Akiko
+I-I wasn't enjoying it...![p][cm]
+#Katsuno
+Don't lie, it's obvious that you enjoyed it.[p][cm]
+You're a masochistic pervert, after all.[p][cm]
+#Akiko
+N-No... I'm not a pervert...[p][cm]
+#Katsuno
+Well, it doesn't matter. We'll find out later by checking the video.[p][cm]
+Hey, shouldn't we leave soon? It's getting dangerous.[p][cm]
+#Akiko
+Ah...[p][cm]
+#Katsuno
+Do your job properly. You lewd caster, hehehe.[p][cm]
+#Akiko
+Ugh...[p][cm]
 #
 
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#勝野
-「くっくっくっ、あいつもだいぶ奴隷としてこなれてきたな」[p]
-「このままプライドの柱を一本一本へし折って、地の底まで落としてやるぜ」[p]
-「次はどんな調教をしてやるかな・・・ククク」[p]
+#Katsuno
+Hehehe, looks like she's becoming quite the obedient slave.[p][cm]
+I will break down each pillar of your pride one by one and send you plummeting[r]to the depths of the earth.[p][cm]
+I wonder what kind of training I'll do next...[p][cm]
+Kukuku.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

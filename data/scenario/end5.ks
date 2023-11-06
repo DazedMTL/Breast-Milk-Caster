@@ -9,67 +9,71 @@
 [chara_show  name="美里"  time="000"  wait="false"  storage="chara/1/hiro258-1.png"  width="569"  height="1423"  left="100"  top="15"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bluenoise.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（悔しいけど仕方がないわ・・・。逆らっても無駄なのは身に染みてわかったし・・・）[p]
-（私にできるのは心を殺してただ従順に従うだけ・・・）[p]
-#局長
-「千山君」[p]
+#Akiko
+(It's frustrating, but there's nothing I can do...[p][cm]
+I've learned firsthand that it's pointless to resist...)[p][cm]
+(All I can do is kill my emotions and obediently follow...)[p][cm]
+#Director
+Senyama-kun[p][cm]
 [_tb_end_text]
 
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-3.png"  width="572"  height="1372"  left="622"  top="-84"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「局長・・・なにか？」[p]
-#局長
-「いやぁ見たよ、深夜のアレ」[p]
-「良かったよ、うん。体を張ってよく頑張ってるじゃないか。視聴率もかなり良かったみたいだねぇ」[p]
-#亜紀子
-「どうも・・・」[p]
-（局長にも見られたのね、あぁ・・・。わざわざ言いに来ないでよ・・・）[p]
-#局長
-「批判の声もあるようだけど気にすることはないよ。アナウンサーもタレントのようなものだからね」[p]
-「キミの武器はその男好きのする身体なんだから、どんどんアピールしていきたまえ。ムフフ」[p]
-#亜紀子
-「はぁ・・・」[p]
-（全く嬉しくないわ・・・。早くどこかへ行ってくれないかしら）[p]
-#局長
-「・・・ところで、例の話は覚えてるかね？」[p]
-#亜紀子
-「例の話・・・？」[p]
-#局長
-「ほら、愛人のことだよ」[p]
-#亜紀子
-「そのことならはっきりと断ったはずですが」[p]
-「次に誘ってきたら他の人にしゃべりますよと言ったはずですよね」[p]
-#局長
-「いやいや、もちろんわかっとるよ。でももしかしたら気が変わってるかもしれないと思ってね」[p]
-「改めて聞くが、わたしの愛人になる気は無いかね？」[p]
+#Akiko
+Director... Is there something you need?[p][cm]
+#Director
+Oh, I saw it, that late-night thing.[p][cm]
+Thank goodness, yeah. You really put yourself out there and did a great job.[p][cm]
+It seems like the viewership ratings were pretty good too.[p][cm]
+#Akiko
+Thank you... (The director saw it too, huh...[p][cm]
+Ugh. I wish he didn't come all the way to tell me...)[p][cm]
+#Director
+There may be voices of criticism, but there's no need to worry.[p][cm]
+Announcers are like celebrities, after all.[p][cm]
+Your weapon is your body that attracts men, so keep appealing more and more.[p][cm]
+Mufufu.[p][cm]
+#Akiko
+*sigh* (I'm not happy at all...[p][cm]
+I wish he would go somewhere else quickly.)[p][cm]
+#Director
+... By the way, do you remember that certain conversation?[p][cm]
+#Akiko
+That certain conversation...?[p][cm]
+#Director
+You know, it's about your lover.[p][cm]
+#Akiko
+I'm sure I clearly refused that matter.[p][cm]
+I'm sure I told him that if he tries to invite me again, I will tell someone[r]else.[p][cm]
+#Director
+Let me ask again, do you have any intention of becoming my lover?[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro258-4.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ありません！愛人なんかなるわけがないでしょう！」[p]
-「わたしをなんだと思ってるんですか！？あんな仕事をしてるからって簡単に抱けると思わないで下さい！」[p]
-#局長
-「ああ、すまんすまん。わかったわかった」[p]
-「あんなスケベな仕事をしてるんだから、さぞチンポ好きだろうし誘えば簡単に抱けると思ってしまったよ」[p]
-#亜紀子
-「なっ・・・ふ、ふざけないでください！」[p]
-#局長
-「あーすまんすまん。もう二度と誘わないから」[p]
-「それじゃ仕事頑張ってくれたまえ」[p]
+#Akiko
+No! There's no way I would become your lover![p][cm]
+What do you think of me!? Don't assume that just because I have that kind of[r]job, you can easily sleep with me![p][cm]
+#Director
+Ah, I'm sorry, I understand, I understand.[p][cm]
+I thought that because you're doing such a perverted job, you must love dicks[r]and would be easy to seduce.[p][cm]
+#Akiko
+D-... D-Don't joke around, please![p][cm]
+#Director
+Ah, I'm sorry, I won't invite you again.[p][cm]
+Well then, please do your best at work.[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="局長"  time="600"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro258-1.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「・・・」[p]
-（一体どういう神経してるのかしら・・・？前にあれだけきつく言ったのにまた誘ってくるなんて・・・）[p]
-（・・・やっぱり番組であんな下品な身体を張った仕事をしてるから、そういう女に見えちゃうのかしら・・・）[p]
-（局長がそう思ってるってことはみんなもそういう風に見てるってことよね・・・私はそんな女じゃないのに・・・）[p]
-（でも・・・それも受け入れていくしかないのね・・・）[p]
+#Akiko
+・・・ (What kind of nerve does he have...?[p][cm]
+Even though I clearly told him off before, he's inviting me again...)[p][cm]
+(... Maybe because I'm doing such a vulgar job on the show, he sees me as that[r]kind of woman...)[p][cm]
+(If the director thinks that way, then everyone else must see me the same...[p][cm]
+Even though I'm not that kind of woman...)[p][cm]
+(But... I guess I have no choice but to accept it...)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -80,15 +84,15 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（はぁ・・・次の仕事は、と）[p]
-（仕事だけはきっちりやらないとね・・・ん？）[p]
-（勝野からメールだわ。・・・『仕事が終ったらＴＫホテルの７０２号室に来い』・・・？）[p]
-（なんでいつもの部屋じゃなくてホテルなんかに・・・？）[p]
-（・・・わからないけど、行くしかないわね）[p]
+#Akiko
+(Sigh... What's the next job...)[p][cm]
+(I have to do my job properly...[p][cm]
+Huh?) (I received a message from Katsuno...[p][cm]
+Come to room 702 at the TK Hotel after work...?)[p][cm]
+(Why does it have to be a hotel instead of the usual place...?)[p][cm]
+(... I don't understand, but I have no choice but to go.)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -98,99 +102,104 @@
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-1.png"  width="512"  height="1280"  left="388"  top="29"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（ＴＫホテルに着いたけど・・・この格好でこんなところにくるのは恥ずかしいわ）[p]
-（みんなにジロジロ見られてる気がする・・・。娼婦とでも思われてるんでしょうね。わたしだってバレないかしら・・・）[p]
-（７０２号室・・・ここね）[p]
-コンコン[p]
-「失礼します・・・」[p]
+#Akiko
+(I arrived at the TK Hotel, but...[p][cm]
+it's embarrassing to come to a place like this dressed like this)[p][cm]
+(I feel like everyone is staring at me...[p][cm]
+They probably think I'm a prostitute.[p][cm]
+I wonder if they can't tell it's me...)[p][cm]
+(Room 702... This is it.) *Knock, knock.[p][cm]
+* Excuse me...[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro205.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「勝野様・・・？」[p]
-「誰もいないのかしら・・・」[p]
-#？？
-「よく来たね」[p]
+#Akiko
+Mr. Katsuno...?  I wonder if there's no one here...[p][cm]
+#???
+You came well.[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro258-5.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「えっ！？あ、あなたは・・・！」[p]
+#Akiko
+Huh!? Y-You are...![p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-3.png"  width="530"  height="1272"  left="327"  top="-39"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="SO_SAD.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「きょ、局長・・・！？」[p]
-#局長
-「いやぁ、待ってたよ、千山くん。ムフフフ」[p]
-#亜紀子
-「な、なんで局長がここに・・・！？」[p]
-#局長
-「なぜだろうねぇ、ムフフフ」[p]
-「キミは誰に呼び出されたのかね？」[p]
-#亜紀子
-「そ、それは・・・」[p]
-#局長
-「勝野君だろう？隠す必要はないよ。事情は彼から聞かせてもらったからね」[p]
-#亜紀子
-「・・・！」[p]
-#局長
-「いやぁまさかキミが勝野君の言うことを何でも聞く奴隷だったなんてねぇ～」[p]
+#Akiko
+D-Director...!?[p][cm]
+#Director
+Ah, I've been waiting for you, Senyama-kun.[p][cm]
+Mufufu.[p][cm]
+#Akiko
+W-Why is the director here...!?[p][cm]
+#Director
+I wonder why, mufufu. Who called for you?[p][cm]
+#Akiko
+W-Well...[p][cm]
+#Director
+It's Katsuno-kun, right? There's no need to hide it.[p][cm]
+I've already heard the circumstances from him.[p][cm]
+#Akiko
+...![p][cm]
+#Director
+Oh my, I never expected you to be such a slave who listens to everything[r]Katsuno-kun says~[p][cm]
 
 [_tb_end_text]
 
 [chara_hide_all  time="600"  wait="true"  ]
 [chara_show  name="美里"  time="600"  wait="true"  storage="chara/1/hiro258-5.png"  width="560"  height="1400"  left="344"  top="22"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「・・・っ」[p]
-#局長
-「それで彼がキミを一晩好きにしていいと言ってくれてね」[p]
-#亜紀子
-「そ、そんな・・・」[p]
-#局長
-「この話は彼の方からもち掛けてくれたんだよ」[p]
-「いやぁ出世というのはしておくものだねぇ。こんな美味しい話が転がり込んでくるんだから。ムフフフッ」[p]
-#亜紀子
-「・・・」[p]
-（私に性接待をしろっていうの・・・？しかも、よりによって局長に・・・）[p]
-#局長
-「というわけで今夜は私がキミのご主人様だ」[p]
-#亜紀子
-「く・・・っ」[p]
-#局長
-「不服かね？疑うなら勝野君に電話で確認してもいいぞ。ん？」[p]
+#Akiko
+...[p][cm]
+#Director
+So he said that he can have his way with you for the night.[p][cm]
+#Akiko
+Th-That's...[p][cm]
+#Director
+He actually brought up this topic himself.[p][cm]
+Oh my, climbing up the career ladder is quite something.[p][cm]
+Especially when such a delicious opportunity falls into your lap.[p][cm]
+Mufufufu.[p][cm]
+#Akiko
+・・・ (He's asking me for sexual favors...?[p][cm]
+And to top it off, it's the director...)[p][cm]
+#Director
+So tonight, I will be your master.[p][cm]
+#Akiko
+Ku...[p][cm]
+#Director
+You have a problem? If you doubt it, you can call Katsuno-kun to confirm.[p][cm]
+Hm?[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="200"  cross="false"  storage="chara/1/hiro258-1.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「い、いえ・・・わかりました・・・」[p]
-#局長
-「そうかねそうかね。それならボケっとしてないですることがあるんじゃないのかね？」[p]
-「ご主人様に挨拶したまえ。勝野君にみっちりと奴隷としての作法を仕込まれてるんだろう？」[p]
-#亜紀子
-「はい・・・わかりました」[p]
-（今さら逆らっても無駄だわ・・・。相手が局長でもやることは同じよ。感情を無にしてさっさと終らせちゃいましょう）[p]
+#Akiko
+N-No... I understand...[p][cm]
+#Director
+I see, I see. If that's the case, shouldn't you have something to do instead of[r]just spacing out?[p][cm]
+Greet your master properly. I'm sure Katsuno-kun has thoroughly trained you in[r]the manners of being a slave, hasn't he?[p][cm]
+#Akiko
+Yes... I understand. (It's useless to resist at this point...[p][cm]
+Even if it's the director, the task remains the same.[p][cm]
+Let's empty our emotions and finish it quickly.)[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro260-5n.png"  width="609"  height="1523"  left="305"  top="20"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#局長
-「ほほぉ～！これが夢にまで見た千山君の裸かね！」[p]
-「想像通りだよ、ウムウム。まさに男に抱かれるために在るような身体じゃないか」[p]
-#亜紀子
-「・・・っ」[p]
-（初めて会ったときからいつも私をいやらしい目で見てた局長・・・）[p]
-（こいつにだけは絶対に抱かれたくなかったわ・・・）[p]
+#Director
+Oh ho~! So this is the naked body of Senzan-kun that I've dreamed of![p][cm]
+As I imagined, um um. It's a body that seems to exist solely to be embraced by a[r]man.[p][cm]
+#Akiko
+... (The director has always looked at me with lewd eyes ever since we first[r]met...)[p][cm]
+(I absolutely didn't want to be embraced by this person...)[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
@@ -198,70 +207,84 @@
 [bg  time="1000"  method="crossfade"  storage="hiro133-1.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ご、ご主人様・・・今日はドスケベな肉奴隷の亜紀子をご主人様のおチンポでみっちりと教育してくださいませ」[p]
-「亜紀子は・・・ご主人様の性処理をするためだけに存在する・・・か、家畜です。・・・ご自由にお使い下さい」[p]
+#Akiko
+M-Master... Please thoroughly educate your lewd meat slave Akiko with your dick[r]today, Master.[p][cm]
+Akiko... exists solely for the purpose of serving as your sexual outlet...[p][cm]
+like livestock. Please feel free to use me as you please.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro133-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「どうぞよろしくお願いします・・・っ」[p]
-#局長
-「んほぉ～～、これはよく躾けられているじゃないか！あのプライドの高い千山君の全裸土下座を見られる日が来るとは思わなかったよ。ムフフフ」[p]
-「しかし後半声が小さくてよく聞こえなかったな。自分のことをなんと言ったのかな？」[p]
-「たしか家畜とか聞こえた気がしたが・・・まさか千山君がそんなことを言うわけはないか」[p]
+#Akiko
+Nice to meet you...[p][cm]
+#Director
+Oh ho~! Look at you, so well trained![p][cm]
+I never thought the day would come when I could see proud Senzan-kun groveling[r]naked before me.[p][cm]
+Mufufu. However, I couldn't hear the second half of your voice very well.[p][cm]
+I wonder what you said about yourself?[p][cm]
+I think I heard something about livestock...[p][cm]
+But there's no way Senzan-kun would say something like that, right?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro133-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「せ、性処理用の・・・家畜です・・・っ」[p]
-#局長
-「なんと！聞き間違いじゃなかったか！わたしの誘いを断った千山君が実は家畜だったとはねぇ、いやはや」[p]
-#亜紀子
-「・・・っ」[p]
-（今日の昼に愛人にならないかと誘ってきた時には、すでに勝野との間で話がついていたのね・・・）[p]
-（こうやって私を弄るために、断られるのがわかっててわざわざあんなことを言ってきたんだわ。なんて嫌な性格なのかしら・・・）[p]
-#局長
-「キミは今日わたしになんて言ったっけねぇ？」[p]
-「愛人になんか絶対にならない、わたしはそんな軽い女じゃないとか言ってたような気がしたが・・・ん？」[p]
-#亜紀子
-（うるさいわね、ネチネチと・・・）[p]
-（でもここで悔しがったら思う壺だわ。心を無にして従順な奴隷を演じておきましょう）[p]
-「奴隷の分際で生意気なことを言って申し訳ありませんでした」[p]
+#Akiko
+I-I'm... a sexual outlet... like livestock...[p][cm]
+#Director
+What?! So it wasn't a misunderstanding after all![p][cm]
+Senzan-kun, who refused my advances, turns out to be livestock.[p][cm]
+My, my.[p][cm]
+#Akiko
+... (When he asked me to become his mistress at lunch today, it seems that he[r]had already settled things with Katsuno...)[p][cm]
+(He knew I would reject him, yet he still said those things just to toy with me.[p][cm]
+What a terrible personality he has...)[p][cm]
+#Director
+What did you say to me today? I had a feeling that I said something like 'I will[r]never become your mistress, I'm not that kind of woman...[p][cm]
+' but... huh?[p][cm]
+#Akiko
+(You're so annoying, always nagging...)[p][cm]
+(But if I show my frustration here, it'll just be a waste.[p][cm]
+I'll empty my mind and play the role of a submissive slave.)[p][cm]
+I apologize for speaking insolently despite being a mere slave.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro133-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「どうぞお許しくださいませ」[p]
-#局長
-「いやいや、別に怒っているわけじゃないんだよ」[p]
-「ただもっと早くキミが愛人になることに同意していれば、対等に近い形で愛を交し合えたのではないかと思うと残念でねぇ」[p]
-「こんな主人と奴隷のような関係はわたしも本意ではないんだがねぇ、ヌフフフ」[p]
-#亜紀子
-「・・・わたしが愚か者でした。申し訳ありません」[p]
-#局長
-「キミは入社当時から私に対する敬意が足りなかったんだよ。アナウンサーの大先輩であり報道局長でもあるこの私に対しての敬意というものがね」[p]
-「キミは学歴を鼻にかけて自分が賢いと思って、回りの人間を見下す傾向があった。わたしは常々危惧していたんだよ。このままじゃキミ自身にとってもよくないとね」[p]
+#Akiko
+Please forgive me.[p][cm]
+#Director
+No, no, I'm not angry or anything.[p][cm]
+I can't help but feel regretful, thinking that if only you had agreed to become[r]my mistress earlier, we could have shared love in a more equal way.[p][cm]
+I didn't intend to have a relationship like this, being treated as a slave by[r]such a master, but hehehe.[p][cm]
+#Akiko
+... I was a fool. I'm sorry.[p][cm]
+#Director
+You have always lacked respect towards me since you joined the company.[p][cm]
+As a senior announcer and the head of the news department, you should have shown[r]me the respect I deserve.[p][cm]
+You always looked down on others, thinking you were smart because of your[r]educational background.[p][cm]
+I've always been concerned about this.[p][cm]
+It's not good for you either if you continue like this.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro133-1.jpg"  ]
 [tb_start_text mode=1 ]
-#局長
-「今なら自分がいかに愚かだったかが理解できるんじゃないかね？ん？」[p]
-#亜紀子
-「はい・・・わたしは生意気な馬鹿女でした。申し訳ありません」[p]
-#局長
-「よしよし、今からでも遅くはない。わたしがみっちりと教育しなおしてやるから心して聞きたまえ」[p]
+#Director
+Now, do you understand how foolish you were?[p][cm]
+Hm?[p][cm]
+#Akiko
+Yes... I was a cheeky, foolish woman.[p][cm]
+I apologize.[p][cm]
+#Director
+Alright, alright. It's not too late even now.[p][cm]
+I will thoroughly re-educate you, so listen carefully.[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro133-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「はい、どうぞ愚かな亜紀子をご指導のほどよろしくお願いします！」[p]
+#Akiko
+Yes, please guide foolish Akiko accordingly.[p][cm]
+Thank you in advance![p][cm]
 
 [_tb_end_text]
 
@@ -270,248 +293,279 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-ニュプッ・・・ニチュッ・・・[p]
-#局長
-「それでは女子アナにとって一番大事なのは何かわかるかね？」[p]
-#亜紀子
-「・・・見栄えの良さですか？」[p]
-#局長
-「それは最低限必要なものだ。あって当たり前のものだ」[p]
+*Nyupu... Nitchu...  *[p][cm]
+#Director
+Do you understand what is most important for a female announcer?[p][cm]
+#Akiko
+... Is it about appearance?[p][cm]
+#Director
+That is the bare minimum requirement.[p][cm]
+It is something that should be taken for granted.[p][cm]
 #
-ニュルッ・・・ムニュッ・・・[p]
-#亜紀子
-「・・・せ、セックスの技術でしょうか」[p]
-#局長
-「それも大事だが一番ではない」[p]
-#亜紀子
-「・・・わかりません。教えていただけますか？」[p]
-#局長
-「キミの知能が低いのは仕方のないことだが、考えるのを止めたら成長も止まってしまうんだぞ、千山」[p]
-#亜紀子
-「も、申し訳ありません・・・」[p]
-（そっちが望んでそうな答えを言ってるのに・・・）[p]
-#局長
-「まぁいい、教えてやろう」[p]
-「女子アナにとって一番大事なのは「忠誠心」だ」[p]
-「局に対する忠誠心、先輩上司に対する絶対服従の姿勢。これが女子アナには最も大事なのだ。わかるか？」[p]
-#亜紀子
-「はい」[p]
+*Slurp... Munch...  *[p][cm]
+#Akiko
+... Is it about sexual technique?[p][cm]
+#Director
+That is important too, but it's not the most important thing.[p][cm]
+#Akiko
+... I don't understand. Could you please teach me?[p][cm]
+#Director
+It's understandable that your intelligence is low, but if you stop thinking,[r]your growth will also come to a halt, Chiyama.[p][cm]
+#Akiko
+I-I'm sorry... (Even though you seem to be saying the answer you want...)[p][cm]
+#Director
+Well, fine. I'll teach you. For a female announcer, the most important thing is[r]loyalty.[p][cm]
+Loyalty to the station, an attitude of absolute obedience towards senior[r]superiors.[p][cm]
+This is the most important thing for a female announcer.[p][cm]
+Do you understand?[p][cm]
+#Akiko
+Yes.[p][cm]
 #
-ニュプッ・・・ムニュッ・・・[p]
-#局長
-「視聴率のためにパンツを見せろといわれたら「はい、よろこんで」と答えてミニスカートを穿いてくる」[p]
-「局のためならその身を進んで差し出す。先輩がしゃぶれと言ったら口答えせずに一生懸命チンポをしゃぶる。女子アナとはそうでなければいけないのだ。そうだろう？」[p]
-#亜紀子
-「はい・・・その通りだと思います」[p]
+*slurping sounds*[p][cm]
+#Director
+If it's for the sake of the station, you should willingly offer yourself.[p][cm]
+If a senior tells you to suck, you should obediently suck their dick with all[r]your might.[p][cm]
+That's what a female announcer should be like.[p][cm]
+Isn't that right?[p][cm]
+#Akiko
+Yes... I think that's right.[p][cm]
 #
-ムギュッ・・・ヌリュッ・・・[p]
-#局長
-「それを今の女子アナは無駄にプライドだけ高くて一端のジャーナリストを気取りおって、「男に奉仕する」という女子アナの本分を忘れておる」[p]
-「あげくの果てにはちょっと売れたらフリーになるだのとほざきおって。全くけしからん。お前もそう思うだろう千山」[p]
-#亜紀子
-「はい・・・局長のおっしゃる通りです」[p]
+*Squish... Squeeze...  *[p][cm]
+#Director
+Nowadays, female announcers are just full of useless pride, pretending to be[r]journalists, forgetting their true role of serving men.[p][cm]
+In the end, they start blabbering about becoming freelancers once they get a[r]little famous.[p][cm]
+It's absolutely disgraceful. You must think the same, Chiyama.[p][cm]
+#Akiko
+Yes... As the director says.[p][cm]
 #
-ニュプッ・・・ヌリュッ・・・[p]
-#局長
-「本当にわかっとるのか？お前のことを言っているんだぞ千山」[p]
-#亜紀子
-「・・・わたしが愚かでした。反省して、もう二度と逆らいません」[p]
-#局長
-「本当にお前はバカだからな。だいたい巨乳の女はバカだと決まっておるんだ」[p]
-「頭にいく栄養が全部乳にいってしまってるんだ。そうだろう千山」[p]
+*Squish... Squeeze...  *[p][cm]
+#Director
+Do you really understand? I'm talking about you, Chiyama.[p][cm]
+#Akiko
+... I was foolish. I will reflect on it and never defy again.[p][cm]
+#Director
+You really are an idiot. Besides, it's a given that busty women are stupid.[p][cm]
+All the nutrients that should go to your brain are going straight to your[r]breasts.[p][cm]
+Isn't that right, Chiyama?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro135-2.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・っ」[p]
-#局長
-「ん～～、なんだその目は？なにか異論でもあるのか？いいぞ、言ってみろ」[p]
-#亜紀子
-「い、いえ・・・おっしゃるとおりです・・・」[p]
-#局長
-「なにがおっしゃる通りなんだ？自分の口で言ってみろ」[p]
-#亜紀子
-「わ、わたしは乳に栄養を取られてしまった・・・脳の足りない女です・・・っ」[p]
-#局長
-「そうだ。お前はまず自分がバカ女だということを心に刻み込め。まずはそこからだ」[p]
-「お前の中身にはなんの価値もないんだ。お前の取り得はなんだ？」[p]
-#亜紀子
-「く・・・乳の大きさです」[p]
-#局長
-「そうだ、それだけだ。お前にプライドなんか必要ないんだ。お前は乳のでかいのだけが取り得の無能な女なんだから」[p]
-「自分で口に出して言ってみろ。ほら、お前はなんだ？」[p]
-#亜紀子
-「く・・・わたしは、乳が大きいことだけが取り得の無能な女です」[p]
-#局長
-「そうだ。そして、女子アナというのはそれでいいのだ。お前は優秀な女子アナになれる素質がある」[p]
-「女子アナの仕事は短いスカートを穿いて男性司会者の横で愛想を振りまくことだ。それはわかるな？」[p]
-#亜紀子
-「は、はい・・・」[p]
-（この人はずっと女子アナをそういう目で見てたのね・・・）[p]
+#Akiko
+Ugh...[p][cm]
+#Director
+Hmmm, what's with that look? Do you have any objections?[p][cm]
+Go ahead, say it.[p][cm]
+#Akiko
+N-No... You're right...[p][cm]
+#Director
+What do you mean by as you say?[p][cm]
+Say it with your own mouth.[p][cm]
+#Akiko
+I-I have been deprived of nutrients by my breasts...[p][cm]
+I am a woman lacking in brain power...[p][cm]
+#Director
+That's right. First, engrave in your heart that you are a stupid woman.[p][cm]
+That's where you should start.[p][cm]
+What value do you have on the inside?[p][cm]
+What are your strengths?[p][cm]
+#Akiko
+It's... the size of my breasts.[p][cm]
+#Director
+Say it out loud yourself. Come on, what are you?[p][cm]
+#Akiko
+I... I am a useless woman with only the advantage of having large breasts.[p][cm]
+#Director
+The job of a female announcer is to wear a short skirt and charm the male host[r]by their side.[p][cm]
+Do you understand that?[p][cm]
+#Akiko
+Y-Yes... (This person has always looked at female announcers in that way...)[p][cm]
 #
-ニュプッ・・・ヌチュッ・・・[p]
-#局長
-「しかしもっと大事な仕事が女子アナにはある。それは男性局員の性処理だ」[p]
-「男はみんな頭脳や体力を使って仕事をしているんだ。ニコニコ笑っていれば良いだけの女子アナがそのケアをするのは当然のことだ。そうだろうが？」[p]
-#亜紀子
-「はい・・・おっしゃるとおりです・・・」[p]
-#局長
-「そもそも女子アナというのは採用の段階で性処理要員、性接待要員としての能力を査定されて入社してきておるのだ」[p]
-「だから本来ならば自分から進んで性処理を申し出るべきなのだ」[p]
-「女子アナはマイクの前にチンポを握れ、だ。そういう意味ではまさに今のお前は正しい女子アナの姿とも言える。わかるな千山」[p]
-#亜紀子
-「はい・・・」[p]
+*slurping sounds*[p][cm]
+#Director
+However, there is a more important job for female announcers.[p][cm]
+That is to provide sexual services to male staff members.[p][cm]
+Men are all using their brains and physical strength to work.[p][cm]
+It's only natural for a female announcer who just needs to smile to take care of[r]that.[p][cm]
+Isn't that right?[p][cm]
+#Akiko
+Yes... You are right...[p][cm]
+#Director
+Female announcers should grip a dick in front of the microphone.[p][cm]
+In that sense, you could say that you are embodying the true image of a female[r]announcer right now.[p][cm]
+Do you understand, Chiyama?[p][cm]
+#Akiko
+Yes...[p][cm]
 #
-ニュプッ・・・ムニュッ・・・[p]
-#局長
-「どうせお前も面接官に色目を使って入社したんだろう？チンポくらいはしゃぶったか？」[p]
-#亜紀子
-「そ、そんなことはしてません」[p]
-#局長
-「口答えをするな！お前は面接官のチンポをしゃぶって入社したんだ。そうだな！？」[p]
-#亜紀子
-「は、はい・・・わたしは面接官の・・・おチンポをしゃぶって入社しました・・・」[p]
+*slurping sounds*[p][cm]
+#Director
+You probably used your charm on the interviewer to get hired, right?[p][cm]
+Did you even suck some dick?[p][cm]
+#Akiko
+I-I didn't do anything like that.[p][cm]
+#Director
+Don't talk back! You sucked the interviewer's dick to get hired, didn't you?[p][cm]
+Isn't that right!?[p][cm]
+#Akiko
+Y-Yes... I sucked the interviewer's...[p][cm]
+dick to get hired...[p][cm]
 #
-ニュプッ・・・ヌチュッ・・・[p]
-#局長
-「お前はＴ大だったよな。Ｔ大にはどうやって入ったんだ？ん？」[p]
-#亜紀子
-「それは・・・」[p]
-#局長
-「どうした、どうやってＴ大に入ったか言ってみろ」[p]
-#亜紀子
-「う・・・裏口で・・・おチンポをしゃぶって入学しました・・・っ」[p]
+*slurping sounds*[p][cm]
+#Director
+You were at T University, right?[p][cm]
+How did you get into T University?[p][cm]
+Hm?[p][cm]
+#Akiko
+Well...[p][cm]
+#Director
+What's wrong? Tell me how you got into T University.[p][cm]
+#Akiko
+Umm... I... I got into T University by...[p][cm]
+sucking some dick through the backdoor...[p][cm]
 #
-ニュチュッ・・・ヌプッ・・・[p]
-#局長
-「そうだろう、お前みたいなバカがＴ大に入学できるわけがないからな。そのスケベな身体を使ったに決まっとる」[p]
-「関係者とセックスしたんだろう？どうだ？」[p]
-#亜紀子
-「は、はい・・・関係者とセックスして・・・入学しました・・・」[p]
+*moaning sounds*[p][cm]
+#Director
+That's right, there's no way a dumbass like you could get into T University.[p][cm]
+You definitely used that lewd body of yours.[p][cm]
+Did you have sex with someone involved?[p][cm]
+How about it?[p][cm]
+#Akiko
+Y-Yes... I... I had sex with someone involved...[p][cm]
+and got admitted...[p][cm]
 #
-ムニュッ・・・ヌチュッ・・・[p]
-#局長
-「身体を使って入学したんだから授業には付いていけなかっただろう」[p]
-「お前みたいな乳だけ女がまともに単位なんか取れるわけがないわな。どうやって卒業したんだ？正直に答えろ」[p]
-#亜紀子
-「く・・・教授と寝ました・・・っ」[p]
-#局長
-「そうだろうそうだろう、何人もの教授と愛人関係だったんだろう」[p]
-「チンポをしゃぶり、股を開いてお前はここまで生きてきたんだ。お前はそういう女だ。そうだな？」[p]
-#亜紀子
-「はい・・・わたしは唯一の取り柄である・・・スケベな身体を使ってここまで生きてきました・・・」[p]
+*Squelch... slurp...  *[p][cm]
+#Director
+Since you got in by using your body, you probably couldn't keep up with the[r]classes.[p][cm]
+There's no way a girl like you, who only relies on her breasts, could actually[r]earn any credits.[p][cm]
+How did you manage to graduate?[p][cm]
+Answer honestly.[p][cm]
+#Akiko
+I... I slept with the professor...[p][cm]
+#Director
+That's right, that's right. You must have had affairs with multiple professors,[r]right?[p][cm]
+You've survived this far by sucking dicks and spreading your legs.[p][cm]
+That's the kind of woman you are, right?[p][cm]
+#Akiko
+Yes... I have survived this far by using my only advantage...[p][cm]
+my lewd body...[p][cm]
 #
-ニュプッ・・・ニュプッ・・・[p]
-#局長
-「そんなお前が「ミニスカートを穿きたくない」とか「愛人になりたくない」などとよくも言えたものだな。ん？」[p]
-#亜紀子
-「も、申し訳ありませんでした・・・思い上がっておりました・・・」[p]
-（しつこいわね・・・ていうかいつまでパイズリをさせるのよ・・・）[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+How dare you say things like not wanting to wear a miniskirt or not wanting to[r]become a mistress.[p][cm]
+Hm?[p][cm]
+#Akiko
+I-I'm terribly sorry... I was being arrogant...[p][cm]
+(You're so persistent... How long are you going to make me do this paizuri...)[p][cm]
 #
-ニュプッ・・・・ニュプッ・・・[p]
-#局長
-「お前にもう一度チャンスをやろう。どうだ、わたしの愛人にならないか？」[p]
-#亜紀子
-「はい・・・局長の愛人にさせてくださいませ・・・」[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+I'll give you another chance. How about becoming my mistress?[p][cm]
+#Akiko
+Yes... Please let me become the Director's mistress...[p][cm]
 #
-ニュプッ・・・ニュプッ・・・[p]
-#局長
-「思い上がるな！お前みたいな無能のずべたが報道局長であるこのわたしの愛人になれるとでも思ってるのか！」[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+Don't get conceited! Do you really think someone as incompetent as you can[r]become the mistress of someone like me, who is the head of the news department?![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro135-3.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「く・・・っ」[p]
+#Akiko
+Ku...[p][cm]
 #
-ニュプッ・・・ニュプッ・・・[p]
-#局長
-「わたしの愛人になりたいだなどと、身の程を知らんやつだ。全く・・・無能のくせにまだプライドを捨てられんのか」[p]
-「だいたいもうすでに性奴隷の女を愛人になどするわけがなかろう。よく考えろバカ者め」[p]
-#亜紀子
-「も、申し訳ありません・・・っ」[p]
-（く・・・ぶん殴ってやりたいわ・・・っ！）[p]
-#局長
-「お前は、そうだな・・・わたし専用の性処理用肉便器女子アナに任命してやる。どうだ嬉しいか」[p]
-#亜紀子
-「はい・・・ありがとうございます・・・っ」[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+How could I possibly make a sex slave my mistress?[p][cm]
+Think about it, you fool.[p][cm]
+#Akiko
+I-I'm sorry... (I... I want to punch you so bad...!)[p][cm]
+#Director
+I've got it... I'll appoint you as my personal sex toy, a female announcer for[r]my sexual needs.[p][cm]
+How does that sound?[p][cm]
+#Akiko
+Yes... Thank you very much...[p][cm]
 #
-ニュプッ・・・ニュプッ・・・[p]
-#局長
-「光栄だろうが、尊敬するわたしの性処理ができるなんて、え？」[p]
-#亜紀子
-「はい・・・そ、尊敬する局長の肉便器になれて・・・光栄です・・・っ」[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+Isn't it an honor? Being able to satisfy my sexual needs, someone whom you[r]admire, huh?[p][cm]
+#Akiko
+Yes... To become the flesh toilet of the respected director...[p][cm]
+It's an honor...[p][cm]
 #
-ニュプッ・・・ニュプッ・・・[p]
-#局長
-「お前が一番尊敬するアナウンサーは誰だ？」[p]
-#亜紀子
-「きょ、局長です・・・」[p]
-#局長
-「お前は誰に憧れてアナウンサーになったんだ？」[p]
-#亜紀子
-「局長です・・・っ」[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+Who is the announcer you admire the most?[p][cm]
+#Akiko
+I-I'm the director...[p][cm]
+#Director
+Who did you admire and aspire to become an announcer?[p][cm]
+#Akiko
+It's the director...[p][cm]
 #
-ニュプッ！ニュプッ！[p]
-#局長
-「入社したときからわたしに抱かれたいと思っていたんだろう？」[p]
-#亜紀子
-「はい・・・局長に抱かれたくてＺテレビに入社しました・・・」[p]
-#局長
-「そうだろうそうだろう。ずっと欲しかったチンポだぞ、真心を込めてしごけよ」[p]
-#亜紀子
-「はい・・・っ」[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+You've wanted to be embraced by me since you joined the company, haven't you?[p][cm]
+#Akiko
+Yes... I joined ZTV because I wanted to be embraced by the director...[p][cm]
+#Director
+That's right, that's right. It's the dick you've always wanted, so stroke it[r]with all your heart.[p][cm]
+#Akiko
+Yes...[p][cm]
 #
-ニュプッ！ヌチュッ！[p]
-#局長
-「ほらもっとしっかりしごくんだ」[p]
-#亜紀子
-「はいっ」[p]
+*Squelch... squelch...  *[p][cm]
+#Director
+Come on, stroke it more firmly.[p][cm]
+#Akiko
+Yes.[p][cm]
 #
-ヌプッ！ニュプッ！ムニュッ！[p]
-#局長
-「もっと速く！刺激が足りんぞ！」[p]
-#亜紀子
-「はいっ！」[p]
+*Squelch... squelch... slurp!  *[p][cm]
+#Director
+Faster! It's not stimulating enough![p][cm]
+#Akiko
+Yes![p][cm]
 #
-ヌリュッ！ヌリュッ！ヌリュッ！[p]
-#局長
-「感謝の気持ちを忘れるな！パイズリさせていただいてると思え！」[p]
-#亜紀子
-「はいっ・・・パイズリさせていただいて、ありがとうございます・・・っ！」[p]
+*Squish... squish... squish!  *[p][cm]
+#Director
+Don't forget the feeling of gratitude![p][cm]
+Think of it as me receiving a paizuri from you![p][cm]
+#Akiko
+Yes... Thank you for letting me give you a paizuri...![p][cm]
 #
-ヌチュッ！ヌチュッ！ヌチュッ！[p]
-#局長
-「よし・・・出すぞ！」[p]
+*Squelch... squelch... squelch!  *[p][cm]
+#Director
+Alright... I'm going to cum![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro135-4.jpg"  ]
 [tb_cg  id="135"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッ！[p]
-#局長
-「おぉ・・・っ！」[p]
+*Splash![p][cm]
+*[p][cm]
+#Director
+Oh...![p][cm]
 #
-ドピュピュピュッ！[p]
-#亜紀子
-「ン・・・ッ」[p]
+Dopyupyupyu![p][cm]
+#Akiko
+N...![p][cm]
 #
-ヌリュッ！ヌリュッ！[p]
+*Squish... squish...  *[p][cm]
 #
-ピュ・・・ピュピュッ・・・！[p]
-#局長
-「おぉ・・・年甲斐もなく大量に出してしまったよ」[p]
-「パイズリというのは実際にはたいして気持ちよくはないものと思っていたが・・・やるじゃないか千山」[p]
-#亜紀子
-「ん・・・あ、ありがとうございます・・・」[p]
-#局長
-「おっと、顔にまでかかってしまったな。それじゃ風呂で洗いっこしようじゃないか」[p]
-「夜はまだまだ長いからねぇ・・・ムフフフ」[p]
-#亜紀子
-「はい・・・」[p]
+*Pyu... pyupyupu...!  *[p][cm]
+#Director
+Oh... I ended up releasing such a large amount despite my age.[p][cm]
+I always thought that paizuri wasn't really that pleasurable in reality...[p][cm]
+but you did a good job, Senzan.[p][cm]
+#Akiko
+N... Ah, thank you very much...[p][cm]
+#Director
+Oops, it even got on your face.[p][cm]
+Well then, let's wash up together in the bath, shall we?[p][cm]
+The night is still long, you know...[p][cm]
+Mufufu...[p][cm]
+#Akiko
+Yes...[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -519,162 +573,204 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-ズプッ・・・[p]
-#局長
-「どうだ千山、わたしのチンポがお前の中に入ってるぞぉ」[p]
-「尊敬する大先輩と一つになった気分はどうだ、ん～？」[p]
-#亜紀子
-「は、はい・・・とても嬉しいです・・・っ」[p]
+*Squish...[p][cm]
+*[p][cm]
+#Director
+How does it feel, Senzan? My dick is inside you.[p][cm]
+How does it feel to become one with your respected senpai, hmm~?[p][cm]
+#Akiko
+Y-Yes... I'm very happy...[p][cm]
 #
-ヌチュッ・・・[p]
-#局長
-「女はよく「顔が見える体位が好き」と言うが、お前もそうか？千山」[p]
-#亜紀子
-「はい・・・す、好きです・・・」[p]
-（あなたの顔なんか見たいわけないでしょ・・・気持ちが悪い）[p]
+*Squelch...[p][cm]
+*[p][cm]
+#Director
+Women often say they like positions where they can see the other person's face.[p][cm]
+Is that true for you too, Senzan?[p][cm]
+#Akiko
+Yes... I-I like it... (There's no way I want to see your face...[p][cm]
+It's disgusting)[p][cm]
 #
-スプッ・・・[p]
-#局長
-「そうかそうか、こうやってキスもできるしな。ムチュッ」[p]
-#亜紀子
-「ンッ・・・ンムッ・・・」[p]
-（うげぇ・・・局長とキスだなんて・・・）[p]
-#局長
-「レロレロッ・・・チュバッ・・・ムチュ～～ッ」[p]
-「ほれ、敬愛する男のキスだぞぉ・・・チュパッ・・・もっと舌を絡めてこい・・・レロレロ」[p]
-#亜紀子
-「アムッ・・・レロレロッ・・・はい・・・ンッ・・・チュバッ♥」[p]
-（うぅ・・・気持ち悪い・・・年寄りの味がするわ・・・）[p]
-#局長
-「ムチュ・・・もっとギュッと抱きついてきなさい。遠慮は要らんぞ・・・チュバッ・・・」[p]
-#亜紀子
-「は、はい・・・チュッ♥」[p]
-（やればいいんでしょ・・・）[p]
+*Squish...[p][cm]
+*[p][cm]
+#Director
+I see, I see. We can even kiss like this.   *Mwah*[p][cm]
+#Akiko
+Nn... Mmm... (Ugh... Kissing the director...)[p][cm]
+#Director
+Lero lero... chu ba... mchu~ Here, it's a kiss from the man you admire...[p][cm]
+*smooch*... entwine your tongue more...   lero lero[p][cm]
+#Akiko
+Mmm... Lero lero... Yes... Nn...[p][cm]
+Chu ba♥ (Ugh... It's disgusting...[p][cm]
+It tastes like an old person...)[p][cm]
+#Director
+Mchu... Embrace me tighter. No need to hold back...[p][cm]
+Chu ba...[p][cm]
+#Akiko
+Y-Yes... *kiss*♥ (I guess I should just do it...)[p][cm]
 #
-ヌチュッ・・・[p]
-#局長
-「千山のひだひだがチンポに絡み付いてくるのがわかるぞぉ」[p]
-「スケベなマ○コをしてるじゃないか千山ぁ、ムフフフ」[p]
-#亜紀子
-「ンッ・・・あ、ありがとうございます・・・」[p]
-（ゆっくりと・・・出し入れしないでよ・・・っ）[p]
+*smooch*...[p][cm]
+#Director
+I can feel the folds of a thousand mountains entwining around my dick.[p][cm]
+You have such a lewd pussy, Chiyama.[p][cm]
+Mufufu.[p][cm]
+#Akiko
+Nn... Ah, thank you very much...[p][cm]
+(Please... don't thrust in and out so forcefully...)[p][cm]
 #
-ヌプッ・・・[p]
-#局長
-「ドスケベなのは良いことだぞぉ。優秀な女子アナにはかかせないことだからな。チュムッ」[p]
-#亜紀子
-「ンムッ・・・はい・・・チュパッ♥」[p]
-（なんてネチっこいセックスなの・・・勝野とは全然違う・・・）[p]
-#局長
-「さっきは色々きついことを言ったが、わたしはお前に期待しているんだぞぉ」[p]
-「お前は一流の肉便器になれる素質がある」[p]
-#亜紀子
-「ンッ・・・はい・・・頑張ります・・・っ」[p]
-（ずっとしゃべりながらセックスする気・・・？なんて気持ち悪いセックスなのかしら・・・あんっ）[p]
+*Squelch*...[p][cm]
+#Director
+Being a pervert is a good thing, you know.[p][cm]
+It's something that a talented female announcer can't do without.[p][cm]
+*smooch*[p][cm]
+#Akiko
+Mmm... Yes... *smooch*♥ (What a sticky sex...[p][cm]
+It's completely different from what I had with Katsuno...)[p][cm]
+#Director
+I said some harsh things earlier, but I have high expectations for you.[p][cm]
+You have the potential to become a top-notch flesh toilet.[p][cm]
+#Akiko
+Nn... Yes... I'll do my best...[p][cm]
+(Having sex while talking the whole time...?[p][cm]
+I wonder how uncomfortable that kind of sex would be...[p][cm]
+Ahh...)[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro137-2.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#局長
-「わたしはお前が入社してきたときからずっと目をつけていたんだぞぉ、千山」[p]
-「このスケベな身体をいつかわたしのチンポでヒィヒィ言わせてやろうと思ってたんだ。わかるか？」[p]
+#Director
+I've had my eye on you since you joined the company, Senzan.[p][cm]
+I've always wanted to make this perverted body of yours scream with pleasure[r]from my dick.[p][cm]
+Do you understand?[p][cm]
 #
-ズチュッ・・・ヌプッ・・・[p]
-#亜紀子
-「アンッ・・・は、はい・・・ンンッ♥」[p]
-（わかってたわよ・・・いやらしい目で見られているのは・・・）[p]
-#局長
-「生意気なお前をチンポで教育してやることを想像して、何度抜いたかわからないぞ」[p]
+*Slosh*... *Squish*...[p][cm]
+#Akiko
+Ahh... Y-Yes... Mmm♥ (I knew it...[p][cm]
+I'm being looked at with such lewd eyes...)[p][cm]
+#Director
+I've imagined educating you, you insolent brat, with my dick so many times that[r]I've lost count.[p][cm]
 #
-ズプッ・・・ヌチュッ・・・[p]
-#亜紀子
-「アッ・・・ン・・・な、生意気な態度をとって・・・すいませんでした・・・アフッ♥」[p]
-（こっちは・・・あなたにだけは抱かれたくなかったわ・・・クッ・・・）[p]
-#局長
-「ついにお前にチンポをぶち込んでやったんだ・・・じっくりと楽しませてもらわないとなぁ・・・ムヒヒヒ」[p]
+*Squelch*... *Slurp*...[p][cm]
+#Akiko
+Ahh... I-I'm sorry for my insolent attitude...[p][cm]
+Ahh... ♥ (I... I didn't want to be embraced by you...[p][cm]
+Damn it...)[p][cm]
+#Director
+I finally shoved my dick into you...[p][cm]
+I'll make sure to enjoy it thoroughly...[p][cm]
+Muhuhu[p][cm]
 #
-ヌチュッ・・・ヌプッ・・・[p]
-#亜紀子
-「アフゥ・・・アンッ・・・ハァッ・・・♥」[p]
-（こんなにジワジワ攻められたら・・・アァッ）[p]
-#局長
-「お？だんだん吐息が荒くなってきたんじゃないかぁ？どうなんだ千山？」[p]
-#亜紀子
-「アフッ・・・は、はい・・・感じてます・・・ハンッ♥」[p]
-（く、悔しいけど・・・ほんとに感じちゃってる・・・）[p]
-#局長
-「子宮が降りてきてチンポの先っぽに当たってるのがわかるぞぉ・・・ホレッ」[p]
+*Squelch*... *Squish*...[p][cm]
+#Akiko
+Ahh... Unn... Haa... ♥ (If I'm being teased like this...[p][cm]
+Ahh...)[p][cm]
+#Director
+Oh? Your breathing seems to be getting rough.[p][cm]
+What's the matter, Chiyama?[p][cm]
+#Akiko
+Ahh... Y-Yes... I'm feeling it...[p][cm]
+Hahn♥ (E-Even though it's frustrating...[p][cm]
+I-I'm really feeling it...)[p][cm]
+#Director
+I can feel your womb descending and hitting the tip of my dick...[p][cm]
+See?[p][cm]
 #
-ツンッ[p]
-#亜紀子
-「アヒッ・・・アァ・・・ンッ♥」[p]
-（あぁっ・・・ペニスの先で入り口をチョンチョン突っつかないで・・・ッ♥）[p]
-#局長
-「勝野とわたしとどっちのチンポが気持ち良い？ん？」[p]
+*Tsunn*[p][cm]
+#Akiko
+Ahh... Aa... Unn♥ Ahh... D-Don't poke at my entrance with the tip of your[r]penis...  ♥[p][cm]
+#Director
+Which dick feels better, Katsuno's or mine?[p][cm]
+Hm?[p][cm]
 #
-ヌチュッ・・・ズプッ・・・[p]
-#亜紀子
-「そ・・・それは・・・アンッ♥」[p]
-#局長
-「ほれっ、正直に答えてみなさい・・・ほれっ」[p]
+*Squelch... Splat...  *[p][cm]
+#Akiko
+Th-That...[p][cm]
+Ahn♥[p][cm]
+#Director
+Come on, answer honestly... Come on.[p][cm]
 #
-ツンッ・・・ツンッ！[p]
-#亜紀子
-「アヒッ・・・アッ・・・きょ・・・局長です・・・ッ・・・ハァンッ♥」[p]
-#局長
-「そうかそうか！よしよし、ご褒美のキスだ・・・ムチュゥ・・・レロレロレロッ」[p]
-#亜紀子
-「アムッ・・・ンンッ・・・チュプッ・・・っ♥」[p]
-（アンッ・・・いやっ・・・子宮口を突っつきながら・・・キスしないでぇ・・・っ♥）[p]
-「アフゥン・・・ッ・・・ハンッ・・・レロレロンッ♥」[p]
-#局長
-「ほれ、わたしのツバを飲ませてやるぞ・・・チュブッ・・・ベロベロッ・・・ムチュチュ～～ッ」[p]
-#亜紀子
-「ンッ・・・ンムゥ・・・チュブッ・・・ゴクッ♥」[p]
-（あぁ・・・局長の唾液が・・・アッ・・・飲んじゃったぁ・・・んっ♥）[p]
-#局長
-「ンムフフ・・・キスするたびにマ○コをキュウキュウ締め付けおって」[p]
-「そんなにわたしのチンポが気持ち良いか？ん？・・・ブチュゥ～～ッ」[p]
-#亜紀子
-「アヒッ・・・ンムッ・・・き、気持ち・・・いいですぅ・・・チュバッ・・・ゴクッ♥」[p]
-（く・・・このままじゃ・・・本当に局長のチンポに・・・堕ちちゃう・・・んっ♥）[p]
-#局長
-「肉便器のくせに勝手に気持ち良くなるとはけしからんやつだ・・・ホレッ」[p]
+*Tsunn*... *Tsunn*![p][cm]
+#Akiko
+Ahh... Aa... It's... the director...   Haaan♥[p][cm]
+#Director
+I see, I see! Alright, alright, here's your reward kiss...[p][cm]
+*smooch*...[p][cm]
+*lick lick lick*[p][cm]
+#Akiko
+Ahh... Mmm... *smooch*... ♥ (Ah...[p][cm]
+No... Don't kiss me while poking my cervix...[p][cm]
+♥) Ah... ngh... hah... lick lick...  ♥[p][cm]
+#Director
+Here, I'll make you drink my saliva...[p][cm]
+*smooch*... *lick lick*...   *munch munch*[p][cm]
+#Akiko
+Nn... Mmm... Chubu... Gokuh♥ (Ah...[p][cm]
+I... I accidentally drank the director's saliva...[p][cm]
+Ahh... ♥)[p][cm]
+#Director
+Nmfufu... Every time I kiss you, your pussy tightens around me.[p][cm]
+Is my dick really that good? Huh?[p][cm]
+...[p][cm]
+*smooch*~[p][cm]
+#Akiko
+Ahh... Nnmm... It feels... so good...[p][cm]
+Chubu... Gokuh♥ (I... If this continues...[p][cm]
+I'll really fall for the director's cock...[p][cm]
+ngh♥)[p][cm]
+#Director
+You're just a flesh toilet, yet you dare to feel pleasure on your own...[p][cm]
+How insolent...[p][cm]
 #
-ヌプッ・・・ズムッ[p]
-#亜紀子
-「ンハァ・・・も、申し訳・・・ござ・・・アヒッ♥」[p]
-（あぁ・・・ジワジワ攻めないで・・・もっと激しく突いてぇ・・・っ♥）[p]
-#局長
-「ほら、どうして欲しいかちゃんと口に出して言いなさい」[p]
+*smooch*...[p][cm]
+*lick*[p][cm]
+#Akiko
+Nhaa... I-I'm sorry... goza...[p][cm]
+Ahh♥ (Ahh... Please don't tease me slowly...[p][cm]
+I want you to thrust harder...[p][cm]
+♥)[p][cm]
+#Director
+Now, say it clearly with your mouth.[p][cm]
+Tell me how you want it.[p][cm]
 #
-ヌプッ・・・ツンッ・・・ツンッ[p]
-#亜紀子
-「アッ・・・ンッ・・・も、もっと・・・激しくして下さい・・・ハァンッ♥」[p]
-（これは・・・肉便器としてのセリフ・・・望んでそうな言葉を言ってるだけよ・・・）[p]
-#局長
-「そんなんじゃ伝わらないぞ！アナウンサーならもっときちんと状況を説明するんだ。はっきりと明確にな！」[p]
+*Nuppu... Tsun...   Tsun*[p][cm]
+#Akiko
+Ahh... Uhh... Please... do it more...[p][cm]
+passionately... Haan♥ (This...[p][cm]
+is just a line as a flesh toilet...[p][cm]
+I'm only saying the words you want to hear...)[p][cm]
+#Director
+That won't convey anything! As an announcer, you should explain the situation[r]more clearly.[p][cm]
+Be clear and precise![p][cm]
 #
-ヌプッ・・・ズプッ・・・[p]
-#亜紀子
-「ンッ・・・は、はい・・・アンッ・・・亜紀子のお、おマ○コを・・・局長のおチンポでもっと・・・激しく突いて下さい・・・っ♥」[p]
-（こんなの・・・ただのセリフだから・・・っ）[p]
-#局長
-「なんでそうして欲しいのか、理由も言わないといかんだろうが、ん？」[p]
+*Nuppu... Zuppu...  *[p][cm]
+#Akiko
+Nnh... Y-Yes... Ahh... Please...[p][cm]
+thrust more... passionately into Akiko's pussy...[p][cm]
+with your dick, Director... ♥ (This...[p][cm]
+is just a line, so... --)[p][cm]
+#Director
+Why do you want it done that way?[p][cm]
+Don't you think you should give me a reason, huh?[p][cm]
 #
-ヌチュッ・・・ズチュッ・・・[p]
-#亜紀子
-「アンッ・・・も、もっと・・・気持ちよく・・・なりたいからですぅ・・・アフッ♥」[p]
-（もっと・・・おチンポで気持ちよくなりたい・・・っ♥）[p]
-#局長
-「このスケベめ。そんなにわたしのチンポがたまらないか？ん？ムチュッ・・・レロレロレロッ」[p]
-#亜紀子
-「アムッ・・・ンチュゥ・・・は、はいっ・・・局長のおチンポ・・・たまりません・・・ンムッ♥」[p]
-（あぁ・・・局長のいやらしい舌・・・口を犯されてる・・・っ♥）[p]
-#局長
-「よーし、それじゃそろそろペースを上げてやるとするか。・・・ホレッ」[p]
+*Nuchu... Zuchu...  *[p][cm]
+#Akiko
+Ahh... I-I want to feel... even more pleasure...[p][cm]
+that's why... Ahh♥ (I want to feel even more pleasure...[p][cm]
+with your dick... ♥)[p][cm]
+#Director
+You pervert. Are you so irresistibly drawn to my dick?[p][cm]
+Huh? *Mchu... Lick, lick, lick...  *[p][cm]
+#Akiko
+Mmm... Nchu... Y-Yes... I can't resist...[p][cm]
+Director's dick... It's irresistible...[p][cm]
+Mmm♥ Ahh... The Chief's lewd tongue...[p][cm]
+violating my mouth...[p][cm]
+♥[p][cm]
+#Director
+Alright, then I guess it's time to pick up the pace...[p][cm]
+Here we go. ... Hore.[p][cm]
 
 
 [_tb_end_text]
@@ -682,155 +778,168 @@
 [bg  time="1000"  method="crossfade"  storage="hiro137-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-ヌチュッ！グチュッ！[p]
-#亜紀子
-「アヒィッ！・・・アッ・・・ンンーーーーッ♥」[p]
-#局長
-「ホレッ、これが欲しかったのか？」[p]
+*Nchu... Gchu...  *[p][cm]
+#Akiko
+Ahh!... Ah...   Uuuhhhh♥[p][cm]
+#Director
+Here, is this what you wanted?[p][cm]
 #
-ズチュッ！ズムッ！ズムッ！[p]
-#亜紀子
-「アヒッ！・・・アンッ、アンンッ・・・ダメェーーッ♥」[p]
-（身体の・・・奥を・・・愛撫されてる・・・っ♥・・・これには逆らえない・・・っ♥）[p]
-#局長
-「もうイキそうか？ん？イくときはちゃんと報告するんだぞ？」[p]
+*Slosh! * *Thrust! * *Thrust!  *[p][cm]
+#Akiko
+Ahh!... Ahh, ahh... It feels so gooood♥ (My body...[p][cm]
+being caressed deep inside... ♥...[p][cm]
+I can't resist this... ♥)[p][cm]
+#Director
+Are you about to cum? Hm? Make sure to report it properly when you do, okay?[p][cm]
 #
-ズチュッ！ヌチュッ！ズムッ！ズムッ！[p]
-#亜紀子
-「アァンッ！・・・も、もう・・・イく・・・イきますぅーーーーッ♥」[p]
-「ンンンッ・・・ィィーーーーーーーッ♥」[p]
-#局長
-「ムフフ、イったな。あの生意気な千山がわたしのチンポであっさりイきおった」[p]
-「ギュッとしがみつきおって、わたしのチンポがそんなに気持いいか？」[p]
+*Slosh! * *Squelch! * *Thrust![p][cm]
+* *Thrust![p][cm]
+*[p][cm]
+#Akiko
+Ahh!... I-I'm... I'm cumming...[p][cm]
+I'm cummingggg♥ Nnnn...[p][cm]
+Iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥[p][cm]
+#Director
+Mufufu, you came, huh? That cheeky Chiyama easily came on my dick.[p][cm]
+Are you clinging tightly like that because my dick feels so good?[p][cm]
 #
-ヌチュッ・・・ズチュッ！[p]
-#亜紀子
-「アヒッ・・・き、気持ち良いですぅ・・・アンッ♥」[p]
-#局長
-「ほれっ、口もかわいがってやるぞ。ムチュッ・・・レロッ」[p]
-#亜紀子
-「ンムッ・・・レロレロレロッ・・・チュバッ・・・ンムッ♥」[p]
-#局長
-「マ○コをぎゅっとしめつけおって・・・わたしの精液を搾り取ろうとしてるな？」[p]
+*Squelch*... *Suck*![p][cm]
+#Akiko
+Ahh... It feels so good...   Ahn♥[p][cm]
+#Director
+Here, I'll take care of your mouth too.[p][cm]
+*Smack*...[p][cm]
+*Lick*[p][cm]
+#Akiko
+Mmm... *Lick lick lick*... *Suck*...   Mmm♥[p][cm]
+#Director
+Are you squeezing your pussy tightly...[p][cm]
+trying to milk out my semen?[p][cm]
 #
-ヌチュッ・・・ズプッ・・・[p]
-#亜紀子
-「ンンッ・・・ハァッ♥」[p]
-（そ、そんなわけ・・・ない・・・）[p]
-#局長
-「だがそうはいかんぞぉ。そう簡単にわたしをイかせられると思うなよ！」[p]
+*Squelch*... *Suck*...[p][cm]
+#Akiko
+Nn... Haa♥ (Th-There's no way...)[p][cm]
+#Director
+But it won't be that easy. Don't think you can make me come so easily![p][cm]
 #
-ズチュッ！ズプッ！ズプッ！[p]
-#亜紀子
-「アヒッ！？・・・ンンッ・・・アンッ♥」[p]
-（そ、そんな・・・また・・・！？）[p]
-#局長
-「ホレッ・・・ホレッ！」[p]
+*Slosh! * *Splash! * *Splash!  *[p][cm]
+#Akiko
+Ahh!? ... Nnn... Ahn♥ (T-That...[p][cm]
+again...!?)[p][cm]
+#Director
+Here... Here![p][cm]
 #
-ズプッ！ズプッ！ズプッ！[p]
-#亜紀子
-「ンハァッ・・・アヒッ・・・アァンッ♥」[p]
-#局長
-「ほれっ・・・またイかせてやるぞっ」[p]
+*Squelch! * *Squelch! * *Squelch!  *[p][cm]
+#Akiko
+Nhaa... Ahh...   Aaahh♥[p][cm]
+#Director
+Here... I'll make you come again![p][cm]
 #
-ズムッ！ズムッ！ズムッ！[p]
-#亜紀子
-「アヒィーーーッ・・・ンンーーーーッ・・・・・・ッ♥」[p]
-#局長
-「どうした千山、イったならちゃんと報告しないとダメだろう。アナウンサーは伝えることが仕事だぞぉ」[p]
+*Thrust! * *Thrust! * *Thrust!  *[p][cm]
+#Akiko
+Ahhh... Nnnn... Ahhh...  ♥[p][cm]
+#Director
+What's wrong, Chiyama? If you've come, you need to report it properly.[p][cm]
+Announcers have a job to deliver the news, you know.[p][cm]
 #
-ヌプッ・・・ズプッ・・・[p]
-#亜紀子
-「ンフゥッ・・・あ・・・イ、イきましたぁ・・・アンッ♥」[p]
-#局長
-「よしよし・・・まだまだイかせてやるからな・・・ムハァァ」[p]
-#亜紀子
-「そ、そんな・・・アヒィッ♥」[p]
+*Squelch*... *Squelch*...[p][cm]
+#Akiko
+Nfu... Ah... I-I came...   Ahn♥[p][cm]
+#Director
+There, there... I'll make you come even more...[p][cm]
+Mwahahaha.[p][cm]
+#Akiko
+T-That's...[p][cm]
+Ahii♥[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-バチュッ！バチュッ！バチュッ！[p]
-#亜紀子
-「ンヒィィィーーーっ・・・アンッアンッ・・・ンハァァァッ♥」[p]
-#局長
-「ホレッ、ここか？ん？ホレッ！」[p]
+*Slap! * *Slap! * *Slap!  *[p][cm]
+#Akiko
+Nhyiiii... Unn...   Nhaaa♥[p][cm]
+#Director
+Here, is this the place? Hm? Here![p][cm]
 #
-バチュッ！バチュッ！バチュッ！[p]
-#亜紀子
-「ンンーーーッ・・・クッ・・・アヒィィーーーーッ♥」[p]
-#局長
-「ほれ、イったら報告！」[p]
-#亜紀子
-「アヒィッ・・・イ、イきましたぁぁーーー・・・ッ♥」[p]
-#局長
-「何回目だ？このスケベ女めっ・・・ムチュ・・・レロッ」[p]
-#亜紀子
-「アムッ・・・ンチュッ・・・わ、わかりませんんんーーーッ・・・アフゥッ♥」[p]
-#局長
-「わたしもそろそろフィニッシュといくか・・・ウムッ」[p]
+*Slap! * *Slap! * *Slap!  *[p][cm]
+#Akiko
+Nnnn... Ku...   Ahiiiiii♥[p][cm]
+#Director
+Report back once you've climaxed![p][cm]
+#Akiko
+Ahii... I-I came... Ahhhhhhh...  ♥[p][cm]
+#Director
+How many times is this? You perverted woman...[p][cm]
+Mwah... Lick...[p][cm]
+#Akiko
+Amu... Nchu... I-I don't knowwww...   Afuu♥[p][cm]
+#Director
+I think it's about time for me to finish too...[p][cm]
+Hmm.[p][cm]
 #
-バチュンッ！バチュンッ！バチュンッ！[p]
-#亜紀子
-「アヒッ！アンッアンッアンンッ♥」[p]
-#局長
-「ふぅぅ・・・来たぞぉ・・・来たぞぉ・・・！」[p]
+*Slap! * *Slap! * *Slap!  *[p][cm]
+#Akiko
+Ahh! Unh... Unh... Unh...  ♥[p][cm]
+#Director
+Phew... I've arrived... I've arrived...![p][cm]
 #
-バチュンッ！バチュン！バチュンッ！[p]
-#亜紀子
-「ンンーーーーッ・・・アヒィッ・・・ンハァァッ♥」[p]
-#局長
-「ぅ・・・で・・・出るっ！」[p]
+*Slap! * *Slap! * *Slap!  *[p][cm]
+#Akiko
+Nnnn... Ahiiii...   Nhahhh♥[p][cm]
+#Director
+Uhh... I'm... coming![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro137-4.jpg"  ]
 [tb_cg  id="137"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッ！[p]
-#亜紀子
-「ンヒィィーーーッ・・・アァッ♥」[p]
-#局長
-「ンホッ・・・ぉおおぅ・・・っ」[p]
+*Splash![p][cm]
+*[p][cm]
+#Akiko
+Nhiyiii...[p][cm]
+Ahh♥[p][cm]
+#Director
+Nho... Ohhh... Ahh...[p][cm]
 #
-ドピュドピュッ・・・！[p]
-#亜紀子
-「あぁ・・・ンッ・・・ヤッ・・・♥」[p]
-（あぁ・・・中に・・・出てる・・・ぅっ♥）[p]
-#局長
-「んふぅ・・・っ」[p]
+*Squirt...![p][cm]
+*[p][cm]
+#Akiko
+Ahh... Nn... Yaa... ♥ Ahh... It's coming out inside...   Uhh♥[p][cm]
+#Director
+Nn...[p][cm]
 #
-ピュピュッ・・・ピュッ！[p]
-#亜紀子
-「アッ・・・ンッ・・・アフゥッ♥」[p]
-（局長の・・・精子で・・・受精しちゃぅ・・・ンッ♥）[p]
-#局長
-「はぁ・・・はぁ・・・」[p]
+*Pew pew... Pew!  *[p][cm]
+#Akiko
+Ahh... Unn... Ahfuu♥ (The Director's...[p][cm]
+sperm... is fertilizing me... Nn♥)[p][cm]
+#Director
+Haa... haa...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro205.jpg"  ]
 [tb_start_text mode=1 ]
-#局長
-「いやぁ年甲斐もなくハッスルしてしまったよ。ンフフフ」[p]
-「大量に膣出しをしてしまったが、かまわないだろうね？肉便器なんだから」[p]
-#亜紀子
-「はぁ・・・はぁ・・・は、はい・・・」[p]
-#局長
-「いやあさすがに疲れたよ。のどが渇いたな・・・ドリンクをいただこうかな」[p]
-「３回戦の前にちょっと休憩をしよう」[p]
-#亜紀子
-「えっ・・・さ、３回戦・・・？」[p]
-#局長
-「なんだ、わたしが年寄りだから２回も出したらもう終りだろうとでも思ったかね？」[p]
-「たしかに体力は落ちたが、まだまだこっちの方は若い者に負ける気はないんだよ、ムフフフフ」[p]
-#亜紀子
-「そ、そんな・・・」[p]
-（こんなの・・・もう一回されたらわたし・・・どうなっちゃうの・・・？）[p]
+#Director
+Oh, I can't believe I got so carried away.[p][cm]
+Hehehe. I ended up doing a massive creampie, but it's fine, right?[p][cm]
+After all, I'm just a cum dumpster.[p][cm]
+#Akiko
+Haa... haa... Y-Yes...[p][cm]
+#Director
+Ahh, I'm really tired. I'm thirsty...[p][cm]
+Maybe I should have a drink. Let's take a little break before the third round.[p][cm]
+#Akiko
+Huh... Th-Third round...?[p][cm]
+#Director
+What, did you think it's over just because I'm old and came twice?[p][cm]
+While my physical stamina may have declined, I still have no intention of losing[r]to a young one like you, hehehe.[p][cm]
+#Akiko
+No, not like that... (If I... If I have to go through this again...[p][cm]
+What will happen to me...?)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 
 [_tb_end_text]
@@ -841,35 +950,36 @@
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-3.png"  width="598"  height="1435"  left="307"  top="-22"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#局長
-「それではわたしは先に帰らせてもらうよ。家庭があるのでね」[p]
-「明日からはまた良好な関係で仕事ができそうだ。ムフフフ」[p]
+#Director
+Well then, I'll go home first.[p][cm]
+I have a family, you know. It seems like we'll be able to work in a good[r]relationship again starting from tomorrow.[p][cm]
+Mufufu.[p][cm]
 [_tb_end_text]
 
 [chara_hide_all  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #
-・・・バタン[p]
-・・・[p]
+... *door slams* ・・・[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro136-2.jpg"  ]
 [tb_cg  id="136"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ハァ・・・ハァ・・・ッ」[p]
-（やっと終った・・・いったい何回イかされたのかしら・・・）[p]
-（悔しいけど・・・完全に局長のおチンポに屈服させられちゃったわ・・・）[p]
-（虫唾が走るほど毛嫌いしてた局長とのセックスがあんなに気持ち良いなんて・・・）[p]
-（・・・いえ、嫌いだからかも・・・わたしやっぱりマゾなんだわ・・・）[p]
-（・・・・・・）[p]
-（どうせ今の状況から抜け出す手立てがないなら・・・性奴隷という自分を受け入れちゃったほうが楽なのかもね・・・）[p]
-（以前のわたしは周りに負けまいと肩肘張って仕事をして・・・家に帰ったら毎晩欲求不満でオナニーしてた）[p]
-（あのままだったらわたし、こんな快楽を知らないまま歳を取っていたでしょうね・・・）[p]
-（そう考えたらこのまま従順な性奴隷としておチンポに屈して生きていくのも・・・悪くないわ）[p]
-（・・・・・・）[p]
-（・・・でもただ従順にしてたら飽きられちゃうから、時々反抗的な演技もしてあげないとね）[p]
-（だってわたしは・・・女子アナ（肉便器）なんだから・・・）[p]
+#Akiko
+*panting* (Finally... I wonder how many times I was made to come...)[p][cm]
+(It's frustrating, but... I completely succumbed to the Director's dick...)[p][cm]
+(I can't believe sex with the Chief, whom I despised so much, could feel this[r]good...)[p][cm]
+(... No, maybe it's because I hate him...[p][cm]
+I guess I'm just a masochist after all...)[p][cm]
+(......) (If there's no way to escape from this situation anyway...[p][cm]
+maybe it would be easier to just accept myself as a sex slave...)[p][cm]
+(In the past, I used to work with my shoulders stiff, determined not to lose to[r]those around me...[p][cm]
+and every night when I returned home, I would masturbate out of frustration.)[p][cm]
+(If things had stayed the way they were, I would have grown older without ever[r]knowing this pleasure...)[p][cm]
+(If I think about it, living as a submissive sex slave, surrendering to dicks,[r]wouldn't be so bad...)[p][cm]
+(......) (... But if I just obediently comply, I'll be easily bored, so I have[r]to put on a rebellious act from time to time.)[p][cm]
+(Because I am... a female announcer (flesh toilet)[p][cm]
+after all...)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -880,13 +990,15 @@
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-2.png"  width="500"  height="1200"  left="142"  top="15"  reflect="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#谷田
-「これをこうして・・・あれは準備できてるな」[p]
-「・・・よし大丈夫だ。そろそろ千山さんが来る時間かな？」[p]
-「・・・前は千山さんに会うのが毎日の楽しみだったけど・・・アレ以来、避けられてるんだよなぁ。声も掛けてくれないし」[p]
-「アレは一体なんだったんだろうなぁ。夢だったんじゃないだろうな・・・？」[p]
-「千山さんとあんなこと・・・もう二度とできないのかな・・・はぁ」[p]
-「・・・あ、来たッ」[p]
+#Tanida
+This goes here... and that is ready.[p][cm]
+... Alright, it's fine. Is it about time for Senzan-san to arrive?[p][cm]
+... Before, meeting Senzan-san was the highlight of my day...[p][cm]
+but since then, it feels like I'm being avoided.[p][cm]
+They don't even talk to me anymore.[p][cm]
+What was that thing? I hope it wasn't just a dream...[p][cm]
+I wonder if I'll never be able to do that kind of thing with Senzan-san again...[p][cm]
+sigh. ... Ah, they're here.[p][cm]
 
 
 
@@ -895,56 +1007,55 @@
 [chara_hide_all  time="1000"  wait="true"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro258-6.png"  width="591"  height="1478"  left="91"  top="15"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「おはようございます」[p]
-#スタッフ
-「あ、おはようございます」[p]
-#亜紀子
-「あら、シャツが出てるわよ？シャキッとして。今日もはりきっていきましょう」[p]
-#スタッフ
-「え、あ・・・はい」[p]
-（な、なんか今日の千山さんいつもと違うな・・・）[p]
-#カメラマン
-「おはようございます千山さん」[p]
-「今日も衣装似合ってますね」[p]
-#亜紀子
-「そう？ありがとう。今日もセクシーに撮ってね♥」[p]
-#カメラマン
-「え、はい、もちろんです！」[p]
-（どうしたんだ？今日はやけに機嫌が良いな）[p]
+#Akiko
+Good morning.[p][cm]
+#Staff
+Oh, good morning.[p][cm]
+#Akiko
+Oh, your shirt is sticking out?[p][cm]
+Straighten up. Let's give it our all today too.[p][cm]
+#Staff
+Uh, ah... Yes. (W-What's different about Senzan-san today...)[p][cm]
+#Photographer
+The outfit suits you well today too.[p][cm]
+#Akiko
+Is that so? Thank you.   Please take sexy pictures of me today too ♥[p][cm]
+#Photographer
+Yes, of course! (What's wrong?[p][cm]
+You seem unusually cheerful today.)[p][cm]
 [_tb_end_text]
 
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-2.png"  width="500"  height="1200"  left="708"  top="-9"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#谷田
-「お、おはようございます千山さん・・・」[p]
-#亜紀子
-「おはよう谷田君」[p]
-「どうしたの？元気ないじゃない」[p]
-#谷田
-「え・・・い、いや・・・そんなことは・・・」[p]
-#亜紀子
-「そんなんじゃ女の子にモテないわよ？ウフフ」[p]
-#谷田
-「え、あ・・・」[p]
-（ど、どうしたんだ？急にこんなに優しくなって・・・）[p]
-#亜紀子
-（小声で）「また今度ミルクの搾りっこしましょうネ♥」[p]
+#Tanida
+Oh, good morning, Senzan-san...[p][cm]
+#Akiko
+Good morning, Tanida-kun. What's wrong?[p][cm]
+You don't seem energetic.[p][cm]
+#Tanida
+E... N-No... It's not like that...[p][cm]
+#Akiko
+You won't be popular with girls if you're like that, you know?[p][cm]
+Hehe[p][cm]
+#Tanida
+Eh, ah... (W-What's wrong? You suddenly became so kind...)[p][cm]
+#Akiko
+(Whispering) Let's milk you again next time, okay?   ♥[p][cm]
 [_tb_end_text]
 
 [chara_mod  name="谷田"  time="200"  cross="false"  storage="chara/4/hiro259-3.png"  ]
 [tb_start_text mode=1 ]
-#谷田
-「えっ・・・ええっ・・・！？」[p]
-#亜紀子
-「ウフフ、じゃあちゃんと仕事頑張ってね」[p]
+#Tanida
+Eh... Ehh...!?[p][cm]
+#Akiko
+Hehe, then do your best at work, okay?[p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ど、どういうこと・・・？一体・・・？」[p]
+#Tanida
+W-What do you mean...? What on earth...?[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -953,23 +1064,24 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [stopbgm  time="1000"  ]
 [tb_start_text mode=1 ]
-#ディレクター
-「本番５秒前！４・・・３・・・」[p]
+#Director
+5 seconds until the real thing![p][cm]
+4... 3...[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-13.jpg"  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="music13.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こんばんは、ニュースプライムＺ。キャスターの千山亜紀子です」[p]
-（さぁ今日もパンチラサービスしちゃうわよっ）[p]
-「まずは新型コロコロウイルスのニュースです。今日成田空港の入国審査で―――」[p]
-（テレビを見てる皆さん、今日も亜紀子でシコシコしてねっ♥）[p]
+#Akiko
+Good evening, this is Akiko Senzan, the caster for News Prime Z.[p][cm]
+(Well, today I'll give you a panty shot service again!)[p][cm]
+First, let's start with the news about the new CoronaCoro virus.[p][cm]
+Today, at the immigration inspection at Narita Airport-- (To everyone watching[r]TV, make sure to jerk off with Akiko today too ♥)[p][cm]
 #
-エンディングNo.５　　「局長」[p]
+Ending No.[p][cm]
+5 - Director[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]

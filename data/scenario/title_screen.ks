@@ -12,10 +12,10 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Sleeping_City.ogg"  ]
 *title
 
-[glink  color="black"  text="はじめから"  x="75"  y="370"  size="20"  target="*start"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  text="つづきから"  x="75"  y="470"  size="20"  target="*load"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="cg1.ks"  size="20"  text="ＣＧモード"  x="75"  y="570"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="rep1.ks"  size="20"  text="回想モード"  x="75"  y="670"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  text="Start"  x="75"  y="370"  size="20"  target="*start"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  text="Continue"  x="75"  y="470"  size="20"  target="*load"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="cg1.ks"  size="20"  text="CG Mode"  x="75"  y="570"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="rep1.ks"  size="20"  text="Flashback Mode"  x="75"  y="670"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *start
 

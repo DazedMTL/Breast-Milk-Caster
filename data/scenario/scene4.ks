@@ -9,26 +9,30 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-数日後[p]
-#独身男性（以下左上）
-「はーぁ、なんか面白い番組やってないかな・・・ポチポチ」[p]
-#テレビ
-「はいレナちゃん罰ゲーム～～！スイッチオン！」[p]
-「いやぁ～～ん！ダメェ～～～！」[p]
-#左上
-「お、週間ピンクSHOWだ」[p]
-「相変わらずくだらないことやってんなー」[p]
-「こういう深夜のお色気番組って一時期絶滅したかと思ってたけど、最近また増えてきたよな」[p]
-「需要あるんだろうな。ついつい見ちゃうもん」[p]
-「別に大してエロくないはずなんだけど、なぜかテレビだとAVよりもエロく感じちゃうのはなんでかな？」[p]
-#テレビ
-「さあ続いてはお色気天気予報のコーナーです」[p]
-「今週はすごいですよ。なんと現役の局アナがコスプレに挑戦してくれました！」[p]
-「しかもピチピチの人気若手女子アナです！これは必見ですよ～～！」[p]
-「岡明日香ちゃんです！どうぞ！」[p]
-#左上
-「え、岡明日香って清純派の若手女子アナじゃん」[p]
-「ホントかよ！」[p]
+Several days later[p][cm]
+#Single man (upper left)
+Sigh, I wonder if there's any interesting show on...[p][cm]
+*click click*[p][cm]
+#TV
+Here's the punishment game, Rena-chan~~![p][cm]
+Switch on! Nooo~! Stop it~![p][cm]
+#Upper left
+Oh, it's the Weekly Pink Show.[p][cm]
+They're still doing stupid things as usual.[p][cm]
+I thought these late-night erotic shows had gone extinct at some point, but they[r]seem to be increasing again recently.[p][cm]
+I guess there's still a demand for them.[p][cm]
+I can't help but watch. It's not supposed to be that erotic, but for some[r]reason, it feels even more erotic on TV than in AV.[p][cm]
+I wonder why?[p][cm]
+#TV
+And now, it's time for the sexy weather forecast segment.[p][cm]
+This week is amazing. Guess what?[p][cm]
+A current TV announcer has taken on the challenge of cosplaying![p][cm]
+And not only that, it's a popular young female announcer in tight-fitting[r]clothes![p][cm]
+This is a must-see~! It's Asuka Oka![p][cm]
+Here she is![p][cm]
+#Upper left
+Eh, isn't Asuka Oka a young female announcer known for her innocent image?[p][cm]
+Really?![p][cm]
 #
 
 
@@ -40,113 +44,122 @@
 [bg  time="1000"  method="crossfade"  storage="hiro116-1.jpg"  ]
 [playbgm  volume="10"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  ]
 [tb_start_text mode=1 ]
-#明日香
-「こ、こんばんは。Ｚテレビアナウンサー３年目の岡明日香です。よろしくお願いします・・・」[p]
-「それでは全国の明日のお天気です」[p]
-「明日は熱帯低気圧の影響で西日本から東海にかけて次第に雲が多くなるところが多くなり、雨が降るところがありそうです。洗濯物を干す際は天気の変化にお気をつけください」[p]
-「台風１０号の影響で南西諸島では雨風が強まる恐れがあります」[p]
-「また午後になりますと晴れている地域でも内陸部を中心に急激な天気の崩れが起こりやすくなりますので注意が必要です」[p]
+#Asuka
+G-Good evening. I'm Asuka Oka, a third-year announcer at Z-TV.[p][cm]
+Nice to meet you... And now, here's the weather forecast for tomorrow across the[r]country.[p][cm]
+Tomorrow, due to the influence of a tropical depression, there will be[r]increasing clouds from western Japan to the Tokai region, and there is a[r]possibility of rain.[p][cm]
+Please be careful of weather changes when hanging out laundry.[p][cm]
+There is a possibility of increased rain and strong winds in the southwestern[r]islands due to Typhoon No.[p][cm]
+10. Also, in the afternoon, even in areas where it is sunny, there is a[r]possibility of rapid weather changes, especially in inland areas, so please be[r]cautious.[p][cm]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-a.jpg"  width="633"  height="356"  x="645"  y="-1"  _clickable_img=""  name="img_10"  ]
 [tb_start_text mode=1 ]
-#左上
-「おおっ、本当に岡明日香だ！」[p]
-「しかもかなり攻めたコスプレだぞ。下乳見えてるじゃん！」[p]
-「この娘って絶対こんなことやらなそうな感じだったけど、意外だなぁ」[p]
-「セクシー女優とかじゃなくて本物のアナウンサーがこういうことやると、めっちゃエロく感じるなぁ・・・おっ？」[p]
+#Upper left
+Oh, it's really Asuka Oka! Moreover, it's quite a daring cosplay.[p][cm]
+You can even see the underboob![p][cm]
+I thought this girl would never do something like this, but it's surprising.[p][cm]
+It's not like she's a sexy actress, but when a real announcer does something[r]like this, it feels really erotic...[p][cm]
+Oh?[p][cm]
 #
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#明日香
-「それでは各地のお天気です。まず北海道は午前中は晴れ、午後から太平洋側で少しにわか雨が降るところがありそうです」[p]
+#Asuka
+Now, let's take a look at the weather in various regions.[p][cm]
+First, in Hokkaido, it will be sunny in the morning, but there is a chance of[r]scattered showers in the afternoon along the Pacific side.[p][cm]
 #
-プシャーーーッ！[p]
+*Pshhh![p][cm]
+*[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro116-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-明日香が雨の予報を口にした瞬間、画面の外から明日香の胸部に水鉄砲のようなもので水が吹きかけられた[p]
-コスプレのセーラー服が濡れて、肌色が透けて見える[p]
-#明日香
-「・・・っ！つ、続いては東北です」[p]
+As soon as Asuka mentioned the forecast of rain, water was sprayed onto her[r]chest from outside the screen, like a water gun.[p][cm]
+The sailor uniform in cosplay gets wet, and the skin color becomes visible[r]through it.[p][cm]
+#Asuka
+...! N-next, let's move on to Tohoku.[p][cm]
 #
-明日香は一瞬戸惑いの表情を見せたが、すぐに何事もなかったかのように笑顔に戻り予報を続けた[p]
-#明日香
-「東北地方はおおむね晴れるでしょう。ただし内陸部では局地的ににわか雨が降るところがあるでしょう。ご注意ください」[p]
+Asuka briefly showed a bewildered expression, but quickly returned to her smile[r]as if nothing had happened, and continued with the forecast.[p][cm]
+#Asuka
+The Tohoku region will generally be sunny.[p][cm]
+However, there may be localized showers in some inland areas.[p][cm]
+Please be aware.[p][cm]
 #
-プシャーーーッ！[p]
-#明日香
-「続いて中部地方にまいりましょう。中部地方では―――」[p]
+*Pshhh![p][cm]
+*[p][cm]
+#Asuka
+Next, let's move on to the Chubu region.[p][cm]
+In the Chubu region--[p][cm]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-a.jpg"  width="635"  height="357"  x="643"  y="-3"  _clickable_img=""  name="img_16"  ]
 [tb_start_text mode=1 ]
-#左上
-「おおっ、服が透けてきたぞ！」[p]
-「なるほど、雨予報をするたびに水がかけられて服が透けていくっていうシステムね！」[p]
-「これは面白いな。よし、もっと水をかけろ！全国雨降れ！」[p]
+#Upper left
+Oh, my clothes are becoming see-through![p][cm]
+I see, so every time there's a rain forecast, water is sprayed and the clothes[r]become see-through, huh?![p][cm]
+This is interesting. Alright, let's pour more water![p][cm]
+Rain all over the country![p][cm]
 
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
-#明日香
-「九州ではおおむね晴れそうですが、沖縄では台風の影響で午後から夜にかけて強い雨が降りそうです」[p]
+#Asuka
+It looks like it will be generally sunny in Kyushu, but in Okinawa, due to the[r]influence of a typhoon, there is a possibility of heavy rain from the afternoon[r]to the evening.[p][cm]
 #
-プシャーーッ！プシャーーッ！[p]
-#明日香
-「・・・！」[p]
+*Pshhh! * *Pshhh!  *[p][cm]
+#Asuka
+...![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro116-3.jpg"  ]
 [tb_start_text mode=1 ]
-#明日香
-「波も高くなることが予想されますので沿岸部の方は十分に警戒してください」[p]
+#Asuka
+Since high waves are expected, please be cautious if you are in the coastal[r]areas.[p][cm]
 
 [_tb_end_text]
 
 [tb_image_show  time="1000"  storage="default/hiro101-b.jpg"  width="581"  height="327"  x="698"  y="0"  _clickable_img=""  name="img_22"  ]
 [tb_start_text mode=1 ]
-#左上
-「おおおーーっ！スケスケだ！」[p]
-「これ、ニップレスもしてない・・・！？」[p]
-「服が白でしかも薄いから、透けて乳首が完全に見えちゃってるぞ！」[p]
-「おいおい大丈夫なのかこれ！局アナだろ！？」[p]
-「まさかここまでやるとは思わなかったぜ。体張ってるなぁ・・・」[p]
+#Upper left
+Ohhh! It's see-through! I'm not even wearing nipple covers...!?[p][cm]
+My clothes are white and thin, so my nipples are completely visible through[r]them![p][cm]
+Hey, hey, is this okay?! You're a news anchor, right?![p][cm]
+I never thought it would go this far.[p][cm]
+You're really going all out...[p][cm]
 
 [_tb_end_text]
 
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-明日香自身も自分が恥ずかしい格好になってしまっていることに気付いているはずだが、透けた胸を隠そうともせずぎこちない笑顔を浮かべたまま天気予報を読み続ける[p]
-#明日香
-「最後に関東地方です・・・。関東も午前中は晴れますが、午後からは南のほうを中心に雨模様になるところが多くなる見込みです」[p]
+Asuka herself must be aware of how embarrassing she looks, but she continues to[r]read the weather forecast with a clumsy smile, without even trying to hide her[r]see-through chest.[p][cm]
+#Asuka
+Lastly, let's talk about the Kanto region...[p][cm]
+In Kanto, it will be sunny in the morning, but there is a possibility of rain in[r]the afternoon, mainly in the southern areas.[p][cm]
 #
-プシャーーーッ！[p]
-#明日香
-「最高気温は東京が２８℃。他のところでも例年より少し高めになりそうです」[p]
-「関東南部では出かけるときに晴れていても帰宅時間には雨が降るところもあるので傘の用意をしておいたほうが安全そうです」[p]
-「以上全国のお天気でした」[p]
-「・・・あ・・・」[p]
-「・・・あ、あ～した天気にな～～れっ！」[p]
+*Pshhh![p][cm]
+*[p][cm]
+#Asuka
+The highest temperature in Tokyo will be 28 degrees Celsius.[p][cm]
+It seems that other places will also be slightly higher than usual.[p][cm]
+In the southern part of Kanto, even if it's sunny when you go out, there may be[r]rain by the time you return home, so it seems safer to prepare an umbrella.[p][cm]
+And that concludes the weather report for the entire country.[p][cm]
+... Ah... ... Ah... I hope the weather will be nice tomorrow![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro116-4.jpg"  ]
 [tb_cg  id="116"  ]
 [tb_image_show  time="1000"  storage="default/hiro101-b.jpg"  width="597"  height="336"  x="681"  y="0"  _clickable_img=""  name="img_28"  ]
 [tb_start_text mode=1 ]
-#左上
-「おおおっ！？」[p]
-「も、モロパンだーっ！」[p]
-「すげえーー！」[p]
+#Upper left
+Ohhh!? M-Moropan! Wow![p][cm]
 
 
 [_tb_end_text]
@@ -154,11 +167,12 @@
 [tb_image_hide  time="1000"  ]
 [tb_start_text mode=1 ]
 #
-「清純派女子アナ路線変更！？」「注目度ナンバー１若手女子アナ大胆露出！」[p]
-明日香のお色気番組での思い切った露出は大きな話題を呼んだ[p]
-乳首が透けているところや、パンチラのシーンの動画はネットに上げられ世界中で再生された[p]
-これまでお堅い路線でそういうことをしそうにない明日香が大胆すぎるお色気に走ったことが、一層世の男たちを興奮させた[p]
-しかし一方では局アナとしてのモラルを問う声や、売名行為だなどという批判も少なくなかった[p]
+Pure and innocent female announcer changes her image!?[p][cm]
+Young female announcer with the highest attention boldly exposes herself![p][cm]
+Asuka's bold exposure in the sexy program caused a big sensation.[p][cm]
+Videos of scenes where nipples are visible and panty shots are uploaded on the[r]internet and played worldwide.[p][cm]
+Asuka, who had been on a conservative path until now and seemed unlikely to[r]engage in such things, succumbed to bold sensuality, further exciting men[r]everywhere.[p][cm]
+However, on the other hand, there were also many criticisms questioning her[r]moral as a station announcer and accusing her of seeking publicity.[p][cm]
 
 [_tb_end_text]
 
@@ -169,15 +183,19 @@
 [mask_off  time="2000"  effect="fadeOut"  ]
 [playbgm  volume="40"  time="1000"  loop="true"  storage="music15.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「続いてのニュースです」[p]
-「Ｋ国籍のキム・キムキム容疑者が昨日、およそ１２ｋｇのキムチを販売目的で密輸した容疑で逮捕されました」[p]
-「警視庁によりますとキム容疑者はキムチを覚せい剤の袋に隠して密輸しようとしたところを、成田空港の税関職員に発見されたということです」[p]
-「キム容疑者は取調べに対して黙秘しているということで・・・ンッ！？」[p]
-（急に・・・母乳が・・・っ）[p]
-（アッ・・・出てる・・・んっ！で、でも読み続けないと・・・！）[p]
-「失礼しました。キム容疑者は容疑を否認しており・・・んっ、警察は協力者がいないか調査していく方針・・・ですっ」[p]
-「そ、それではお天気です。佐藤さんお願いしま・・・すっ」[p]
+#Akiko
+And now, for the next news. Kim Kimkim, a suspect of K nationality, was arrested[r]yesterday on suspicion of smuggling approximately 12kg of kimchi for the purpose[r]of sale.[p][cm]
+According to the Metropolitan Police Department, Mr. Kim was discovered by[r]customs officers at Narita Airport while attempting to smuggle kimchi hidden in[r]bags of methamphetamine.[p][cm]
+The suspect Kim is remaining silent during the interrogation...[p][cm]
+Ngh!? (Suddenly... my breast milk...!)[p][cm]
+(Ah... it's coming out... ngh![p][cm]
+B-but I have to keep reading...!)[p][cm]
+I apologize. Suspect Kim denies the allegations...[p][cm]
+Mm, the police are investigating whether there are any accomplices...[p][cm]
+that's the plan. A-And now, let's move on to the weather.[p][cm]
+Mr. Sato, please take it awa...[p][cm]
+[p][cm]
+uh[p][cm]
 
 
 [_tb_end_text]
@@ -187,24 +205,25 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-1.png"  width="617"  height="1481"  left="119"  top="21"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（ふう・・・危なかったわ）[p]
+#Akiko
+(Phew... That was close.)[p][cm]
 [_tb_end_text]
 
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-2.png"  width="512"  height="1229"  left="748"  top="-9"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#谷田
-「千山さん、おつかれさまです！」[p]
-#亜紀子
-「ええ・・・おつかれさま」[p]
-#谷田
-「あの・・・ちょっと具合悪そうでしたけど、大丈夫ですか？」[p]
-#亜紀子
-「え、ええ・・・大丈夫よ。ちょっと疲れてるだけだから」[p]
-#谷田
-「そうですか。身体には気をつけてください」[p]
-#亜紀子
-「ありがとう」[p]
+#Tanida
+Good work, Senzan![p][cm]
+#Akiko
+Well... good work.[p][cm]
+#Tanida
+Um... you seemed a little unwell.[p][cm]
+Are you okay?[p][cm]
+#Akiko
+Uh, y-yeah... I'm fine. I'm just a little tired, that's all.[p][cm]
+#Tanida
+I see. Please take care of your health.[p][cm]
+#Akiko
+Thank you.[p][cm]
 
 [_tb_end_text]
 
@@ -212,24 +231,25 @@
 [bg  time="1000"  method="crossfade"  storage="hiro202.jpg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-1.png"  width="427"  height="1025"  left="266"  top="39"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（まさか本番中に母乳が溢れてくるなんて・・・）[p]
-（もう少しでジャケット染み出しちゃうところだったわ）[p]
-（最近明日香が私を避けてるから、こういう時どうしようもないのよね）[p]
-（トイレでガーゼを交換して来ないと・・・）[p]
+#Akiko
+(I can't believe my breast milk is overflowing during the live broadcast...)[p][cm]
+(I was about to have my jacket stained...)[p][cm]
+(Lately, Asuka has been avoiding me, so there's nothing I can do in situations[r]like this.)[p][cm]
+(I need to go change my gauze in the bathroom...)[p][cm]
 [_tb_end_text]
 
 [mask  time="2000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="2000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ふう・・・」[p]
-（あれだけ出たら今日はもう大丈夫そうね）[p]
-（それにしてもなんて不便な体質なのかしら・・・。自分ではどうしようもないし・・・）[p]
-（・・・それはともかく明日香のことだわ）[p]
-（相変わらず露出狂みたいな格好で本番に出てるし・・・表情もどこかおかしい。あれが自分の意思のはずがないわ）[p]
-（勝野とよく会ってるみたいだし、やっぱりあいつが怪しいわ・・・）[p]
-（・・・ん？）[p]
+#Akiko
+*sigh* (If that much came out, it looks like I'll be fine for today.)[p][cm]
+(But seriously, what an inconvenient constitution...[p][cm]
+There's nothing I can do about it myself...)[p][cm]
+(... Anyway, it's about Asuka.)[p][cm]
+(She's still performing in such an exhibitionist outfit...[p][cm]
+and her expression seems off. There's no way that's her own will.)[p][cm]
+(It seems like she's meeting with Katsuno a lot, so I guess she's suspicious[r]after all...)[p][cm]
+(Hm?)[p][cm]
 
 [_tb_end_text]
 
@@ -239,10 +259,10 @@
 [chara_show  name="明日香"  time="1000"  wait="true"  storage="chara/2/hiro257-2.png"  width="29"  height="70"  left="850"  top="388"  reflect="false"  ]
 [chara_move  name="美里"  anim="true"  time="300"  effect="linear"  wait="true"  left="31"  top="39"  width="427"  height="1025"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（あれは・・・勝野と明日香だわ！）[p]
-（二人してどこへ行くのかしら・・・？）[p]
-（・・・よし、跡をつけてみましょう）[p]
+#Akiko
+(That's... Katsuno and Asuka!)[p][cm]
+(I wonder where the two of them are going together...)[p][cm]
+(... Alright, let's follow them and see what they're up to.)[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -250,9 +270,9 @@
 [chara_hide  name="勝野"  time="0"  wait="true"  pos_mode="true"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（空き部屋に入ったわ）[p]
-（なんとか会話を聞けないかしら・・・）[p]
+#Akiko
+(They went into an empty room.)[p][cm]
+(I wonder if I can somehow overhear their conversation...)[p][cm]
 
 [_tb_end_text]
 
@@ -264,77 +284,83 @@
 [bg  time="1000"  method="crossfade"  storage="hiro999.jpg"  ]
 [stopbgm  time="1000"  ]
 [tb_start_text mode=1 ]
-#勝野
-「・・・めろ・・・・・・うだ・・・」[p]
+#Katsuno
+... Mero... uda...[p][cm]
 #
-チュパ・・・チュパ・・・[p]
-#勝野
-「・・・って・・・いに・・・いぞ・・・」[p]
+*sucking... sucking...  *[p][cm]
+#Katsuno
+... tte... i ni... izo...[p][cm]
 #
-チュプ・・・チュプ・・・[p]
-#勝野
-「・・・めは・・・のに・・・じゃないか・・・ククク」[p]
-#亜紀子
-（勝野がなにかしゃべってるみたいだけど・・・内容までは解からないわね・・・）[p]
-（それになんか変な音・・・なにかしら？）[p]
-（・・・思い切ってちょっとだけ扉を開けてみましょう）[p]
+*sucking... sucking...  *[p][cm]
+#Katsuno
+... Mero... da... ni... ja nai ka...[p][cm]
+Kukuku.[p][cm]
+#Akiko
+(It seems like Katsuno is saying something, but I can't understand the[r]content...)[p][cm]
+(And what's that strange sound...[p][cm]
+I wonder what it is?) (... I'll gather my courage and open the door just a[r]little bit to take a peek.)[p][cm]
 
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [bg  time="2000"  method="crossfade"  storage="hiro109-1.jpg"  ]
 [tb_start_text mode=1 ]
-#明日香
-「ジュプッ・・・ジュプッ・・・」[p]
-#勝野
-「いいぞ、もっとそのかわいい唇を使ってチンポをしごくんだ」[p]
-「自分の口がマ○コになったつもりで奉仕しろよ」[p]
-#明日香
-「く・・・ジュプッ・・・チュバッ・・・」[p]
-#勝野
-「さすが若手ナンバーワンの有望女子アナだ。飲み込みが早いじゃないか、クククク」[p]
-#明日香
-「チュプッ・・・ジュポッ・・・」[p]
-#亜紀子
-（こ、これは・・・！？）[p]
-（い、一体どういうこと・・・！？）[p]
-（なんで明日香が勝野と・・・こんな・・・）[p]
-#勝野
-「しかし予想以上の反響だったな、お前のお色気路線変更は」[p]
-「そんなことしそうにない清純派のお前だったから、なおさら意外性があったんだろうな」[p]
-「他のやつらにもどうやって口説き落としたのかって聞かれちまったぜ」[p]
-#明日香
-「チュプッ・・・ジュプッ・・・」[p]
-#勝野
-「上も局アナのこういう売り出し方には積極的だしな」[p]
-「これで俺はもっともっと出世してやるぜ」[p]
-#明日香
-「ジュプッ・・・チュバッ・・・」[p]
-#亜紀子
-（明日香が・・・勝野のアレを・・・あんな風に・・・）[p]
-#勝野
-「しかし意外性って言うなら千山を使えばもっと話題になるだろうな・・・」[p]
-#明日香
-「ジュポンッ・・・先輩には手を出さないって言う約束です！」[p]
-#勝野
-「わかってるって。口を離すな。チンポに集中しろ」[p]
-#亜紀子
-（どういうこと・・・？）[p]
-（約束・・・？）[p]
-#明日香
-「チュプッ・・・ジュプッ・・・」[p]
-#勝野
-「しかし傑作だよな、あの千山が母乳体質だなんて」[p]
-「しかも自分では搾れないっていうんだから笑えるぜ、クヒヒヒ」[p]
-#亜紀子
-（・・・！）[p]
-#勝野
-「俺でよかったらいつでも搾ってやるんだかがな母乳を・・・」[p]
-#明日香
-「ジュプッ・・・ジュプッ・・・！」[p]
-#勝野
-「おいおいそんな怖い顔するなって。まぁお前が怖い顔してもかわいいだけだがな」[p]
-「よしよし、たっぷりと出してやるからな・・・おらっ！」[p]
+#Asuka
+*Slurp*... *Slurp*...[p][cm]
+#Katsuno
+Good, use those cute lips more and jerk off my dick.[p][cm]
+Serve me as if your mouth has become a pussy.[p][cm]
+#Asuka
+Ku... Jupu... Chu...[p][cm]
+#Katsuno
+As expected of the promising young female announcer who is number one.[p][cm]
+You sure catch on quickly, don't you?[p][cm]
+Hehehe.[p][cm]
+#Asuka
+*Suck*... *Slurp*...[p][cm]
+#Akiko
+(T-This is...!?) (W-What on earth is going on...!?)[p][cm]
+(Why is Asuka with Katsuno... like this...)[p][cm]
+#Katsuno
+But it was more of a response than I expected.[p][cm]
+Your change in sex appeal route...[p][cm]
+Because you were such an innocent girl who didn't seem like you would do[r]something like that, it was even more surprising.[p][cm]
+I ended up being asked how I managed to seduce the others.[p][cm]
+#Asuka
+*Suck*... *Slurp*...[p][cm]
+#Katsuno
+She's also proactive when it comes to promoting herself as a station announcer.[p][cm]
+With this, I will continue to climb up the ladder even more.[p][cm]
+#Asuka
+*Suck*... *Slurp*...[p][cm]
+#Akiko
+(Asuka... doing that to Katsuno's thing...[p][cm]
+in that way...)[p][cm]
+#Katsuno
+But if we talk about unexpectedness, using Senzan would create even more buzz...[p][cm]
+#Asuka
+*Suck*... It's a promise that I won't lay a hand on Senpai![p][cm]
+#Katsuno
+I know. Don't let go. Focus on the dick.[p][cm]
+#Akiko
+(What does this mean...?) (Promise...?)[p][cm]
+#Asuka
+*Suck*... *Slurp*...[p][cm]
+#Katsuno
+But it's a masterpiece, isn't it?[p][cm]
+That Senzan is lactating. And what's more, she says she can't milk herself.[p][cm]
+It's laughable, hehehe.[p][cm]
+#Akiko
+(....!)[p][cm]
+#Katsuno
+If you're okay with me, I can milk you anytime for breast milk...[p][cm]
+#Asuka
+*Suck*... *Suck*...![p][cm]
+#Katsuno
+Hey, hey, don't make such a scary face.[p][cm]
+Well, even if you make a scary face, you're still cute.[p][cm]
+There, there, I'll make sure to give you plenty...[p][cm]
+Here we go![p][cm]
 
 
 
@@ -345,35 +371,38 @@
 [bg  time="1000"  method="crossfade"  storage="hiro109-2.jpg"  ]
 [tb_cg  id="109"  ]
 [tb_start_text mode=1 ]
-#明日香
-「ジュプッ・・・ンム・・・っ！？」[p]
+#Asuka
+*Suck*... *Slurp*...![p][cm]
 #
-ドピュドピュドピュッ！[p]
-#明日香
-「ンンンッ・・・！」[p]
-#勝野
-「おおぅ・・・まだ出るぞ・・・おいっ一滴もこぼすなよ」[p]
-#明日香
-「ンムッ・・・ンンッ・・・ジュルッ」[p]
-#勝野
-「そうだ、よく味わって飲むんだぞ」[p]
-#明日香
-「ンゥッ・・・ゴクッ・・・ゴクッ・・・！」[p]
-#勝野
-「いいぞ・・・尿道に残ってるのもちゃんと吸い出すんだぞ」[p]
-#明日香
-「ン・・・チュゥ・・・ジュルッ・・・」[p]
-「ンクッ・・・ゴクッ」[p]
-#勝野
-「ふう・・・テレビ局の中で女子アナにしゃぶらせるのは最高の気分だな」[p]
-#明日香
-「ハァ・・・ウッ・・・」[p]
-#勝野
-「もうちょっとお楽しみといきたいところだが、あんまり長いことさぼってるわけにもいかないからな」[p]
-カチャカチャ[p]
-#亜紀子
-（・・・ハッ！）[p]
-（二人が出てくるわ！この場を離れないと・・・！）[p]
+*Squirt, squirt, squirt![p][cm]
+*[p][cm]
+#Asuka
+Mmm...![p][cm]
+#Katsuno
+Oh... it's still coming out...[p][cm]
+Hey, don't spill a single drop.[p][cm]
+#Asuka
+Mmm... Unn... Slurp...[p][cm]
+#Katsuno
+That's right, savor it and drink it all up.[p][cm]
+#Asuka
+Mmm... *gulp*... *gulp*...![p][cm]
+#Katsuno
+Good... Make sure to suck out everything that's left in the urethra.[p][cm]
+#Asuka
+Mmm... *kiss*... *slurp*... *Nkhh...[p][cm]
+Gokh...[p][cm]
+*[p][cm]
+#Katsuno
+Ahh... It feels amazing to have a female announcer suck me off inside the TV[r]station.[p][cm]
+#Asuka
+Haa... Ugh...[p][cm]
+#Katsuno
+I'd like to enjoy a little longer, but I can't afford to slack off for too long.[p][cm]
+*Click clack*[p][cm]
+#Akiko
+(... Hah!) (Two people are coming out![p][cm]
+I need to leave this place...!)[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -384,18 +413,20 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（・・・はぁ）[p]
-（とりあえず逃げてきちゃったけど・・・一回落ち着いて状況を整理しましょう）[p]
-（まず明日香を脅迫してたのは勝野で間違い無さそうね）[p]
-（どう見ても恋人同士の睦事には見えなかったもの）[p]
-（どこでバレたのか判らないけど、勝野が私の母乳体質のことを知っていた・・・）[p]
-（二人の会話から察するに、明日香は私の秘密を守るために勝野の言いなりになっている・・・？）[p]
-（たしか明日香は「先輩には手を出さない約束」って言ってたわ・・・）[p]
-（・・・そうよ！明日香は私の身代わりになって勝野にあんなことを・・・いや、口だけのはずがないわ。きっと身体も・・・）[p]
-（なんてことなの・・・！）[p]
-（私を直接脅さずに明日香の私を慕ってくれている心を利用するなんて・・・絶対に許せないわ！）[p]
-（ごめんね明日香・・・すぐに私が助けるから・・・！）[p]
+#Akiko
+(... *sigh*) (For now, I managed to escape...[p][cm]
+but let's calm down and organize the situation.)[p][cm]
+(It seems like Katsuno was the one threatening Asuka first, without a doubt.)[p][cm]
+(It definitely didn't look like a couple in a loving relationship.)[p][cm]
+(I don't know where he found out, but Katsuno knew about my lactation[r]condition...)[p][cm]
+(From their conversation, it seems like Asuka is obeying Katsuno's orders to[r]protect my secret...?)[p][cm]
+(I'm pretty sure Asuka promised not to lay a hand on Senpai...)[p][cm]
+(... That's right! Asuka became my substitute and did such things to Katsuno...[p][cm]
+No, it can't just be empty words.[p][cm]
+I'm sure her body too...) (What is this...!)[p][cm]
+(Using Asuka's affection for me without directly threatening me...[p][cm]
+I absolutely cannot forgive this!)[p][cm]
+(I'm sorry, Asuka... I'll save you right away...!)[p][cm]
 
 
 [_tb_end_text]

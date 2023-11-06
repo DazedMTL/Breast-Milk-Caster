@@ -4,8 +4,8 @@
 [stopbgm  time="1000"  ]
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro999.jpg"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  target="*txt1"  x="482"  y="323"  width=""  height=""  _clickable_img=""  text="テキストスピード速い"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  target="*txt2"  text="テキストスピード普通"  x="482"  y="424"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene1.ks"  size="20"  target="*txt1"  x="482"  y="323"  width=""  height=""  _clickable_img=""  text="Text speed is fast"  ]
+[glink  color="black"  storage="scene1.ks"  size="20"  target="*txt2"  text="Normal text speed"  x="482"  y="424"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *txt1
 
@@ -18,90 +18,89 @@
 
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-本番始まりまーす！[p]
-５秒前！[p]
-４！[p]
-・・・・・・・・・[p]
-・・・・・・[p]
-・・・[p]
+It's time for the real thing to begin![p][cm]
+5 seconds ago! 4! ・・・・・・・・・ ・・・・・・[p][cm]
+・・・[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-1.jpg"  ]
 [playbgm  volume="100"  time="10"  loop="false"  storage="music13.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「こんばんは、ニュースプライムＺ、キャスターの千山亜紀子（ちやまあきこ）です」[p]
+#Akiko
+Good evening, this is Akiko Chiyama, the caster for News Prime Z.[p][cm]
 
 [_tb_end_text]
 
 [playbgm  volume="10"  time="1000"  loop="true"  storage="Green&Dance_2.ogg"  fadein="true"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「まずは大雨関連のニュースです」[p]
-「１４日に起きたＫ県Ｓ市の土砂崩れで行方不明となっていた１７名のうち２人が今日の昼ごろ発見され救出されました」[p]
-「救出されたのは土田圧死郎さん９９歳と水川溺子さん９８歳の二人で、共に公民館の地下室に閉じ込められていたところを救助隊によって発見されました」[p]
-「二人は市内の病院に運ばれましたが特に怪我は無く意識もしっかりしているということです」[p]
-「現場は引き続きの雨で地盤が脆くなっており再び土砂崩れが起こる危険もある中、捜索作業は難航しているようです」[p]
-「捜索は明日も早朝から行われるということです」[p]
-「西日本では大雨による洪水が各地で起きています」[p]
-「Ｔ県県北部では８千世帯が避難しており―――」[p]
+#Akiko
+First, let's start with the news related to heavy rain.[p][cm]
+Two out of the seventeen people who went missing due to a landslide in S City, K[r]Prefecture on the 14th were found and rescued around noon today.[p][cm]
+The two people who were rescued were Mr. Atsushi Tsuchida, 99 years old, and Ms.[p][cm]
+Obuko Mizukawa, 98 years old.[p][cm]
+They were both found trapped in the basement of a community center by the rescue[r]team.[p][cm]
+Both of them were taken to a hospital in the city, but they didn't suffer any[r]major injuries and are conscious.[p][cm]
+The site continues to be affected by ongoing rain, making the ground unstable[r]and posing a risk of another landslide.[p][cm]
+It seems that the search operation is facing difficulties.[p][cm]
+The search will continue from early tomorrow morning.[p][cm]
+In western Japan, floods caused by heavy rain are occurring in various areas.[p][cm]
+In the northern part of T Prefecture, 8,000 households have evacuated--[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro101-1.jpg"  ]
 [tb_start_text mode=1 ]
-#独身男性（左上）
-「お、千山亜紀子じゃん。やっぱ乳でけーなぁー」[p]
-「相変わらずスカートじゃなくてズボン穿いてるんだな」[p]
-「・・・たしか女子アナのアイドル化に反対の意思を示すためにスカート穿くのを止めたんだっけ」[p]
-「よくテレビ局も許してるよな」[p]
-「人気があるしキャスターとして勢いあるから干すわけにもいかないんだろうな」[p]
-「性格きつそうだよな。めっちゃ頭良さそうだし」[p]
-「でも一回あのでかパイをモミまくってヒィヒィ言わせてやりてえなぁ」[p]
-「男いるのかな？お堅いイメージだけど・・・」[p]
-「・・・まぁいいや、どうせ俺らみたいな庶民が付き合えるわけないし」[p]
-「ニュースつまんねえしアニメでも観よっと」[p]
-・・・[p]
-・・・[p]
-#独身男性（左下）
-「亜紀子・・・俺の亜紀子・・・ハァハァ」[p]
-「今日も美しい声を聞かせておくれ・・・俺だけのために・・・」[p]
-・・・[p]
-・・・[p]
-#既婚女性
-「洪水怖いわねぇ・・・。このあたりは大丈夫かしら？」[p]
-#既婚男性
-「大丈夫だろう、川からは離れてるし」[p]
-#小学生女子
-「ねえ、ニュースつまんない。チャンネル変えていい？」[p]
-#既婚女性
-「ダメよ、パパが観てるんだから。もうちょっと待ちなさい」[p]
-#小学生女子
-「はーい・・・」[p]
-#既婚女性
-「それにしても千山アナウンサーって感じ良いわよね。頭も良さそうだし。ねえあなた」[p]
-#既婚男性
-「え？ああ・・・うん、そうだね」[p]
+#Single Man (Top Left)
+Oh, it's Akiko Chiyama. Her boobs are still huge, huh?[p][cm]
+As usual, she's wearing pants instead of a skirt.[p][cm]
+... I think she stopped wearing skirts to show her opposition to the idolization[r]of female announcers.[p][cm]
+I can't believe the TV station allows that.[p][cm]
+She's popular and has momentum as a caster, so I guess they can't just let her[r]go.[p][cm]
+She seems to have a strict personality.[p][cm]
+And she looks really smart. But I really want to squeeze those big boobs once[r]and make her moan in pleasure.[p][cm]
+I wonder if there's a man? She gives off a serious impression, but...[p][cm]
+... Well, never mind. There's no way someone like us commoners could date her[r]anyway.[p][cm]
+The news is boring, I'll watch some anime instead.[p][cm]
+・・・ ・・・[p][cm]
+#Single man (bottom left)
+Akiko... My Akiko... *heavy breathing* Please let me hear your beautiful voice[r]again today...[p][cm]
+just for me... ・・・ ・・・[p][cm]
+#Married woman
+I'm scared of floods... I wonder if this area will be okay?[p][cm]
+#Married man
+It should be fine. We're far away from the river.[p][cm]
+#Elementary School Girl
+Hey, the news is boring. Can I change the channel?[p][cm]
+#Married woman
+No, Daddy is watching it. Just wait a little longer.[p][cm]
+#Elementary School Girl
+Okay...[p][cm]
+#Married woman
+By the way, doesn't Chiyama the announcer have a nice vibe?[p][cm]
+She seems smart too. Hey, don't you think so?[p][cm]
+#Married man
+Huh? Ah... yeah, I guess so.[p][cm]
 #
-・・・・・・[p]
+・・・・・・[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro254-1.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「続いてＨ市長選挙のニュースです」[p]
-「民生党と男尊党の一騎打ちとなり注目を集めていたＨ市長選ですが、今日投開票が行われ男尊党の鏑木権造氏が初の当選を果たしました」[p]
-「速報によりますと得票率は鏑木氏が４９％、民生党の松浦氏が４６％とかなりの接戦だった模様です」[p]
-「選挙管理委員会の公表した数字では投票率が５２％と前回より１８ポイントの上昇となり、今回の市長選の注目度の高さがうかがえます」[p]
-「連日与党の大物議員たちが応援に駆けつけ磐石かと思われていた松浦候補でしたが」[p]
-「汚職の一掃や『革新』を掲げ無党派層の支持を集めた鏑木氏に追い上げられまさかの敗北となりました」[p]
-「市民からは市政に新しい風を吹かせてくれるのではないかと期待の声が上がっています」[p]
-「しかし一方では鏑木氏の過去の女性蔑視の発言などから、政治的方向性に対する不安の声もあるようです」[p]
-「続いてはお天気です」[p]
+#Akiko
+Next up is the news about the H City mayoral election.[p][cm]
+In the highly anticipated H City mayoral election, which became a head-to-head[r]battle between the Minsei Party and the Dansontou Party, today's voting took[r]place and Mr. Kagamiki Gongzo of the Dansontou Party achieved his first victory.[p][cm]
+According to the breaking news, Mr. Kagamiki had a vote rate of 49%, while Mr.[p][cm]
+Matsuura of the Minsei Party had 46%, indicating a close battle.[p][cm]
+According to the numbers released by the Election Management Committee, the[r]voter turnout was 52%, which is an increase of 18 points from the previous[r]election, indicating the high level of attention for this mayoral election.[p][cm]
+It was thought that Mr. Matsuura, the candidate who had been supported by[r]influential members of the ruling party day after day, was in a strong position,[r]but...[p][cm]
+In a surprising turn of events, Mr. Matsuura, who had been supported by[r]influential members of the ruling party and advocated for the eradication of[r]corruption and 'innovation,' was unexpectedly defeated by Mr.[p][cm]
+Kagamiki, who gathered support from the non-partisan voters.[p][cm]
+There are voices of expectation from the citizens, hoping that he will bring a[r]new breeze to the city administration.[p][cm]
+However, on the other hand, there are voices of concern regarding Mr. Kagamiki's[r]past remarks that belittle women, raising doubts about his political direction.[p][cm]
+Next up is the weather.[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 
 
 [_tb_end_text]
@@ -113,17 +112,16 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="neonpurple.ogg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-1.png"  width="544"  height="1306"  left="209"  top="9"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#ディレクター
-「はいオーケーでーす！おつかれさまー」[p]
-#亜紀子
-「お疲れ様です」[p]
-（ふう・・・）[p]
+#Director
+Alright, we're good to go! Good work everyone.[p][cm]
+#Akiko
+Good job everyone. (Huh...)[p][cm]
 #
-カメラが止まりほっと大きく息を吐く[p]
-５年目で多少慣れてきたとはいえ、やはり生本番は緊張する[p]
-カメラの向こうで何百万人もの人が見ていると思うと、いまだにパニックになりそうな瞬間もある[p]
-#亜紀子
-（まぁそれだけやり甲斐があるってことでもあるけど）[p]
+The camera stops and I let out a big sigh of relief.[p][cm]
+Even though I've gotten somewhat used to it by the fifth year, I still get[r]nervous during live performances.[p][cm]
+There are still moments when I feel like I'm about to panic, thinking that there[r]are millions of people watching behind the camera.[p][cm]
+#Akiko
+(Well, I guess that's what makes it worthwhile.)[p][cm]
 
 
 
@@ -131,84 +129,90 @@
 
 [chara_show  name="谷田"  time="1000"  wait="true"  storage="chara/4/hiro259-2.png"  width="441"  height="1058"  left="721"  top="13"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#谷田
-「ち、千山さん、おつかれさまでしたっ！」[p]
-#亜紀子
-「おつかれさま谷田君」[p]
-#谷田
-「きょ、今日も完璧でした・・・！」[p]
-#亜紀子
-「ありがとう」[p]
+#Tanida
+C-Chiyama-san, great job![p][cm]
+#Akiko
+Good job, Tanida-kun.[p][cm]
+#Tanida
+T-Today was perfect too...![p][cm]
+#Akiko
+Thank you.[p][cm]
 #
-いつもどおりAD（アシスタント・ディレクター）の谷田が真っ先に亜紀子のもとに駆け寄り労いの言葉をかけてくる[p]
-後輩とはいえ歳もそれほど変わらないのだが、亜紀子のことを女神様か何かと思っているようで、顔を真っ赤にして好意を隠そうともしない[p]
-亜紀子も悪い気はしないのだが、亜紀子のほうから谷田に対して特別な感情は生まれそうにない[p]
-#亜紀子
-（人を見た目で判断するわけじゃないけど・・・さすがにね）[p]
-#ディレクター
-「おい谷田！ちょっと来い！」[p]
-#谷田
-「は、はい！あ、千山さん失礼します！」[p]
+As usual, the assistant director Tanida rushes over to Akiko and offers words of[r]encouragement.[p][cm]
+Even though we're not that far apart in age, it seems like Tanida sees Akiko as[r]some kind of goddess or something.[p][cm]
+He turns bright red and doesn't even try to hide his affection.[p][cm]
+Akiko doesn't feel bad about it, but it doesn't seem like any special feelings[r]will develop from Akiko towards Tanida.[p][cm]
+#Akiko
+(I don't judge people based on appearances, but...[p][cm]
+well, you know.)[p][cm]
+#Director
+Hey, Tanida! Come here for a moment![p][cm]
+#Tanida
+Y-Yes! Ah, excuse me, Chiyama-san![p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="谷田"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ふう・・・とりあえず報道室まで戻りましょう」[p]
+#Akiko
+Phew... Let's go back to the press room for now.[p][cm]
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro202.jpg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-1.png"  width="437"  height="1049"  left="225"  top="33"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#局長
-「千山！」[p]
+#Director
+Chiyama![p][cm]
 [_tb_end_text]
 
 [chara_show  name="局長"  time="1000"  wait="true"  storage="chara/3/hiro262-1.png"  width="437"  height="1049"  left="627"  top="-38"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「局長、お疲れ様です」[p]
-#局長
-「おつかれさまじゃない！一体どういうつもりだ！」[p]
-#亜紀子
-「は？なんのことでしょう？」[p]
-#局長
-「とぼけるんじゃない！その服装だよ！」[p]
-「あれだけスカートを穿いて来いと言ったのに、またズボンを穿いてきおって！」[p]
-「女子アナは脚を見せるのも仕事のうちと何度言ったら分かるのかね！」[p]
-#亜紀子
-「わたしの方こそ何度も言わせてもらいますが、わたしはジャーナリストです。タレントじゃありません」[p]
-「ジャーナリストは真実を伝えるのが仕事です。色気は必要ありません」[p]
-#局長
-「どんなニュースだって見てもらえなければ意味がないんだよ！」[p]
-「他局の女子アナがこぞってスカートの短さを競い合って数字を稼いでいるというのに・・・」[p]
-「スポンサー様からもお叱りを受けているんだぞ。私の立場も考えてくれたまえ！」[p]
-#亜紀子
-「報道がスポンサーの意向に影響を受けるのは禁忌（タブー）のはずですが」[p]
-#局長
-「それは建前だ。ニュース番組だってスポンサーがいなければ作れないんだよ」[p]
-#亜紀子
-「でもズボンを穿くようになってからも視聴率は落ちていないはずですが」[p]
-#局長
-「む・・・それは今のところはそうかもしれんが・・・」[p]
-#亜紀子
-「誰もがパンチラを目当てにニュースを観ているわけではありません。世の中の半分は女だということをお忘れなく」[p]
-「それでは次の仕事の準備があるので」[p]
+#Akiko
+Director, thank you for your hard work.[p][cm]
+#Director
+Good job! What on earth do you think you're doing![p][cm]
+#Akiko
+Huh? What are you talking about?[p][cm]
+#Director
+I told you to wear a skirt, but you're wearing pants again![p][cm]
+How many times do I have to tell you that showing your legs is part of the job[r]for a female announcer![p][cm]
+#Akiko
+I have to say this again, but I am a journalist.[p][cm]
+I am not a celebrity. Journalists' job is to convey the truth.[p][cm]
+Sex appeal is not necessary.[p][cm]
+#Director
+No matter what kind of news it is, it's meaningless if people don't watch it![p][cm]
+Even though female announcers from other stations are competing to see who can[r]wear the shortest skirts and boost their ratings...[p][cm]
+I've even been scolded by the sponsors.[p][cm]
+Please consider my position![p][cm]
+#Akiko
+It should be taboo for the news to be influenced by the sponsors' intentions.[p][cm]
+#Director
+That's just a facade. Even news programs can't be made without sponsors.[p][cm]
+#Akiko
+But even after I started wearing pants, the ratings shouldn't have dropped.[p][cm]
+#Director
+Well... that may be true for now...[p][cm]
+#Akiko
+Not everyone watches the news for panty shots.[p][cm]
+Don't forget that half of the world is female.[p][cm]
+Well then, I have preparations for the next job, so...[p][cm]
 
 [_tb_end_text]
 
 [chara_hide  name="美里"  time="1000"  wait="true"  pos_mode="true"  ]
 [tb_start_text mode=1 ]
-#局長
-「お、おい、待ちたまえ君・・・！」[p]
-「・・・くそっなんて扱いづらいやつなんだ」[p]
-「ちょっと人気があるからって最近は言いたいことを言うようになりおって」[p]
-「・・・しかしあいつの場合実力も伴ってるからなかなか文句も言えんのだよな」[p]
-「Ｔ大卒で若手では一番優秀。・・・しかも美人でスタイルも抜群」[p]
-「特にあのでかい乳ときたら・・・まったくけしからん！」[p]
-「くそっ、一度で良いからあの乳を思い切り揉んでやりたいもんだが・・・」[p]
+#Director
+O-Oh, wait a moment, you...! ...[p][cm]
+Damn, what a difficult person to deal with.[p][cm]
+Lately, because I've become somewhat popular, I've started speaking my mind[r]more.[p][cm]
+... But in that person's case, they have the skills to back it up, so it's hard[r]to complain.[p][cm]
+She's the most outstanding among the young graduates from T University...[p][cm]
+and on top of that, she's beautiful with an amazing figure.[p][cm]
+Especially when it comes to those big breasts...[p][cm]
+they're absolutely mesmerizing![p][cm]
+Damn it, I really want to grab and squeeze those breasts with all my might at[r]least once...[p][cm]
 
 
 [_tb_end_text]
@@ -217,36 +221,38 @@
 [bg  time="1000"  method="crossfade"  storage="hiro201.jpg"  ]
 [chara_show  name="美里"  time="1000"  wait="true"  storage="chara/1/hiro253-1.png"  width="487"  height="1169"  left="172"  top="27"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（さてと、次の仕事は・・・）[p]
-#明日香
-「先輩、お疲れ様です」[p]
+#Akiko
+(Well then, what's the next job...)[p][cm]
+#Asuka
+Senpai, good work.[p][cm]
 
 [_tb_end_text]
 
 [chara_show  name="明日香"  time="1000"  wait="true"  left="467"  top="10"  width="881"  height="1207"  reflect="false"  storage="chara/2/hiro252-3.png"  ]
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro253-3.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「明日香、おつかれさま」[p]
+#Akiko
+Asuka, good work.[p][cm]
 #
-彼女は岡明日香（おか　あすか）[p]
-３年目の後輩アナウンサーで、その人形のような愛らしい見た目で人気急上昇中の若手だ[p]
-しかし最近のアイドル女子アナのようにキャピキャピと浮ついたところはなく、考え方もしっかりしている[p]
-亜紀子のことをよく慕っていて、一番仲が良い同僚だ[p]
-#明日香
-「また局長の小言ですか？」[p]
-#亜紀子
-「まぁね・・・意見の相違ってやつかしら」[p]
-#明日香
-「わたしもこの前ネチネチとやられました。もっと愛想よくしろとか露出を増やせとか」[p]
-#亜紀子
-「まぁ局長といっても中間管理職だから。上から色々言われてるんでしょう」[p]
-「適当に聞き流しておけばいいわ」[p]
-#明日香
-「でも言い方がイラっとしちゃうんですよね。一回あのカツラを引っぺがしてやろうかな」[p]
-#亜紀子
-「ウフフ、止めておきなさい。本人はバレてないと思ってるんだから」[p]
+She is Asuka Oka. She is a junior announcer in her third year, and she is a[r]rising star in popularity with her doll-like adorable appearance.[p][cm]
+However, she doesn't have the flippant and flighty demeanor of a typical idol[r]girl announcer these days, and she has a solid way of thinking.[p][cm]
+She admires Akiko a lot and is her closest colleague.[p][cm]
+#Asuka
+Is it another lecture from the station manager?[p][cm]
+#Akiko
+Well... I guess it's just a difference of opinion.[p][cm]
+#Asuka
+I was also scolded the other day.[p][cm]
+They told me to be more friendly and increase my exposure.[p][cm]
+#Akiko
+Well, even though he's called the station manager, he's just a middle manager.[p][cm]
+I'm sure he's being told various things from above.[p][cm]
+Just ignore it and let it go.[p][cm]
+#Asuka
+But the way he says it really gets on my nerves.[p][cm]
+Maybe I should just snatch that wig off his head once.[p][cm]
+#Akiko
+Hehe, stop it. He probably thinks he hasn't been found out.[p][cm]
 
 
 
@@ -257,28 +263,29 @@
 
 [chara_mod  name="明日香"  time="600"  cross="false"  storage="chara/2/hiro252-1.png"  ]
 [tb_start_text mode=1 ]
-#明日香
-「ところで・・・（声を小さくして辺りを気にしながら）あっちの方は大丈夫ですか？」[p]
+#Asuka
+By the way... (whispering and looking around)[p][cm]
+Is everything okay over there?[p][cm]
 
 [_tb_end_text]
 
 [chara_mod  name="美里"  time="600"  cross="false"  storage="chara/1/hiro253-1.png"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ええ・・・ちょっと張ってる・・・かも」[p]
-#明日香
-「やっぱり！急いでやっておきましょう」[p]
-#亜紀子
-「あ、でもまだそこまでじゃないかも・・・」[p]
-#明日香
-「ダメですよ！この後すぐまた情報番組のMCですよね？」[p]
-「収録中に漏れてきたらどうするんですか」[p]
-#亜紀子
-「そ、そうね・・・」[p]
-#明日香
-「ほら、空き楽屋に行きましょう」[p]
-#亜紀子
-「わ、わかったわ・・・」[p]
+#Akiko
+Um... I might be a little tense...[p][cm]
+#Asuka
+Just as I thought! Let's do it quickly.[p][cm]
+#Akiko
+Ah, but maybe it's not that bad yet...[p][cm]
+#Asuka
+No way! After this, you're going to be the MC for another information program,[r]right?[p][cm]
+What will we do if it leaks during the recording?[p][cm]
+#Akiko
+Y-Yes, that's right...[p][cm]
+#Asuka
+Hey, let's go to the vacant dressing room.[p][cm]
+#Akiko
+F-Fine, I understand...[p][cm]
 
 
 

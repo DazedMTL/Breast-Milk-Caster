@@ -177,7 +177,7 @@ tf.current_ch_speed = tf.set_ch_speed;
 [emb exp="tf.text_sample"]
 
 [iscript]
-$(".current_span").css("color","#66564C"); // サンプルテキストのフォントカラーを指定
+#66564C"); // Specify the font color of the sample text
 tf.system.backlog.pop(); // サンプルテキストを履歴から削除（nolog～endnologタグと同じです）
 [endscript]
 

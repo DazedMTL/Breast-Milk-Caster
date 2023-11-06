@@ -9,155 +9,160 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music16.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「レロレロレロ・・・」[p]
-#黒原
-「おい、生ぬるい。もっと気合を入れて舐めんか」[p]
-#亜紀子
-「は、はい・・・レロレロレロッ」[p]
-（教育というからどんな恐ろしい調教をされるのかと思ったら・・・アナルを舐めさせられるなんて）[p]
-「レロレロ・・・グリュッグリュッ・・・ペロペロ」[p]
-（屈辱だけど・・・今さらこんなのなんでもないわ・・・）[p]
-「レロレロレロッ」[p]
-#黒原
-「もっと肛門のシワを一本一本徹底的に綺麗にしろ」[p]
-#亜紀子
-「はい・・・レロッレロッレロッ！」[p]
-（やればいいんでしょ・・・シワの間のウンチ汚れを・・・舐めとれば・・・）[p]
-「レリュッ・・・ヌリュッ・・・ペロッペロッ！」[p]
-（玉袋が鼻に乗ってるわ・・・このずしっとした重み・・・たっぷりとザーメンが入ってるのね・・・）[p]
-（強烈な臭い・・・オスの臭いがするわ・・・）[p]
-#黒原
-「それが終ったら舌を肛門にねじ込んで中まで綺麗にするのだ」[p]
-#亜紀子
-「はい・・・ズニュッ・・・グリグリグリ・・・」[p]
-（あぁ・・・黒原の直腸を舌で掃除させられるなんて・・・う・・・苦ッ）[p]
-「グリュッ・・・ズププッ・・・」[p]
-（何人もの女にこれをやらせてきたんでしょうね・・・何が教育者よ・・・）[p]
-#黒原
-「いいか、お前の存在価値はわしの肛門をキレイにする事だ。全霊を込めて肛門を舐めろ」[p]
-#亜紀子
-「ヌリュッ・・・は、はい・・・レロレロッ・・・ズプッ」[p]
-（く・・・ニュースキャスターの私が・・・惨めだわ・・・）[p]
-「ズプッズプッ・・・ヌリュッ・・・レロレロレロンッ」[p]
-（はぁ・・・はぁ・・・舌が疲れてきた・・・）[p]
-#黒原
-「舌を休めるな！」[p]
-#亜紀子
-「は、はいっ・・・！レロレロレロッ！」[p]
-（く・・・いつまでやらせる気なの・・・）[p]
-「レロレロレロレロッ・・・チュムッ・・・グリグリグリッ」[p]
+#Akiko
+Lero lero lero...[p][cm]
+#Kurohara
+Hey, you're being too lukewarm.[p][cm]
+Put more effort into licking.[p][cm]
+#Akiko
+Y-Yes... Lick, lick, lick... (I thought education meant some terrifying[r]training, but to think I would be made to lick an anus...)[p][cm]
+Lero lero... Guryu guryu... Pero pero...[p][cm]
+(It's humiliating, but... it's nothing at this point...)[p][cm]
+Lick, lick, lick.[p][cm]
+#Kurohara
+Clean every single wrinkle of the anus thoroughly.[p][cm]
+#Akiko
+Yes... Lick, lick, lick! (I guess I should...[p][cm]
+lick and clean the poop stains between the wrinkles...)[p][cm]
+Leru, nuryu, pero pero! (My balls are resting on your nose...[p][cm]
+this damp heaviness... they're filled with plenty of semen...)[p][cm]
+(It's a strong smell... It smells like a male...)[p][cm]
+#Kurohara
+After that, twist your tongue into the anus and clean it thoroughly inside.[p][cm]
+#Akiko
+Yes... Zunyu... Guri guri guri...[p][cm]
+(Ah... to be forced to clean Kurohara's rectum with my tongue...[p][cm]
+ugh... it's so painful...) *Gryu...[p][cm]
+Zuppu... * (I wonder how many women he has made do this...[p][cm]
+What kind of educator is he...)[p][cm]
+#Kurohara
+Listen, your worth as a person lies in cleaning my anus.[p][cm]
+Lick my anus with all your soul.[p][cm]
+#Akiko
+Nuryu... Y-yes... Lick, lick...[p][cm]
+Zuppu. (Ku... As a news caster...[p][cm]
+I feel so miserable...) *Zuppu...[p][cm]
+Zuppu... Nuryu... Lero lero leron* (Haa...[p][cm]
+haa... my tongue is getting tired...)[p][cm]
+#Kurohara
+Don't rest your tongue![p][cm]
+#Akiko
+Y-Yes... Lick, lick, lick! (Ugh...[p][cm]
+How long are they going to make me do this...)[p][cm]
+*Lero lero lero lero... Chumu...   Guri guri guri*[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ハァ・・・レロッ・・・レロレロッ・・・」[p]
-（あぁ・・・舌が・・・あごが・・・）[p]
-「レロレロッ・・・ズプズプッ・・・」[p]
-#黒原
-「手を抜くな無能！」[p]
-#亜紀子
-「ハァッ・・・レロレロレロッ・・・チュブッ」[p]
-（もう何分くらい肛門を舐めてるの・・・誰か助けて・・・）[p]
-#黒原
-「お前はトイレットペーパーだ！復唱しろ！」[p]
-#亜紀子
-「は、はいっ・・・わたしは・・・トイレットペーパーです・・・っ！」[p]
-「レロレロレロレロッ・・・！」[p]
-#黒原
-「お前のような無能に肛門を舐めるという役割を与えてやってるんだ。感謝の気持ちを込めて舐めろ！」[p]
-#亜紀子
-「は、はい・・・ありがとうございます・・・っ・・・レロレロレロッ」[p]
-（あぁ・・・もう終らせて・・・）[p]
-「ペロペロペロペロ・・・レロレロンッ」[p]
-（もう十分に綺麗にしました・・・っ）[p]
-「レロレロレロ・・・グリグリグリ・・・チュバッ」[p]
-#黒原
-「・・・よーし、そろそろいいだろう。止めてよしっ！」[p]
-#亜紀子
-「ハァッ・・・ハァッ・・・」[p]
-（や、やっと終った・・・）[p]
-#黒原
-「なにをしておる」[p]
-#亜紀子
-「ハァ・・・え・・・？」[p]
-#黒原
-「終ったら挨拶をせんか！まだ舐めさせられたいか！」[p]
-#亜紀子
-「あっ・・・は、はいっ！」[p]
+#Akiko
+Haa... Lick... Lick, lick... (Ah...[p][cm]
+My tongue... My jaw...) *Lick, lick...[p][cm]
+Zuppu, zuppu...[p][cm]
+*[p][cm]
+#Kurohara
+Don't slack off, you incompetent![p][cm]
+#Akiko
+Haa... Lick, lick, lick... Chubu.[p][cm]
+(How long have I been licking the anus...[p][cm]
+Someone please help...)[p][cm]
+#Kurohara
+You are toilet paper! Repeat after me![p][cm]
+#Akiko
+Y-Yes... I am... toilet paper...![p][cm]
+Lero lero lero lero lero...![p][cm]
+#Kurohara
+I've given you the role of licking the anus, you incompetent.[p][cm]
+Lick it with gratitude![p][cm]
+#Akiko
+Y-Yes... Th-Thank you... *Lick, lick, lick...[p][cm]
+* (Ah... Please, just let it end...)[p][cm]
+*Lick, lick, lick, lick... Lero-leron~* (I've cleaned it enough...)[p][cm]
+Lero-lero-lero... Guri-guri-guri...   Chubaaah[p][cm]
+#Kurohara
+Alright, it's about time. Stop it now![p][cm]
+#Akiko
+*Haa... haa... * (T-Thank goodness, it's finally over...)[p][cm]
+#Kurohara
+What are you doing?[p][cm]
+#Akiko
+Haa... Eh...?[p][cm]
+#Kurohara
+After it's over, won't you greet me?[p][cm]
+Do you still want to be licked?[p][cm]
+#Akiko
+Ah... Y-Yes![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-9.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「肛門を舐めさせていただき、ありがとうございました黒原様っ！」[p]
-#黒原
-「己の立場というものが少しは理解できたか？」[p]
-#亜紀子
-「はいっ・・・無能なわたしに黒原様の肛門を舐めさせていただけるなんて光栄ですっ！」[p]
-#黒原
-「フン、これからは毎日舐めさせてやろう」[p]
-#亜紀子
-「あ、ありがとうございます・・・っ！精一杯頑張りますっ！」[p]
-（毎日・・・これを・・・）[p]
-#黒原
-「さてと・・・本来ならば教育初日に魔羅をくれてやることは無いのだが」[p]
-「お前は特別扱いだ。犯してやるぞ」[p]
-#亜紀子
-「は、はい・・・あ、ありがとうございます・・・」[p]
+#Akiko
+Thank you very much, Kurohara-sama, for letting me lick your anus![p][cm]
+#Kurohara
+Have you come to understand your position a little bit?[p][cm]
+#Akiko
+Yes... It is an honor for someone as incompetent as me to be allowed to lick[r]Kurohara-sama's anus![p][cm]
+#Kurohara
+Hmph, from now on, I'll make you lick me every day.[p][cm]
+#Akiko
+Th-Thank you very much...! I'll do my best![p][cm]
+(Every day... this...)[p][cm]
+#Kurohara
+Well then... Normally, I wouldn't give you a Mara on your first day of training,[r]but...[p][cm]
+You're being treated specially.[p][cm]
+I'm going to violate you.[p][cm]
+#Akiko
+Y-Yes... Th-Thank you very much...[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-7.jpg"  ]
 [tb_start_text mode=1 ]
-#黒原
-「男根会の奴隷女は肉棒をいただくときも決まった挨拶があるのだが」[p]
-「それは追々教えてやるとして、今日は自分なりに考えて挨拶をしてみろ」[p]
-#亜紀子
-「は、はい・・・」[p]
-（いちいち何をするにも挨拶をさせるのね・・・）[p]
-（犯していただく挨拶・・・何を言えば良いの・・・とりあえず勝野に教えられた感じで・・・）[p]
-「く、黒原様のおチンポで・・・愚かな亜紀子をみっちりと教育してくださいませ・・・っ！」[p]
+#Kurohara
+I'll teach you that later. For now, try to come up with a greeting on your own.[p][cm]
+#Akiko
+Y-Yes... (Having to greet for everything...)[p][cm]
+(The greeting for being violated...[p][cm]
+What should I say... For now, I'll try to do it the way Katsuno taught me...)[p][cm]
+P-Please... educate foolish Akiko thoroughly with Kurohara-sama's dick...![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-9.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「よろしくお願いしますっ！」[p]
-#黒原
-「グハハハハ！それが前の主人に教えられた挨拶か。なかなか悪くない」[p]
-「しかし男根会の奴隷女はメスであると同時に最上の淑女でなければいかん。言葉遣いを改めろ」[p]
-「男根会では魔羅のことを敬意を込めて尊棒と呼ばせておる。それを踏まえてやり直せ」[p]
+#Akiko
+Nice to meet you![p][cm]
+#Kurohara
+Guhahaha! So that's the greeting you were taught by your previous master.[p][cm]
+Not bad at all. However, the female slaves of the Manhood Club must not only be[r]females but also the epitome of elegance.[p][cm]
+Improve your manners. In the Manhood Club, we respectfully refer to the male[r]genitalia as the 'honorable rod'.[p][cm]
+Keep that in mind and try again.[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-7.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「は、はいっ」[p]
-（そんぼう・・・「尊棒」・・・かしら？）[p]
-（とにかく気に入られるように挨拶しないと・・・）[p]
-「この愚かな奴隷を黒原様の御尊棒でご指導くださいませっ！」[p]
+#Akiko
+Y-Yes. (Honorable rod... I wonder if that's it?)[p][cm]
+(Anyway, I have to greet in order to be liked...)[p][cm]
+Please educate this foolish slave thoroughly with Kurohara-sama's honorable rod![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-9.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「どうぞよろしくお願いいたしますっ！」[p]
-#黒原
-「うむ、まぁよかろう。初日だからな」[p]
-「魔羅に対する敬意は常に忘れるな」[p]
-#亜紀子
-「はいっ」[p]
-（御尊棒・・・敬意・・・覚えておかないと）[p]
-#黒原
-「それでは犯してやるぞ」[p]
-#亜紀子
-「はいっ、ありがとうございますっ！」[p]
-（何言ってるの私・・・？）[p]
+#Akiko
+Nice to meet you![p][cm]
+#Kurohara
+Very well, I suppose that's fine.[p][cm]
+It is the first day after all.[p][cm]
+Never forget to show respect towards Mara.[p][cm]
+#Akiko
+Yes. (Honorable rod... respect...[p][cm]
+I must remember that.)[p][cm]
+#Kurohara
+Then, I'll violate you.[p][cm]
+#Akiko
+Yes, thank you very much! (What am I saying...?)[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -165,96 +170,111 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-パンッパンッパンッ！[p]
-#亜紀子
-「アンッ！アンッ！アンッ♥」[p]
-#黒原
-「なんだ、まだ挿れたばかりなのに甘い声で鳴きおって」[p]
-#亜紀子
-「アッ・・・ヒッ・・・アヒンッ♥」[p]
-（ひ、久しぶりのチンポ・・・あぁ・・・っ）[p]
-#黒原
-「生意気なインテリ女に女の身体が何のためにあるのかじっくり教えてやろうと思ったのに・・・」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahh! Ahh!   Ahh♥[p][cm]
+#Kurohara
+What's this? You're already moaning with such a sweet voice, even though I just[r]inserted it.[p][cm]
+#Akiko
+Ahh... Hic... Ahhin♥ (I-It's been a while since I've had a dick...[p][cm]
+Ahh...)[p][cm]
+#Kurohara
+I thought I would thoroughly teach this arrogant intellectual woman the purpose[r]of a woman's body...[p][cm]
 #
-パンッパンッパンッ！[p]
-#亜紀子
-「ンンッ・・・アヒッ・・・アァンッ♥」[p]
-（か、身体が悦んじゃってる・・・っ♥）[p]
-#黒原
-「教えるまでもなく知っておるではないか！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Nn... Ahh... Aahh♥ (M-My body is feeling so good...[p][cm]
+♥)[p][cm]
+#Kurohara
+You should already know without me having to teach you![p][cm]
 #
-パンッパンッパンッ！[p]
-#亜紀子
-「アンッ！アッ・・・ンンッ・・・アァンッ♥」[p]
-#黒原
-「どうだ、心の中で蔑んでいた男の肉棒は気持ちいいか？」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahh! Ahh... Unn...   Aahh♥[p][cm]
+#Kurohara
+How does it feel? Is the dick of the man you despised in your heart feeling[r]good?[p][cm]
 #
-パンッパンッパンッ！[p]
-#亜紀子
-「アンッ・・・アッ・・・ハヒィッ・・・っ♥」[p]
-#黒原
-「自分が孕まされるためだけに存在する肉だと自覚しろ！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahh... Ahh... Hahi...   ♥[p][cm]
+#Kurohara
+Be aware that you exist solely as flesh to be impregnated![p][cm]
 #
-パンッパンッパンッ！[p]
-#亜紀子
-「アヒィッ・・・ンンッ・・・アヒィーーーッ♥」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahh... Unn...   Ahhhhh♥[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro125-2.jpg"  ]
 [tb_start_text mode=1 ]
-#黒原
-「なにを勝手にイこうとしておるか。イくときは許可を求めろ！」[p]
+#Kurohara
+What are you trying to cum on your own?[p][cm]
+When you cum, ask for permission![p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「アヒィッ・・・！イ・・・イっても・・・よろしいでしょうかぁぁぁぁあ・・・ッ♥」[p]
-「ンンッ・・・ヒィーーーーー・・・・・・ッ♥」[p]
-#黒原
-「許可をする前にイくやつがあるか、このメス畜め！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahh... Ahh... Is it... Is it alright for me to...[p][cm]
+cummmm... ♥ *Nnn... Hiiii...   ♥*[p][cm]
+#Kurohara
+You dare to cum before receiving permission, you female livestock![p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「ぐ・・・も、申しわけ・・・アヒッ・・・ありませ・・・ンンーーーッ♥」[p]
-#黒原
-「快楽をむさぼるな！教義中だぞ！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+I... I'm sorry... Ahh... It feels...   so goooood♥[p][cm]
+#Kurohara
+Don't indulge in pleasure! We're in the middle of a lesson![p][cm]
 #
-パンッパンッパンッ！[p]
-#亜紀子
-「ヒィッ・・・もっ・・・もうしわけ・・・っ・・・アヒィーーッ♥」[p]
-#黒原
-「男の肉棒の前には女は無力だということを教えてやろうというのに」[p]
-「もう身をもって体感しておるではないか、ウハハハハ」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Hii... I'm... I'm sorry...   Ahhhh♥[p][cm]
+#Kurohara
+You have already experienced it firsthand, haven't you?[p][cm]
+Uhahaha[p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「ハァッ・・・アンッ・・・アァァッ・・・ヒッ♥」[p]
-（あぁ・・・チンポに・・・男に・・・屈しちゃう・・・っ♥）[p]
-#黒原
-「あんなにでかい口を叩いておきながらたわいもない！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Haa... Ahn... Aaah... Hii♥ (Ahh...[p][cm]
+To a dick... To a man... I'm surrendering...[p][cm]
+♥)[p][cm]
+#Kurohara
+After talking so big, you're just trivial![p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「ンァァッ！アァンッ・・・アハァッ・・・アヒィーーーッ♥」[p]
-#黒原
-「おい、勝手にイくなよっ」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Nghh! Ahh... Ahh...   Ahiiii♥[p][cm]
+#Kurohara
+Hey, don't go on your own![p][cm]
 #
-パンパンパンッ[p]
-#亜紀子
-「イ、くぅーーっ・・・イ、イかせてください・・・っ♥」[p]
-#黒原
-「ダメだ。まだだ」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ah, kuuh... Please, let me cum...   ♥[p][cm]
+#Kurohara
+No, not yet.[p][cm]
 #
-パンパンパンパンッ！[p]
-#亜紀子
-「アヒィィィ・・・そ、そんなぁ・・・ンンッ・・・アッッ・・・アヒィィイイイーーーッ♥」[p]
-「アハァッ・・・アッ・・・も、もうしわけーーーーっ♥」[p]
-#黒原
-「また勝手にイきおったかこの堪え性の無いメス豚め！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahiiii... S-so rough... Nnnn...[p][cm]
+Ahhh... Ahiiiiiiii♥ Ah... Ahh...   I-I'm sorryyyy♥[p][cm]
+#Kurohara
+Did you cum without permission again, you shameless female pig?![p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「も、もうしわけぇ・・・アヒッ・・・ご、ございませ・・・ンンーーーッ♥」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+I-I'm sorry... Ahh... Th-thank you...   Nnnn♥[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
@@ -262,48 +282,54 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-パンパンパンッ！[p]
-#亜紀子
-「アァァァッ・・・ハァッンッ・・・ンンンッ♥」[p]
-（ど、どうなってるの・・・いつまで続くの・・・！？）[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahhh... Haaan... Nnnn♥ (W-What's happening...[p][cm]
+How long will this continue...!?)[p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「アッ・・・アアッ・・・も、もうダメ・・・ンヒィーーーーーッ♥」[p]
-「イ、イかせてくださィィーーーーッ♥」[p]
-#黒原
-「許可を求めながらイくなこのメス豚め！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahh... Aahh... I-I can't take it anymore...   Nghiiii♥ P-Please let me cummmmm♥[p][cm]
+#Kurohara
+Don't cum while asking for permission, you filthy sow![p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「も、もうしわけぇーーっ・・・ヒィーーッ・・・アヒィッ♥」[p]
-（お、おかしくなっちゃう・・・っ！）[p]
-「も、もう・・・ゆるしてぇーーーーっ♥」[p]
-#黒原
-「何回イくんだこの淫乱め！わしはまだ一回もイってないんだぞ！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+I-I'm so sorry... Hiiii... Ahiiii♥ (I-I'm going crazy...!)[p][cm]
+P-Please...[p][cm]
+forgive meeee♥[p][cm]
+#Kurohara
+How many times are you going to cum, you perverted slut![p][cm]
+I haven't cum even once yet![p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「ンヒィーーーーッ♥・・・も、もうしわけありませンンーーーーッ♥」[p]
-#黒原
-「敗北を認めるか？んん？」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Nhiiiiiii♥...[p][cm]
+I-I'm so sorryyyyy♥[p][cm]
+#Kurohara
+Will you admit defeat? Hmmm?[p][cm]
 #
-パンパンパンッ！[p]
-#亜紀子
-「み、認めますぅぅぅーーーっ♥」[p]
-「お、女はおチンポ様には勝てませんーーーッ♥アヒィーーーーッ♥」[p]
-#黒原
-「よし・・・そろそろわしもイくとするか」[p]
-「わしの優秀な子種を授けてやるぞ、ありがたく思え！」[p]
+*Spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+I-I admit itttt♥ W-Women can't win against the power of a dick♥ Ahiiii♥[p][cm]
+#Kurohara
+Alright... I think it's about time for me to cum.[p][cm]
+I will bestow upon you my excellent seed, be grateful![p][cm]
 #
-パンパンパンパンパンッ！[p]
-#亜紀子
-「アヒィッ♥アンンッ♥ハヒィーーーッ♥」[p]
-（えっ・・・な、中・・・？い、イヤ・・・）[p]
-#黒原
-「ほれ、感謝しろ・・・っ！」[p]
-#亜紀子
-「アッ・・・ありがとうございますぅーーーーッ♥」[p]
+*Spank, spank, spank, spank, spank![p][cm]
+*[p][cm]
+#Akiko
+Ahii♥ Ahnn♥ Hahiiii♥ (Eh... In-inside...?[p][cm]
+N-No...)[p][cm]
+#Kurohara
+Take this and be grateful...![p][cm]
+#Akiko
+Th-thank you so muuuuchhh♥[p][cm]
 
 
 [_tb_end_text]
@@ -312,111 +338,111 @@
 [tb_cg  id="125"  ]
 [tb_start_text mode=1 ]
 #
-ドピュッッッ！！[p]
-#亜紀子
-「アッ・・・アヒィーーーーーッ♥」[p]
-（あっ・・・出てる・・・子宮に・・・♥）[p]
+*Dopyu!![p][cm]
+*[p][cm]
+#Akiko
+Ah... Ahiiiiiiiiii♥ (Ah... It's coming out...[p][cm]
+Inside my womb... ♥)[p][cm]
 #
-ドクドクドクッ[p]
-#黒原
-「う・・・む・・・っ」[p]
+*Throb, throb, throb*[p][cm]
+#Kurohara
+U... mu...[p][cm]
 #
-ドピュピュピュッ・・・！[p]
-#亜紀子
-「イ、イくぅーーーッ・・・ンヒッ♥」[p]
-#黒原
-「孕め・・・っ！」[p]
+Dopyu pyu pyu...![p][cm]
+#Akiko
+I-I'm cuuuuuming...[p][cm]
+Unhiiii♥[p][cm]
+#Kurohara
+Impregnate me...![p][cm]
 #
-ドクドクドクッ[p]
-#亜紀子
-「アヒッ・・・ハァンッ♥」[p]
-（黒原の・・・受精しちゃう・・・アァッ♥）[p]
-#黒原
-「・・・ふぅ、出た出た」[p]
-「久しぶりに気の乗ったセックスをしたわ、ヌフフフ」[p]
-#亜紀子
-「ハァッ・・・ハァッ・・・ンンッ・・・♥」[p]
-「ハァ・・・ハァッ・・・ハッ！」[p]
-（あ・・・そ、掃除フェラをしなきゃ・・・）[p]
+*Throb, throb, throb*[p][cm]
+#Akiko
+Ahh... Haaan♥ (Kurohara... I'm going to be impregnated...[p][cm]
+Ahh♥)[p][cm]
+#Kurohara
+... Phew, I did it. It's been a while since I had passionate sex, hehehe.[p][cm]
+#Akiko
+Haa... haa... nnn♥ Haa... haa...[p][cm]
+hah! (Ah... I-I have to do a cleaning blowjob...)[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro999.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「あ・・・た、たっぷりと中出ししていただいてありがとうございました・・・」[p]
-「き、綺麗にさせていただきます・・・ンチュッ♥」[p]
-#黒原
-「ほお、言われる前に掃除フェラとは、すでに基本はできているようだな」[p]
-#亜紀子
-「チュバッ・・・チュムッ・・・ゴクッ♥」[p]
-「チュプッ・・・レロレロレロッ♥」[p]
-#黒原
-「手際が良いのはいいが、作業的にするなよ。感謝の気持ちを込めて舐めろ」[p]
-#亜紀子
-「チュプッ・・・は、はいっ・・・ンチュッ♥」[p]
-（か、感謝の気持ち・・・）[p]
-「レロレロレロッ・・・チュプッ・・・ゴクンッ♥」[p]
-「ピチュッ・・・ペロペロペロ・・・チュバッ♥」[p]
-#黒原
-「よし、そのくらいでよかろう」[p]
-「・・・挨拶っ！」[p]
-#亜紀子
-「は、ハイッッ！」[p]
+#Akiko
+Th-Thank you for cumming inside me so much...[p][cm]
+I-I'll make it clean...[p][cm]
+Nchu♥[p][cm]
+#Kurohara
+Oh, it seems like you're already familiar with the concept of a cleaning blowjob[r]before I even mentioned it.[p][cm]
+#Akiko
+Chubaa... Chumu... Gokuh♥ *Chupu...  Lero lero lero♥*[p][cm]
+#Kurohara
+It's good that you're efficient, but don't make it too mechanical.[p][cm]
+Lick with a sense of gratitude.[p][cm]
+#Akiko
+*Chupu... H-Hai... Nchu♥* (Th-Thankfulness...)[p][cm]
+Lero lero lero... chupu... gulp♥ Pichu...[p][cm]
+Lick lick lick...[p][cm]
+Chubaa♥[p][cm]
+#Kurohara
+Alright, that's enough. ... Greetings![p][cm]
+#Akiko
+Y-Yes![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-9.jpg"  ]
 [tb_cg  id="123"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「ご、御尊棒で教育していただきありがとうございましたっ！」[p]
-#黒原
-「・・・それだけか」[p]
-#亜紀子
-「え・・・あ、あの・・・あ、貴重な子種を授けていただきありがとうございました・・・っ！」[p]
-#黒原
-「貴様、わしが一度射精する間に何度気をやった？」[p]
+#Akiko
+Th-Thank you very much for educating me with your esteemed rod![p][cm]
+#Kurohara
+... Is that all?[p][cm]
+#Akiko
+Uh... um, um... Th-thank you very much for bestowing upon me your precious[r]seed...![p][cm]
+#Kurohara
+How many times have you cum while I was away?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-7.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「え・・・わ、わかりません・・・」[p]
-#黒原
-「６回だ。お前は先ほどのまぐわいで六度気をやった」[p]
-#亜紀子
-「も、もうしわけ・・・」[p]
-#黒原
-「謝る必要はない。それでよいのだ」[p]
-#亜紀子
-「・・・？」[p]
-#黒原
-「生殖行為において女は男の何倍も快楽を得るようになっておるのだ」[p]
-「そしてそれは相手が誰であろうが、無理やりであろうが変わらない」[p]
-「男は気に入った相手との行為でしか興奮しないが女は肉棒ならなんでも受け入れ快感を感じる動物なのだ」[p]
-#亜紀子
-「・・・」[p]
-（そんなはず無いじゃない・・・そんなはず・・・）[p]
-#黒原
-「女は肉欲に溺れ感情に流されやすい動物だ。だから男が管理し教育してやらねばならない」[p]
-「そして女は教育していただくこと、守ってもらっていること、養ってもらっていること、肉の悦びを与えてもらっていること、子供を産み育てる幸せを与えられていることに感謝し、男に仕えるべきなのだ」[p]
-「理解できたか？」[p]
-#亜紀子
-「は、はい・・・っ」[p]
-（無茶苦茶な理論だけど・・・今は話をあわせましょう・・・）[p]
-#黒原
-「フン、今は理解したふりをしているだけだろうが、すぐに身体で理解するようになる」[p]
-#亜紀子
-（なってたまるものですか・・・！）[p]
-#黒原
-「それではそろそろ本格的に教育を始めるとするか」[p]
-#亜紀子
-「えっ・・・ほ、本格的・・・！？」[p]
-「今までのは・・・」[p]
-#黒原
-「まだ何も教育というようなことはしていないだろうが」[p]
-「夜はまだ長い。これからが本番だ」[p]
-#亜紀子
-「そ、そんな・・・」[p]
+#Akiko
+Um... I-I don't know...[p][cm]
+#Kurohara
+Six times. You climaxed six times during our previous encounter.[p][cm]
+#Akiko
+I-I'm sorry...[p][cm]
+#Kurohara
+There's no need to apologize. That's enough.[p][cm]
+#Akiko
+...?[p][cm]
+#Kurohara
+In the act of reproduction, women are able to experience pleasure many times[r]greater than men.[p][cm]
+And that doesn't change no matter who the other person is or how forceful it may[r]be.[p][cm]
+Men only get excited by engaging with someone they like, but women are creatures[r]who can feel pleasure by accepting any meat stick.[p][cm]
+#Akiko
+・・・ (That can't be true... There's no way...[p][cm]
+)[p][cm]
+#Kurohara
+Women are animals who easily indulge in carnal desires and are swayed by[r]emotions.[p][cm]
+That's why men must control and educate them.[p][cm]
+And women should be grateful for being educated, protected, supported, given the[r]pleasure of flesh, and blessed with the happiness of bearing and raising[r]children, and they should serve men.[p][cm]
+Did you understand?[p][cm]
+#Akiko
+Y-Yes... (Even though it's a nonsensical theory...[p][cm]
+for now, let's just go along with the conversation...)[p][cm]
+#Kurohara
+Hmph, for now, you may pretend to understand, but soon you will come to[r]understand it with your body.[p][cm]
+#Akiko
+(There's no way I'll ever become like that...!)[p][cm]
+#Kurohara
+Well then, it's about time to start the education in earnest.[p][cm]
+#Akiko
+Eh... A-Are you serious...!? Until now...[p][cm]
+#Kurohara
+I haven't done any education yet, have I?[p][cm]
+The night is still young. The real show is about to begin.[p][cm]
+#Akiko
+Th-That's...[p][cm]
 
 [_tb_end_text]
 
@@ -424,66 +450,71 @@
 [bg  time="1000"  method="crossfade"  storage="hiro146-1.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「フガ・・・アゥゥ・・・」[p]
-（い、痛い・・・っ！鼻が・・・とれちゃう・・・っ）[p]
-#黒原
-「ククク、なかなか良い面になってるぞ」[p]
-#亜紀子
-「は・・・はりがとうございまふ・・・っ」[p]
-（く・・・こんなみっともない顔を見て楽しんでるのね・・・悔しい・・・っ）[p]
-#黒原
-「それでは問う。お前は何者だ！？」[p]
-#亜紀子
-「は、はひっ・・・愚かな家畜でふっ！」[p]
-#黒原
-「女とはどういう生き物か！？」[p]
-#亜紀子
-「だ・・・男性様に管理していただかないとなにもでひない愚かな動物でふっ！」[p]
-#黒原
-「なぜこんな格好をさせられているか解るか？」[p]
-#亜紀子
-「え・・・あ・・・わ、わかりません・・・っ」[p]
-#黒原
-「自分が家畜であるということを自覚するためだ！」[p]
-#亜紀子
-「は、はひっ！」[p]
-#黒原
-「家畜とは何か！？」[p]
-#亜紀子
-「え・・・あ、人間が利用しゅるために飼育する動物・・・でふっ！」[p]
-#黒原
-「人間とは何か！？」[p]
-#亜紀子
-「え・・・に、人間とは・・・あ・・・哺乳類・・・」[p]
+#Akiko
+*sigh* Ahh... (I-It hurts...! My nose...[p][cm]
+it's going to come off...!)[p][cm]
+#Kurohara
+Hehehe, you're turning out quite nicely.[p][cm]
+#Akiko
+Th... thank you very much... (T-They're enjoying looking at my embarrassing[r]face...[p][cm]
+It's frustrating...)[p][cm]
+#Kurohara
+Now, I ask you. Who are you!?[p][cm]
+#Akiko
+H-Ha... how foolish of you, you livestock![p][cm]
+#Kurohara
+What kind of creature is a woman!?[p][cm]
+#Akiko
+I... am a foolish creature that can't do anything without being managed by a[r]man![p][cm]
+#Kurohara
+Do you understand why you're being made to dress like this?[p][cm]
+#Akiko
+E... Ah... I-I don't know...[p][cm]
+#Kurohara
+It's to make you realize that you are livestock![p][cm]
+#Akiko
+H-Hahi![p][cm]
+#Kurohara
+What is livestock!?[p][cm]
+#Akiko
+E... Ah, it's an animal that humans raise and use...[p][cm]
+fu![p][cm]
+#Kurohara
+What is a human!?[p][cm]
+#Akiko
+E... Ah, a human is... ah... a mammal...[p][cm]
 
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro146-2.jpg"  ]
 [tb_start_text mode=1 ]
-#黒原
-「人間とは男のことだ！」[p]
+#Kurohara
+A human is a man![p][cm]
 #
-バシィッ！[p]
-#亜紀子
-「ヒギィーーーッ！？」[p]
-#黒原
-「復唱！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Higiiii!?[p][cm]
+#Kurohara
+Repeat after me![p][cm]
 #
-バシィッ！[p]
-#亜紀子
-「ハヒィーーッ！に、人間とは男のことでふぅーーーっ！」[p]
-#黒原
-「男性様だろうが！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Hahiiii! A human is... a man, fuuuuu![p][cm]
+#Kurohara
+It's a man, isn't it?![p][cm]
 #
-バシィッ！[p]
-#亜紀子
-「ヒィーーーッ！だ、男性様でふっ・・・人間とは男性様のことでふーーーーっ！」[p]
-#黒原
-「女とは何か！？」[p]
-#亜紀子
-「女は・・・か、家畜でふっ！女は家畜でふぅーーーーっ！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Hiiii! A-a man, huh... Humans are all about men, fuuuu![p][cm]
+#Kurohara
+What is a woman?![p][cm]
+#Akiko
+Women... are... livestock, fuu![p][cm]
+Women are livestock, fuuuuuuuu![p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp=0"  name="qp"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
@@ -492,32 +523,33 @@
 [bg  time="1000"  method="crossfade"  storage="hiro146-1.jpg"  ]
 [jump  storage="end4b.ks"  target="*qend"  cond="f.qp==3"  ]
 [tb_start_text mode=1 ]
-#黒原
-「女は男に！？」[p]
-#亜紀子
-「お、女は男に・・・」[p]
-（も、もう打たれたくない・・・な、なんて答えたらいいの・・・？）[p]
+#Kurohara
+Women to men?![p][cm]
+#Akiko
+Women... to men... (I... I don't want to be hit anymore...[p][cm]
+W-what should I say...?)[p][cm]
 [_tb_end_text]
 
-[glink  color="black"  storage="end4b.ks"  size="20"  target="*a1"  text="劣る生き物"  x="497"  y="312"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="end4b.ks"  size="20"  target="*a2"  text="絶対服従"  x="504"  y="392"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="end4b.ks"  size="20"  text="孕まされる為の存在"  x="459"  y="475"  width=""  height=""  _clickable_img=""  target="*a3"  ]
+[glink  color="black"  storage="end4b.ks"  size="20"  target="*a1"  text="Inferior creature"  x="497"  y="312"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="end4b.ks"  size="20"  target="*a2"  text="Absolute obedience"  x="504"  y="392"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="end4b.ks"  size="20"  text="Existence for impregnation"  x="459"  y="475"  width=""  height=""  _clickable_img=""  target="*a3"  ]
 [s  ]
 *a1
 
 [tb_start_text mode=1 ]
-#亜紀子
-「お、劣る生き物でふっ！」[p]
-#黒原
-「そんなことは当たり前だろ！」[p]
+#Akiko
+Oh, inferior beings, huh![p][cm]
+#Kurohara
+Of course that's obvious![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro146-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-バシィッ！[p]
-#亜紀子
-「ハヒィーーーーッ！も、もうひわけありませんーーーっ！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Hahiiii! I-I'm so sorryyyyyy![p][cm]
 
 [_tb_end_text]
 
@@ -526,18 +558,19 @@
 *a2
 
 [tb_start_text mode=1 ]
-#亜紀子
-「あ・・・ぜ、絶対服従でふっ！！」[p]
-#黒原
-「当たり前だ！」[p]
+#Akiko
+A-Absolute obedience, fuu!![p][cm]
+#Kurohara
+Of course![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro146-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-バシィッ！[p]
-#亜紀子
-「アギィーーーーッ！もっ、もうひわけありませんんーーーーっ！！」[p]
+*Smack![p][cm]
+*[p][cm]
+#Akiko
+Aaaghhh! I-I'm so, so sorryyyyyy!![p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
@@ -545,18 +578,19 @@
 *a3
 
 [tb_start_text mode=1 ]
-#亜紀子
-「は、孕まされる為の存在でふっ！」[p]
-#黒原
-「おこがましいわ！「孕ませていただく」だろうが！」[p]
+#Akiko
+I-I exist to be impregnated, you know![p][cm]
+#Kurohara
+How presumptuous! I will impregnate you, you know![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro146-3.jpg"  ]
 [tb_start_text mode=1 ]
 #
-バシィッ！[p]
-#亜紀子
-「ハグゥーーーーッ！！も、もうひわけございませんーーーーっ！！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Hugooo!! I-I'm so, so sorryyyyyy!![p][cm]
 [_tb_end_text]
 
 [tb_eval  exp="f.qp+=1"  name="qp"  cmd="+="  op="t"  val="1"  ]
@@ -564,15 +598,15 @@
 *qend
 
 [tb_start_text mode=1 ]
-#亜紀子
-（い、一体なんて答えたらいいの・・・！？）[p]
-（女は家畜で・・・男性様に飼育されて・・・飼育していただいて・・・）[p]
-（調教していただいて・・・孕ませていただいて・・・あっ・・・わかった！）[p]
-「か、感謝でふーーーーっ！！」[p]
-#黒原
-「そうだ、感謝だ！」[p]
-「女は男に常に感謝の気持ちを忘れるな！」[p]
-「感謝しろ！」[p]
+#Akiko
+(W-What on earth should I say...!?)[p][cm]
+(Women are livestock... to be raised by men...[p][cm]
+to be taken care of...) (Please train me...[p][cm]
+impregnate me... ah... I understand!)[p][cm]
+Th-thank you so muuuuch!![p][cm]
+#Kurohara
+That's right, it's gratitude! Never forget to always be grateful to men, women![p][cm]
+Show your gratitude![p][cm]
 
 [_tb_end_text]
 
@@ -580,75 +614,79 @@
 [tb_cg  id="146"  ]
 [tb_start_text mode=1 ]
 #
-バシィッ！[p]
-#亜紀子
-「ヒギィーーーッ！！あ、ありがとうございまふぅーーーーっ！！」[p]
-#黒原
-「感謝！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Hiiii!! Th-thank you so muuuuch!![p][cm]
+#Kurohara
+Thank you![p][cm]
 #
-バシィッ！[p]
-#亜紀子
-「教育していただいてありがとうございまふーーーーっ！！」[p]
-#黒原
-「感謝！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Thank you so much for educating meeeee!![p][cm]
+#Kurohara
+Thank you![p][cm]
 #
-バシィッ！[p]
-#亜紀子
-「調教ひていただいてありがとうございまふぅーーーーっ！！」[p]
-#黒原
-「感謝！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Thank you so much for training me, hufffffff!![p][cm]
+#Kurohara
+Thank you![p][cm]
 #
-バシィッ！[p]
-#亜紀子
-「ありがとうございまふぅーーーーっ！！」[p]
+*Bashii![p][cm]
+*[p][cm]
+#Akiko
+Thank you so muuuuuuch!![p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro123-8.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「この愚かなメスを調教していただいてありがとうございましたっ！！」[p]
+#Akiko
+Thank you so much for training this foolish female!![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-9.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「黒原様のご期待にこたえられるよう一日も早く一人前の家畜となるよう努力いたします！」[p]
-「今後ともよろしくお願いいたしますっっ！」[p]
-#黒原
-「ククク、先ほどよりはだいぶ従順になってきたではないか」[p]
-「今ならもっと心の底から謝罪ができるのではないか？ん？」[p]
+#Akiko
+I will do my best to become a fully capable livestock as soon as possible, in[r]order to meet Kurohara-sama's expectations![p][cm]
+I look forward to working with you in the future![p][cm]
+#Kurohara
+Hehehe, you've become much more obedient than before, haven't you?[p][cm]
+Now, can you apologize from the bottom of your heart?[p][cm]
+Hm?[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-8.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「は、ハイッッ！先日は本当に本当にもうしわけありませんでしたーーーーっ！！」[p]
-「愚かな家畜の分際で偉大な黒原様に楯突いた罪は償うとしても償いきれません！」[p]
-「これからは心を入れ替えて一人前の家畜に近づけるように努力いたしますっ！！」[p]
+#Akiko
+Y-Yes! I-I'm truly, truly sorry for the other dayyyyyy!![p][cm]
+Even if I were to atone for the sin of defying the great Kurohara-sama as a[r]foolish livestock, I could never fully repay it![p][cm]
+From now on, I will strive to change my heart and become a fully capable[r]livestock![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro123-9.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「どうかご指導のほどお願いいたしますっっ！！」[p]
-#黒原
-「ククク、ポーズだけとはいえなかなか初日でここまではできんぞ」[p]
-「元々奴隷の素質十分だったようだな」[p]
-#亜紀子
-「あ、ありがとうございますっ！」[p]
-#黒原
-「これからみっちりと奴隷としての心得を叩き込んでやるからな。覚悟しておけよ」[p]
-#亜紀子
-「は、ハイッ！ありがとうございますぅっ！！」[p]
+#Akiko
+Please guide me to the best of your ability!![p][cm]
+#Kurohara
+Hehehe, even though it's just a pose, it's quite impressive to be able to do[r]this on the first day.[p][cm]
+It seems like you had plenty of potential as a slave from the beginning.[p][cm]
+#Akiko
+Th-Thank you very much![p][cm]
+#Kurohara
+From now on, I will thoroughly instill the knowledge of being a slave into you.[p][cm]
+Be prepared for it.[p][cm]
+#Akiko
+Y-Yes! Th-Thank you very much!![p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
@@ -663,146 +701,186 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #
-数週間後―――[p]
+Several weeks later...[p][cm]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="music15.ogg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「みなさん・・・こんばんは・・・っ。に、日曜ジャーナル特別版・・・始まりました・・・っ」[p]
-「今回のテーマは・・・『男尊女卑の素晴らしさ』・・・ですっ」[p]
-「ゲストは・・・教育団体「男根会」の代表であられまして、日々日本の若者の教育に・・・心血を注いでおられます・・・偉大な思想家の・・・黒原剛介様です！」[p]
-「黒原様、今日はようこそお越しくださいました・・・っ！」[p]
+#Akiko
+E-Everyone... good evening... The Sunday Journal special edition...[p][cm]
+has begun... This time's theme is...[p][cm]
+'The Splendor of Male Dominance and Female Subordination'...[p][cm]
+Our guest today is the representative of the educational organization, Men's[r]Phallus Association, who devotes their heart and soul to the education of[r]Japan's youth.[p][cm]
+The great philosopher, Mr. Gousuke Kurohara![p][cm]
+Kurohara-sama, welcome and thank you for coming today...![p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro103-1.jpg"  ]
 [tb_start_text mode=1 ]
-#黒原
-「よろしく」[p]
-#亜紀子
-「そして、男尊女卑の合理性、素晴らしさを長年・・・説いてこられた・・・麻羅川大学教授の倉本峯吉様です・・・っ」[p]
-「本日はお忙しい中、足をお運びいただいて・・・誠にありがとうございます・・・っ！」[p]
-#倉本
-「よろしくお願いします」[p]
-#亜紀子
-「そ、そして・・・最近男尊女卑の・・・す、素晴らしさに目覚め、過去の己を反省し・・・男根会に入会した元御楚々大学教授の真崎リカさんです」[p]
-#リカ
-「ど・・・どうぞ・・・よろしく・・・お、おねがいいたします・・・っ！」[p]
-#亜紀子
-「そ、そして進行役は・・・わたくし千山亜紀子が務めさせていただきます・・・っ」[p]
-「ほ、本日はわたくしたっての希望で・・・こうして椅子として黒原様に座っていただく形で・・・進めさせていただきます・・・っ」[p]
-「御見苦しいところあるかもしれませんが・・・どうぞご了承ください・・・っ」[p]
-#リカ
-「わ、わたくしも・・・自らお願いして・・・倉本先生に座っていただきたくて・・・椅子をさせていただいております・・・っ」[p]
-#黒原
-「いやぁわしはそこまでする必要は無いと断ったんだがね」[p]
-「彼女が前回の暴言を反省してくれたようで、どうしても椅子をさせてくださいというものだから、仕方なく座らせてもらっておるのだ」[p]
-#亜紀子
-「はいっ・・・わたくし・・・前回黒原様とご一緒させていただいた折に・・・愚かにも黒原様の素晴らしいお考えに・・・反論するという失態をしてしまいました・・・っ」[p]
-「あの後・・・黒原様にご薫陶いただき・・・自分の愚かさに気づき・・・その場で男根会への入会を希望して・・・寛大にも認めていただきました」[p]
-「それ以来黒原様に・・・お導きいただいて・・・い、一人前の淑女となれるように努力している・・・ところでございます・・・っ」[p]
-#リカ
-「わたくしも前回・・・黒原様に数々の暴言を吐いてしまいましたが・・・黒原様はこんな頑迷なわたくしにも・・・懇切丁寧に真理を解いてくださって・・・」[p]
-「すっかり心服いたしまして・・・是非とお願いして・・・男根会の末席に加えていただきました・・・ッ」[p]
-#黒原
-「気持ちはうれしいがね、わしは結構体重もあるし重いだろう。無理をしているんじゃないか？」[p]
-#亜紀子
-「いえっ、とんでもありません・・・っ！偉大な黒原様に逆らったせめてもの償いです・・・！どうか椅子をやらせてくださいませっ！」[p]
-#黒原
-「まぁキミがそこまで言うなら座らせてもらうがね」[p]
-「しかしなにも全裸でなくても良かったのじゃないかね？」[p]
-#亜紀子
-「いえっ！わたくしなんの能も無い・・・女子アナウンサーですから・・・せ、せめて裸を見ていただいて視聴者様に・・・た、楽しんでいただければと思いまして・・・っ！」[p]
-#倉本
-「キミまで裸になることはなかろうに」[p]
-#リカ
-「い、いえ・・・っ・・・は、反省の証でございます・・・っ・・・み、みすぼらしい身体ですが・・・どうぞご覧ください・・・っ」[p]
-#黒原
-「まぁ彼女らのように女の中には男尊女卑のことを良く知らずにただ忌み嫌う者も多いわけだが、きちんと教えれば男尊女卑の正しさを理解するようになるのだ」[p]
-「なぜなら女は元来、男に従い、男に尽くすことに幸せを感じるようにできた生き物だからだ」[p]
-「この二人がまさに良い例で、こやつらは少し前までは男尊女卑を馬鹿げたことと頭から否定しておったが、今はこうして男に支配され、男の役に立つことに喜びを見出しておる」[p]
-「そうだな？」[p]
+#Kurohara
+Nice to meet you.[p][cm]
+#Akiko
+And now, I would like to introduce Professor Minekichi Kuramoto from Maragawa[r]University, who has been advocating the rationality and greatness of male[r]superiority and female inferiority for many years...[p][cm]
+Thank you very much for taking the time to come here today...![p][cm]
+#Kuramoto
+Nice to meet you.[p][cm]
+#Akiko
+A-And... recently, I have awakened to the splendor of male dominance and female[r]subordination, reflecting on my past self...[p][cm]
+It is Ms. Rika Mazaki, a former distinguished professor at Gozozu University,[r]who has joined the Men's Phallus Association.[p][cm]
+[p][cm]
+#Rika
+P-Please... nice to meet you...[p][cm]
+I-I humbly ask for your... your cooperation...![p][cm]
+#Akiko
+A-And the host... will be me, Akiko Senzan...[p][cm]
+T-Today, with our own wishes...[p][cm]
+in this way, having Mr. Kurohara sit as a chair...[p][cm]
+I will proceed... I apologize if it is unsightly...[p][cm]
+but please understand...[p][cm]
+#Rika
+I-I also... personally requested...[p][cm]
+for Professor Kuramoto to sit...[p][cm]
+and allowed him to use the chair...[p][cm]
+#Kurohara
+Well, I told them that there was no need to go that far.[p][cm]
+She seemed to have reflected on her previous outburst, and insisted on letting[r]me sit in the chair.[p][cm]
+I had no choice but to oblige.[p][cm]
+#Akiko
+Yes... I... during the previous occasion when I had the honor of being with Mr.[r]Kurohara...[p][cm]
+foolishly made the mistake of opposing his wonderful ideas...[p][cm]
+After that... I received guidance from Mr. Kurohara...[p][cm]
+and realized my foolishness...[p][cm]
+I expressed my desire to join the Men's Phallus Association on the spot...[p][cm]
+and he generously granted me permission.[p][cm]
+Since then, under the guidance of Mr. Kurohara...[p][cm]
+I-I have been striving to become a proper lady...[p][cm]
+by the way...[p][cm]
+#Rika
+Even though I uttered numerous abusive words to Mr. Kurohara during our previous[r]encounter...[p][cm]
+he patiently and kindly explained the truth to someone as stubborn as me...[p][cm]
+I was completely convinced... and I humbly requested...[p][cm]
+to be included as a member of the Men's Phallus Association...[p][cm]
+#Kurohara
+I appreciate the sentiment, but you know, I have quite a bit of weight and I[r]might be heavy.[p][cm]
+Are you sure you're not pushing yourself too hard?[p][cm]
+#Akiko
+No, not at all...! It's just a small way for me to make up for opposing the[r]great Mr. Kurohara...![p][cm]
+Please, let me have the chair![p][cm]
+#Kurohara
+Well, if you insist on saying that much, I'll let you sit.[p][cm]
+However, wouldn't it have been fine even if I wasn't completely naked?[p][cm]
+#Akiko
+No! I have no special talents...[p][cm]
+I'm just a female announcer...[p][cm]
+S-so, at least if you could see me naked...[p][cm]
+I thought the viewers would...[p][cm]
+e-enjoy it...![p][cm]
+#Kuramoto
+There's no need for you to get naked too.[p][cm]
+#Rika
+N-No... Th-this is a symbol of my reflection...[p][cm]
+M-my body may be shabby... but please, take a look...[p][cm]
+#Kurohara
+Well, there are many women who, like them, simply dislike male superiority and[r]female inferiority without understanding it well.[p][cm]
+However, if you teach them properly, they will come to understand the[r]correctness of male superiority and female inferiority.[p][cm]
+Because women are creatures who are naturally designed to find happiness in[r]obeying and serving men.[p][cm]
+These two are a perfect example.[p][cm]
+They used to foolishly deny male superiority and female inferiority, but now[r]they find joy in being dominated by men and serving their needs.[p][cm]
+Is that so?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro103-2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-パンッ[p]
-#亜紀子
-「ハイッ！わたくしは・・・黒原様に出会って・・・初めて女の真の幸せと・・・いうものにっ・・・出会いました・・・っ」[p]
-「こうして椅子として・・・黒原様の身体を支えることに・・・心からの幸せを・・・感じております・・・っ」[p]
+Thud*[p][cm]
+#Akiko
+Yes! I... I met Kurohara-sama...[p][cm]
+and for the first time, I... I discovered the true happiness of being a woman...[p][cm]
+By being a chair... and supporting Kurohara-sama's body...[p][cm]
+I feel true happiness... from the bottom of my heart...[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro103-1.jpg"  ]
 [tb_start_text mode=1 ]
-#倉本
-「いやしかし、わたしもそちらの座り心地の良さそうな椅子がよかったですな」[p]
-「こちらの椅子はどうも不安定で・・・」[p]
-#黒原
-「ハハハ、先生それは申し訳ない。なんせ、そちらの鶏ガラ女ではわしの体重は支えられませんのでな」[p]
-#倉本
-「それはそうですな、ハハハ」[p]
-#リカ
-「も・・・もうしわけ・・・ありません・・・っ」[p]
-#亜紀子
-「そ、それではまずは・・・「フェミニズムの毒性」ということで・・・男尊女卑の観点から現代の・・・に、日本の社会における問題点を探って・・・いきたいと思うのですが」[p]
-「倉本先生、フェミ・・・ニズムはなぜ社会にとって有害・・・なのでしょうか・・・っ？」[p]
-#倉本
-「フェミニズムというものはですね、そもそも江戸時代までの日本にはその概念すらなかったんですね」[p]
-「明治に開国してその思想が欧米文化とともに流入してきたわけですが―――」[p]
-#亜紀子
-（お、重い・・・気を抜いたら潰されちゃう・・・）[p]
-（でも・・・耐えないと・・・感謝よ・・・感謝・・・感謝・・・）[p]
+#Kuramoto
+Well, I must say, that chair over there looks quite comfortable.[p][cm]
+This chair seems to be quite unstable...[p][cm]
+#Kurohara
+Hahaha, I apologize, Sensei. After all, that frail chicken bone of a woman over[r]there wouldn't be able to support my weight.[p][cm]
+#Kuramoto
+That's right, hahaha.[p][cm]
+#Rika
+I... I'm... so sorry...[p][cm]
+#Akiko
+W-Well then, first... I would like to explore the toxicity of feminism...[p][cm]
+from the perspective of male superiority and female inferiority...[p][cm]
+and examine the issues in modern...[p][cm]
+and Japanese society. Kuramoto-sensei, why is feminism...[p][cm]
+considered harmful to society...?[p][cm]
+#Kuramoto
+You see, the concept of feminism didn't even exist in Japan until the Edo[r]period.[p][cm]
+During the Meiji period, with the opening of the country, that ideology began to[r]flow in along with Western culture...[p][cm]
+#Akiko
+(Oh, it's heavy... If I let my guard down, I'll be crushed...)[p][cm]
+(But... I have to endure... Thank goodness...[p][cm]
+Thank goodness... Thank goodness...)[p][cm]
 #
-・・・・・・[p]
-・・・[p]
+・・・・・・ ・・・[p][cm]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [bg  time="1000"  method="crossfade"  storage="hiro103-3.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-（う・・・腕が・・・もう感覚がなくなってきたわ・・・）[p]
-（でも・・・頑張らないと・・・感謝・・・感謝感謝感謝感謝感謝・・・）[p]
-#倉本
-「一度侵され、汚れてしまった思想は簡単には元には戻らない」[p]
-#黒原
-「それを正すことができるのは教育だけなのだ」[p]
-「結局は教育が間違っているから以前のこやつらのような、勘違いした馬鹿フェミ女が生まれるのだ」[p]
-「そうだろう？」[p]
+#Akiko
+(My... my arm... I'm starting to lose feeling...)[p][cm]
+(But... I have to do my best...[p][cm]
+thank goodness... thank goodness, thank goodness, thank goodness...)[p][cm]
+#Kuramoto
+Once a thought has been invaded and tainted, it is not easily restored to its[r]original state.[p][cm]
+#Kurohara
+In the end, it is because education is misguided that foolish feminist women[r]like those from before are born.[p][cm]
+Isn't that right?[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro103-4.jpg"  ]
 [tb_cg  id="103"  ]
 [tb_start_text mode=1 ]
 #
-バシッ！[p]
-#亜紀子
-「ハイッッ！おっしゃるとおりでございますっ！！」[p]
+*Thud![p][cm]
+*[p][cm]
+#Akiko
+Yes! Exactly as you say!![p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro103-3.jpg"  ]
 [tb_start_text mode=1 ]
-#黒原
-「そこで我々男根会は日本の未来のためには教育こそ重要と悟り、健全な若者を育成するために教育機関を立ち上げた」[p]
-「男根会が経営する礼愛学園では道徳教育にも力を入れており、正しい人間を育てるための教育が行われておる」[p]
-#亜紀子
-「そ、そうなんですね。そんな理想の教育を行っている礼愛学園なんですが、その様子をちょっとご覧いただきましょう」[p]
+#Kurohara
+That's why we, the Male Genitalia Association, have realized that education is[r]crucial for the future of Japan, and have established educational institutions[r]to nurture healthy young people.[p][cm]
+At the Reiai Academy, managed by the Male Genitalia Association, we also[r]emphasize moral education and provide education to cultivate proper individuals.[p][cm]
+#Akiko
+I-I see. So that's the kind of ideal education that Reiai Academy provides.[p][cm]
+Shall we take a look at what it's like?[p][cm]
 #
-男根会が経営する礼愛学園の紹介ＶＴＲが流される[p]
-その内容は礼愛学園を礼賛するもので、充実した施設を紹介したり進学実績をデータで示したりした後、生徒や保護者が登場し学園がいかに素晴らしいかを語るというものだった[p]
-#亜紀子
-「ということで・・・礼愛学園は・・・とても素晴らしい・・・学園だということがよく・・・わかりましたねっ。せ、生徒さんも・・・生き生きとしてました・・・しっ」[p]
-「わ、わたしたちも・・・この学園に通っていたら・・・っ・・・こんな無知で・・・程度の低い人間には・・・ならなかったでしょうね・・・」[p]
-#リカ
-「ほっ・・・本当に・・・っ・・・そ、そのとおりだと・・・思います・・・っ」[p]
-#黒原
-「キミらは確かに愚かで間違った道を歩んでおったが、それは日本社会全体が間違った方向に進んでいたことが原因なのだ」[p]
-「これからは日本人一人ひとりが正しい道を選び、日本を強く健全な、未来への希望が溢れる国にしていかなければならない」[p]
-「それではキミがまとめたまえ」[p]
+A promotional video introducing Reiai Academy, managed by the Male Genitalia[r]Association, is played.[p][cm]
+The content praised Reiai Academy, showcasing its excellent facilities and[r]presenting data on academic achievements.[p][cm]
+After that, students and parents appeared, speaking about how wonderful the[r]school is.[p][cm]
+#Akiko
+So... Reiai Academy... is a really wonderful...[p][cm]
+school, I understand that well.[p][cm]
+The students... were also lively...[p][cm]
+I-if we... had attended this academy...[p][cm]
+w-we wouldn't have become... such ignorant and...[p][cm]
+low-level individuals, right?[p][cm]
+#Rika
+H-honestly... y-yes, I think...[p][cm]
+that's exactly right...[p][cm]
+#Kurohara
+You certainly walked a foolish and misguided path, but that was because Japanese[r]society as a whole was heading in the wrong direction.[p][cm]
+From now on, each and every Japanese person must choose the right path and make[r]Japan a strong and healthy country full of hope for the future.[p][cm]
+Now, you summarize it.[p][cm]
 
 
 
@@ -811,35 +889,49 @@
 [bg  time="1000"  method="crossfade"  storage="hiro103-4.jpg"  ]
 [tb_start_text mode=1 ]
 #
-バシッ！[p]
-#亜紀子
-「ハイッッ！こ、今回は・・・男尊女卑がいかに・・・正しいか・・・男尊女卑こそが人間本来の形であるということを・・・お二人にわかりやすく学ばせて・・・いただきましたっ」[p]
-「男性が女の上に立ち・・・しっかりと管理していただく・・・そして女は男性を敬い・・・男性に服従し・・・男性に尽くす・・・そうした理想の社会を作っていかなければ・・・なりません・・・っ」[p]
+*smack![p][cm]
+*[p][cm]
+#Akiko
+Y-Yes! Th-This time... I learned how...[p][cm]
+the superiority of men and the inferiority of women...[p][cm]
+is the true nature of human beings...[p][cm]
+and I was able to teach it to both of you in an easy-to-understand way.[p][cm]
+Men should stand above women...[p][cm]
+firmly manage them... and women should respect men...[p][cm]
+submit to men... and serve men...[p][cm]
+We must create such an ideal society...[p][cm]
+we must...[p][cm]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro103-3.jpg"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「そのためには・・・有害な思想であるフェミニズム・・・男女平等といった毒を・・・社会から排除しっ・・・」[p]
-「きょ、教育によって・・・幼少期から・・・男性に敬意を持ち・・・男性に従順であるべきという・・・当たり前のことを・・・教えることが大事になります・・・っ」[p]
+#Akiko
+In order to achieve that... we must eliminate harmful ideologies such as[r]feminism...[p][cm]
+eradicate the poison of gender equality...[p][cm]
+from society... It is important to teach children from a young age through[r]education...[p][cm]
+to have respect for men... and to understand that it is natural to be obedient[r]to men...[p][cm]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hiro103-4.jpg"  ]
 [tb_start_text mode=1 ]
-#黒原
-「声が震えておる！」[p]
+#Kurohara
+Your voice is trembling![p][cm]
 #
-バシッ！[p]
-#亜紀子
-「申し訳ありませんッ！」[p]
-「い、今この番組を・・・視聴されている女の人にも・・・男尊女卑を否定している人は多いと思います」[p]
-「でも、決して男尊女卑は抑圧ではありません・・・っ！・・・男尊女卑は・・・解放です・・・っ！」[p]
-「女は・・・男性様に服従し、導いていただくことに幸せを感じる生き物ですっ！」[p]
-「皆さんもくだらないプライドを捨てて・・・自分を解放して・・・男性様の足元に跪きましょうっ！」[p]
-「そこに本当の悦び・・・幸せがありますっ！」[p]
-「以上、日曜ジャーナル特別版でした。黒原様、倉本様、今日はありがとうございましたっ！！」[p]
-「それではまた来週・・・」[p]
+*smack![p][cm]
+*[p][cm]
+#Akiko
+I'm sorry! I-I believe that there are many women who are watching this[r]program...[p][cm]
+who deny the concept of male superiority and female inferiority.[p][cm]
+But, male superiority and female inferiority are definitely not oppression...![p][cm]
+... Male superiority and female inferiority...[p][cm]
+are liberation...! Women... feel happiness in submitting to and being guided by[r]men![p][cm]
+Everyone, let go of your meaningless pride...[p][cm]
+free yourself... and kneel at the feet of the gentlemen![p][cm]
+There lies true pleasure... happiness![p][cm]
+That concludes the Sunday Journal special edition.[p][cm]
+Thank you very much, Kurohara-sama and Kuramoto-sama, for today!![p][cm]
+Well then, see you next week...[p][cm]
 #
 [_tb_end_text]
 
@@ -849,26 +941,30 @@
 [tb_cg  id="124"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#亜紀子
-「チュバッ・・・チュムッ・・・レロレロレロレロッ♥」[p]
-「ペロペロペロペロッ・・・チュバッ・・・ゴクンッ♥」[p]
-#黒原
-「どうだ、糞をしたばかりの肛門を舐める気分は？」[p]
-#亜紀子
-「チュバッ・・・ハイッ、黒原様の肛門を綺麗にさせていただくことに幸せを感じておりますっ！レロレロレロレロッ♥」[p]
-#黒原
-「そうか。ペーパーで拭いてないからウンコがいっぱい付いているだろう」[p]
-#亜紀子
-「ペロペロペロッ・・・ハイッ、わたくしをトイレットペーパーとしてお使いくださってありがとうございますっ！チュムッ♥」[p]
-#黒原
-「わしのウンコはどんな味がする？」[p]
-#亜紀子
-「レロレロレロッ・・・ハイッ、とても美味しいですっ♥」[p]
-（黒原様のウンチ・・・美味しい・・・っ♥）[p]
-「チュバッ・・・ペロペロペロッ・・・ゴクンッ♥」[p]
-（あぁっ・・・わたしはなんて幸せなの・・・っ♥）[p]
+#Akiko
+Chu... Chumu... Lero lero lero lero ♥ *Lick lick lick lick...[p][cm]
+chu...[p][cm]
+gulp♥[p][cm]
+#Kurohara
+How does it feel to lick a freshly defecated anus?[p][cm]
+#Akiko
+Chubba... Yes, I feel happy to have the honor of cleaning Kurohara-sama's anus![p][cm]
+Lick lick lick lick...[p][cm]
+♥[p][cm]
+#Kurohara
+I see. Since you didn't wipe with toilet paper, there must be a lot of poop[r]stuck there.[p][cm]
+#Akiko
+Lick lick lick... Yes, thank you for using me as your toilet paper!   Chu♥[p][cm]
+#Kurohara
+What does my poop taste like?[p][cm]
+#Akiko
+Lick lick lick... Yes, it tastes very delicious♥ (Kurohara-sama's poop...[p][cm]
+it's delicious... ♥) *Chubba...[p][cm]
+Lick lick lick... gulp♥* (Ah...[p][cm]
+I'm so happy... ♥)[p][cm]
 #
-エンディングNo.４　「黒原」[p]
+Ending No.[p][cm]
+4 - Kurohara[p][cm]
 [_tb_end_text]
 
 [wait  time="3000"  ]
